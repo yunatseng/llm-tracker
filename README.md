@@ -31,14 +31,6 @@ Visit the live application: [https://your-username.github.io/llm-tracker](https:
 - **Deployment**: GitHub Pages
 - **Automation**: GitHub Actions
 
-## 📊 Data Sources
-
-The application fetches data from OpenRouter APIs:
-
-- GPT Models: `https://openrouter.ai/api/frontend/models/find?arch=GPT`
-- Claude Models: `https://openrouter.ai/api/frontend/models/find?arch=Claude`
-- Gemini Models: `https://openrouter.ai/api/frontend/models/find?arch=Gemini`
-
 ## 🚀 Quick Start
 
 ### Prerequisites
