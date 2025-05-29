@@ -37,57 +37,9 @@ Visit the live application: https://yunatseng.github.io/llm-tracker/
 
 - Node.js 16+ and npm
 
-### Development Setup
-
-#### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/llm-tracker.git
-cd llm-tracker
-```
-
-#### 2. Install dependencies
-
-```bash
-npm install
-```
-
-#### 3. Start development server
-
-```bash
-npm run dev
-```
-
-#### 4. Build for production
-
-```bash
-npm run build
-```
-
-#### 5. Preview production build
-
-```bash
-npm run preview
-```
-
 ## 🚀 GitHub Pages Deployment
 
 This project is configured for automatic deployment to GitHub Pages using GitHub Actions.
-
-### Initial Setup
-
-1. **Fork or create the repository** on GitHub
-
-2. **Enable GitHub Pages**:
-
-   - Go to repository Settings → Pages
-   - Source: Deploy from a branch
-   - Branch: `gh-pages`
-   - Folder: `/ (root)`
-
-3. **Configure repository secrets** (if needed):
-   - The current setup doesn't require API keys
-   - Data is fetched server-side via GitHub Actions
 
 ### Automatic Deployment
 
@@ -196,24 +148,6 @@ Loading state component providing:
 3. Configure color schemes in `Timeline.vue`'s `getArchitectureColor` function
 4. Update documentation
 
-### Customizing Styles
-
-The project uses Tailwind CSS for styling. Customize the theme in `tailwind.config.js`:
-
-```javascript
-module.exports = {
-  theme: {
-    extend: {
-      fontFamily: {
-        sans: ["Inter", "sans-serif"],
-      },
-      colors: {
-        // Add custom colors
-      },
-    },
-  },
-};
-```
 
 ### Data Structure
 
@@ -238,12 +172,6 @@ The application expects model data in the following format:
 }
 ```
 
-## 🌐 Browser Support
-
-- Chrome 90+ (recommended)
-- Firefox 88+
-- Safari 14+
-- Edge 90+
 
 ## 🤝 Contributing
 
@@ -259,7 +187,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- [OpenRouter](https://openrouter.ai/) for providing the model APIs
+- [OpenRouter](https://openrouter.ai/) for providing the model information
 - [Vue.js](https://vuejs.org/) for the amazing framework
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
 - [Vite](https://vitejs.dev/) for the fast build tool
