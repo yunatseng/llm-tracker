@@ -1,0 +1,63 @@
+name: Update LLM Models Data
+
+on:
+  schedule:
+    # 每天早上 8:00 UTC (台灣時間下午 4:00) 執行
+    - cron: "0 8 * * *"
+  workflow_dispatch: # 允許手動觸發
+  push:
+    branches: [main, master]
+
+jobs:
+  update-models:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch LLM models data
+        run: node scripts/fetch-models.js
+
+      - name: Build application
+        run: npm run build
+
+      - name: Prepare deployment files
+        run: ./scripts/prepare-deploy.sh
+
+      - name: Commit updated models.json
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/models.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update LLM models data - $(date)"
+            git push
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
