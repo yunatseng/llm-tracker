@@ -4,7 +4,7 @@ A Vue.js application for tracking the latest LLM models using a timeline interfa
 
 ## 🌐 Live Demo
 
-Visit the live application: [https://your-username.github.io/llm-tracker](https://your-username.github.io/llm-tracker)
+Visit the live application: https://yunatseng.github.io/llm-tracker/
 
 ## ✨ Features
 
