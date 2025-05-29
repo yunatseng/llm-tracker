@@ -16,7 +16,7 @@ const fetchModels = async () => {
   loading.value = true
   error.value = null
   try {
-    const response = await axios.get('/models.json', { timeout: 10000 })
+    const response = await axios.get('./models.json', { timeout: 10000 })
     const data = response.data
     
     if (data.models && Array.isArray(data.models)) {
