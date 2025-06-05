@@ -3,13 +3,13 @@
     {
       "slug": "google/gemma-2b-it",
       "hf_slug": "google/gemma-2b-it",
-      "updated_at": "2025-05-28T19:33:38.916422+00:00",
+      "updated_at": "2025-06-04T18:09:08.012154+00:00",
       "created_at": "2025-05-28T19:33:35.082388+00:00",
       "hf_updated_at": null,
-      "name": "Google: Gemma 2 2B",
-      "short_name": "Gemma 2 2B",
+      "name": "Google: Gemma 1 2B",
+      "short_name": "Gemma 1 2B",
       "author": "google",
-      "description": "Gemma 2 2B by Google is an open model built from the same research and technology used to create the [Gemini models](/models?q=gemini).\n\nGemma models are well-suited for a variety of text generation tasks, including question answering, summarization, and reasoning.\n\nSee the [launch announcement](https://blog.google/technology/developers/google-gemma-2/) for more details. Usage of Gemma is subject to Google's [Gemma Terms of Use](https://ai.google.dev/gemma/terms).",
+      "description": "Gemma 1 2B by Google is an open model built from the same research and technology used to create the [Gemini models](/models?q=gemini).\n\nGemma models are well-suited for a variety of text generation tasks, including question answering, summarization, and reasoning.\n\nUsage of Gemma is subject to Google's [Gemma Terms of Use](https://ai.google.dev/gemma/terms).",
       "model_version_group_id": null,
       "context_length": 8192,
       "input_modalities": [
@@ -40,13 +40,13 @@
         "model": {
           "slug": "google/gemma-2b-it",
           "hf_slug": "google/gemma-2b-it",
-          "updated_at": "2025-05-28T19:33:38.916422+00:00",
+          "updated_at": "2025-06-04T18:09:08.012154+00:00",
           "created_at": "2025-05-28T19:33:35.082388+00:00",
           "hf_updated_at": null,
-          "name": "Google: Gemma 2 2B",
-          "short_name": "Gemma 2 2B",
+          "name": "Google: Gemma 1 2B",
+          "short_name": "Gemma 1 2B",
           "author": "google",
-          "description": "Gemma 2 2B by Google is an open model built from the same research and technology used to create the [Gemini models](/models?q=gemini).\n\nGemma models are well-suited for a variety of text generation tasks, including question answering, summarization, and reasoning.\n\nSee the [launch announcement](https://blog.google/technology/developers/google-gemma-2/) for more details. Usage of Gemma is subject to Google's [Gemma Terms of Use](https://ai.google.dev/gemma/terms).",
+          "description": "Gemma 1 2B by Google is an open model built from the same research and technology used to create the [Gemini models](/models?q=gemini).\n\nGemma models are well-suited for a variety of text generation tasks, including question answering, summarization, and reasoning.\n\nUsage of Gemma is subject to Google's [Gemma Terms of Use](https://ai.google.dev/gemma/terms).",
           "model_version_group_id": null,
           "context_length": 8192,
           "input_modalities": [
@@ -169,8 +169,8 @@
       },
       "architecture": "Gemini",
       "created": "2025-05-28T19:33:35.082388+00:00",
-      "displayName": "Google: Gemma 2 2B",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "displayName": "Google: Gemma 1 2B",
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "anthropic/claude-opus-4",
@@ -337,7 +337,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:27:25.029961+00:00",
       "displayName": "Anthropic: Claude Opus 4",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4",
@@ -512,7 +512,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:12:51.381897+00:00",
       "displayName": "Anthropic: Claude Sonnet 4",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview-05-20",
@@ -698,7 +698,7 @@
       "architecture": "Gemini",
       "created": "2025-05-20T17:25:24.343372+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 05-20",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview-05-20",
@@ -884,7 +884,7 @@
       "architecture": "Gemini",
       "created": "2025-05-20T17:25:24.343372+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 05-20 (thinking)",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "openai/codex-mini",
@@ -1055,7 +1055,7 @@
       "architecture": "GPT",
       "created": "2025-05-16T15:36:01.081688+00:00",
       "displayName": "OpenAI: Codex Mini",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview",
@@ -1246,7 +1246,7 @@
       "architecture": "Gemini",
       "created": "2025-05-07T00:41:53+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview",
@@ -1427,7 +1427,7 @@
       "architecture": "Gemini",
       "created": "2025-04-17T18:31:07.815979+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 04-17",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview",
@@ -1608,7 +1608,7 @@
       "architecture": "Gemini",
       "created": "2025-04-17T18:31:07.815979+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 04-17 (thinking)",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "openai/gpt-4.1",
@@ -1803,7 +1803,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:05+00:00",
       "displayName": "OpenAI: GPT-4.1",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-4.1-mini",
@@ -1998,7 +1998,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:01+00:00",
       "displayName": "OpenAI: GPT-4.1 Mini",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-4.1-nano",
@@ -2176,7 +2176,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:22:49+00:00",
       "displayName": "OpenAI: GPT-4.1 Nano",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "google/gemini-2.5-pro-exp-03-25",
@@ -2352,7 +2352,7 @@
       "architecture": "Gemini",
       "created": "2025-03-25T17:01:39.919989+00:00",
       "displayName": "Google: Gemini 2.5 Pro Experimental",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "openai/o1-pro",
@@ -2516,7 +2516,7 @@
       "architecture": "GPT",
       "created": "2025-03-19T22:26:51.610039+00:00",
       "displayName": "OpenAI: o1-pro",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "google/gemma-3-1b-it",
@@ -2688,7 +2688,7 @@
       "architecture": "Gemini",
       "created": "2025-03-14T14:45:56.842499+00:00",
       "displayName": "Google: Gemma 3 1B (free)",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -2859,7 +2859,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B (free)",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -3033,7 +3033,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -3204,7 +3204,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B (free)",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -3378,7 +3378,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "openai/gpt-4o-mini-search-preview",
@@ -3556,7 +3556,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:22:02.718344+00:00",
       "displayName": "OpenAI: GPT-4o-mini Search Preview",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-4o-search-preview",
@@ -3734,7 +3734,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:19:09.996816+00:00",
       "displayName": "OpenAI: GPT-4o Search Preview",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -3905,7 +3905,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B (free)",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -4079,7 +4079,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "openai/gpt-4.5-preview",
@@ -4254,7 +4254,7 @@
       "architecture": "GPT",
       "created": "2025-02-27T20:23:30.841555+00:00",
       "displayName": "OpenAI: GPT-4.5 (Preview)",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "google/gemini-2.0-flash-lite-001",
@@ -4432,7 +4432,7 @@
       "architecture": "Gemini",
       "created": "2025-02-25T17:56:52.206054+00:00",
       "displayName": "Google: Gemini 2.0 Flash Lite",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -4593,7 +4593,7 @@
         "supports_tool_parameters": true,
         "supports_reasoning": true,
         "supports_multipart": true,
-        "limit_rpm": 500,
+        "limit_rpm": 80,
         "limit_rpd": null,
         "limit_rpm_cf": null,
         "has_completions": false,
@@ -4607,7 +4607,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -4774,7 +4774,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (self-moderated)",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -4941,7 +4941,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (thinking)",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "google/gemini-2.0-flash-001",
@@ -5121,7 +5121,7 @@
       "architecture": "Gemini",
       "created": "2025-02-05T15:30:13.144552+00:00",
       "displayName": "Google: Gemini 2.0 Flash",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "openai/o1",
@@ -5288,7 +5288,7 @@
       "architecture": "GPT",
       "created": "2024-12-17T18:26:39.576639+00:00",
       "displayName": "OpenAI: o1",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "google/gemini-2.0-flash-exp",
@@ -5456,7 +5456,7 @@
       "architecture": "Gemini",
       "created": "2024-12-11T17:18:43.999311+00:00",
       "displayName": "Google: Gemini 2.0 Flash Experimental (free)",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "google/gemini-exp-1121",
@@ -5492,7 +5492,7 @@
       "architecture": "Gemini",
       "created": "2024-11-21T19:18:45.23737+00:00",
       "displayName": "Google: Gemini Experimental 1121",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "openai/gpt-4o-2024-11-20",
@@ -5686,7 +5686,7 @@
       "architecture": "GPT",
       "created": "2024-11-20T18:33:14.771895+00:00",
       "displayName": "OpenAI: GPT-4o (2024-11-20)",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "google/gemini-exp-1114",
@@ -5722,7 +5722,7 @@
       "architecture": "Gemini",
       "created": "2024-11-15T23:52:20.203831+00:00",
       "displayName": "Google: Gemini Experimental 1114",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku",
@@ -5888,7 +5888,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (self-moderated)",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku",
@@ -6054,7 +6054,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku-20241022",
@@ -6220,7 +6220,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (2024-10-22) (self-moderated)",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku-20241022",
@@ -6386,7 +6386,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (2024-10-22)",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -6552,7 +6552,7 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (self-moderated)",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -6718,7 +6718,7 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "google/gemini-flash-1.5-8b",
@@ -6906,7 +6906,7 @@
       "architecture": "Gemini",
       "created": "2024-10-03T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash 8B",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "openai/o1-preview",
@@ -7067,7 +7067,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/o1-preview-2024-09-12",
@@ -7228,7 +7228,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview (2024-09-12)",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/o1-mini",
@@ -7389,7 +7389,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-mini",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/o1-mini-2024-09-12",
@@ -7550,7 +7550,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-mini (2024-09-12)",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "google/gemini-flash-1.5-exp",
@@ -7586,7 +7586,7 @@
       "architecture": "Gemini",
       "created": "2024-08-28T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash Experimental",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "openai/chatgpt-4o-latest",
@@ -7758,7 +7758,7 @@
       "architecture": "GPT",
       "created": "2024-08-14T00:00:00+00:00",
       "displayName": "OpenAI: ChatGPT-4o",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-4o-2024-08-06",
@@ -7945,7 +7945,7 @@
       "architecture": "GPT",
       "created": "2024-08-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-08-06)",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "google/gemini-pro-1.5-exp",
@@ -7981,7 +7981,7 @@
       "architecture": "Gemini",
       "created": "2024-08-01T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro Experimental",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "openai/gpt-4o-mini",
@@ -8175,7 +8175,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-4o-mini-2024-07-18",
@@ -8369,7 +8369,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini (2024-07-18)",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "google/gemma-2-27b-it",
@@ -8540,7 +8540,7 @@
       "architecture": "Gemini",
       "created": "2024-07-13T00:00:00+00:00",
       "displayName": "Google: Gemma 2 27B",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -8709,7 +8709,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B (free)",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -8878,7 +8878,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -9044,7 +9044,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20) (self-moderated)",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -9210,7 +9210,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20)",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "google/gemini-flash-1.5",
@@ -9398,7 +9398,7 @@
       "architecture": "Gemini",
       "created": "2024-05-14T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash ",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -9592,7 +9592,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -9785,7 +9785,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (extended)",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-4o-2024-05-13",
@@ -9978,7 +9978,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-05-13)",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-4-turbo",
@@ -10151,7 +10151,7 @@
       "architecture": "GPT",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "google/gemini-pro-1.5",
@@ -10335,7 +10335,7 @@
       "architecture": "Gemini",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -10501,7 +10501,7 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku (self-moderated)",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -10667,7 +10667,7 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-3-opus",
@@ -10833,7 +10833,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Opus (self-moderated)",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-3-opus",
@@ -10999,7 +10999,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Opus",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-3-sonnet",
@@ -11165,7 +11165,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Sonnet (self-moderated)",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-3-sonnet",
@@ -11331,7 +11331,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Sonnet",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "google/gemma-7b-it",
@@ -11370,7 +11370,7 @@
       "architecture": "Gemini",
       "created": "2024-02-22T00:00:00+00:00",
       "displayName": "Google: Gemma 7B",
-      "fetchedAt": "2025-06-04T08:09:22.406Z"
+      "fetchedAt": "2025-06-05T08:09:12.874Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0613",
@@ -11536,7 +11536,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0613)",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-4-turbo-preview",
@@ -11708,7 +11708,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo Preview",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "anthropic/claude-2.1",
@@ -11868,7 +11868,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.1 (self-moderated)",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-2.1",
@@ -12028,7 +12028,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.1",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-2",
@@ -12188,7 +12188,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2 (self-moderated)",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-2",
@@ -12348,7 +12348,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-instant-1.1",
@@ -12385,7 +12385,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.1",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "openai/gpt-4-vision-preview",
@@ -12421,7 +12421,7 @@
       "architecture": "GPT",
       "created": "2023-11-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Vision",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-1106",
@@ -12593,7 +12593,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k (older v1106)",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-4-1106-preview",
@@ -12765,7 +12765,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo (older v1106)",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-instruct",
@@ -12942,7 +12942,7 @@
       "architecture": "GPT",
       "created": "2023-09-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo Instruct",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-16k",
@@ -13113,7 +13113,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-4-32k",
@@ -13284,7 +13284,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-4-32k-0314",
@@ -13456,7 +13456,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k (older v0314)",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "anthropic/claude-2.0",
@@ -13616,7 +13616,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.0 (self-moderated)",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-2.0",
@@ -13776,7 +13776,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.0",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-instant-1",
@@ -13811,7 +13811,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-1",
@@ -13848,7 +13848,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v1",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-1.2",
@@ -13885,7 +13885,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v1.2",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "anthropic/claude-instant-1.0",
@@ -13922,7 +13922,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.0",
-      "fetchedAt": "2025-06-04T08:09:22.156Z"
+      "fetchedAt": "2025-06-05T08:09:12.614Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo",
@@ -14093,7 +14093,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0125",
@@ -14264,7 +14264,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-4",
@@ -14435,7 +14435,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-4-0314",
@@ -14607,7 +14607,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 (older v0314)",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0301",
@@ -14642,7 +14642,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0301)",
-      "fetchedAt": "2025-06-04T08:09:21.973Z"
+      "fetchedAt": "2025-06-05T08:09:12.481Z"
     }
   ],
   "metadata": {
@@ -14652,7 +14652,7 @@
       "Claude": 30,
       "Gemini": 28
     },
-    "lastUpdated": "2025-06-04T08:09:22.407Z",
+    "lastUpdated": "2025-06-05T08:09:12.875Z",
     "errors": []
   }
 }
