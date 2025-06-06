@@ -1,6 +1,205 @@
 {
   "models": [
     {
+      "slug": "google/gemini-2.5-pro-preview",
+      "hf_slug": "",
+      "updated_at": "2025-06-05T16:09:02.708838+00:00",
+      "created_at": "2025-06-05T15:27:37.538116+00:00",
+      "hf_updated_at": null,
+      "name": "Google: Gemini 2.5 Pro Preview 06-05",
+      "short_name": "Gemini 2.5 Pro Preview 06-05",
+      "author": "google",
+      "description": "Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reasoning, coding, mathematics, and scientific tasks. It employs “thinking” capabilities, enabling it to reason through responses with enhanced accuracy and nuanced context handling. Gemini 2.5 Pro achieves top-tier performance on multiple benchmarks, including first-place positioning on the LMArena leaderboard, reflecting superior human-preference alignment and complex problem-solving abilities.\n",
+      "model_version_group_id": null,
+      "context_length": 1048576,
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Gemini",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "google/gemini-2.5-pro-preview-06-05",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "018040ae-9cda-43cd-8813-d8ca83f6c7ed",
+        "name": "Google | google/gemini-2.5-pro-preview-06-05",
+        "context_length": 1048576,
+        "model": {
+          "slug": "google/gemini-2.5-pro-preview",
+          "hf_slug": "",
+          "updated_at": "2025-06-05T16:09:02.708838+00:00",
+          "created_at": "2025-06-05T15:27:37.538116+00:00",
+          "hf_updated_at": null,
+          "name": "Google: Gemini 2.5 Pro Preview 06-05",
+          "short_name": "Gemini 2.5 Pro Preview 06-05",
+          "author": "google",
+          "description": "Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reasoning, coding, mathematics, and scientific tasks. It employs “thinking” capabilities, enabling it to reason through responses with enhanced accuracy and nuanced context handling. Gemini 2.5 Pro achieves top-tier performance on multiple benchmarks, including first-place positioning on the LMArena leaderboard, reflecting superior human-preference alignment and complex problem-solving abilities.\n",
+          "model_version_group_id": null,
+          "context_length": 1048576,
+          "input_modalities": [
+            "file",
+            "image",
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Gemini",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "google/gemini-2.5-pro-preview-06-05",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "google/gemini-2.5-pro-preview",
+        "model_variant_permaslug": "google/gemini-2.5-pro-preview-06-05",
+        "provider_name": "Google",
+        "provider_info": {
+          "name": "Google",
+          "displayName": "Google Vertex",
+          "slug": "google-vertex",
+          "baseUrl": "url",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://cloud.google.com/terms/",
+            "privacyPolicyURL": "https://cloud.google.com/terms/cloud-privacy-notice",
+            "dataPolicyUrl": "https://cloud.google.com/vertex-ai/generative-ai/docs/learn/abuse-monitoring",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            },
+            "freeModels": {
+              "training": true,
+              "retainsPrompts": true
+            }
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": false,
+          "isAbortable": false,
+          "moderationRequired": false,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.cloud.google.com/products/sdXM79fz1FS6ekNpu37K/history",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/GoogleVertex.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "Google Vertex",
+        "provider_slug": "google-vertex",
+        "provider_model_id": "gemini-2.5-pro-preview-06-05",
+        "quantization": null,
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": false,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 65536,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "tools",
+          "tool_choice",
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "reasoning",
+          "include_reasoning",
+          "structured_outputs",
+          "response_format",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "seed"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "termsOfServiceURL": "https://cloud.google.com/terms/",
+          "privacyPolicyURL": "https://cloud.google.com/terms/cloud-privacy-notice",
+          "dataPolicyUrl": "https://cloud.google.com/vertex-ai/generative-ai/docs/learn/abuse-monitoring",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "freeModels": {
+            "training": true,
+            "retainsPrompts": true
+          },
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.00000125",
+          "completion": "0.00001",
+          "image": "0.00516",
+          "request": "0",
+          "input_cache_read": "0.00000031",
+          "input_cache_write": "0.000001625",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [
+          {
+            "type": "prompt-threshold",
+            "threshold": 200000,
+            "prompt": "0.0000025",
+            "completions": "0.000015",
+            "input_cache_read": "0.000000625",
+            "input_cache_write": "0.000002875"
+          }
+        ],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": true,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": false,
+        "has_chat_completions": true,
+        "features": {
+          "supported_parameters": {
+            "response_format": true,
+            "structured_outputs": true
+          },
+          "supports_document_url": null
+        },
+        "provider_region": "global"
+      },
+      "architecture": "Gemini",
+      "created": "2025-06-05T15:27:37.538116+00:00",
+      "displayName": "Google: Gemini 2.5 Pro Preview 06-05",
+      "fetchedAt": "2025-06-06T08:09:12.379Z"
+    },
+    {
       "slug": "google/gemma-2b-it",
       "hf_slug": "google/gemma-2b-it",
       "updated_at": "2025-06-04T18:09:08.012154+00:00",
@@ -92,8 +291,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.together.ai/",
           "byokEnabled": true,
@@ -170,7 +373,7 @@
       "architecture": "Gemini",
       "created": "2025-05-28T19:33:35.082388+00:00",
       "displayName": "Google: Gemma 1 2B",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.379Z"
     },
     {
       "slug": "anthropic/claude-opus-4",
@@ -260,8 +463,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -337,7 +544,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:27:25.029961+00:00",
       "displayName": "Anthropic: Claude Opus 4",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4",
@@ -431,8 +638,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.cloud.google.com/products/sdXM79fz1FS6ekNpu37K/history",
           "byokEnabled": true,
@@ -512,7 +723,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:12:51.381897+00:00",
       "displayName": "Anthropic: Claude Sonnet 4",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview-05-20",
@@ -608,8 +819,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.cloud.google.com/products/sdXM79fz1FS6ekNpu37K/history",
           "byokEnabled": true,
@@ -698,7 +913,7 @@
       "architecture": "Gemini",
       "created": "2025-05-20T17:25:24.343372+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 05-20",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview-05-20",
@@ -794,8 +1009,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.cloud.google.com/products/sdXM79fz1FS6ekNpu37K/history",
           "byokEnabled": true,
@@ -884,7 +1103,7 @@
       "architecture": "Gemini",
       "created": "2025-05-20T17:25:24.343372+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 05-20 (thinking)",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "openai/codex-mini",
@@ -975,14 +1194,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -1055,16 +1277,16 @@
       "architecture": "GPT",
       "created": "2025-05-16T15:36:01.081688+00:00",
       "displayName": "OpenAI: Codex Mini",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
-      "slug": "google/gemini-2.5-pro-preview",
+      "slug": "google/gemini-2.5-pro-preview-05-06",
       "hf_slug": "",
-      "updated_at": "2025-05-07T00:41:53.500835+00:00",
+      "updated_at": "2025-06-05T16:04:49.578522+00:00",
       "created_at": "2025-05-07T00:41:53+00:00",
       "hf_updated_at": null,
-      "name": "Google: Gemini 2.5 Pro Preview",
-      "short_name": "Gemini 2.5 Pro Preview",
+      "name": "Google: Gemini 2.5 Pro Preview 05-06",
+      "short_name": "Gemini 2.5 Pro Preview 05-06",
       "author": "google",
       "description": "Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reasoning, coding, mathematics, and scientific tasks. It employs “thinking” capabilities, enabling it to reason through responses with enhanced accuracy and nuanced context handling. Gemini 2.5 Pro achieves top-tier performance on multiple benchmarks, including first-place positioning on the LMArena leaderboard, reflecting superior human-preference alignment and complex problem-solving abilities.",
       "model_version_group_id": null,
@@ -1093,13 +1315,13 @@
         "name": "Google | google/gemini-2.5-pro-preview-03-25",
         "context_length": 1048576,
         "model": {
-          "slug": "google/gemini-2.5-pro-preview",
+          "slug": "google/gemini-2.5-pro-preview-05-06",
           "hf_slug": "",
-          "updated_at": "2025-05-07T00:41:53.500835+00:00",
+          "updated_at": "2025-06-05T16:04:49.578522+00:00",
           "created_at": "2025-05-07T00:41:53+00:00",
           "hf_updated_at": null,
-          "name": "Google: Gemini 2.5 Pro Preview",
-          "short_name": "Gemini 2.5 Pro Preview",
+          "name": "Google: Gemini 2.5 Pro Preview 05-06",
+          "short_name": "Gemini 2.5 Pro Preview 05-06",
           "author": "google",
           "description": "Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reasoning, coding, mathematics, and scientific tasks. It employs “thinking” capabilities, enabling it to reason through responses with enhanced accuracy and nuanced context handling. Gemini 2.5 Pro achieves top-tier performance on multiple benchmarks, including first-place positioning on the LMArena leaderboard, reflecting superior human-preference alignment and complex problem-solving abilities.",
           "model_version_group_id": null,
@@ -1124,7 +1346,7 @@
           "reasoning_config": null,
           "features": {}
         },
-        "model_variant_slug": "google/gemini-2.5-pro-preview",
+        "model_variant_slug": "google/gemini-2.5-pro-preview-05-06",
         "model_variant_permaslug": "google/gemini-2.5-pro-preview-03-25",
         "provider_name": "Google",
         "provider_info": {
@@ -1151,8 +1373,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.cloud.google.com/products/sdXM79fz1FS6ekNpu37K/history",
           "byokEnabled": true,
@@ -1245,8 +1471,8 @@
       },
       "architecture": "Gemini",
       "created": "2025-05-07T00:41:53+00:00",
-      "displayName": "Google: Gemini 2.5 Pro Preview",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "displayName": "Google: Gemini 2.5 Pro Preview 05-06",
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview",
@@ -1342,8 +1568,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.cloud.google.com/products/sdXM79fz1FS6ekNpu37K/history",
           "byokEnabled": true,
@@ -1427,7 +1657,7 @@
       "architecture": "Gemini",
       "created": "2025-04-17T18:31:07.815979+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 04-17",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview",
@@ -1523,8 +1753,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.cloud.google.com/products/sdXM79fz1FS6ekNpu37K/history",
           "byokEnabled": true,
@@ -1608,7 +1842,7 @@
       "architecture": "Gemini",
       "created": "2025-04-17T18:31:07.815979+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 04-17 (thinking)",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "openai/gpt-4.1",
@@ -1701,14 +1935,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -1803,7 +2040,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:05+00:00",
       "displayName": "OpenAI: GPT-4.1",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-4.1-mini",
@@ -1896,14 +2133,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -1998,7 +2238,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:01+00:00",
       "displayName": "OpenAI: GPT-4.1 Mini",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-4.1-nano",
@@ -2091,14 +2331,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -2176,7 +2419,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:22:49+00:00",
       "displayName": "OpenAI: GPT-4.1 Nano",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "google/gemini-2.5-pro-exp-03-25",
@@ -2272,8 +2515,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.cloud.google.com/products/sdXM79fz1FS6ekNpu37K/history",
           "byokEnabled": true,
@@ -2352,7 +2599,7 @@
       "architecture": "Gemini",
       "created": "2025-03-25T17:01:39.919989+00:00",
       "displayName": "Google: Gemini 2.5 Pro Experimental",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "openai/o1-pro",
@@ -2443,14 +2690,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -2516,7 +2766,7 @@
       "architecture": "GPT",
       "created": "2025-03-19T22:26:51.610039+00:00",
       "displayName": "OpenAI: o1-pro",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "google/gemma-3-1b-it",
@@ -2611,8 +2861,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": null,
           "byokEnabled": true,
@@ -2688,7 +2942,7 @@
       "architecture": "Gemini",
       "created": "2025-03-14T14:45:56.842499+00:00",
       "displayName": "Google: Gemma 3 1B (free)",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -2783,8 +3037,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": null,
           "byokEnabled": true,
@@ -2859,7 +3117,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B (free)",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -2956,8 +3214,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.deepinfra.com/",
           "byokEnabled": true,
@@ -3033,7 +3295,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -3128,8 +3390,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": null,
           "byokEnabled": true,
@@ -3204,7 +3470,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B (free)",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -3301,8 +3567,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.deepinfra.com/",
           "byokEnabled": true,
@@ -3378,7 +3648,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "openai/gpt-4o-mini-search-preview",
@@ -3467,14 +3737,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -3556,7 +3829,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:22:02.718344+00:00",
       "displayName": "OpenAI: GPT-4o-mini Search Preview",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-4o-search-preview",
@@ -3645,14 +3918,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -3734,7 +4010,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:19:09.996816+00:00",
       "displayName": "OpenAI: GPT-4o Search Preview",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -3829,8 +4105,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": null,
           "byokEnabled": true,
@@ -3905,7 +4185,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B (free)",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -4002,8 +4282,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.deepinfra.com/",
           "byokEnabled": true,
@@ -4079,7 +4363,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "openai/gpt-4.5-preview",
@@ -4170,14 +4454,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -4254,7 +4541,7 @@
       "architecture": "GPT",
       "created": "2025-02-27T20:23:30.841555+00:00",
       "displayName": "OpenAI: GPT-4.5 (Preview)",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "google/gemini-2.0-flash-lite-001",
@@ -4350,8 +4637,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": null,
           "byokEnabled": true,
@@ -4432,7 +4723,7 @@
       "architecture": "Gemini",
       "created": "2025-02-25T17:56:52.206054+00:00",
       "displayName": "Google: Gemini 2.0 Flash Lite",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -4526,8 +4817,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.cloud.google.com/products/sdXM79fz1FS6ekNpu37K/history",
           "byokEnabled": true,
@@ -4607,7 +4902,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -4697,8 +4992,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -4774,7 +5073,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (self-moderated)",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -4864,8 +5163,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -4941,7 +5244,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (thinking)",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "google/gemini-2.0-flash-001",
@@ -5037,8 +5340,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": null,
           "byokEnabled": true,
@@ -5121,7 +5428,7 @@
       "architecture": "Gemini",
       "created": "2025-02-05T15:30:13.144552+00:00",
       "displayName": "Google: Gemini 2.0 Flash",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "openai/o1",
@@ -5212,14 +5519,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -5288,7 +5598,7 @@
       "architecture": "GPT",
       "created": "2024-12-17T18:26:39.576639+00:00",
       "displayName": "OpenAI: o1",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "google/gemini-2.0-flash-exp",
@@ -5382,8 +5692,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.cloud.google.com/products/sdXM79fz1FS6ekNpu37K/history",
           "byokEnabled": true,
@@ -5456,7 +5770,7 @@
       "architecture": "Gemini",
       "created": "2024-12-11T17:18:43.999311+00:00",
       "displayName": "Google: Gemini 2.0 Flash Experimental (free)",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "google/gemini-exp-1121",
@@ -5492,7 +5806,7 @@
       "architecture": "Gemini",
       "created": "2024-11-21T19:18:45.23737+00:00",
       "displayName": "Google: Gemini Experimental 1121",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "openai/gpt-4o-2024-11-20",
@@ -5585,14 +5899,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -5686,7 +6003,7 @@
       "architecture": "GPT",
       "created": "2024-11-20T18:33:14.771895+00:00",
       "displayName": "OpenAI: GPT-4o (2024-11-20)",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "google/gemini-exp-1114",
@@ -5722,7 +6039,7 @@
       "architecture": "Gemini",
       "created": "2024-11-15T23:52:20.203831+00:00",
       "displayName": "Google: Gemini Experimental 1114",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku",
@@ -5812,8 +6129,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -5888,7 +6209,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (self-moderated)",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku",
@@ -5978,8 +6299,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -6054,7 +6379,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku-20241022",
@@ -6144,8 +6469,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -6220,7 +6549,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (2024-10-22) (self-moderated)",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku-20241022",
@@ -6310,8 +6639,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -6386,7 +6719,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (2024-10-22)",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -6476,8 +6809,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -6552,7 +6889,7 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (self-moderated)",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -6642,8 +6979,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -6718,7 +7059,7 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "google/gemini-flash-1.5-8b",
@@ -6812,8 +7153,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": null,
           "byokEnabled": true,
@@ -6906,7 +7251,7 @@
       "architecture": "Gemini",
       "created": "2024-10-03T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash 8B",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "openai/o1-preview",
@@ -6995,14 +7340,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -7067,7 +7415,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/o1-preview-2024-09-12",
@@ -7156,14 +7504,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -7228,7 +7579,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview (2024-09-12)",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/o1-mini",
@@ -7317,14 +7668,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -7389,7 +7743,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-mini",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/o1-mini-2024-09-12",
@@ -7478,14 +7832,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -7550,7 +7907,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-mini (2024-09-12)",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "google/gemini-flash-1.5-exp",
@@ -7586,7 +7943,7 @@
       "architecture": "Gemini",
       "created": "2024-08-28T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash Experimental",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "openai/chatgpt-4o-latest",
@@ -7677,14 +8034,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -7758,7 +8118,7 @@
       "architecture": "GPT",
       "created": "2024-08-14T00:00:00+00:00",
       "displayName": "OpenAI: ChatGPT-4o",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-4o-2024-08-06",
@@ -7849,8 +8209,12 @@
           "hasCompletions": false,
           "isAbortable": true,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": false,
           "statusPageUrl": "https://status.azure.com/",
           "byokEnabled": true,
@@ -7905,6 +8269,7 @@
           "completion": "0.00001",
           "image": "0.003613",
           "request": "0",
+          "input_cache_read": "0.00000125",
           "web_search": "0",
           "internal_reasoning": "0",
           "discount": 0
@@ -7945,7 +8310,7 @@
       "architecture": "GPT",
       "created": "2024-08-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-08-06)",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "google/gemini-pro-1.5-exp",
@@ -7981,7 +8346,7 @@
       "architecture": "Gemini",
       "created": "2024-08-01T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro Experimental",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "openai/gpt-4o-mini",
@@ -8074,14 +8439,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -8175,7 +8543,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-4o-mini-2024-07-18",
@@ -8268,14 +8636,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -8369,7 +8740,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini (2024-07-18)",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "google/gemma-2-27b-it",
@@ -8463,8 +8834,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.together.ai/",
           "byokEnabled": true,
@@ -8540,7 +8915,7 @@
       "architecture": "Gemini",
       "created": "2024-07-13T00:00:00+00:00",
       "displayName": "Google: Gemma 2 27B",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -8633,8 +9008,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": null,
           "byokEnabled": true,
@@ -8709,7 +9088,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B (free)",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -8803,8 +9182,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.groq.com/",
           "byokEnabled": true,
@@ -8878,7 +9261,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -8968,8 +9351,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -9044,7 +9431,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20) (self-moderated)",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -9134,8 +9521,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -9210,7 +9601,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20)",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "google/gemini-flash-1.5",
@@ -9304,8 +9695,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.cloud.google.com/products/sdXM79fz1FS6ekNpu37K/history",
           "byokEnabled": true,
@@ -9398,7 +9793,7 @@
       "architecture": "Gemini",
       "created": "2024-05-14T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash ",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -9491,14 +9886,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -9592,7 +9990,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -9685,14 +10083,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -9785,7 +10186,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (extended)",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-4o-2024-05-13",
@@ -9878,14 +10279,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -9978,7 +10382,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-05-13)",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-4-turbo",
@@ -10069,14 +10473,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -10151,7 +10558,7 @@
       "architecture": "GPT",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "google/gemini-pro-1.5",
@@ -10245,8 +10652,12 @@
           "hasCompletions": false,
           "isAbortable": false,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.cloud.google.com/products/sdXM79fz1FS6ekNpu37K/history",
           "byokEnabled": true,
@@ -10335,7 +10746,7 @@
       "architecture": "Gemini",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -10425,8 +10836,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -10501,7 +10916,7 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku (self-moderated)",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -10591,8 +11006,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -10667,7 +11086,7 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-3-opus",
@@ -10757,8 +11176,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -10833,7 +11256,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Opus (self-moderated)",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-3-opus",
@@ -10923,8 +11346,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -10999,7 +11426,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Opus",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-3-sonnet",
@@ -11089,8 +11516,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -11165,7 +11596,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Sonnet (self-moderated)",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-3-sonnet",
@@ -11255,8 +11686,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -11331,7 +11766,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Sonnet",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "google/gemma-7b-it",
@@ -11370,7 +11805,7 @@
       "architecture": "Gemini",
       "created": "2024-02-22T00:00:00+00:00",
       "displayName": "Google: Gemma 7B",
-      "fetchedAt": "2025-06-05T08:09:12.874Z"
+      "fetchedAt": "2025-06-06T08:09:12.380Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0613",
@@ -11457,8 +11892,12 @@
           "hasCompletions": false,
           "isAbortable": true,
           "moderationRequired": false,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": false,
           "statusPageUrl": "https://status.azure.com/",
           "byokEnabled": true,
@@ -11536,7 +11975,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0613)",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-4-turbo-preview",
@@ -11625,14 +12064,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -11708,7 +12150,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo Preview",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "anthropic/claude-2.1",
@@ -11796,8 +12238,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -11868,7 +12314,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.1 (self-moderated)",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-2.1",
@@ -11956,8 +12402,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -12028,7 +12478,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.1",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-2",
@@ -12116,8 +12566,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -12188,7 +12642,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2 (self-moderated)",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-2",
@@ -12276,8 +12730,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -12348,7 +12806,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-instant-1.1",
@@ -12385,7 +12843,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.1",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "openai/gpt-4-vision-preview",
@@ -12421,7 +12879,7 @@
       "architecture": "GPT",
       "created": "2023-11-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Vision",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.154Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-1106",
@@ -12510,14 +12968,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -12593,7 +13054,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k (older v1106)",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-4-1106-preview",
@@ -12682,14 +13143,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -12765,7 +13229,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo (older v1106)",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-instruct",
@@ -12862,14 +13326,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -12942,7 +13409,7 @@
       "architecture": "GPT",
       "created": "2023-09-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo Instruct",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-16k",
@@ -13031,14 +13498,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -13113,7 +13583,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-4-32k",
@@ -13144,147 +13614,11 @@
       "permaslug": "openai/gpt-4-32k",
       "reasoning_config": null,
       "features": {},
-      "endpoint": {
-        "id": "806209b6-a8c5-4a81-a5d7-057a6678d809",
-        "name": "OpenAI | openai/gpt-4-32k",
-        "context_length": 32767,
-        "model": {
-          "slug": "openai/gpt-4-32k",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2023-08-28T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "OpenAI: GPT-4 32k",
-          "short_name": "GPT-4 32k",
-          "author": "openai",
-          "description": "GPT-4-32k is an extended version of GPT-4, with the same capabilities but quadrupled context length, allowing for processing up to 40 pages of text in a single pass. This is particularly beneficial for handling longer content like interacting with PDFs without an external vector database. Training data: up to Sep 2021.",
-          "model_version_group_id": null,
-          "context_length": 32767,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "GPT",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "openai/gpt-4-32k",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "openai/gpt-4-32k",
-        "model_variant_permaslug": "openai/gpt-4-32k",
-        "provider_name": "OpenAI",
-        "provider_info": {
-          "name": "OpenAI",
-          "displayName": "OpenAI",
-          "slug": "openai",
-          "baseUrl": "url",
-          "dataPolicy": {
-            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-            "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [],
-          "owners": [],
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.openai.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "OpenAI",
-        "provider_slug": "openai",
-        "provider_model_id": "gpt-4-32k",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "stop",
-          "frequency_penalty",
-          "presence_penalty",
-          "seed",
-          "logit_bias",
-          "logprobs",
-          "top_logprobs",
-          "response_format"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-          "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.00006",
-          "completion": "0.00012",
-          "image": "0",
-          "request": "0",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_document_url": null
-        },
-        "provider_region": null
-      },
+      "endpoint": null,
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.154Z"
     },
     {
       "slug": "openai/gpt-4-32k-0314",
@@ -13315,148 +13649,11 @@
       "permaslug": "openai/gpt-4-32k-0314",
       "reasoning_config": null,
       "features": {},
-      "endpoint": {
-        "id": "9a55e9d7-3bc9-4498-8547-f8ae149a261b",
-        "name": "OpenAI | openai/gpt-4-32k-0314",
-        "context_length": 32767,
-        "model": {
-          "slug": "openai/gpt-4-32k-0314",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2023-08-28T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "OpenAI: GPT-4 32k (older v0314)",
-          "short_name": "GPT-4 32k (older v0314)",
-          "author": "openai",
-          "description": "GPT-4-32k is an extended version of GPT-4, with the same capabilities but quadrupled context length, allowing for processing up to 40 pages of text in a single pass. This is particularly beneficial for handling longer content like interacting with PDFs without an external vector database. Training data: up to Sep 2021.",
-          "model_version_group_id": null,
-          "context_length": 32767,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "GPT",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "openai/gpt-4-32k-0314",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "openai/gpt-4-32k-0314",
-        "model_variant_permaslug": "openai/gpt-4-32k-0314",
-        "provider_name": "OpenAI",
-        "provider_info": {
-          "name": "OpenAI",
-          "displayName": "OpenAI",
-          "slug": "openai",
-          "baseUrl": "url",
-          "dataPolicy": {
-            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-            "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [],
-          "owners": [],
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.openai.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "OpenAI",
-        "provider_slug": "openai",
-        "provider_model_id": "gpt-4-32k-0314",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "stop",
-          "frequency_penalty",
-          "presence_penalty",
-          "seed",
-          "logit_bias",
-          "logprobs",
-          "top_logprobs",
-          "response_format",
-          "structured_outputs"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-          "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.00006",
-          "completion": "0.00012",
-          "image": "0",
-          "request": "0",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_document_url": null
-        },
-        "provider_region": null
-      },
+      "endpoint": null,
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k (older v0314)",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.154Z"
     },
     {
       "slug": "anthropic/claude-2.0",
@@ -13544,8 +13741,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -13616,7 +13817,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.0 (self-moderated)",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-2.0",
@@ -13704,8 +13905,12 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.anthropic.com/",
           "byokEnabled": true,
@@ -13776,7 +13981,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.0",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-instant-1",
@@ -13811,7 +14016,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-1",
@@ -13848,7 +14053,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v1",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-1.2",
@@ -13885,7 +14090,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v1.2",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "anthropic/claude-instant-1.0",
@@ -13922,7 +14127,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.0",
-      "fetchedAt": "2025-06-05T08:09:12.614Z"
+      "fetchedAt": "2025-06-06T08:09:12.237Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo",
@@ -14011,14 +14216,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -14093,7 +14301,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0125",
@@ -14182,14 +14390,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -14264,7 +14475,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.153Z"
     },
     {
       "slug": "openai/gpt-4",
@@ -14353,14 +14564,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -14435,7 +14649,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.154Z"
     },
     {
       "slug": "openai/gpt-4-0314",
@@ -14524,14 +14738,17 @@
           "hasCompletions": true,
           "isAbortable": true,
           "moderationRequired": true,
-          "editors": [],
-          "owners": [],
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
           "isMultipartSupported": true,
           "statusPageUrl": "https://status.openai.com/",
           "byokEnabled": true,
           "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "invertRequired": true
+            "url": "/images/icons/OpenAI.svg"
           },
           "ignoredProviderModels": []
         },
@@ -14607,7 +14824,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 (older v0314)",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.154Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0301",
@@ -14642,17 +14859,17 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0301)",
-      "fetchedAt": "2025-06-05T08:09:12.481Z"
+      "fetchedAt": "2025-06-06T08:09:12.154Z"
     }
   ],
   "metadata": {
-    "totalModels": 94,
+    "totalModels": 95,
     "architectures": {
       "GPT": 36,
       "Claude": 30,
-      "Gemini": 28
+      "Gemini": 29
     },
-    "lastUpdated": "2025-06-05T08:09:12.875Z",
+    "lastUpdated": "2025-06-06T08:09:12.381Z",
     "errors": []
   }
 }
