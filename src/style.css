@@ -9,41 +9,66 @@
     sans-serif;
   line-height: 1.5;
   font-weight: 400;
-  color-scheme: light dark;
+  /* color-scheme removed as Quasar handles it */
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* Default body styles, Quasar's body--light/body--dark will override as needed */
 body {
   margin: 0;
   min-height: 100vh;
-  background-color: #f9fafb;
+  /* background-color will be set by Quasar's theme, e.g. from $light-page or $dark-page */
 }
 
-/* Custom scrollbar */
-::-webkit-scrollbar {
-  width: 6px;
+/* Light mode specific styles */
+body.body--light {
+  color: #213547; /* Default text color for light mode */
+  background-color: #ffffff; /* Default background for light mode */
 }
 
-::-webkit-scrollbar-track {
+body.body--light a:hover {
+  color: #747bff;
+}
+
+/* Custom scrollbar - Light mode */
+body.body--light ::-webkit-scrollbar-track {
   background: #f1f1f1;
 }
-
-::-webkit-scrollbar-thumb {
+body.body--light ::-webkit-scrollbar-thumb {
   background: #c1c1c1;
   border-radius: 3px;
 }
-
-::-webkit-scrollbar-thumb:hover {
+body.body--light ::-webkit-scrollbar-thumb:hover {
   background: #a8a8a8;
 }
+
+/* Custom scrollbar - Dark mode */
+body.body--dark ::-webkit-scrollbar-track {
+  background: #2d3748; /* Darker scrollbar track */
+}
+body.body--dark ::-webkit-scrollbar-thumb {
+  background: #4a5568; /* Darker scrollbar thumb */
+  border-radius: 3px;
+}
+body.body--dark ::-webkit-scrollbar-thumb:hover {
+  background: #718096; /* Even darker scrollbar thumb on hover */
+}
+
+/* General button focus style, Tailwind/Quasar might handle this too */
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+/*
+  Generic .card class for padding.
+  Background and text colors will be handled by Quasar's .q-card component
+  and the overrides in quasar-variables.sass for .body--dark .q-card.
+  Ensure .q-card in light mode has appropriate text color (e.g. inherits from body.body--light).
+*/
 .card {
   padding: 2em;
 }
@@ -52,58 +77,37 @@ button:focus-visible {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  text-align: center; /* This might be too general, consider scoping if it causes issues */
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+/*
+  The @media (prefers-color-scheme: light) block and .dark body styles are removed.
+  Quasar's .body--light and .body--dark classes, along with quasar-variables.sass,
+  will now manage the theming.
+  The button and link styles previously under .dark are also removed,
+  relying on Quasar's component styling and the SASS variables.
+  Ensure text color in q-card for light mode is legible.
+  The `color: #213547;` from the old :root under prefers-color-scheme:light
+  is now applied to `body.body--light`.
+*/
+
+/*
+  Ensure links in dark mode have good contrast.
+  This is already handled in quasar-variables.sass by setting --q-text-color-primary, etc.
+  If specific 'a' tag styling is needed for dark mode:
+*/
+body.body--dark a {
+  /* color: #63b3ed; // Example: Quasar's primary color for dark mode might be better */
 }
 
-/* Dark mode styles */
-.dark body {
-  background-color: #1a202c; /* A common dark background color */
-  color: #e2e8f0; /* A common light text color for dark mode */
+body.body--dark a:hover {
+  /* color: #90cdf4; // Example */
 }
 
-.dark ::-webkit-scrollbar-track {
-  background: #2d3748; /* Darker scrollbar track */
-}
-
-.dark ::-webkit-scrollbar-thumb {
-  background: #4a5568; /* Darker scrollbar thumb */
-}
-
-.dark ::-webkit-scrollbar-thumb:hover {
-  background: #718096; /* Even darker scrollbar thumb on hover */
-}
-
-.dark button {
-  background-color: #2d3748; /* Darker button background */
-  color: #e2e8f0; /* Light text for buttons in dark mode */
-}
-
-.dark button:hover {
-  background-color: #4a5568; /* Slightly lighter button background on hover */
-}
-
-.dark .card {
-  background-color: #2d3748; /* Dark card background */
-  color: #e2e8f0; /* Light text for cards in dark mode */
-}
-
-.dark a {
-  color: #63b3ed; /* A lighter blue for links in dark mode */
-}
-
-.dark a:hover {
-  color: #90cdf4; /* Even lighter blue for links on hover in dark mode */
-}
+/*
+  The default button background and text color for light/dark modes
+  should now be primarily handled by Quasar's button component styling
+  and the theme variables in quasar-variables.sass.
+  If specific overrides for non-Quasar buttons are needed, they can be added here,
+  scoped to body--light and body--dark.
+*/
