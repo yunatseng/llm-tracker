@@ -1,5 +1,6 @@
 <script setup>
 import { ref, onMounted, computed } from 'vue'
+import { useQuasar } from 'quasar' // Import useQuasar
 import axios from 'axios'
 import FilterPanel from './components/FilterPanel.vue'
 import Timeline from './components/Timeline.vue'
@@ -10,26 +11,30 @@ const error = ref(null)
 const selectedArchitecture = ref('all')
 const searchQuery = ref('')
 const sortBy = ref('created')
-const isDarkMode = ref(false)
 
-// Function to toggle dark mode
+const $q = useQuasar() // Get Quasar instance
+
+// Use computed property for isDarkMode based on Quasar's dark mode state
+const isDarkMode = computed(() => $q.dark.isActive)
+
+// Function to toggle dark mode using Quasar
 const toggleDarkMode = () => {
-  isDarkMode.value = !isDarkMode.value
-  if (isDarkMode.value) {
-    document.documentElement.classList.add('dark')
-    localStorage.setItem('darkMode', 'enabled')
-  } else {
-    document.documentElement.classList.remove('dark')
-    localStorage.setItem('darkMode', 'disabled')
-  }
+  $q.dark.toggle()
 }
 
-// Check for saved dark mode preference
+// Check for saved dark mode preference (Quasar handles this automatically with localStorage)
+// We can set an initial value if not already set by Quasar, or rely on 'auto'
 onMounted(() => {
-  if (localStorage.getItem('darkMode') === 'enabled') {
-    isDarkMode.value = true
-    document.documentElement.classList.add('dark')
-  }
+  // Quasar's Dark plugin can be set to 'auto' to respect OS preference by default.
+  // If we want to force it based on previous manual localStorage, we could do:
+  // const savedMode = localStorage.getItem('darkMode');
+  // if (savedMode === 'enabled') {
+  //   $q.dark.set(true);
+  // } else if (savedMode === 'disabled') {
+  //   $q.dark.set(false);
+  // }
+  // For now, let's assume Quasar's default 'auto' or its own localStorage persistence is fine.
+  // The isDarkMode computed property will reflect the current state.
 })
 
 // Fetch models from static JSON file
