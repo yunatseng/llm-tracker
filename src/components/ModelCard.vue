@@ -63,7 +63,7 @@ const getContextLength = (model) => {
     </q-card-section>
 
     <q-card-section>
-      <p class="text-body2 q-mb-md" style="min-height: 40px;">
+      <p class="text-body2 q-mb-md truncate-text" style="min-height: 40px;">
         {{ getModelDescription(model) }}
       </p>
 
@@ -132,5 +132,13 @@ const getContextLength = (model) => {
 
 .model-card:hover {
   transform: translateY(-2px);
+}
+
+.truncate-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 </style>
