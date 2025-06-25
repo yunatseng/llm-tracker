@@ -9,7 +9,7 @@
     sans-serif;
   line-height: 1.5;
   font-weight: 400;
-  color-scheme: light;
+  color-scheme: light dark;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -66,4 +66,44 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+/* Dark mode styles */
+.dark body {
+  background-color: #1a202c; /* A common dark background color */
+  color: #e2e8f0; /* A common light text color for dark mode */
+}
+
+.dark ::-webkit-scrollbar-track {
+  background: #2d3748; /* Darker scrollbar track */
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #4a5568; /* Darker scrollbar thumb */
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #718096; /* Even darker scrollbar thumb on hover */
+}
+
+.dark button {
+  background-color: #2d3748; /* Darker button background */
+  color: #e2e8f0; /* Light text for buttons in dark mode */
+}
+
+.dark button:hover {
+  background-color: #4a5568; /* Slightly lighter button background on hover */
+}
+
+.dark .card {
+  background-color: #2d3748; /* Dark card background */
+  color: #e2e8f0; /* Light text for cards in dark mode */
+}
+
+.dark a {
+  color: #63b3ed; /* A lighter blue for links in dark mode */
+}
+
+.dark a:hover {
+  color: #90cdf4; /* Even lighter blue for links on hover in dark mode */
 }

@@ -1,11 +1,78 @@
-$primary   : #1976D2
-$secondary : #26A69A
-$accent    : #9C27B0
+// Light mode colors
+$primary   : #1976D2 // Blue
+$secondary : #26A69A // Teal
+$accent    : #9C27B0 // Purple
 
-$dark      : #1D1D1D
-$dark-page : #121212
+$positive  : #21BA45 // Green
+$negative  : #C10015 // Red
+$info      : #31CCEC // Light Blue
+$warning   : #F2C037 // Yellow
 
-$positive  : #21BA45
-$negative  : #C10015
-$info      : #31CCEC
-$warning   : #F2C037
+// Dark mode colors
+$primary-dark   : #2196F3 // Lighter Blue for dark mode
+$secondary-dark : #4DB6AC // Lighter Teal
+$accent-dark    : #BA68C8 // Lighter Purple
+
+$dark      : #1a202c // Tailwind's gray.800 - For dark elements on dark backgrounds
+$dark-page : #121212 // Very dark background for pages
+
+$positive-dark  : #4CAF50 // Slightly lighter Green
+$negative-dark  : #E57373 // Lighter Red
+$info-dark      : #4FC3F7 // Lighter Info Blue
+$warning-dark   : #FFB74D // Lighter Yellow
+
+// Applying dark mode colors using Quasar's built-in mechanism
+.body--dark
+  --q-primary: #{$primary-dark}
+  --q-secondary: #{$secondary-dark}
+  --q-accent: #{$accent-dark}
+
+  --q-dark: #{$dark-page} // Page background in dark mode
+  --q-dark-page: #{$dark-page}
+
+  --q-positive: #{$positive-dark}
+  --q-negative: #{$negative-dark}
+  --q-info: #{$info-dark}
+  --q-warning: #{$warning-dark}
+
+  // Adjusting text colors for dark mode for better readability
+  // You might need to adjust these based on your specific components and text usage
+  --q-text-color: #e2e8f0 // Default text color for dark mode (Tailwind's gray.200)
+  --q-text-color-primary: #{$primary-dark}
+  --q-text-color-secondary: #{$secondary-dark}
+  --q-text-color-accent: #{$accent-dark}
+  --q-text-color-positive: #{$positive-dark}
+  --q-text-color-negative: #{$negative-dark}
+  --q-text-color-info: #{$info-dark}
+  --q-text-color-warning: #{$warning-dark}
+  --q-text-color-dark: #e2e8f0
+
+  // Example for card background in dark mode
+  .q-card
+    background-color: $dark // Using the $dark variable for card backgrounds
+    color: var(--q-text-color)
+
+  // Example for toolbar background in dark mode
+  .q-toolbar
+    background-color: lighten($dark-page, 5%) // Slightly lighter than page background
+    color: var(--q-text-color)
+
+  // Ensure buttons have good contrast
+  .q-btn--standard
+    color: var(--q-text-color)
+    // For primary, secondary, etc. buttons, Quasar usually handles text color based on background
+    // But you can override if needed
+
+  .q-banner
+    &.bg-negative
+      background: $negative-dark !important
+      color: #fff !important // Ensure text is readable on dark negative banner
+    &.bg-positive
+      background: $positive-dark !important
+      color: #000 !important // Ensure text is readable on dark positive banner
+    &.bg-info
+      background: $info-dark !important
+      color: #000 !important
+    &.bg-warning
+      background: $warning-dark !important
+      color: #000 !important

@@ -10,6 +10,27 @@ const error = ref(null)
 const selectedArchitecture = ref('all')
 const searchQuery = ref('')
 const sortBy = ref('created')
+const isDarkMode = ref(false)
+
+// Function to toggle dark mode
+const toggleDarkMode = () => {
+  isDarkMode.value = !isDarkMode.value
+  if (isDarkMode.value) {
+    document.documentElement.classList.add('dark')
+    localStorage.setItem('darkMode', 'enabled')
+  } else {
+    document.documentElement.classList.remove('dark')
+    localStorage.setItem('darkMode', 'disabled')
+  }
+}
+
+// Check for saved dark mode preference
+onMounted(() => {
+  if (localStorage.getItem('darkMode') === 'enabled') {
+    isDarkMode.value = true
+    document.documentElement.classList.add('dark')
+  }
+})
 
 // Fetch models from static JSON file
 const fetchModels = async () => {
@@ -96,6 +117,17 @@ onMounted(() => {
           class="q-ml-sm"
         >
           <q-tooltip>重新整理</q-tooltip>
+        </q-btn>
+
+        <q-btn
+          flat
+          round
+          dense
+          :icon="isDarkMode ? 'light_mode' : 'dark_mode'"
+          @click="toggleDarkMode"
+          class="q-ml-sm"
+        >
+          <q-tooltip>{{ isDarkMode ? '淺色模式' : '深色模式' }}</q-tooltip>
         </q-btn>
       </q-toolbar>
     </q-header>
