@@ -190,7 +190,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T15:23:51.237783+00:00",
       "displayName": "Google: Gemini 2.5 Flash Lite Preview 06-17",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.796Z"
     },
     {
       "slug": "google/gemini-2.5-flash",
@@ -384,7 +384,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T15:01:28.103313+00:00",
       "displayName": "Google: Gemini 2.5 Flash",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.796Z"
     },
     {
       "slug": "google/gemini-2.5-pro",
@@ -588,7 +588,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T14:12:24+00:00",
       "displayName": "Google: Gemini 2.5 Pro",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.796Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview",
@@ -792,7 +792,7 @@
       "architecture": "Gemini",
       "created": "2025-06-05T15:27:37.538116+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview 06-05",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.796Z"
     },
     {
       "slug": "google/gemma-2b-it",
@@ -831,7 +831,7 @@
       "architecture": "Gemini",
       "created": "2025-05-28T19:33:35.082388+00:00",
       "displayName": "Google: Gemma 1 2B",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "anthropic/claude-opus-4",
@@ -1004,7 +1004,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:27:25.029961+00:00",
       "displayName": "Anthropic: Claude Opus 4",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4",
@@ -1187,7 +1187,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:12:51.381897+00:00",
       "displayName": "Anthropic: Claude Sonnet 4",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview-05-20",
@@ -1381,7 +1381,7 @@
       "architecture": "Gemini",
       "created": "2025-05-20T17:25:24.343372+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 05-20",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.796Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview-05-20",
@@ -1575,7 +1575,7 @@
       "architecture": "Gemini",
       "created": "2025-05-20T17:25:24.343372+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 05-20 (thinking)",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.796Z"
     },
     {
       "slug": "openai/codex-mini",
@@ -1748,7 +1748,7 @@
       "architecture": "GPT",
       "created": "2025-05-16T15:36:01.081688+00:00",
       "displayName": "OpenAI: Codex Mini",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview-05-06",
@@ -1948,7 +1948,7 @@
       "architecture": "Gemini",
       "created": "2025-05-07T00:41:53+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview 05-06",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview",
@@ -2137,7 +2137,7 @@
       "architecture": "Gemini",
       "created": "2025-04-17T18:31:07.815979+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 04-17",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview",
@@ -2326,7 +2326,7 @@
       "architecture": "Gemini",
       "created": "2025-04-17T18:31:07.815979+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 04-17 (thinking)",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "openai/gpt-4.1",
@@ -2523,7 +2523,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:05+00:00",
       "displayName": "OpenAI: GPT-4.1",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-4.1-mini",
@@ -2720,7 +2720,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:01+00:00",
       "displayName": "OpenAI: GPT-4.1 Mini",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-4.1-nano",
@@ -2900,7 +2900,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:22:49+00:00",
       "displayName": "OpenAI: GPT-4.1 Nano",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "google/gemini-2.5-pro-exp-03-25",
@@ -3085,7 +3085,7 @@
       "architecture": "Gemini",
       "created": "2025-03-25T17:01:39.919989+00:00",
       "displayName": "Google: Gemini 2.5 Pro Experimental",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "openai/o1-pro",
@@ -3251,7 +3251,7 @@
       "architecture": "GPT",
       "created": "2025-03-19T22:26:51.610039+00:00",
       "displayName": "OpenAI: o1-pro",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "google/gemma-3-1b-it",
@@ -3291,7 +3291,7 @@
       "architecture": "Gemini",
       "created": "2025-03-14T14:45:56.842499+00:00",
       "displayName": "Google: Gemma 3 1B",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -3304,7 +3304,7 @@
       "author": "google",
       "description": "Gemma 3 introduces multimodality, supporting vision-language input and text outputs. It handles context windows up to 128k tokens, understands over 140 languages, and offers improved math, reasoning, and chat capabilities, including structured outputs and function calling.",
       "model_version_group_id": "c99b277a-cfaf-4e93-9360-8a79cfa2b2c4",
-      "context_length": 96000,
+      "context_length": 32768,
       "input_modalities": [
         "text",
         "image"
@@ -3328,9 +3328,9 @@
       "reasoning_config": null,
       "features": {},
       "endpoint": {
-        "id": "1bbec5f0-58e0-4af2-b8ca-99c202b4ceca",
-        "name": "Chutes | google/gemma-3-4b-it:free",
-        "context_length": 96000,
+        "id": "90fbd988-266d-4ef4-b345-63b46ab6caca",
+        "name": "Google AI Studio | google/gemma-3-4b-it:free",
+        "context_length": 32768,
         "model": {
           "slug": "google/gemma-3-4b-it",
           "hf_slug": "google/gemma-3-4b-it",
@@ -3368,24 +3368,32 @@
         },
         "model_variant_slug": "google/gemma-3-4b-it:free",
         "model_variant_permaslug": "google/gemma-3-4b-it:free",
-        "adapter_name": "ChutesAdapter",
-        "provider_name": "Chutes",
+        "adapter_name": "GoogleAIStudioGeminiAdapter",
+        "provider_name": "Google AI Studio",
         "provider_info": {
-          "name": "Chutes",
-          "displayName": "Chutes",
-          "slug": "chutes",
-          "baseUrl": "https://llm.chutes.ai/v1",
+          "name": "Google AI Studio",
+          "displayName": "Google AI Studio",
+          "slug": "google-ai-studio",
+          "baseUrl": "https://generativelanguage.googleapis.com/v1beta",
           "dataPolicy": {
-            "termsOfServiceURL": "https://chutes.ai/tos",
+            "termsOfServiceURL": "https://cloud.google.com/terms/",
+            "privacyPolicyURL": "https://cloud.google.com/terms/cloud-privacy-notice",
             "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 55
+            },
+            "freeModels": {
               "training": true,
-              "retainsPrompts": true
+              "retainsPrompts": true,
+              "retentionDays": 55,
+              "canPublish": false
             }
           },
           "headquarters": "US",
           "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
+          "hasCompletions": false,
+          "isAbortable": false,
           "moderationRequired": false,
           "editors": [
             "{}"
@@ -3393,25 +3401,30 @@
           "owners": [
             "{}"
           ],
-          "adapterName": "ChutesAdapter",
+          "adapterName": "GoogleAIStudioGeminiAdapter",
           "isMultipartSupported": true,
           "statusPageUrl": null,
           "byokEnabled": true,
           "icon": {
-            "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://chutes.ai/&size=256"
+            "url": "/images/icons/GoogleAIStudio.svg"
           },
           "ignoredProviderModels": [
-            "openbmb/MiniCPM4-8B",
-            "tngtech/DeepSeek-R1T-Chimera"
+            "gemini-2.5-pro-1p",
+            "gemini-2.5-pro-1p-recitation-off",
+            "gemini-2.5-flash-1p",
+            "gemini-2.5-flash-1p-recitation-off",
+            "gemini-2.5-flash-lite-preview-06-11-summarized",
+            "gemini-2.5-flash",
+            "gemini-2.5-flash-lite-preview-06-17"
           ]
         },
-        "provider_display_name": "Chutes",
-        "provider_slug": "chutes/bf16",
-        "provider_model_id": "unsloth/gemma-3-4b-it",
-        "quantization": "bf16",
+        "provider_display_name": "Google AI Studio",
+        "provider_slug": "google-ai-studio",
+        "provider_model_id": "gemma-3-4b-it",
+        "quantization": null,
         "variant": "free",
         "is_free": true,
-        "can_abort": true,
+        "can_abort": false,
         "max_prompt_tokens": null,
         "max_completion_tokens": 8192,
         "max_prompt_images": null,
@@ -3424,23 +3437,29 @@
           "frequency_penalty",
           "presence_penalty",
           "seed",
-          "top_k",
-          "min_p",
-          "repetition_penalty",
-          "logprobs",
-          "logit_bias",
-          "top_logprobs"
+          "response_format",
+          "structured_outputs"
         ],
         "is_byok": false,
         "moderation_required": false,
         "data_policy": {
-          "termsOfServiceURL": "https://chutes.ai/tos",
+          "termsOfServiceURL": "https://cloud.google.com/terms/",
+          "privacyPolicyURL": "https://cloud.google.com/terms/cloud-privacy-notice",
           "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 55
+          },
+          "freeModels": {
             "training": true,
-            "retainsPrompts": true
+            "retainsPrompts": true,
+            "retentionDays": 55,
+            "canPublish": false
           },
           "training": true,
-          "retainsPrompts": true
+          "retainsPrompts": true,
+          "retentionDays": 55,
+          "canPublish": false
         },
         "pricing": {
           "prompt": "0",
@@ -3461,9 +3480,10 @@
         "limit_rpm": null,
         "limit_rpd": null,
         "limit_rpm_cf": null,
-        "has_completions": true,
+        "has_completions": false,
         "has_chat_completions": true,
         "features": {
+          "supported_parameters": {},
           "supports_document_url": null
         },
         "provider_region": null
@@ -3471,7 +3491,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B (free)",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -3585,7 +3605,39 @@
           "ignoredProviderModels": [
             "anthropic/claude-4-opus",
             "anthropic/claude-4-sonnet",
-            "deepseek-ai/DeepSeek-R1-0528-Turbo"
+            "deepseek-ai/DeepSeek-R1-0528-Turbo",
+            "meta-llama/Llama-2-70b-chat-hf",
+            "mistralai/Mixtral-8x22B-Instruct-v0.1",
+            "google/gemma-1.1-7b-it",
+            "microsoft/Phi-3-medium-4k-instruct",
+            "google/gemma-2-27b-it",
+            "microsoft/WizardLM-2-7B",
+            "mattshumer/Reflection-Llama-3.1-70B",
+            "Sao10K/L3-8B-Lunaris-v1",
+            "openbmb/MiniCPM-Llama3-V-2_5",
+            "Qwen/QVQ-72B-Preview",
+            "deepinfra/airoboros-70b",
+            "Qwen/QwQ-32B-Preview",
+            "Phind/Phind-CodeLlama-34B-v2",
+            "lizpreciatior/lzlv_70b_fp16_hf",
+            "mistralai/Mistral-7B-Instruct-v0.2",
+            "cognitivecomputations/dolphin-2.6-mixtral-8x7b",
+            "cognitivecomputations/dolphin-2.9.1-llama-3-70b",
+            "Qwen/Qwen2-72B-Instruct",
+            "Qwen/Qwen2-7B-Instruct",
+            "google/gemma-2-9b-it",
+            "Sao10K/L3-70B-Euryale-v2.1",
+            "google/codegemma-7b-it",
+            "mistralai/Mistral-7B-Instruct-v0.1",
+            "KoboldAI/LLaMA2-13B-Tiefighter",
+            "nvidia/Nemotron-4-340B-Instruct",
+            "meta-llama/Llama-2-13b-chat-hf",
+            "openchat/openchat_3.5",
+            "openchat/openchat-3.6-8b",
+            "bigcode/starcoder2-15b-instruct-v0.1",
+            "Gryphe/MythoMax-L2-13b-turbo",
+            "Austism/chronos-hermes-13b-v2",
+            "Qwen/Qwen2.5-Coder-7B"
           ]
         },
         "provider_display_name": "DeepInfra",
@@ -3655,7 +3707,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -3835,7 +3887,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B (free)",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -3949,7 +4001,39 @@
           "ignoredProviderModels": [
             "anthropic/claude-4-opus",
             "anthropic/claude-4-sonnet",
-            "deepseek-ai/DeepSeek-R1-0528-Turbo"
+            "deepseek-ai/DeepSeek-R1-0528-Turbo",
+            "meta-llama/Llama-2-70b-chat-hf",
+            "mistralai/Mixtral-8x22B-Instruct-v0.1",
+            "google/gemma-1.1-7b-it",
+            "microsoft/Phi-3-medium-4k-instruct",
+            "google/gemma-2-27b-it",
+            "microsoft/WizardLM-2-7B",
+            "mattshumer/Reflection-Llama-3.1-70B",
+            "Sao10K/L3-8B-Lunaris-v1",
+            "openbmb/MiniCPM-Llama3-V-2_5",
+            "Qwen/QVQ-72B-Preview",
+            "deepinfra/airoboros-70b",
+            "Qwen/QwQ-32B-Preview",
+            "Phind/Phind-CodeLlama-34B-v2",
+            "lizpreciatior/lzlv_70b_fp16_hf",
+            "mistralai/Mistral-7B-Instruct-v0.2",
+            "cognitivecomputations/dolphin-2.6-mixtral-8x7b",
+            "cognitivecomputations/dolphin-2.9.1-llama-3-70b",
+            "Qwen/Qwen2-72B-Instruct",
+            "Qwen/Qwen2-7B-Instruct",
+            "google/gemma-2-9b-it",
+            "Sao10K/L3-70B-Euryale-v2.1",
+            "google/codegemma-7b-it",
+            "mistralai/Mistral-7B-Instruct-v0.1",
+            "KoboldAI/LLaMA2-13B-Tiefighter",
+            "nvidia/Nemotron-4-340B-Instruct",
+            "meta-llama/Llama-2-13b-chat-hf",
+            "openchat/openchat_3.5",
+            "openchat/openchat-3.6-8b",
+            "bigcode/starcoder2-15b-instruct-v0.1",
+            "Gryphe/MythoMax-L2-13b-turbo",
+            "Austism/chronos-hermes-13b-v2",
+            "Qwen/Qwen2.5-Coder-7B"
           ]
         },
         "provider_display_name": "DeepInfra",
@@ -4019,7 +4103,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "openai/gpt-4o-mini-search-preview",
@@ -4199,7 +4283,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:22:02.718344+00:00",
       "displayName": "OpenAI: GPT-4o-mini Search Preview",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-4o-search-preview",
@@ -4379,7 +4463,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:19:09.996816+00:00",
       "displayName": "OpenAI: GPT-4o Search Preview",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -4559,7 +4643,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B (free)",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -4741,7 +4825,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "openai/gpt-4.5-preview",
@@ -4918,7 +5002,7 @@
       "architecture": "GPT",
       "created": "2025-02-27T20:23:30.841555+00:00",
       "displayName": "OpenAI: GPT-4.5 (Preview)",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "google/gemini-2.0-flash-lite-001",
@@ -5105,7 +5189,7 @@
       "architecture": "Gemini",
       "created": "2025-02-25T17:56:52.206054+00:00",
       "displayName": "Google: Gemini 2.0 Flash Lite",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -5288,7 +5372,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -5461,7 +5545,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (self-moderated)",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -5634,7 +5718,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (thinking)",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "google/gemini-2.0-flash-001",
@@ -5830,7 +5914,7 @@
       "architecture": "Gemini",
       "created": "2025-02-05T15:30:13.144552+00:00",
       "displayName": "Google: Gemini 2.0 Flash",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "openai/o1",
@@ -5999,7 +6083,7 @@
       "architecture": "GPT",
       "created": "2024-12-17T18:26:39.576639+00:00",
       "displayName": "OpenAI: o1",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "google/gemini-2.0-flash-exp",
@@ -6176,7 +6260,7 @@
       "architecture": "Gemini",
       "created": "2024-12-11T17:18:43.999311+00:00",
       "displayName": "Google: Gemini 2.0 Flash Experimental (free)",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "google/gemini-exp-1121",
@@ -6212,7 +6296,7 @@
       "architecture": "Gemini",
       "created": "2024-11-21T19:18:45.23737+00:00",
       "displayName": "Google: Gemini Experimental 1121",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "openai/gpt-4o-2024-11-20",
@@ -6408,7 +6492,7 @@
       "architecture": "GPT",
       "created": "2024-11-20T18:33:14.771895+00:00",
       "displayName": "OpenAI: GPT-4o (2024-11-20)",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "google/gemini-exp-1114",
@@ -6444,7 +6528,7 @@
       "architecture": "Gemini",
       "created": "2024-11-15T23:52:20.203831+00:00",
       "displayName": "Google: Gemini Experimental 1114",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku",
@@ -6616,7 +6700,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (self-moderated)",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku",
@@ -6788,7 +6872,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku-20241022",
@@ -6960,7 +7044,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (2024-10-22) (self-moderated)",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku-20241022",
@@ -7132,7 +7216,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (2024-10-22)",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -7304,7 +7388,7 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (self-moderated)",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -7476,7 +7560,7 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "google/gemini-flash-1.5-8b",
@@ -7680,170 +7764,7 @@
       "architecture": "Gemini",
       "created": "2024-10-03T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash 8B",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
-    },
-    {
-      "slug": "openai/o1-mini",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-09-12T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: o1-mini",
-      "short_name": "o1-mini",
-      "author": "openai",
-      "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
-      "model_version_group_id": null,
-      "context_length": 128000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "openai/o1-mini",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "e42e0d87-0bec-4adf-ac17-e5618f7b972e",
-        "name": "OpenAI | openai/o1-mini",
-        "context_length": 128000,
-        "model": {
-          "slug": "openai/o1-mini",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-09-12T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "OpenAI: o1-mini",
-          "short_name": "o1-mini",
-          "author": "openai",
-          "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
-          "model_version_group_id": null,
-          "context_length": 128000,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "GPT",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "openai/o1-mini",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "openai/o1-mini",
-        "model_variant_permaslug": "openai/o1-mini",
-        "adapter_name": "OpenAIReasoningAdapter",
-        "provider_name": "OpenAI",
-        "provider_info": {
-          "name": "OpenAI",
-          "displayName": "OpenAI",
-          "slug": "openai",
-          "baseUrl": "https://api.openai.com/v1",
-          "dataPolicy": {
-            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-            "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true
-            },
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "OpenAIAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.openai.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/OpenAI.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "OpenAI",
-        "provider_slug": "openai",
-        "provider_model_id": "o1-mini",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 65536,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "seed",
-          "max_tokens"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-          "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true
-          },
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true
-        },
-        "pricing": {
-          "prompt": "0.0000011",
-          "completion": "0.0000044",
-          "image": "0",
-          "request": "0",
-          "input_cache_read": "0.00000055",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": false,
-        "supports_reasoning": true,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_document_url": null
-        },
-        "provider_region": null
-      },
-      "architecture": "GPT",
-      "created": "2024-09-12T00:00:00+00:00",
-      "displayName": "OpenAI: o1-mini",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "openai/o1-preview",
@@ -8006,7 +7927,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/o1-preview-2024-09-12",
@@ -8169,7 +8090,170 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview (2024-09-12)",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
+    },
+    {
+      "slug": "openai/o1-mini",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-09-12T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: o1-mini",
+      "short_name": "o1-mini",
+      "author": "openai",
+      "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
+      "model_version_group_id": null,
+      "context_length": 128000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "openai/o1-mini",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "e42e0d87-0bec-4adf-ac17-e5618f7b972e",
+        "name": "OpenAI | openai/o1-mini",
+        "context_length": 128000,
+        "model": {
+          "slug": "openai/o1-mini",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-09-12T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "OpenAI: o1-mini",
+          "short_name": "o1-mini",
+          "author": "openai",
+          "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
+          "model_version_group_id": null,
+          "context_length": 128000,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "GPT",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "openai/o1-mini",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "openai/o1-mini",
+        "model_variant_permaslug": "openai/o1-mini",
+        "adapter_name": "OpenAIReasoningAdapter",
+        "provider_name": "OpenAI",
+        "provider_info": {
+          "name": "OpenAI",
+          "displayName": "OpenAI",
+          "slug": "openai",
+          "baseUrl": "https://api.openai.com/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+            "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true
+            },
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "OpenAIAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.openai.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/OpenAI.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "OpenAI",
+        "provider_slug": "openai",
+        "provider_model_id": "o1-mini",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 65536,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "seed",
+          "max_tokens"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+          "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true
+          },
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true
+        },
+        "pricing": {
+          "prompt": "0.0000011",
+          "completion": "0.0000044",
+          "image": "0",
+          "request": "0",
+          "input_cache_read": "0.00000055",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": false,
+        "supports_reasoning": true,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "GPT",
+      "created": "2024-09-12T00:00:00+00:00",
+      "displayName": "OpenAI: o1-mini",
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/o1-mini-2024-09-12",
@@ -8332,7 +8416,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-mini (2024-09-12)",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "google/gemini-flash-1.5-exp",
@@ -8368,7 +8452,7 @@
       "architecture": "Gemini",
       "created": "2024-08-28T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash Experimental",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "openai/chatgpt-4o-latest",
@@ -8542,7 +8626,7 @@
       "architecture": "GPT",
       "created": "2024-08-14T00:00:00+00:00",
       "displayName": "OpenAI: ChatGPT-4o",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-4o-2024-08-06",
@@ -8736,7 +8820,7 @@
       "architecture": "GPT",
       "created": "2024-08-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-08-06)",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "google/gemini-pro-1.5-exp",
@@ -8772,203 +8856,7 @@
       "architecture": "Gemini",
       "created": "2024-08-01T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro Experimental",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
-    },
-    {
-      "slug": "openai/gpt-4o-mini-2024-07-18",
-      "hf_slug": null,
-      "updated_at": "2025-04-23T22:07:14.802248+00:00",
-      "created_at": "2024-07-18T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: GPT-4o-mini (2024-07-18)",
-      "short_name": "GPT-4o-mini (2024-07-18)",
-      "author": "openai",
-      "description": "GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text and image inputs with text outputs.\n\nAs their most advanced small model, it is many multiples more affordable than other recent frontier models, and more than 60% cheaper than [GPT-3.5 Turbo](/models/openai/gpt-3.5-turbo). It maintains SOTA intelligence, while being significantly more cost-effective.\n\nGPT-4o mini achieves an 82% score on MMLU and presently ranks higher than GPT-4 on chat preferences [common leaderboards](https://arena.lmsys.org/).\n\nCheck out the [launch announcement](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) to learn more.\n\n#multimodal",
-      "model_version_group_id": null,
-      "context_length": 128000,
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "openai/gpt-4o-mini-2024-07-18",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "ebcc1f0a-6621-4cdc-a93f-88a6e2cc2e15",
-        "name": "OpenAI | openai/gpt-4o-mini-2024-07-18",
-        "context_length": 128000,
-        "model": {
-          "slug": "openai/gpt-4o-mini-2024-07-18",
-          "hf_slug": null,
-          "updated_at": "2025-04-23T22:07:14.802248+00:00",
-          "created_at": "2024-07-18T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "OpenAI: GPT-4o-mini (2024-07-18)",
-          "short_name": "GPT-4o-mini (2024-07-18)",
-          "author": "openai",
-          "description": "GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text and image inputs with text outputs.\n\nAs their most advanced small model, it is many multiples more affordable than other recent frontier models, and more than 60% cheaper than [GPT-3.5 Turbo](/models/openai/gpt-3.5-turbo). It maintains SOTA intelligence, while being significantly more cost-effective.\n\nGPT-4o mini achieves an 82% score on MMLU and presently ranks higher than GPT-4 on chat preferences [common leaderboards](https://arena.lmsys.org/).\n\nCheck out the [launch announcement](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) to learn more.\n\n#multimodal",
-          "model_version_group_id": null,
-          "context_length": 128000,
-          "input_modalities": [
-            "text",
-            "image",
-            "file"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "GPT",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "openai/gpt-4o-mini-2024-07-18",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "openai/gpt-4o-mini-2024-07-18",
-        "model_variant_permaslug": "openai/gpt-4o-mini-2024-07-18",
-        "adapter_name": "OpenAIAdapter",
-        "provider_name": "OpenAI",
-        "provider_info": {
-          "name": "OpenAI",
-          "displayName": "OpenAI",
-          "slug": "openai",
-          "baseUrl": "https://api.openai.com/v1",
-          "dataPolicy": {
-            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-            "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true
-            },
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "OpenAIAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.openai.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/OpenAI.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "OpenAI",
-        "provider_slug": "openai",
-        "provider_model_id": "gpt-4o-mini-2024-07-18",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 16384,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "stop",
-          "frequency_penalty",
-          "presence_penalty",
-          "web_search_options",
-          "seed",
-          "logit_bias",
-          "logprobs",
-          "top_logprobs",
-          "response_format",
-          "structured_outputs"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-          "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true
-          },
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true
-        },
-        "pricing": {
-          "prompt": "0.00000015",
-          "completion": "0.0000006",
-          "image": "0.007225",
-          "request": "0",
-          "input_cache_read": "0.000000075",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [
-          {
-            "type": "search-threshold",
-            "threshold": "high",
-            "request": "0.03"
-          },
-          {
-            "type": "search-threshold",
-            "threshold": "medium",
-            "request": "0.0275"
-          },
-          {
-            "type": "search-threshold",
-            "threshold": "low",
-            "request": "0.025"
-          }
-        ],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_document_url": null
-        },
-        "provider_region": null
-      },
-      "architecture": "GPT",
-      "created": "2024-07-18T00:00:00+00:00",
-      "displayName": "OpenAI: GPT-4o-mini (2024-07-18)",
-      "fetchedAt": "2025-06-25T12:11:41.411Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "openai/gpt-4o-mini",
@@ -9164,7 +9052,203 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
+    },
+    {
+      "slug": "openai/gpt-4o-mini-2024-07-18",
+      "hf_slug": null,
+      "updated_at": "2025-04-23T22:07:14.802248+00:00",
+      "created_at": "2024-07-18T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: GPT-4o-mini (2024-07-18)",
+      "short_name": "GPT-4o-mini (2024-07-18)",
+      "author": "openai",
+      "description": "GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text and image inputs with text outputs.\n\nAs their most advanced small model, it is many multiples more affordable than other recent frontier models, and more than 60% cheaper than [GPT-3.5 Turbo](/models/openai/gpt-3.5-turbo). It maintains SOTA intelligence, while being significantly more cost-effective.\n\nGPT-4o mini achieves an 82% score on MMLU and presently ranks higher than GPT-4 on chat preferences [common leaderboards](https://arena.lmsys.org/).\n\nCheck out the [launch announcement](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) to learn more.\n\n#multimodal",
+      "model_version_group_id": null,
+      "context_length": 128000,
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "openai/gpt-4o-mini-2024-07-18",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "ebcc1f0a-6621-4cdc-a93f-88a6e2cc2e15",
+        "name": "OpenAI | openai/gpt-4o-mini-2024-07-18",
+        "context_length": 128000,
+        "model": {
+          "slug": "openai/gpt-4o-mini-2024-07-18",
+          "hf_slug": null,
+          "updated_at": "2025-04-23T22:07:14.802248+00:00",
+          "created_at": "2024-07-18T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "OpenAI: GPT-4o-mini (2024-07-18)",
+          "short_name": "GPT-4o-mini (2024-07-18)",
+          "author": "openai",
+          "description": "GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text and image inputs with text outputs.\n\nAs their most advanced small model, it is many multiples more affordable than other recent frontier models, and more than 60% cheaper than [GPT-3.5 Turbo](/models/openai/gpt-3.5-turbo). It maintains SOTA intelligence, while being significantly more cost-effective.\n\nGPT-4o mini achieves an 82% score on MMLU and presently ranks higher than GPT-4 on chat preferences [common leaderboards](https://arena.lmsys.org/).\n\nCheck out the [launch announcement](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) to learn more.\n\n#multimodal",
+          "model_version_group_id": null,
+          "context_length": 128000,
+          "input_modalities": [
+            "text",
+            "image",
+            "file"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "GPT",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "openai/gpt-4o-mini-2024-07-18",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "openai/gpt-4o-mini-2024-07-18",
+        "model_variant_permaslug": "openai/gpt-4o-mini-2024-07-18",
+        "adapter_name": "OpenAIAdapter",
+        "provider_name": "OpenAI",
+        "provider_info": {
+          "name": "OpenAI",
+          "displayName": "OpenAI",
+          "slug": "openai",
+          "baseUrl": "https://api.openai.com/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+            "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true
+            },
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "OpenAIAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.openai.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/OpenAI.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "OpenAI",
+        "provider_slug": "openai",
+        "provider_model_id": "gpt-4o-mini-2024-07-18",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 16384,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "tools",
+          "tool_choice",
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "web_search_options",
+          "seed",
+          "logit_bias",
+          "logprobs",
+          "top_logprobs",
+          "response_format",
+          "structured_outputs"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+          "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true
+          },
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true
+        },
+        "pricing": {
+          "prompt": "0.00000015",
+          "completion": "0.0000006",
+          "image": "0.007225",
+          "request": "0",
+          "input_cache_read": "0.000000075",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [
+          {
+            "type": "search-threshold",
+            "threshold": "high",
+            "request": "0.03"
+          },
+          {
+            "type": "search-threshold",
+            "threshold": "medium",
+            "request": "0.0275"
+          },
+          {
+            "type": "search-threshold",
+            "threshold": "low",
+            "request": "0.025"
+          }
+        ],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "GPT",
+      "created": "2024-07-18T00:00:00+00:00",
+      "displayName": "OpenAI: GPT-4o-mini (2024-07-18)",
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "google/gemma-2-27b-it",
@@ -9345,7 +9429,7 @@
       "architecture": "Gemini",
       "created": "2024-07-13T00:00:00+00:00",
       "displayName": "Google: Gemma 2 27B",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -9523,7 +9607,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B (free)",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -9698,7 +9782,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -9870,7 +9954,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20) (self-moderated)",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -10042,7 +10126,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20)",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "google/gemini-flash-1.5",
@@ -10238,202 +10322,7 @@
       "architecture": "Gemini",
       "created": "2024-05-14T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash ",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
-    },
-    {
-      "slug": "openai/gpt-4o-2024-05-13",
-      "hf_slug": null,
-      "updated_at": "2025-04-23T22:07:30.08308+00:00",
-      "created_at": "2024-05-13T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: GPT-4o (2024-05-13)",
-      "short_name": "GPT-4o (2024-05-13)",
-      "author": "openai",
-      "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of [GPT-4 Turbo](/models/openai/gpt-4-turbo) while being twice as fast and 50% more cost-effective. GPT-4o also offers improved performance in processing non-English languages and enhanced visual capabilities.\n\nFor benchmarking against other models, it was briefly called [\"im-also-a-good-gpt2-chatbot\"](https://twitter.com/LiamFedus/status/1790064963966370209)\n\n#multimodal",
-      "model_version_group_id": "76e36b33-358e-477a-be24-09f954fcea74",
-      "context_length": 128000,
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "openai/gpt-4o-2024-05-13",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "3d6584e7-a2bb-48d6-903d-24e3d90e7e55",
-        "name": "OpenAI | openai/gpt-4o-2024-05-13",
-        "context_length": 128000,
-        "model": {
-          "slug": "openai/gpt-4o-2024-05-13",
-          "hf_slug": null,
-          "updated_at": "2025-04-23T22:07:30.08308+00:00",
-          "created_at": "2024-05-13T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "OpenAI: GPT-4o (2024-05-13)",
-          "short_name": "GPT-4o (2024-05-13)",
-          "author": "openai",
-          "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of [GPT-4 Turbo](/models/openai/gpt-4-turbo) while being twice as fast and 50% more cost-effective. GPT-4o also offers improved performance in processing non-English languages and enhanced visual capabilities.\n\nFor benchmarking against other models, it was briefly called [\"im-also-a-good-gpt2-chatbot\"](https://twitter.com/LiamFedus/status/1790064963966370209)\n\n#multimodal",
-          "model_version_group_id": "76e36b33-358e-477a-be24-09f954fcea74",
-          "context_length": 128000,
-          "input_modalities": [
-            "text",
-            "image",
-            "file"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "GPT",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "openai/gpt-4o-2024-05-13",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "openai/gpt-4o-2024-05-13",
-        "model_variant_permaslug": "openai/gpt-4o-2024-05-13",
-        "adapter_name": "OpenAIAdapter",
-        "provider_name": "OpenAI",
-        "provider_info": {
-          "name": "OpenAI",
-          "displayName": "OpenAI",
-          "slug": "openai",
-          "baseUrl": "https://api.openai.com/v1",
-          "dataPolicy": {
-            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-            "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true
-            },
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "OpenAIAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.openai.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/OpenAI.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "OpenAI",
-        "provider_slug": "openai",
-        "provider_model_id": "gpt-4o-2024-05-13",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "stop",
-          "frequency_penalty",
-          "presence_penalty",
-          "web_search_options",
-          "seed",
-          "logit_bias",
-          "logprobs",
-          "top_logprobs",
-          "response_format",
-          "structured_outputs"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-          "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true
-          },
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true
-        },
-        "pricing": {
-          "prompt": "0.000005",
-          "completion": "0.000015",
-          "image": "0.007225",
-          "request": "0",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [
-          {
-            "type": "search-threshold",
-            "threshold": "high",
-            "request": "0.05"
-          },
-          {
-            "type": "search-threshold",
-            "threshold": "medium",
-            "request": "0.035"
-          },
-          {
-            "type": "search-threshold",
-            "threshold": "low",
-            "request": "0.03"
-          }
-        ],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_document_url": null
-        },
-        "provider_region": null
-      },
-      "architecture": "GPT",
-      "created": "2024-05-13T00:00:00+00:00",
-      "displayName": "OpenAI: GPT-4o (2024-05-13)",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -10629,7 +10518,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -10824,7 +10713,202 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (extended)",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
+    },
+    {
+      "slug": "openai/gpt-4o-2024-05-13",
+      "hf_slug": null,
+      "updated_at": "2025-04-23T22:07:30.08308+00:00",
+      "created_at": "2024-05-13T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: GPT-4o (2024-05-13)",
+      "short_name": "GPT-4o (2024-05-13)",
+      "author": "openai",
+      "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of [GPT-4 Turbo](/models/openai/gpt-4-turbo) while being twice as fast and 50% more cost-effective. GPT-4o also offers improved performance in processing non-English languages and enhanced visual capabilities.\n\nFor benchmarking against other models, it was briefly called [\"im-also-a-good-gpt2-chatbot\"](https://twitter.com/LiamFedus/status/1790064963966370209)\n\n#multimodal",
+      "model_version_group_id": "76e36b33-358e-477a-be24-09f954fcea74",
+      "context_length": 128000,
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "openai/gpt-4o-2024-05-13",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "3d6584e7-a2bb-48d6-903d-24e3d90e7e55",
+        "name": "OpenAI | openai/gpt-4o-2024-05-13",
+        "context_length": 128000,
+        "model": {
+          "slug": "openai/gpt-4o-2024-05-13",
+          "hf_slug": null,
+          "updated_at": "2025-04-23T22:07:30.08308+00:00",
+          "created_at": "2024-05-13T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "OpenAI: GPT-4o (2024-05-13)",
+          "short_name": "GPT-4o (2024-05-13)",
+          "author": "openai",
+          "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of [GPT-4 Turbo](/models/openai/gpt-4-turbo) while being twice as fast and 50% more cost-effective. GPT-4o also offers improved performance in processing non-English languages and enhanced visual capabilities.\n\nFor benchmarking against other models, it was briefly called [\"im-also-a-good-gpt2-chatbot\"](https://twitter.com/LiamFedus/status/1790064963966370209)\n\n#multimodal",
+          "model_version_group_id": "76e36b33-358e-477a-be24-09f954fcea74",
+          "context_length": 128000,
+          "input_modalities": [
+            "text",
+            "image",
+            "file"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "GPT",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "openai/gpt-4o-2024-05-13",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "openai/gpt-4o-2024-05-13",
+        "model_variant_permaslug": "openai/gpt-4o-2024-05-13",
+        "adapter_name": "OpenAIAdapter",
+        "provider_name": "OpenAI",
+        "provider_info": {
+          "name": "OpenAI",
+          "displayName": "OpenAI",
+          "slug": "openai",
+          "baseUrl": "https://api.openai.com/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+            "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true
+            },
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "OpenAIAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.openai.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/OpenAI.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "OpenAI",
+        "provider_slug": "openai",
+        "provider_model_id": "gpt-4o-2024-05-13",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 4096,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "tools",
+          "tool_choice",
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "web_search_options",
+          "seed",
+          "logit_bias",
+          "logprobs",
+          "top_logprobs",
+          "response_format",
+          "structured_outputs"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+          "dataPolicyUrl": "https://platform.openai.com/docs/guides/your-data",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true
+          },
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true
+        },
+        "pricing": {
+          "prompt": "0.000005",
+          "completion": "0.000015",
+          "image": "0.007225",
+          "request": "0",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [
+          {
+            "type": "search-threshold",
+            "threshold": "high",
+            "request": "0.05"
+          },
+          {
+            "type": "search-threshold",
+            "threshold": "medium",
+            "request": "0.035"
+          },
+          {
+            "type": "search-threshold",
+            "threshold": "low",
+            "request": "0.03"
+          }
+        ],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "GPT",
+      "created": "2024-05-13T00:00:00+00:00",
+      "displayName": "OpenAI: GPT-4o (2024-05-13)",
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-4-turbo",
@@ -10999,7 +11083,7 @@
       "architecture": "GPT",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "google/gemini-pro-1.5",
@@ -11191,7 +11275,7 @@
       "architecture": "Gemini",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -11363,7 +11447,7 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku (self-moderated)",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -11535,7 +11619,7 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-3-opus",
@@ -11707,7 +11791,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Opus (self-moderated)",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-3-opus",
@@ -11879,7 +11963,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Opus",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-3-sonnet",
@@ -12051,7 +12135,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Sonnet (self-moderated)",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-3-sonnet",
@@ -12223,7 +12307,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Sonnet",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "google/gemma-7b-it",
@@ -12262,7 +12346,179 @@
       "architecture": "Gemini",
       "created": "2024-02-22T00:00:00+00:00",
       "displayName": "Google: Gemma 7B",
-      "fetchedAt": "2025-06-25T12:11:41.696Z"
+      "fetchedAt": "2025-06-26T08:09:19.797Z"
+    },
+    {
+      "slug": "openai/gpt-3.5-turbo-0613",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-01-25T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: GPT-3.5 Turbo (older v0613)",
+      "short_name": "GPT-3.5 Turbo (older v0613)",
+      "author": "openai",
+      "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
+      "model_version_group_id": null,
+      "context_length": 4095,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "openai/gpt-3.5-turbo-0613",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "f29e5bba-56f3-408a-a036-185e3dc20be3",
+        "name": "Azure | openai/gpt-3.5-turbo-0613",
+        "context_length": 4095,
+        "model": {
+          "slug": "openai/gpt-3.5-turbo-0613",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-01-25T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "OpenAI: GPT-3.5 Turbo (older v0613)",
+          "short_name": "GPT-3.5 Turbo (older v0613)",
+          "author": "openai",
+          "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
+          "model_version_group_id": null,
+          "context_length": 4095,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "GPT",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "openai/gpt-3.5-turbo-0613",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "openai/gpt-3.5-turbo-0613",
+        "model_variant_permaslug": "openai/gpt-3.5-turbo-0613",
+        "adapter_name": "AzureOpenAIAdapter",
+        "provider_name": "Azure",
+        "provider_info": {
+          "name": "Azure",
+          "displayName": "Azure",
+          "slug": "azure",
+          "baseUrl": "",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://www.microsoft.com/en-us/legal/terms-of-use?oneroute=true",
+            "privacyPolicyURL": "https://www.microsoft.com/en-us/privacy/privacystatement",
+            "dataPolicyUrl": "https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy?tabs=azure-portal",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": false
+            }
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": false,
+          "isAbortable": true,
+          "moderationRequired": false,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "AzureOpenAIAdapter",
+          "isMultipartSupported": false,
+          "statusPageUrl": "https://status.azure.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/Azure.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "Azure",
+        "provider_slug": "azure",
+        "provider_model_id": "gpt-35-turbo",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 4096,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "tools",
+          "tool_choice",
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "seed",
+          "logit_bias",
+          "logprobs",
+          "top_logprobs",
+          "response_format",
+          "structured_outputs"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "termsOfServiceURL": "https://www.microsoft.com/en-us/legal/terms-of-use?oneroute=true",
+          "privacyPolicyURL": "https://www.microsoft.com/en-us/privacy/privacystatement",
+          "dataPolicyUrl": "https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy?tabs=azure-portal",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": false
+          },
+          "training": false,
+          "retainsPrompts": false
+        },
+        "pricing": {
+          "prompt": "0.000001",
+          "completion": "0.000002",
+          "image": "0",
+          "request": "0",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": false,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": false,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "GPT",
+      "created": "2024-01-25T00:00:00+00:00",
+      "displayName": "OpenAI: GPT-3.5 Turbo (older v0613)",
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-4-turbo-preview",
@@ -12436,511 +12692,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo Preview",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
-    },
-    {
-      "slug": "openai/gpt-3.5-turbo-0613",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-01-25T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: GPT-3.5 Turbo (older v0613)",
-      "short_name": "GPT-3.5 Turbo (older v0613)",
-      "author": "openai",
-      "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
-      "model_version_group_id": null,
-      "context_length": 4095,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "openai/gpt-3.5-turbo-0613",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "f29e5bba-56f3-408a-a036-185e3dc20be3",
-        "name": "Azure | openai/gpt-3.5-turbo-0613",
-        "context_length": 4095,
-        "model": {
-          "slug": "openai/gpt-3.5-turbo-0613",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-01-25T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "OpenAI: GPT-3.5 Turbo (older v0613)",
-          "short_name": "GPT-3.5 Turbo (older v0613)",
-          "author": "openai",
-          "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
-          "model_version_group_id": null,
-          "context_length": 4095,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "GPT",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "openai/gpt-3.5-turbo-0613",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "openai/gpt-3.5-turbo-0613",
-        "model_variant_permaslug": "openai/gpt-3.5-turbo-0613",
-        "adapter_name": "AzureOpenAIAdapter",
-        "provider_name": "Azure",
-        "provider_info": {
-          "name": "Azure",
-          "displayName": "Azure",
-          "slug": "azure",
-          "baseUrl": "",
-          "dataPolicy": {
-            "termsOfServiceURL": "https://www.microsoft.com/en-us/legal/terms-of-use?oneroute=true",
-            "privacyPolicyURL": "https://www.microsoft.com/en-us/privacy/privacystatement",
-            "dataPolicyUrl": "https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy?tabs=azure-portal",
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": false
-            }
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": false,
-          "isAbortable": true,
-          "moderationRequired": false,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AzureOpenAIAdapter",
-          "isMultipartSupported": false,
-          "statusPageUrl": "https://status.azure.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Azure.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Azure",
-        "provider_slug": "azure",
-        "provider_model_id": "gpt-35-turbo",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "stop",
-          "frequency_penalty",
-          "presence_penalty",
-          "seed",
-          "logit_bias",
-          "logprobs",
-          "top_logprobs",
-          "response_format",
-          "structured_outputs"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "termsOfServiceURL": "https://www.microsoft.com/en-us/legal/terms-of-use?oneroute=true",
-          "privacyPolicyURL": "https://www.microsoft.com/en-us/privacy/privacystatement",
-          "dataPolicyUrl": "https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy?tabs=azure-portal",
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": false
-          },
-          "training": false,
-          "retainsPrompts": false
-        },
-        "pricing": {
-          "prompt": "0.000001",
-          "completion": "0.000002",
-          "image": "0",
-          "request": "0",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": false,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": false,
-        "has_chat_completions": true,
-        "features": {
-          "supports_document_url": null
-        },
-        "provider_region": null
-      },
-      "architecture": "GPT",
-      "created": "2024-01-25T00:00:00+00:00",
-      "displayName": "OpenAI: GPT-3.5 Turbo (older v0613)",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
-    },
-    {
-      "slug": "anthropic/claude-2",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-11-22T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude v2 (self-moderated)",
-      "short_name": "Claude v2 (self-moderated)",
-      "author": "anthropic",
-      "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
-      "model_version_group_id": null,
-      "context_length": 200000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-2",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "f7e14070-d80a-4dbf-b2eb-fac302b54f35",
-        "name": "Anthropic | anthropic/claude-2:beta",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-2",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2023-11-22T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude v2",
-          "short_name": "Claude v2",
-          "author": "anthropic",
-          "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
-          "model_version_group_id": null,
-          "context_length": 200000,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-2",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-2:beta",
-        "model_variant_permaslug": "anthropic/claude-2:beta",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-2.1",
-        "quantization": "unknown",
-        "variant": "beta",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.000008",
-          "completion": "0.000024",
-          "image": "0",
-          "request": "0",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": false,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_document_url": null
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2023-11-22T00:00:00+00:00",
-      "displayName": "Anthropic: Claude v2 (self-moderated)",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
-    },
-    {
-      "slug": "anthropic/claude-2",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-11-22T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude v2",
-      "short_name": "Claude v2",
-      "author": "anthropic",
-      "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
-      "model_version_group_id": null,
-      "context_length": 200000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-2",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "258ddc79-e520-4e68-8069-ea6771698c5a",
-        "name": "Anthropic | anthropic/claude-2",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-2",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2023-11-22T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude v2",
-          "short_name": "Claude v2",
-          "author": "anthropic",
-          "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
-          "model_version_group_id": null,
-          "context_length": 200000,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-2",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-2",
-        "model_variant_permaslug": "anthropic/claude-2",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-2.1",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.000008",
-          "completion": "0.000024",
-          "image": "0",
-          "request": "0",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": false,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_document_url": null
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2023-11-22T00:00:00+00:00",
-      "displayName": "Anthropic: Claude v2",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "anthropic/claude-2.1",
@@ -13106,7 +12858,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.1 (self-moderated)",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-2.1",
@@ -13272,7 +13024,339 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.1",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
+    },
+    {
+      "slug": "anthropic/claude-2",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-11-22T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude v2 (self-moderated)",
+      "short_name": "Claude v2 (self-moderated)",
+      "author": "anthropic",
+      "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
+      "model_version_group_id": null,
+      "context_length": 200000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-2",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "f7e14070-d80a-4dbf-b2eb-fac302b54f35",
+        "name": "Anthropic | anthropic/claude-2:beta",
+        "context_length": 200000,
+        "model": {
+          "slug": "anthropic/claude-2",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2023-11-22T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "Anthropic: Claude v2",
+          "short_name": "Claude v2",
+          "author": "anthropic",
+          "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
+          "model_version_group_id": null,
+          "context_length": 200000,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Claude",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "anthropic/claude-2",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "anthropic/claude-2:beta",
+        "model_variant_permaslug": "anthropic/claude-2:beta",
+        "adapter_name": "AnthropicMessageAdapter",
+        "provider_name": "Anthropic",
+        "provider_info": {
+          "name": "Anthropic",
+          "displayName": "Anthropic",
+          "slug": "anthropic",
+          "baseUrl": "https://api.anthropic.com/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            },
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "AnthropicMessageAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.anthropic.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/Anthropic.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "Anthropic",
+        "provider_slug": "anthropic",
+        "provider_model_id": "claude-2.1",
+        "quantization": "unknown",
+        "variant": "beta",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 4096,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "top_k",
+          "stop"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.000008",
+          "completion": "0.000024",
+          "image": "0",
+          "request": "0",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": false,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Claude",
+      "created": "2023-11-22T00:00:00+00:00",
+      "displayName": "Anthropic: Claude v2 (self-moderated)",
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
+    },
+    {
+      "slug": "anthropic/claude-2",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-11-22T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude v2",
+      "short_name": "Claude v2",
+      "author": "anthropic",
+      "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
+      "model_version_group_id": null,
+      "context_length": 200000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-2",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "258ddc79-e520-4e68-8069-ea6771698c5a",
+        "name": "Anthropic | anthropic/claude-2",
+        "context_length": 200000,
+        "model": {
+          "slug": "anthropic/claude-2",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2023-11-22T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "Anthropic: Claude v2",
+          "short_name": "Claude v2",
+          "author": "anthropic",
+          "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
+          "model_version_group_id": null,
+          "context_length": 200000,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Claude",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "anthropic/claude-2",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "anthropic/claude-2",
+        "model_variant_permaslug": "anthropic/claude-2",
+        "adapter_name": "AnthropicMessageAdapter",
+        "provider_name": "Anthropic",
+        "provider_info": {
+          "name": "Anthropic",
+          "displayName": "Anthropic",
+          "slug": "anthropic",
+          "baseUrl": "https://api.anthropic.com/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            },
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "AnthropicMessageAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.anthropic.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/Anthropic.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "Anthropic",
+        "provider_slug": "anthropic",
+        "provider_model_id": "claude-2.1",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 4096,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "top_k",
+          "stop"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.000008",
+          "completion": "0.000024",
+          "image": "0",
+          "request": "0",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": false,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Claude",
+      "created": "2023-11-22T00:00:00+00:00",
+      "displayName": "Anthropic: Claude v2",
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-instant-1.1",
@@ -13309,7 +13393,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.1",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "openai/gpt-4-vision-preview",
@@ -13345,7 +13429,7 @@
       "architecture": "GPT",
       "created": "2023-11-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Vision",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-4-1106-preview",
@@ -13519,7 +13603,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo (older v1106)",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-1106",
@@ -13554,7 +13638,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k (older v1106)",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-instruct",
@@ -13733,7 +13817,7 @@
       "architecture": "GPT",
       "created": "2023-09-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo Instruct",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-16k",
@@ -13906,7 +13990,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-4-32k",
@@ -13941,7 +14025,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-4-32k-0314",
@@ -13976,7 +14060,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k (older v0314)",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.521Z"
     },
     {
       "slug": "anthropic/claude-2.0",
@@ -14142,7 +14226,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.0 (self-moderated)",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-2.0",
@@ -14308,7 +14392,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.0",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-instant-1",
@@ -14343,44 +14427,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
-    },
-    {
-      "slug": "anthropic/claude-1.2",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-07-28T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude v1.2",
-      "short_name": "Claude v1.2",
-      "author": "anthropic",
-      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
-      "model_version_group_id": null,
-      "context_length": 100000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": "claude",
-      "default_system": null,
-      "default_stops": [
-        "\n\nHuman:"
-      ],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-1.2",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Claude",
-      "created": "2023-07-28T00:00:00+00:00",
-      "displayName": "Anthropic: Claude v1.2",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-1",
@@ -14417,7 +14464,44 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v1",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
+    },
+    {
+      "slug": "anthropic/claude-1.2",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-07-28T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude v1.2",
+      "short_name": "Claude v1.2",
+      "author": "anthropic",
+      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
+      "model_version_group_id": null,
+      "context_length": 100000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": "claude",
+      "default_system": null,
+      "default_stops": [
+        "\n\nHuman:"
+      ],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-1.2",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Claude",
+      "created": "2023-07-28T00:00:00+00:00",
+      "displayName": "Anthropic: Claude v1.2",
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "anthropic/claude-instant-1.0",
@@ -14454,7 +14538,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.0",
-      "fetchedAt": "2025-06-25T12:11:41.546Z"
+      "fetchedAt": "2025-06-26T08:09:19.654Z"
     },
     {
       "slug": "openai/gpt-4",
@@ -14627,7 +14711,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-4-0314",
@@ -14801,42 +14885,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 (older v0314)",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
-    },
-    {
-      "slug": "openai/gpt-3.5-turbo-0125",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-05-28T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: GPT-3.5 Turbo 16k",
-      "short_name": "GPT-3.5 Turbo 16k",
-      "author": "openai",
-      "description": "The latest GPT-3.5 Turbo model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Sep 2021.\n\nThis version has a higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls.",
-      "model_version_group_id": null,
-      "context_length": 16385,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "openai/gpt-3.5-turbo-0125",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "GPT",
-      "created": "2023-05-28T00:00:00+00:00",
-      "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.520Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo",
@@ -14871,7 +14920,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.521Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0301",
@@ -14906,7 +14955,42 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0301)",
-      "fetchedAt": "2025-06-25T12:11:41.412Z"
+      "fetchedAt": "2025-06-26T08:09:19.521Z"
+    },
+    {
+      "slug": "openai/gpt-3.5-turbo-0125",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-05-28T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: GPT-3.5 Turbo 16k",
+      "short_name": "GPT-3.5 Turbo 16k",
+      "author": "openai",
+      "description": "The latest GPT-3.5 Turbo model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Sep 2021.\n\nThis version has a higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls.",
+      "model_version_group_id": null,
+      "context_length": 16385,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "openai/gpt-3.5-turbo-0125",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "GPT",
+      "created": "2023-05-28T00:00:00+00:00",
+      "displayName": "OpenAI: GPT-3.5 Turbo 16k",
+      "fetchedAt": "2025-06-26T08:09:19.521Z"
     }
   ],
   "metadata": {
@@ -14916,7 +15000,7 @@
       "Claude": 30,
       "Gemini": 32
     },
-    "lastUpdated": "2025-06-25T12:11:41.697Z",
+    "lastUpdated": "2025-06-26T08:09:19.797Z",
     "errors": []
   }
 }
