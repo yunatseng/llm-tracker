@@ -185,7 +185,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T15:23:51.237783+00:00",
       "displayName": "Google: Gemini 2.5 Flash Lite Preview 06-17",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "google/gemini-2.5-flash",
@@ -374,7 +374,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T15:01:28.103313+00:00",
       "displayName": "Google: Gemini 2.5 Flash",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "google/gemini-2.5-pro",
@@ -573,7 +573,360 @@
       "architecture": "Gemini",
       "created": "2025-06-17T14:12:24+00:00",
       "displayName": "Google: Gemini 2.5 Pro",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
+    },
+    {
+      "slug": "x-ai/grok-3-mini",
+      "hf_slug": "",
+      "updated_at": "2025-06-20T16:21:24.856256+00:00",
+      "created_at": "2025-06-10T19:20:45.198136+00:00",
+      "hf_updated_at": null,
+      "name": "xAI: Grok 3 Mini",
+      "short_name": "Grok 3 Mini",
+      "author": "x-ai",
+      "description": "A lightweight model that thinks before responding. Fast, smart, and great for logic-based tasks that do not require deep domain knowledge. The raw thinking traces are accessible.",
+      "model_version_group_id": null,
+      "context_length": 131072,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Grok",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": "",
+      "permaslug": "x-ai/grok-3-mini",
+      "reasoning_config": null,
+      "features": null,
+      "endpoint": {
+        "id": "324a71d1-efb6-4cc7-a839-a614144dcee4",
+        "name": "xAI | x-ai/grok-3-mini",
+        "context_length": 131072,
+        "model": {
+          "slug": "x-ai/grok-3-mini",
+          "hf_slug": "",
+          "updated_at": "2025-06-20T16:21:24.856256+00:00",
+          "created_at": "2025-06-10T19:20:45.198136+00:00",
+          "hf_updated_at": null,
+          "name": "xAI: Grok 3 Mini",
+          "short_name": "Grok 3 Mini",
+          "author": "x-ai",
+          "description": "A lightweight model that thinks before responding. Fast, smart, and great for logic-based tasks that do not require deep domain knowledge. The raw thinking traces are accessible.",
+          "model_version_group_id": null,
+          "context_length": 131072,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Grok",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": "",
+          "permaslug": "x-ai/grok-3-mini",
+          "reasoning_config": null,
+          "features": null
+        },
+        "model_variant_slug": "x-ai/grok-3-mini",
+        "model_variant_permaslug": "x-ai/grok-3-mini",
+        "adapter_name": "XAIAdapter",
+        "provider_name": "xAI",
+        "provider_info": {
+          "name": "xAI",
+          "displayName": "xAI",
+          "slug": "xai",
+          "baseUrl": "https://api.x.ai/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+            "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            }
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": false,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "XAIAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.x.ai/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://x.ai/&size=256"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "xAI",
+        "provider_slug": "xai",
+        "provider_model_id": "grok-3-mini",
+        "quantization": null,
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": null,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "tools",
+          "tool_choice",
+          "reasoning",
+          "include_reasoning",
+          "structured_outputs",
+          "stop",
+          "seed",
+          "logprobs",
+          "top_logprobs",
+          "response_format"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+          "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.0000003",
+          "completion": "0.0000005",
+          "image": "0",
+          "request": "0",
+          "input_cache_read": "0.000000075",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": true,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "is_mandatory_reasoning": true,
+          "supported_parameters": {
+            "structured_outputs": true
+          },
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Grok",
+      "created": "2025-06-10T19:20:45.198136+00:00",
+      "displayName": "xAI: Grok 3 Mini",
+      "fetchedAt": "2025-07-02T15:59:03.806Z"
+    },
+    {
+      "slug": "x-ai/grok-3",
+      "hf_slug": "",
+      "updated_at": "2025-06-20T16:16:13.639097+00:00",
+      "created_at": "2025-06-10T19:15:08.007729+00:00",
+      "hf_updated_at": null,
+      "name": "xAI: Grok 3",
+      "short_name": "Grok 3",
+      "author": "x-ai",
+      "description": "Grok 3 is the latest model from xAI. It's their flagship model that excels at enterprise use cases like data extraction, coding, and text summarization. Possesses deep domain knowledge in finance, healthcare, law, and science.\n\n",
+      "model_version_group_id": null,
+      "context_length": 131072,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Grok",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": "",
+      "permaslug": "x-ai/grok-3",
+      "reasoning_config": null,
+      "features": null,
+      "endpoint": {
+        "id": "eb1e9632-32e1-4be3-97e9-36915a2e1762",
+        "name": "xAI | x-ai/grok-3",
+        "context_length": 131072,
+        "model": {
+          "slug": "x-ai/grok-3",
+          "hf_slug": "",
+          "updated_at": "2025-06-20T16:16:13.639097+00:00",
+          "created_at": "2025-06-10T19:15:08.007729+00:00",
+          "hf_updated_at": null,
+          "name": "xAI: Grok 3",
+          "short_name": "Grok 3",
+          "author": "x-ai",
+          "description": "Grok 3 is the latest model from xAI. It's their flagship model that excels at enterprise use cases like data extraction, coding, and text summarization. Possesses deep domain knowledge in finance, healthcare, law, and science.\n\n",
+          "model_version_group_id": null,
+          "context_length": 131072,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Grok",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": "",
+          "permaslug": "x-ai/grok-3",
+          "reasoning_config": null,
+          "features": null
+        },
+        "model_variant_slug": "x-ai/grok-3",
+        "model_variant_permaslug": "x-ai/grok-3",
+        "adapter_name": "XAIAdapter",
+        "provider_name": "xAI",
+        "provider_info": {
+          "name": "xAI",
+          "displayName": "xAI",
+          "slug": "xai",
+          "baseUrl": "https://api.x.ai/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+            "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            }
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": false,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "XAIAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.x.ai/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://x.ai/&size=256"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "xAI",
+        "provider_slug": "xai",
+        "provider_model_id": "grok-3",
+        "quantization": null,
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": null,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "tools",
+          "tool_choice",
+          "structured_outputs",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "seed",
+          "logprobs",
+          "top_logprobs",
+          "response_format"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+          "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.000003",
+          "completion": "0.000015",
+          "image": "0",
+          "request": "0",
+          "input_cache_read": "0.00000075",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supported_parameters": {
+            "structured_outputs": true
+          },
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Grok",
+      "created": "2025-06-10T19:15:08.007729+00:00",
+      "displayName": "xAI: Grok 3",
+      "fetchedAt": "2025-07-02T15:59:03.806Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview",
@@ -772,7 +1125,7 @@
       "architecture": "Gemini",
       "created": "2025-06-05T15:27:37.538116+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview 06-05",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "google/gemma-2b-it",
@@ -811,7 +1164,7 @@
       "architecture": "Gemini",
       "created": "2025-05-28T19:33:35.082388+00:00",
       "displayName": "Google: Gemma 1 2B",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "anthropic/claude-opus-4",
@@ -970,7 +1323,7 @@
         "supports_tool_parameters": true,
         "supports_reasoning": true,
         "supports_multipart": true,
-        "limit_rpm": null,
+        "limit_rpm": 45,
         "limit_rpd": null,
         "limit_rpm_cf": null,
         "has_completions": false,
@@ -984,7 +1337,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:27:25.029961+00:00",
       "displayName": "Anthropic: Claude Opus 4",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4",
@@ -1167,7 +1520,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:12:51.381897+00:00",
       "displayName": "Anthropic: Claude Sonnet 4",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview-05-20",
@@ -1356,7 +1709,7 @@
       "architecture": "Gemini",
       "created": "2025-05-20T17:25:24.343372+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 05-20",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview-05-20",
@@ -1545,7 +1898,7 @@
       "architecture": "Gemini",
       "created": "2025-05-20T17:25:24.343372+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 05-20 (thinking)",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "openai/codex-mini",
@@ -1718,7 +2071,7 @@
       "architecture": "GPT",
       "created": "2025-05-16T15:36:01.081688+00:00",
       "displayName": "OpenAI: Codex Mini",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview-05-06",
@@ -1918,7 +2271,7 @@
       "architecture": "Gemini",
       "created": "2025-05-07T00:41:53+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview 05-06",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview",
@@ -2107,7 +2460,7 @@
       "architecture": "Gemini",
       "created": "2025-04-17T18:31:07.815979+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 04-17",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview",
@@ -2296,7 +2649,7 @@
       "architecture": "Gemini",
       "created": "2025-04-17T18:31:07.815979+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 04-17 (thinking)",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "openai/gpt-4.1",
@@ -2493,7 +2846,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:05+00:00",
       "displayName": "OpenAI: GPT-4.1",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-4.1-mini",
@@ -2690,7 +3043,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:01+00:00",
       "displayName": "OpenAI: GPT-4.1 Mini",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-4.1-nano",
@@ -2870,7 +3223,353 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:22:49+00:00",
       "displayName": "OpenAI: GPT-4.1 Nano",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
+    },
+    {
+      "slug": "x-ai/grok-3-mini-beta",
+      "hf_slug": "",
+      "updated_at": "2025-04-10T00:40:58.337579+00:00",
+      "created_at": "2025-04-09T23:09:55.305821+00:00",
+      "hf_updated_at": null,
+      "name": "xAI: Grok 3 Mini Beta",
+      "short_name": "Grok 3 Mini Beta",
+      "author": "x-ai",
+      "description": "Grok 3 Mini is a lightweight, smaller thinking model. Unlike traditional models that generate answers immediately, Grok 3 Mini thinks before responding. It’s ideal for reasoning-heavy tasks that don’t demand extensive domain knowledge, and shines in math-specific and quantitative use cases, such as solving challenging puzzles or math problems.\n\nTransparent \"thinking\" traces accessible. Defaults to low reasoning, can boost with setting `reasoning: { effort: \"high\" }`\n\nNote: That there are two xAI endpoints for this model. By default when using this model we will always route you to the base endpoint. If you want the fast endpoint you can add `provider: { sort: throughput}`, to sort by throughput instead. \n",
+      "model_version_group_id": null,
+      "context_length": 131072,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Grok",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "x-ai/grok-3-mini-beta",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "e1b8a32c-6b6b-456b-91c9-ede164b895ad",
+        "name": "xAI | x-ai/grok-3-mini-beta",
+        "context_length": 131072,
+        "model": {
+          "slug": "x-ai/grok-3-mini-beta",
+          "hf_slug": "",
+          "updated_at": "2025-04-10T00:40:58.337579+00:00",
+          "created_at": "2025-04-09T23:09:55.305821+00:00",
+          "hf_updated_at": null,
+          "name": "xAI: Grok 3 Mini Beta",
+          "short_name": "Grok 3 Mini Beta",
+          "author": "x-ai",
+          "description": "Grok 3 Mini is a lightweight, smaller thinking model. Unlike traditional models that generate answers immediately, Grok 3 Mini thinks before responding. It’s ideal for reasoning-heavy tasks that don’t demand extensive domain knowledge, and shines in math-specific and quantitative use cases, such as solving challenging puzzles or math problems.\n\nTransparent \"thinking\" traces accessible. Defaults to low reasoning, can boost with setting `reasoning: { effort: \"high\" }`\n\nNote: That there are two xAI endpoints for this model. By default when using this model we will always route you to the base endpoint. If you want the fast endpoint you can add `provider: { sort: throughput}`, to sort by throughput instead. \n",
+          "model_version_group_id": null,
+          "context_length": 131072,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Grok",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "x-ai/grok-3-mini-beta",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "x-ai/grok-3-mini-beta",
+        "model_variant_permaslug": "x-ai/grok-3-mini-beta",
+        "adapter_name": "XAIAdapter",
+        "provider_name": "xAI",
+        "provider_info": {
+          "name": "xAI",
+          "displayName": "xAI",
+          "slug": "xai",
+          "baseUrl": "https://api.x.ai/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+            "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            }
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": false,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "XAIAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.x.ai/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://x.ai/&size=256"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "xAI",
+        "provider_slug": "xai",
+        "provider_model_id": "grok-3-mini-beta",
+        "quantization": null,
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": null,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "tools",
+          "tool_choice",
+          "reasoning",
+          "include_reasoning",
+          "stop",
+          "seed",
+          "logprobs",
+          "top_logprobs",
+          "response_format"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+          "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.0000003",
+          "completion": "0.0000005",
+          "image": "0",
+          "request": "0",
+          "input_cache_read": "0.000000075",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": true,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supported_parameters": {},
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Grok",
+      "created": "2025-04-09T23:09:55.305821+00:00",
+      "displayName": "xAI: Grok 3 Mini Beta",
+      "fetchedAt": "2025-07-02T15:59:03.806Z"
+    },
+    {
+      "slug": "x-ai/grok-3-beta",
+      "hf_slug": "",
+      "updated_at": "2025-04-18T22:22:00.948066+00:00",
+      "created_at": "2025-04-09T23:07:48.450334+00:00",
+      "hf_updated_at": null,
+      "name": "xAI: Grok 3 Beta",
+      "short_name": "Grok 3 Beta",
+      "author": "x-ai",
+      "description": "Grok 3 is the latest model from xAI. It's their flagship model that excels at enterprise use cases like data extraction, coding, and text summarization. Possesses deep domain knowledge in finance, healthcare, law, and science.\n\nExcels in structured tasks and benchmarks like GPQA, LCB, and MMLU-Pro where it outperforms Grok 3 Mini even on high thinking. \n\nNote: That there are two xAI endpoints for this model. By default when using this model we will always route you to the base endpoint. If you want the fast endpoint you can add `provider: { sort: throughput}`, to sort by throughput instead. \n",
+      "model_version_group_id": null,
+      "context_length": 131072,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Grok",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "x-ai/grok-3-beta",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "ac4e073c-740f-4e9f-9e38-bde83e4ab515",
+        "name": "xAI | x-ai/grok-3-beta",
+        "context_length": 131072,
+        "model": {
+          "slug": "x-ai/grok-3-beta",
+          "hf_slug": "",
+          "updated_at": "2025-04-18T22:22:00.948066+00:00",
+          "created_at": "2025-04-09T23:07:48.450334+00:00",
+          "hf_updated_at": null,
+          "name": "xAI: Grok 3 Beta",
+          "short_name": "Grok 3 Beta",
+          "author": "x-ai",
+          "description": "Grok 3 is the latest model from xAI. It's their flagship model that excels at enterprise use cases like data extraction, coding, and text summarization. Possesses deep domain knowledge in finance, healthcare, law, and science.\n\nExcels in structured tasks and benchmarks like GPQA, LCB, and MMLU-Pro where it outperforms Grok 3 Mini even on high thinking. \n\nNote: That there are two xAI endpoints for this model. By default when using this model we will always route you to the base endpoint. If you want the fast endpoint you can add `provider: { sort: throughput}`, to sort by throughput instead. \n",
+          "model_version_group_id": null,
+          "context_length": 131072,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Grok",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "x-ai/grok-3-beta",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "x-ai/grok-3-beta",
+        "model_variant_permaslug": "x-ai/grok-3-beta",
+        "adapter_name": "XAIAdapter",
+        "provider_name": "xAI",
+        "provider_info": {
+          "name": "xAI",
+          "displayName": "xAI",
+          "slug": "xai",
+          "baseUrl": "https://api.x.ai/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+            "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            }
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": false,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "XAIAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.x.ai/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://x.ai/&size=256"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "xAI",
+        "provider_slug": "xai",
+        "provider_model_id": "grok-3-beta",
+        "quantization": null,
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": null,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "tools",
+          "tool_choice",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "seed",
+          "logprobs",
+          "top_logprobs",
+          "response_format"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+          "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.000003",
+          "completion": "0.000015",
+          "image": "0",
+          "request": "0",
+          "input_cache_read": "0.00000075",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supported_parameters": {},
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Grok",
+      "created": "2025-04-09T23:07:48.450334+00:00",
+      "displayName": "xAI: Grok 3 Beta",
+      "fetchedAt": "2025-07-02T15:59:03.806Z"
     },
     {
       "slug": "google/gemini-2.5-pro-exp-03-25",
@@ -3055,7 +3754,7 @@
       "architecture": "Gemini",
       "created": "2025-03-25T17:01:39.919989+00:00",
       "displayName": "Google: Gemini 2.5 Pro Experimental",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "openai/o1-pro",
@@ -3221,7 +3920,7 @@
       "architecture": "GPT",
       "created": "2025-03-19T22:26:51.610039+00:00",
       "displayName": "OpenAI: o1-pro",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "google/gemma-3-1b-it",
@@ -3261,7 +3960,7 @@
       "architecture": "Gemini",
       "created": "2025-03-14T14:45:56.842499+00:00",
       "displayName": "Google: Gemma 3 1B",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -3458,7 +4157,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B (free)",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -3674,7 +4373,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -3854,7 +4553,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B (free)",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -4070,7 +4769,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "openai/gpt-4o-mini-search-preview",
@@ -4250,7 +4949,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:22:02.718344+00:00",
       "displayName": "OpenAI: GPT-4o-mini Search Preview",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-4o-search-preview",
@@ -4430,7 +5129,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:19:09.996816+00:00",
       "displayName": "OpenAI: GPT-4o Search Preview",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -4610,7 +5309,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B (free)",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -4783,7 +5482,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "openai/gpt-4.5-preview",
@@ -4960,7 +5659,7 @@
       "architecture": "GPT",
       "created": "2025-02-27T20:23:30.841555+00:00",
       "displayName": "OpenAI: GPT-4.5 (Preview)",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "google/gemini-2.0-flash-lite-001",
@@ -5144,7 +5843,7 @@
       "architecture": "Gemini",
       "created": "2025-02-25T17:56:52.206054+00:00",
       "displayName": "Google: Gemini 2.0 Flash Lite",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -5327,7 +6026,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -5500,7 +6199,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (self-moderated)",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -5673,7 +6372,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (thinking)",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "google/gemini-2.0-flash-001",
@@ -5866,7 +6565,7 @@
       "architecture": "Gemini",
       "created": "2025-02-05T15:30:13.144552+00:00",
       "displayName": "Google: Gemini 2.0 Flash",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "openai/o1",
@@ -6035,7 +6734,349 @@
       "architecture": "GPT",
       "created": "2024-12-17T18:26:39.576639+00:00",
       "displayName": "OpenAI: o1",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
+    },
+    {
+      "slug": "x-ai/grok-2-vision-1212",
+      "hf_slug": "",
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-12-15T04:35:38.489105+00:00",
+      "hf_updated_at": null,
+      "name": "xAI: Grok 2 Vision 1212",
+      "short_name": "Grok 2 Vision 1212",
+      "author": "x-ai",
+      "description": "Grok 2 Vision 1212 advances image-based AI with stronger visual comprehension, refined instruction-following, and multilingual support. From object recognition to style analysis, it empowers developers to build more intuitive, visually aware applications. Its enhanced steerability and reasoning establish a robust foundation for next-generation image solutions.\n\nTo read more about this model, check out [xAI's announcement](https://x.ai/blog/grok-1212).",
+      "model_version_group_id": null,
+      "context_length": 32768,
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Grok",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "x-ai/grok-2-vision-1212",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "088736e1-6d9a-49c8-ae86-f7b87c100a32",
+        "name": "xAI | x-ai/grok-2-vision-1212",
+        "context_length": 32768,
+        "model": {
+          "slug": "x-ai/grok-2-vision-1212",
+          "hf_slug": "",
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-12-15T04:35:38.489105+00:00",
+          "hf_updated_at": null,
+          "name": "xAI: Grok 2 Vision 1212",
+          "short_name": "Grok 2 Vision 1212",
+          "author": "x-ai",
+          "description": "Grok 2 Vision 1212 advances image-based AI with stronger visual comprehension, refined instruction-following, and multilingual support. From object recognition to style analysis, it empowers developers to build more intuitive, visually aware applications. Its enhanced steerability and reasoning establish a robust foundation for next-generation image solutions.\n\nTo read more about this model, check out [xAI's announcement](https://x.ai/blog/grok-1212).",
+          "model_version_group_id": null,
+          "context_length": 32768,
+          "input_modalities": [
+            "text",
+            "image"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Grok",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "x-ai/grok-2-vision-1212",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "x-ai/grok-2-vision-1212",
+        "model_variant_permaslug": "x-ai/grok-2-vision-1212",
+        "adapter_name": "XAIAdapter",
+        "provider_name": "xAI",
+        "provider_info": {
+          "name": "xAI",
+          "displayName": "xAI",
+          "slug": "xai",
+          "baseUrl": "https://api.x.ai/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+            "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            }
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": false,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "XAIAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.x.ai/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://x.ai/&size=256"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "xAI",
+        "provider_slug": "xai",
+        "provider_model_id": "grok-2-vision-1212",
+        "quantization": null,
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": null,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "seed",
+          "logprobs",
+          "top_logprobs",
+          "response_format"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+          "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.000002",
+          "completion": "0.00001",
+          "image": "0.0036",
+          "request": "0",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": false,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Grok",
+      "created": "2024-12-15T04:35:38.489105+00:00",
+      "displayName": "xAI: Grok 2 Vision 1212",
+      "fetchedAt": "2025-07-02T15:59:03.806Z"
+    },
+    {
+      "slug": "x-ai/grok-2-1212",
+      "hf_slug": "",
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-12-15T03:20:14.161318+00:00",
+      "hf_updated_at": null,
+      "name": "xAI: Grok 2 1212",
+      "short_name": "Grok 2 1212",
+      "author": "x-ai",
+      "description": "Grok 2 1212 introduces significant enhancements to accuracy, instruction adherence, and multilingual support, making it a powerful and flexible choice for developers seeking a highly steerable, intelligent model.",
+      "model_version_group_id": null,
+      "context_length": 131072,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Grok",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "x-ai/grok-2-1212",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "9d94b368-75f7-44b1-a056-f8a1240da545",
+        "name": "xAI | x-ai/grok-2-1212",
+        "context_length": 131072,
+        "model": {
+          "slug": "x-ai/grok-2-1212",
+          "hf_slug": "",
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-12-15T03:20:14.161318+00:00",
+          "hf_updated_at": null,
+          "name": "xAI: Grok 2 1212",
+          "short_name": "Grok 2 1212",
+          "author": "x-ai",
+          "description": "Grok 2 1212 introduces significant enhancements to accuracy, instruction adherence, and multilingual support, making it a powerful and flexible choice for developers seeking a highly steerable, intelligent model.",
+          "model_version_group_id": null,
+          "context_length": 131072,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Grok",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "x-ai/grok-2-1212",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "x-ai/grok-2-1212",
+        "model_variant_permaslug": "x-ai/grok-2-1212",
+        "adapter_name": "XAIAdapter",
+        "provider_name": "xAI",
+        "provider_info": {
+          "name": "xAI",
+          "displayName": "xAI",
+          "slug": "xai",
+          "baseUrl": "https://api.x.ai/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+            "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            }
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": false,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "XAIAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.x.ai/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://x.ai/&size=256"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "xAI",
+        "provider_slug": "xai",
+        "provider_model_id": "grok-2-1212",
+        "quantization": null,
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": null,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "tools",
+          "tool_choice",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "seed",
+          "logprobs",
+          "top_logprobs",
+          "response_format"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+          "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.000002",
+          "completion": "0.00001",
+          "image": "0",
+          "request": "0",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Grok",
+      "created": "2024-12-15T03:20:14.161318+00:00",
+      "displayName": "xAI: Grok 2 1212",
+      "fetchedAt": "2025-07-02T15:59:03.806Z"
     },
     {
       "slug": "google/gemini-2.0-flash-exp",
@@ -6212,7 +7253,7 @@
       "architecture": "Gemini",
       "created": "2024-12-11T17:18:43.999311+00:00",
       "displayName": "Google: Gemini 2.0 Flash Experimental (free)",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "google/gemini-exp-1121",
@@ -6248,7 +7289,7 @@
       "architecture": "Gemini",
       "created": "2024-11-21T19:18:45.23737+00:00",
       "displayName": "Google: Gemini Experimental 1121",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "openai/gpt-4o-2024-11-20",
@@ -6444,7 +7485,178 @@
       "architecture": "GPT",
       "created": "2024-11-20T18:33:14.771895+00:00",
       "displayName": "OpenAI: GPT-4o (2024-11-20)",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
+    },
+    {
+      "slug": "x-ai/grok-vision-beta",
+      "hf_slug": "",
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-11-19T00:37:04.585936+00:00",
+      "hf_updated_at": null,
+      "name": "xAI: Grok Vision Beta",
+      "short_name": "Grok Vision Beta",
+      "author": "x-ai",
+      "description": "Grok Vision Beta is xAI's experimental language model with vision capability.\n\n",
+      "model_version_group_id": null,
+      "context_length": 8192,
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Grok",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "x-ai/grok-vision-beta",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "641fa158-ffaa-45e0-a7cd-8d51bef6213b",
+        "name": "xAI | x-ai/grok-vision-beta",
+        "context_length": 8192,
+        "model": {
+          "slug": "x-ai/grok-vision-beta",
+          "hf_slug": "",
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-11-19T00:37:04.585936+00:00",
+          "hf_updated_at": null,
+          "name": "xAI: Grok Vision Beta",
+          "short_name": "Grok Vision Beta",
+          "author": "x-ai",
+          "description": "Grok Vision Beta is xAI's experimental language model with vision capability.\n\n",
+          "model_version_group_id": null,
+          "context_length": 8192,
+          "input_modalities": [
+            "text",
+            "image"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Grok",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "x-ai/grok-vision-beta",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "x-ai/grok-vision-beta",
+        "model_variant_permaslug": "x-ai/grok-vision-beta",
+        "adapter_name": "XAIAdapter",
+        "provider_name": "xAI",
+        "provider_info": {
+          "name": "xAI",
+          "displayName": "xAI",
+          "slug": "xai",
+          "baseUrl": "https://api.x.ai/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+            "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            }
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": false,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "XAIAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.x.ai/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://x.ai/&size=256"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "xAI",
+        "provider_slug": "xai",
+        "provider_model_id": "grok-vision-beta",
+        "quantization": null,
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": null,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "seed",
+          "logprobs",
+          "top_logprobs",
+          "response_format"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+          "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.000005",
+          "completion": "0.000015",
+          "image": "0.009",
+          "request": "0",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": false,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Grok",
+      "created": "2024-11-19T00:37:04.585936+00:00",
+      "displayName": "xAI: Grok Vision Beta",
+      "fetchedAt": "2025-07-02T15:59:03.806Z"
     },
     {
       "slug": "google/gemini-exp-1114",
@@ -6480,351 +7692,7 @@
       "architecture": "Gemini",
       "created": "2024-11-15T23:52:20.203831+00:00",
       "displayName": "Google: Gemini Experimental 1114",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
-    },
-    {
-      "slug": "anthropic/claude-3.5-haiku",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-11-04T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude 3.5 Haiku (self-moderated)",
-      "short_name": "Claude 3.5 Haiku (self-moderated)",
-      "author": "anthropic",
-      "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
-      "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
-      "context_length": 200000,
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-3-5-haiku",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "e40c1746-bcb1-4237-b024-519df8cb4a3f",
-        "name": "Anthropic | anthropic/claude-3-5-haiku:beta",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-3.5-haiku",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-11-04T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude 3.5 Haiku",
-          "short_name": "Claude 3.5 Haiku",
-          "author": "anthropic",
-          "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
-          "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
-          "context_length": 200000,
-          "input_modalities": [
-            "text",
-            "image"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-3-5-haiku",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-3.5-haiku:beta",
-        "model_variant_permaslug": "anthropic/claude-3-5-haiku:beta",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-3-5-haiku-20241022",
-        "quantization": "unknown",
-        "variant": "beta",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 8192,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "tools",
-          "tool_choice",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.0000008",
-          "completion": "0.000004",
-          "image": "0",
-          "request": "0",
-          "input_cache_read": "0.00000008",
-          "input_cache_write": "0.000001",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_document_url": null
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2024-11-04T00:00:00+00:00",
-      "displayName": "Anthropic: Claude 3.5 Haiku (self-moderated)",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
-    },
-    {
-      "slug": "anthropic/claude-3.5-haiku",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-11-04T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude 3.5 Haiku",
-      "short_name": "Claude 3.5 Haiku",
-      "author": "anthropic",
-      "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
-      "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
-      "context_length": 200000,
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-3-5-haiku",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "ced809d4-9715-4634-8b4d-ea0e09d6bb85",
-        "name": "Anthropic | anthropic/claude-3-5-haiku",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-3.5-haiku",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-11-04T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude 3.5 Haiku",
-          "short_name": "Claude 3.5 Haiku",
-          "author": "anthropic",
-          "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
-          "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
-          "context_length": 200000,
-          "input_modalities": [
-            "text",
-            "image"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-3-5-haiku",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-3.5-haiku",
-        "model_variant_permaslug": "anthropic/claude-3-5-haiku",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-3-5-haiku-20241022",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 8192,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "tools",
-          "tool_choice",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.0000008",
-          "completion": "0.000004",
-          "image": "0",
-          "request": "0",
-          "input_cache_read": "0.00000008",
-          "input_cache_write": "0.000001",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_document_url": null
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2024-11-04T00:00:00+00:00",
-      "displayName": "Anthropic: Claude 3.5 Haiku",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku-20241022",
@@ -6996,7 +7864,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (2024-10-22) (self-moderated)",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku-20241022",
@@ -7168,7 +8036,351 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (2024-10-22)",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
+    },
+    {
+      "slug": "anthropic/claude-3.5-haiku",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-11-04T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude 3.5 Haiku (self-moderated)",
+      "short_name": "Claude 3.5 Haiku (self-moderated)",
+      "author": "anthropic",
+      "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
+      "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
+      "context_length": 200000,
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-3-5-haiku",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "e40c1746-bcb1-4237-b024-519df8cb4a3f",
+        "name": "Anthropic | anthropic/claude-3-5-haiku:beta",
+        "context_length": 200000,
+        "model": {
+          "slug": "anthropic/claude-3.5-haiku",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-11-04T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "Anthropic: Claude 3.5 Haiku",
+          "short_name": "Claude 3.5 Haiku",
+          "author": "anthropic",
+          "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
+          "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
+          "context_length": 200000,
+          "input_modalities": [
+            "text",
+            "image"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Claude",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "anthropic/claude-3-5-haiku",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "anthropic/claude-3.5-haiku:beta",
+        "model_variant_permaslug": "anthropic/claude-3-5-haiku:beta",
+        "adapter_name": "AnthropicMessageAdapter",
+        "provider_name": "Anthropic",
+        "provider_info": {
+          "name": "Anthropic",
+          "displayName": "Anthropic",
+          "slug": "anthropic",
+          "baseUrl": "https://api.anthropic.com/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            },
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "AnthropicMessageAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.anthropic.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/Anthropic.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "Anthropic",
+        "provider_slug": "anthropic",
+        "provider_model_id": "claude-3-5-haiku-20241022",
+        "quantization": "unknown",
+        "variant": "beta",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 8192,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "tools",
+          "tool_choice",
+          "top_k",
+          "stop"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.0000008",
+          "completion": "0.000004",
+          "image": "0",
+          "request": "0",
+          "input_cache_read": "0.00000008",
+          "input_cache_write": "0.000001",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Claude",
+      "created": "2024-11-04T00:00:00+00:00",
+      "displayName": "Anthropic: Claude 3.5 Haiku (self-moderated)",
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
+    },
+    {
+      "slug": "anthropic/claude-3.5-haiku",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-11-04T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude 3.5 Haiku",
+      "short_name": "Claude 3.5 Haiku",
+      "author": "anthropic",
+      "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
+      "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
+      "context_length": 200000,
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-3-5-haiku",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "ced809d4-9715-4634-8b4d-ea0e09d6bb85",
+        "name": "Anthropic | anthropic/claude-3-5-haiku",
+        "context_length": 200000,
+        "model": {
+          "slug": "anthropic/claude-3.5-haiku",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-11-04T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "Anthropic: Claude 3.5 Haiku",
+          "short_name": "Claude 3.5 Haiku",
+          "author": "anthropic",
+          "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
+          "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
+          "context_length": 200000,
+          "input_modalities": [
+            "text",
+            "image"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Claude",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "anthropic/claude-3-5-haiku",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "anthropic/claude-3.5-haiku",
+        "model_variant_permaslug": "anthropic/claude-3-5-haiku",
+        "adapter_name": "AnthropicMessageAdapter",
+        "provider_name": "Anthropic",
+        "provider_info": {
+          "name": "Anthropic",
+          "displayName": "Anthropic",
+          "slug": "anthropic",
+          "baseUrl": "https://api.anthropic.com/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            },
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "AnthropicMessageAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.anthropic.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/Anthropic.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "Anthropic",
+        "provider_slug": "anthropic",
+        "provider_model_id": "claude-3-5-haiku-20241022",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 8192,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "tools",
+          "tool_choice",
+          "top_k",
+          "stop"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.0000008",
+          "completion": "0.000004",
+          "image": "0",
+          "request": "0",
+          "input_cache_read": "0.00000008",
+          "input_cache_write": "0.000001",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Claude",
+      "created": "2024-11-04T00:00:00+00:00",
+      "displayName": "Anthropic: Claude 3.5 Haiku",
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -7340,7 +8552,7 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (self-moderated)",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -7512,7 +8724,248 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
+    },
+    {
+      "slug": "x-ai/grok-beta",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-10-20T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "xAI: Grok Beta",
+      "short_name": "Grok Beta",
+      "author": "x-ai",
+      "description": "Grok Beta is xAI's experimental language model with state-of-the-art reasoning capabilities, best for complex and multi-step use cases.\n\nIt is the successor of [Grok 2](https://x.ai/blog/grok-2) with enhanced context length.",
+      "model_version_group_id": null,
+      "context_length": 131072,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Grok",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "x-ai/grok-beta",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "7f10aaf2-5317-4238-b4be-212fe355d24c",
+        "name": "xAI | x-ai/grok-beta",
+        "context_length": 131072,
+        "model": {
+          "slug": "x-ai/grok-beta",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-10-20T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "xAI: Grok Beta",
+          "short_name": "Grok Beta",
+          "author": "x-ai",
+          "description": "Grok Beta is xAI's experimental language model with state-of-the-art reasoning capabilities, best for complex and multi-step use cases.\n\nIt is the successor of [Grok 2](https://x.ai/blog/grok-2) with enhanced context length.",
+          "model_version_group_id": null,
+          "context_length": 131072,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Grok",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "x-ai/grok-beta",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "x-ai/grok-beta",
+        "model_variant_permaslug": "x-ai/grok-beta",
+        "adapter_name": "XAIAdapter",
+        "provider_name": "xAI",
+        "provider_info": {
+          "name": "xAI",
+          "displayName": "xAI",
+          "slug": "xai",
+          "baseUrl": "https://api.x.ai/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+            "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            }
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": false,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "XAIAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.x.ai/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://x.ai/&size=256"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "xAI",
+        "provider_slug": "xai",
+        "provider_model_id": "grok-beta",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": null,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "tools",
+          "tool_choice",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "seed",
+          "logprobs",
+          "top_logprobs",
+          "response_format"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "termsOfServiceURL": "https://x.ai/legal/terms-of-service",
+          "privacyPolicyURL": "https://x.ai/legal/privacy-policy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.000005",
+          "completion": "0.000015",
+          "image": "0",
+          "request": "0",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Grok",
+      "created": "2024-10-20T00:00:00+00:00",
+      "displayName": "xAI: Grok Beta",
+      "fetchedAt": "2025-07-02T15:59:03.806Z"
+    },
+    {
+      "slug": "x-ai/grok-2-mini",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-10-12T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "xAI: Grok 2 mini",
+      "short_name": "Grok 2 mini",
+      "author": "x-ai",
+      "description": "Grok 2 Mini is xAI's fast, lightweight language model that offers a balance between speed and answer quality.\n\nTo use the stronger model, see [Grok Beta](/x-ai/grok-beta).\n\nFor more information, see the [launch announcement](https://x.ai/blog/grok-2).",
+      "model_version_group_id": null,
+      "context_length": 32768,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Grok",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "x-ai/grok-2-mini",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Grok",
+      "created": "2024-10-12T00:00:00+00:00",
+      "displayName": "xAI: Grok 2 mini",
+      "fetchedAt": "2025-07-02T15:59:03.806Z"
+    },
+    {
+      "slug": "x-ai/grok-2",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-10-12T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "xAI: Grok 2",
+      "short_name": "Grok 2",
+      "author": "x-ai",
+      "description": "Grok 2 is xAI's frontier language model with state-of-the-art reasoning capabilities, best for complex and multi-step use cases.\n\nTo use a faster version, see [Grok 2 Mini](/x-ai/grok-2-mini).\n\nFor more information, see the [launch announcement](https://x.ai/blog/grok-2).",
+      "model_version_group_id": null,
+      "context_length": 32768,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Grok",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "x-ai/grok-2",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Grok",
+      "created": "2024-10-12T00:00:00+00:00",
+      "displayName": "xAI: Grok 2",
+      "fetchedAt": "2025-07-02T15:59:03.806Z"
     },
     {
       "slug": "google/gemini-flash-1.5-8b",
@@ -7716,7 +9169,7 @@
       "architecture": "Gemini",
       "created": "2024-10-03T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash 8B",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "openai/o1-preview",
@@ -7879,7 +9332,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/o1-preview-2024-09-12",
@@ -8042,7 +9495,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview (2024-09-12)",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/o1-mini",
@@ -8205,7 +9658,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-mini",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/o1-mini-2024-09-12",
@@ -8368,7 +9821,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-mini (2024-09-12)",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "google/gemini-flash-1.5-exp",
@@ -8404,7 +9857,7 @@
       "architecture": "Gemini",
       "created": "2024-08-28T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash Experimental",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "openai/chatgpt-4o-latest",
@@ -8578,7 +10031,7 @@
       "architecture": "GPT",
       "created": "2024-08-14T00:00:00+00:00",
       "displayName": "OpenAI: ChatGPT-4o",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-4o-2024-08-06",
@@ -8772,7 +10225,7 @@
       "architecture": "GPT",
       "created": "2024-08-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-08-06)",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "google/gemini-pro-1.5-exp",
@@ -8808,7 +10261,7 @@
       "architecture": "Gemini",
       "created": "2024-08-01T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro Experimental",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "openai/gpt-4o-mini",
@@ -9004,7 +10457,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-4o-mini-2024-07-18",
@@ -9200,7 +10653,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini (2024-07-18)",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "google/gemma-2-27b-it",
@@ -9382,7 +10835,7 @@
       "architecture": "Gemini",
       "created": "2024-07-13T00:00:00+00:00",
       "displayName": "Google: Gemma 2 27B",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -9560,7 +11013,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B (free)",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -9735,7 +11188,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -9907,7 +11360,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20) (self-moderated)",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -10079,7 +11532,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20)",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "google/gemini-flash-1.5",
@@ -10275,7 +11728,7 @@
       "architecture": "Gemini",
       "created": "2024-05-14T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash ",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -10471,7 +11924,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -10666,7 +12119,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (extended)",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-4o-2024-05-13",
@@ -10861,7 +12314,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-05-13)",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-4-turbo",
@@ -11036,7 +12489,7 @@
       "architecture": "GPT",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "google/gemini-pro-1.5",
@@ -11228,7 +12681,7 @@
       "architecture": "Gemini",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -11400,7 +12853,7 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku (self-moderated)",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -11572,351 +13025,7 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
-    },
-    {
-      "slug": "anthropic/claude-3-opus",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-03-05T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude 3 Opus (self-moderated)",
-      "short_name": "Claude 3 Opus (self-moderated)",
-      "author": "anthropic",
-      "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
-      "model_version_group_id": null,
-      "context_length": 200000,
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-3-opus",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "27446213-0c2c-4ea3-86da-85910b4ef823",
-        "name": "Anthropic | anthropic/claude-3-opus:beta",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-3-opus",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-03-05T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude 3 Opus",
-          "short_name": "Claude 3 Opus",
-          "author": "anthropic",
-          "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
-          "model_version_group_id": null,
-          "context_length": 200000,
-          "input_modalities": [
-            "text",
-            "image"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-3-opus",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-3-opus:beta",
-        "model_variant_permaslug": "anthropic/claude-3-opus:beta",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-3-opus-20240229",
-        "quantization": "unknown",
-        "variant": "beta",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "tools",
-          "tool_choice",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.000015",
-          "completion": "0.000075",
-          "image": "0.024",
-          "request": "0",
-          "input_cache_read": "0.0000015",
-          "input_cache_write": "0.00001875",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_document_url": null
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2024-03-05T00:00:00+00:00",
-      "displayName": "Anthropic: Claude 3 Opus (self-moderated)",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
-    },
-    {
-      "slug": "anthropic/claude-3-opus",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-03-05T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude 3 Opus",
-      "short_name": "Claude 3 Opus",
-      "author": "anthropic",
-      "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
-      "model_version_group_id": null,
-      "context_length": 200000,
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-3-opus",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "ee74a4e0-2863-4f51-99a5-997c31c48ae7",
-        "name": "Anthropic | anthropic/claude-3-opus",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-3-opus",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-03-05T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude 3 Opus",
-          "short_name": "Claude 3 Opus",
-          "author": "anthropic",
-          "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
-          "model_version_group_id": null,
-          "context_length": 200000,
-          "input_modalities": [
-            "text",
-            "image"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-3-opus",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-3-opus",
-        "model_variant_permaslug": "anthropic/claude-3-opus",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-3-opus-20240229",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "tools",
-          "tool_choice",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.000015",
-          "completion": "0.000075",
-          "image": "0.024",
-          "request": "0",
-          "input_cache_read": "0.0000015",
-          "input_cache_write": "0.00001875",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_document_url": null
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2024-03-05T00:00:00+00:00",
-      "displayName": "Anthropic: Claude 3 Opus",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "anthropic/claude-3-sonnet",
@@ -12088,7 +13197,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Sonnet (self-moderated)",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "anthropic/claude-3-sonnet",
@@ -12260,7 +13369,351 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Sonnet",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
+    },
+    {
+      "slug": "anthropic/claude-3-opus",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-03-05T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude 3 Opus (self-moderated)",
+      "short_name": "Claude 3 Opus (self-moderated)",
+      "author": "anthropic",
+      "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
+      "model_version_group_id": null,
+      "context_length": 200000,
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-3-opus",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "27446213-0c2c-4ea3-86da-85910b4ef823",
+        "name": "Anthropic | anthropic/claude-3-opus:beta",
+        "context_length": 200000,
+        "model": {
+          "slug": "anthropic/claude-3-opus",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-03-05T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "Anthropic: Claude 3 Opus",
+          "short_name": "Claude 3 Opus",
+          "author": "anthropic",
+          "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
+          "model_version_group_id": null,
+          "context_length": 200000,
+          "input_modalities": [
+            "text",
+            "image"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Claude",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "anthropic/claude-3-opus",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "anthropic/claude-3-opus:beta",
+        "model_variant_permaslug": "anthropic/claude-3-opus:beta",
+        "adapter_name": "AnthropicMessageAdapter",
+        "provider_name": "Anthropic",
+        "provider_info": {
+          "name": "Anthropic",
+          "displayName": "Anthropic",
+          "slug": "anthropic",
+          "baseUrl": "https://api.anthropic.com/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            },
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "AnthropicMessageAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.anthropic.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/Anthropic.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "Anthropic",
+        "provider_slug": "anthropic",
+        "provider_model_id": "claude-3-opus-20240229",
+        "quantization": "unknown",
+        "variant": "beta",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 4096,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "tools",
+          "tool_choice",
+          "top_k",
+          "stop"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.000015",
+          "completion": "0.000075",
+          "image": "0.024",
+          "request": "0",
+          "input_cache_read": "0.0000015",
+          "input_cache_write": "0.00001875",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Claude",
+      "created": "2024-03-05T00:00:00+00:00",
+      "displayName": "Anthropic: Claude 3 Opus (self-moderated)",
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
+    },
+    {
+      "slug": "anthropic/claude-3-opus",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-03-05T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude 3 Opus",
+      "short_name": "Claude 3 Opus",
+      "author": "anthropic",
+      "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
+      "model_version_group_id": null,
+      "context_length": 200000,
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-3-opus",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "ee74a4e0-2863-4f51-99a5-997c31c48ae7",
+        "name": "Anthropic | anthropic/claude-3-opus",
+        "context_length": 200000,
+        "model": {
+          "slug": "anthropic/claude-3-opus",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-03-05T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "Anthropic: Claude 3 Opus",
+          "short_name": "Claude 3 Opus",
+          "author": "anthropic",
+          "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
+          "model_version_group_id": null,
+          "context_length": 200000,
+          "input_modalities": [
+            "text",
+            "image"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Claude",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "anthropic/claude-3-opus",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "anthropic/claude-3-opus",
+        "model_variant_permaslug": "anthropic/claude-3-opus",
+        "adapter_name": "AnthropicMessageAdapter",
+        "provider_name": "Anthropic",
+        "provider_info": {
+          "name": "Anthropic",
+          "displayName": "Anthropic",
+          "slug": "anthropic",
+          "baseUrl": "https://api.anthropic.com/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            },
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "AnthropicMessageAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.anthropic.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/Anthropic.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "Anthropic",
+        "provider_slug": "anthropic",
+        "provider_model_id": "claude-3-opus-20240229",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 4096,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "tools",
+          "tool_choice",
+          "top_k",
+          "stop"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.000015",
+          "completion": "0.000075",
+          "image": "0.024",
+          "request": "0",
+          "input_cache_read": "0.0000015",
+          "input_cache_write": "0.00001875",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Claude",
+      "created": "2024-03-05T00:00:00+00:00",
+      "displayName": "Anthropic: Claude 3 Opus",
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "google/gemma-7b-it",
@@ -12299,7 +13752,7 @@
       "architecture": "Gemini",
       "created": "2024-02-22T00:00:00+00:00",
       "displayName": "Google: Gemma 7B",
-      "fetchedAt": "2025-07-02T08:09:17.549Z"
+      "fetchedAt": "2025-07-02T15:59:03.410Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0613",
@@ -12471,7 +13924,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0613)",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-4-turbo-preview",
@@ -12645,339 +14098,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo Preview",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
-    },
-    {
-      "slug": "anthropic/claude-2.1",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-11-22T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude v2.1 (self-moderated)",
-      "short_name": "Claude v2.1 (self-moderated)",
-      "author": "anthropic",
-      "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
-      "model_version_group_id": null,
-      "context_length": 200000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-2.1",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "16d5ad1c-a48f-4839-ba9a-22b190a7d35b",
-        "name": "Anthropic | anthropic/claude-2.1:beta",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-2.1",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2023-11-22T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude v2.1",
-          "short_name": "Claude v2.1",
-          "author": "anthropic",
-          "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
-          "model_version_group_id": null,
-          "context_length": 200000,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-2.1",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-2.1:beta",
-        "model_variant_permaslug": "anthropic/claude-2.1:beta",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-2.1",
-        "quantization": "unknown",
-        "variant": "beta",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.000008",
-          "completion": "0.000024",
-          "image": "0",
-          "request": "0",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": false,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_document_url": null
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2023-11-22T00:00:00+00:00",
-      "displayName": "Anthropic: Claude v2.1 (self-moderated)",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
-    },
-    {
-      "slug": "anthropic/claude-2.1",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-11-22T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude v2.1",
-      "short_name": "Claude v2.1",
-      "author": "anthropic",
-      "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
-      "model_version_group_id": null,
-      "context_length": 200000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-2.1",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "7159a751-fb9d-4750-918b-a774fd71cfa3",
-        "name": "Anthropic | anthropic/claude-2.1",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-2.1",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2023-11-22T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude v2.1",
-          "short_name": "Claude v2.1",
-          "author": "anthropic",
-          "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
-          "model_version_group_id": null,
-          "context_length": 200000,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-2.1",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-2.1",
-        "model_variant_permaslug": "anthropic/claude-2.1",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-2.1",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.000008",
-          "completion": "0.000024",
-          "image": "0",
-          "request": "0",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": false,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_document_url": null
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2023-11-22T00:00:00+00:00",
-      "displayName": "Anthropic: Claude v2.1",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "anthropic/claude-2",
@@ -13143,7 +14264,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2 (self-moderated)",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "anthropic/claude-2",
@@ -13309,7 +14430,339 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
+    },
+    {
+      "slug": "anthropic/claude-2.1",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-11-22T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude v2.1 (self-moderated)",
+      "short_name": "Claude v2.1 (self-moderated)",
+      "author": "anthropic",
+      "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
+      "model_version_group_id": null,
+      "context_length": 200000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-2.1",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "16d5ad1c-a48f-4839-ba9a-22b190a7d35b",
+        "name": "Anthropic | anthropic/claude-2.1:beta",
+        "context_length": 200000,
+        "model": {
+          "slug": "anthropic/claude-2.1",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2023-11-22T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "Anthropic: Claude v2.1",
+          "short_name": "Claude v2.1",
+          "author": "anthropic",
+          "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
+          "model_version_group_id": null,
+          "context_length": 200000,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Claude",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "anthropic/claude-2.1",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "anthropic/claude-2.1:beta",
+        "model_variant_permaslug": "anthropic/claude-2.1:beta",
+        "adapter_name": "AnthropicMessageAdapter",
+        "provider_name": "Anthropic",
+        "provider_info": {
+          "name": "Anthropic",
+          "displayName": "Anthropic",
+          "slug": "anthropic",
+          "baseUrl": "https://api.anthropic.com/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            },
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "AnthropicMessageAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.anthropic.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/Anthropic.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "Anthropic",
+        "provider_slug": "anthropic",
+        "provider_model_id": "claude-2.1",
+        "quantization": "unknown",
+        "variant": "beta",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 4096,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "top_k",
+          "stop"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.000008",
+          "completion": "0.000024",
+          "image": "0",
+          "request": "0",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": false,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Claude",
+      "created": "2023-11-22T00:00:00+00:00",
+      "displayName": "Anthropic: Claude v2.1 (self-moderated)",
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
+    },
+    {
+      "slug": "anthropic/claude-2.1",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-11-22T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude v2.1",
+      "short_name": "Claude v2.1",
+      "author": "anthropic",
+      "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
+      "model_version_group_id": null,
+      "context_length": 200000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-2.1",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "7159a751-fb9d-4750-918b-a774fd71cfa3",
+        "name": "Anthropic | anthropic/claude-2.1",
+        "context_length": 200000,
+        "model": {
+          "slug": "anthropic/claude-2.1",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2023-11-22T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "Anthropic: Claude v2.1",
+          "short_name": "Claude v2.1",
+          "author": "anthropic",
+          "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
+          "model_version_group_id": null,
+          "context_length": 200000,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Claude",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "anthropic/claude-2.1",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "anthropic/claude-2.1",
+        "model_variant_permaslug": "anthropic/claude-2.1",
+        "adapter_name": "AnthropicMessageAdapter",
+        "provider_name": "Anthropic",
+        "provider_info": {
+          "name": "Anthropic",
+          "displayName": "Anthropic",
+          "slug": "anthropic",
+          "baseUrl": "https://api.anthropic.com/v1",
+          "dataPolicy": {
+            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            },
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "AnthropicMessageAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.anthropic.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/Anthropic.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "Anthropic",
+        "provider_slug": "anthropic",
+        "provider_model_id": "claude-2.1",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 4096,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "top_k",
+          "stop"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.000008",
+          "completion": "0.000024",
+          "image": "0",
+          "request": "0",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": false,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_document_url": null
+        },
+        "provider_region": null
+      },
+      "architecture": "Claude",
+      "created": "2023-11-22T00:00:00+00:00",
+      "displayName": "Anthropic: Claude v2.1",
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "anthropic/claude-instant-1.1",
@@ -13346,7 +14799,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.1",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "openai/gpt-4-vision-preview",
@@ -13382,7 +14835,7 @@
       "architecture": "GPT",
       "created": "2023-11-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Vision",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-4-1106-preview",
@@ -13556,7 +15009,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo (older v1106)",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-1106",
@@ -13591,7 +15044,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k (older v1106)",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-instruct",
@@ -13770,7 +15223,7 @@
       "architecture": "GPT",
       "created": "2023-09-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo Instruct",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-16k",
@@ -13943,7 +15396,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-4-32k",
@@ -13978,7 +15431,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-4-32k-0314",
@@ -14013,7 +15466,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k (older v0314)",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "anthropic/claude-2.0",
@@ -14179,7 +15632,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.0 (self-moderated)",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "anthropic/claude-2.0",
@@ -14345,116 +15798,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.0",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
-    },
-    {
-      "slug": "anthropic/claude-instant-1",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-07-28T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude Instant v1",
-      "short_name": "Claude Instant v1",
-      "author": "anthropic",
-      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
-      "model_version_group_id": null,
-      "context_length": 100000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-instant-1",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Claude",
-      "created": "2023-07-28T00:00:00+00:00",
-      "displayName": "Anthropic: Claude Instant v1",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
-    },
-    {
-      "slug": "anthropic/claude-1",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-07-28T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude v1",
-      "short_name": "Claude v1",
-      "author": "anthropic",
-      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
-      "model_version_group_id": null,
-      "context_length": 100000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": "claude",
-      "default_system": null,
-      "default_stops": [
-        "\n\nHuman:"
-      ],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-1",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Claude",
-      "created": "2023-07-28T00:00:00+00:00",
-      "displayName": "Anthropic: Claude v1",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
-    },
-    {
-      "slug": "anthropic/claude-1.2",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-07-28T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude v1.2",
-      "short_name": "Claude v1.2",
-      "author": "anthropic",
-      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
-      "model_version_group_id": null,
-      "context_length": 100000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": "claude",
-      "default_system": null,
-      "default_stops": [
-        "\n\nHuman:"
-      ],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-1.2",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Claude",
-      "created": "2023-07-28T00:00:00+00:00",
-      "displayName": "Anthropic: Claude v1.2",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "anthropic/claude-instant-1.0",
@@ -14491,7 +15835,116 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.0",
-      "fetchedAt": "2025-07-02T08:09:17.472Z"
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
+    },
+    {
+      "slug": "anthropic/claude-1.2",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-07-28T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude v1.2",
+      "short_name": "Claude v1.2",
+      "author": "anthropic",
+      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
+      "model_version_group_id": null,
+      "context_length": 100000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": "claude",
+      "default_system": null,
+      "default_stops": [
+        "\n\nHuman:"
+      ],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-1.2",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Claude",
+      "created": "2023-07-28T00:00:00+00:00",
+      "displayName": "Anthropic: Claude v1.2",
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
+    },
+    {
+      "slug": "anthropic/claude-instant-1",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-07-28T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude Instant v1",
+      "short_name": "Claude Instant v1",
+      "author": "anthropic",
+      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
+      "model_version_group_id": null,
+      "context_length": 100000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-instant-1",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Claude",
+      "created": "2023-07-28T00:00:00+00:00",
+      "displayName": "Anthropic: Claude Instant v1",
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
+    },
+    {
+      "slug": "anthropic/claude-1",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-07-28T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude v1",
+      "short_name": "Claude v1",
+      "author": "anthropic",
+      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
+      "model_version_group_id": null,
+      "context_length": 100000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": "claude",
+      "default_system": null,
+      "default_stops": [
+        "\n\nHuman:"
+      ],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-1",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Claude",
+      "created": "2023-07-28T00:00:00+00:00",
+      "displayName": "Anthropic: Claude v1",
+      "fetchedAt": "2025-07-02T15:59:03.247Z"
     },
     {
       "slug": "openai/gpt-4",
@@ -14664,7 +16117,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-4-0314",
@@ -14838,7 +16291,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 (older v0314)",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo",
@@ -14873,7 +16326,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0301",
@@ -14908,7 +16361,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0301)",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0125",
@@ -14943,17 +16396,17 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-07-02T08:09:17.292Z"
+      "fetchedAt": "2025-07-02T15:59:03.110Z"
     }
   ],
   "metadata": {
-    "totalModels": 98,
+    "totalModels": 108,
     "architectures": {
       "GPT": 36,
       "Claude": 30,
       "Gemini": 32
     },
-    "lastUpdated": "2025-07-02T08:09:17.550Z",
+    "lastUpdated": "2025-07-02T15:59:03.807Z",
     "errors": []
   }
 }
