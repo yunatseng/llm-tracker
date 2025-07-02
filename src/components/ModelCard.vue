@@ -43,10 +43,14 @@ const getContextLength = (model) => {
 </script>
 
 <template>
-  <q-card class="model-card">
+  <q-card class="model-card" style="
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+">
     <q-card-section>
       <div class="row items-center justify-between q-mb-sm">
-        <div class="col">
+        <div class="col text-left">
           <div class="text-h6 text-weight-bold">
             {{ model.displayName }}
           </div>
@@ -63,17 +67,16 @@ const getContextLength = (model) => {
     </q-card-section>
 
     <q-card-section>
-      <p class="text-body2 q-mb-md truncate-text" style="min-height: 40px;">
+      <p class="text-body2 text-left q-mb-md truncate-text" style="min-height: 40px;">
         {{ getModelDescription(model) }}
       </p>
-
       <q-list dense>
         <q-item>
           <q-item-section avatar>
             <q-icon name="schedule" color="grey-6" size="sm" />
           </q-item-section>
-          <q-item-section>
-            <q-item-label caption>建立日期</q-item-label>
+          <q-item-section style="align-items: start;">
+            <q-item-label caption>API 釋出日期</q-item-label>
             <q-item-label>{{ formatDate(model.created) }}</q-item-label>
           </q-item-section>
         </q-item>
@@ -82,7 +85,7 @@ const getContextLength = (model) => {
           <q-item-section avatar>
             <q-icon name="memory" color="grey-6" size="sm" />
           </q-item-section>
-          <q-item-section>
+          <q-item-section style="align-items: start;">
             <q-item-label caption>上下文長度</q-item-label>
             <q-item-label>{{ getContextLength(model) }}</q-item-label>
           </q-item-section>
@@ -136,6 +139,7 @@ const getContextLength = (model) => {
 
 .truncate-text {
   display: -webkit-box;
+  line-clamp: 3;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;

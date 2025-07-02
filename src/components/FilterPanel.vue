@@ -14,7 +14,8 @@ const architectures = [
   { value: 'all', label: '全部架構' },
   { value: 'GPT', label: 'GPT 系列' },
   { value: 'Claude', label: 'Claude 系列' },
-  { value: 'Gemini', label: 'Gemini 系列' }
+  { value: 'Gemini', label: 'Gemini 系列' },
+  { value: 'Grok', label: 'Grok 系列'}
 ]
 
 const sortOptions = [

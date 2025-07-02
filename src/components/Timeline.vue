@@ -52,7 +52,8 @@ const getArchitectureColor = (architecture) => {
   const colors = {
     'GPT': 'positive',
     'Claude': 'info',
-    'Gemini': 'secondary'
+    'Gemini': 'secondary',
+    'Grox':'#BEB2C8'
   }
   return colors[architecture] || 'grey'
 }

@@ -11,7 +11,8 @@ const __dirname = path.dirname(__filename);
 const apiEndpoints = [
   { arch: 'GPT', url: 'https://openrouter.ai/api/frontend/models/find?arch=GPT' },
   { arch: 'Claude', url: 'https://openrouter.ai/api/frontend/models/find?arch=Claude' },
-  { arch: 'Gemini', url: 'https://openrouter.ai/api/frontend/models/find?arch=Gemini' }
+  { arch: 'Gemini', url: 'https://openrouter.ai/api/frontend/models/find?arch=Gemini' },
+  { arch: 'Grok', url: 'https://openrouter.ai/api/frontend/models/find?arch=Grok' }
 ];
 
 // 發送 HTTP 請求的輔助函數
