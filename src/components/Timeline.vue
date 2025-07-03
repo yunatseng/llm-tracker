@@ -24,9 +24,11 @@ const groupedModels = computed(() => {
     const groups = {}
     sorted.forEach(model => {
       const date = new Date(model.created).toDateString()
+      if (!model.endpoint) return
       if (!groups[date]) {
         groups[date] = []
       }
+
       groups[date].push(model)
     })
     return Object.entries(groups).map(([date, models]) => ({

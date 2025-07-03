@@ -22,7 +22,7 @@ const formatPrice = (pricing) => {
     const prompt = pricing.prompt || pricing.input
     const completion = pricing.completion || pricing.output
     if (prompt && completion) {
-      return `輸入: $${prompt}/1M tokens, 輸出: $${completion}/1M tokens`
+      return `輸入: $${prompt}/1M tokens<br>輸出: $${completion}/1M tokens`
     }
   }
   return null
@@ -43,11 +43,12 @@ const getContextLength = (model) => {
 </script>
 
 <template>
-  <q-card class="model-card" style="
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-">
+  <q-card 
+    class="model-card" style="
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+  ">
     <q-card-section>
       <div class="row items-center justify-between q-mb-sm">
         <div class="col text-left">
@@ -69,45 +70,44 @@ const getContextLength = (model) => {
     <q-card-section>
       <p class="text-body2 text-left q-mb-md truncate-text" style="min-height: 40px;">
         {{ getModelDescription(model) }}
+        <q-tooltip class="max-w-[300px] text-body2">
+          {{ getModelDescription(model) }}
+        </q-tooltip>
       </p>
       <q-list dense>
         <q-item>
-          <q-item-section avatar>
-            <q-icon name="schedule" color="grey-6" size="sm" />
-          </q-item-section>
-          <q-item-section style="align-items: start;">
+          <q-item-section>
             <q-item-label caption>API 釋出日期</q-item-label>
+          </q-item-section>
+          <q-item-section>
             <q-item-label>{{ formatDate(model.created) }}</q-item-label>
           </q-item-section>
         </q-item>
 
         <q-item>
-          <q-item-section avatar>
-            <q-icon name="memory" color="grey-6" size="sm" />
-          </q-item-section>
-          <q-item-section style="align-items: start;">
+          <q-item-section>
             <q-item-label caption>上下文長度</q-item-label>
+          </q-item-section>
+          <q-item-section>
             <q-item-label>{{ getContextLength(model) }}</q-item-label>
           </q-item-section>
         </q-item>
 
-        <q-item v-if="formatPrice(model.pricing)">
-          <q-item-section avatar>
-            <q-icon name="attach_money" color="positive" size="sm" />
-          </q-item-section>
+        <q-item>
           <q-item-section>
             <q-item-label caption>定價</q-item-label>
-            <q-item-label class="text-positive">{{ formatPrice(model.pricing) }}</q-item-label>
+          </q-item-section>
+          <q-item-section>
+            <small v-html="formatPrice(model.endpoint?.pricing)" />
           </q-item-section>
         </q-item>
 
-        <q-item v-if="model.top_provider">
-          <q-item-section avatar>
-            <q-icon name="business" color="grey-6" size="sm" />
-          </q-item-section>
+        <q-item>
           <q-item-section>
             <q-item-label caption>提供商</q-item-label>
-            <q-item-label>{{ model.top_provider.name }}</q-item-label>
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>{{ model.endpoint?.provider_name || model.author }}</q-item-label>
           </q-item-section>
         </q-item>
       </q-list>
@@ -139,8 +139,8 @@ const getContextLength = (model) => {
 
 .truncate-text {
   display: -webkit-box;
-  line-clamp: 3;
-  -webkit-line-clamp: 3;
+  line-clamp: 2;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;

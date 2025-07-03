@@ -1,22 +1,22 @@
 // Light mode colors
-$primary   : #454372 // Blue
-$secondary : #70877F // Teal
+$primary   : #8C2155 // Blue
+$secondary : #AF7595 // Teal
 $accent    : #2F2963 // Purple
 
-$positive  : #C4A77D // Green
-$negative  : #EF946C // Red
-$info      : #31CCEC // Light Blue
+$positive  : #AED4E6 // Green
+$negative  : #1AC8ED // Red
+$info      : #5C1A1B // Light Blue
 $warning   : #F2C037 // Yellow
 
 // Dark mode colors
-$primary-dark   : #454372 // Lighter Blue for dark mode
-$secondary-dark : #70877F // Lighter Teal
+$primary-dark   : #8C2155 // Lighter Blue for dark mode
+$secondary-dark : #AF7595 // Lighter Teal
 $accent-dark    : #2F2963 // Lighter Purple
 
 $dark      : #1a202c // Tailwind's gray.800 - For dark elements on dark backgrounds
 $dark-page : #121212 // Very dark background for pages
 
-$positive-dark  : #4CAF50 // Slightly lighter Green
+$positive-dark  : #AED4E6 // Slightly lighter Green
 $negative-dark  : #E57373 // Lighter Red
 $info-dark      : #4FC3F7 // Lighter Info Blue
 $warning-dark   : #FFB74D // Lighter Yellow
@@ -37,7 +37,7 @@ $warning-dark   : #FFB74D // Lighter Yellow
 
   // Adjusting text colors for dark mode for better readability
   // You might need to adjust these based on your specific components and text usage
-  --q-text-color: #e2e8f0 // Default text color for dark mode (Tailwind's gray.200)
+  --q-text-color: #e2e8f0 // Default text color for dark mode
   --q-text-color-primary: #{$primary-dark}
   --q-text-color-secondary: #{$secondary-dark}
   --q-text-color-accent: #{$accent-dark}
@@ -54,7 +54,7 @@ $warning-dark   : #FFB74D // Lighter Yellow
 
   // Example for toolbar background in dark mode
   .q-toolbar
-    background-color: lighten($dark-page, 5%) // Slightly lighter than page background
+    // background-color: lighten($dark-page, 5%) // Slightly lighter than page background
     color: var(--q-text-color)
 
   // Ensure buttons have good contrast

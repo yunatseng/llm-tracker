@@ -15,7 +15,13 @@ const architectures = [
   { value: 'GPT', label: 'GPT 系列' },
   { value: 'Claude', label: 'Claude 系列' },
   { value: 'Gemini', label: 'Gemini 系列' },
-  { value: 'Grok', label: 'Grok 系列'}
+  { value: 'Grok', label: 'Grok 系列'},
+  { value: 'Llama', label: 'Llama 系列' },
+  { value: 'Mistral', label: 'Mistral 系列' },
+  { value: 'Nova', label: 'Nova 系列'},
+  { value: 'Qwen', label: 'Qwen 系列' },
+  { value: 'Phi', label: 'Phi 系列' },
+  { value: 'PaLM', label: 'PaLM 系列' }
 ]
 
 const sortOptions = [
