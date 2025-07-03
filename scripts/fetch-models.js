@@ -14,12 +14,12 @@ const apiEndpoints = [
   { arch: 'Claude', url: 'https://openrouter.ai/api/frontend/models/find?arch=Claude' },
   { arch: 'Gemini', url: 'https://openrouter.ai/api/frontend/models/find?arch=Gemini' },
   { arch: 'Grok', url: 'https://openrouter.ai/api/frontend/models/find?arch=Grok' },
-  { arch: 'Llama', url:'https://openrouter.ai/models?arch=Llama4'},
-  { arch: 'Mistral', url:'https://openrouter.ai/models?arch=Mistral'},
-  { arch: 'Phi/Other', url:'https://openrouter.ai/api/frontend/models/find?q=microsoft'},
-  { arch: 'Nova', url:'https://openrouter.ai/models?arch=Nova'},
-  { arch: 'Qwen', url:'https://openrouter.ai/models?arch=Qwen'},
-  { arch: 'PaLM', url:'https://openrouter.ai/models?arch=PaLM'}
+  { arch: 'Llama', url:'https://openrouter.ai/api/frontend/models/find?arch=Llama4'},
+  { arch: 'Mistral', url:'https://openrouter.ai/api/frontend/models/find?arch=Mistral'},
+  { arch: 'Phi', url:'https://openrouter.ai/api/frontend/models/find?q=microsoft'},
+  { arch: 'Nova', url:'https://openrouter.ai/api/frontend/models/find?arch=Nova'},
+  { arch: 'Qwen', url:'https://openrouter.ai/api/frontend/models/find?arch=Qwen'},
+  { arch: 'PaLM', url:'https://openrouter.ai/api/frontend/models/find?arch=Palm'}
 ];
 
 // 發送 HTTP 請求的輔助函數
