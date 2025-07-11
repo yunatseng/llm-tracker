@@ -74,7 +74,7 @@ const getContextLength = (model) => {
           {{ getModelDescription(model) }}
         </q-tooltip>
       </p>
-      <q-list dense>
+      <!-- <q-list dense>
         <q-item>
           <q-item-section>
             <q-item-label caption>API 釋出日期</q-item-label>
@@ -110,7 +110,7 @@ const getContextLength = (model) => {
             <q-item-label>{{ model.endpoint?.provider_name || model.author }}</q-item-label>
           </q-item-section>
         </q-item>
-      </q-list>
+      </q-list> -->
     </q-card-section>
 
     <q-card-actions v-if="model.link || model.url" align="center">

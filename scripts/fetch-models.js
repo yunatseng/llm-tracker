@@ -19,7 +19,7 @@ const apiEndpoints = [
   { arch: 'Phi', url:'https://openrouter.ai/api/frontend/models/find?q=microsoft'},
   { arch: 'Nova', url:'https://openrouter.ai/api/frontend/models/find?arch=Nova'},
   { arch: 'Qwen', url:'https://openrouter.ai/api/frontend/models/find?arch=Qwen'},
-  { arch: 'PaLM', url:'https://openrouter.ai/api/frontend/models/find?arch=Palm'}
+  // { arch: 'PaLM', url:'https://openrouter.ai/api/frontend/models/find?arch=Palm'}
 ];
 
 // 發送 HTTP 請求的輔助函數
