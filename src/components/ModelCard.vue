@@ -49,7 +49,7 @@ const getContextLength = (model) => {
       flex-direction: column;
       justify-content: space-between;
   ">
-    <q-card-section>
+    <q-card-section style="padding-bottom: 0;">
       <div class="row items-center justify-between q-mb-sm">
         <div class="col text-left">
           <div class="text-h6 text-weight-bold">

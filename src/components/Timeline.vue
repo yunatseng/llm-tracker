@@ -125,7 +125,7 @@ const formatDate = (dateString) => {
     </div>
 
     <!-- Statistics Card -->
-    <q-card class="q-mt-xl">
+    <!-- <q-card class="q-mt-xl">
       <q-card-section>
         <div class="text-h6 q-mb-md">
           <q-icon name="analytics" class="q-mr-sm" />
@@ -172,6 +172,6 @@ const formatDate = (dateString) => {
           </div>
         </div>
       </q-card-section>
-    </q-card>
+    </q-card> -->
   </div>
 </template>

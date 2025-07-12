@@ -3,6 +3,7 @@ import { ref, onMounted, computed } from 'vue'
 import { useQuasar } from 'quasar' // Import useQuasar
 import axios from 'axios'
 import FilterPanel from './components/FilterPanel.vue'
+import ChartsPanel from './components/ChartsPanel.vue'
 import Timeline from './components/Timeline.vue'
 
 const models = ref([])
@@ -163,6 +164,12 @@ onMounted(() => {
             v-model:search="searchQuery"
             v-model:sort="sortBy"
             :loading="loading"
+          />
+
+          <!-- Charts Panel -->
+          <ChartsPanel 
+            v-if="!loading && filteredModels.length > 0"
+            :models="filteredModels"
           />
 
           <!-- Loading state -->
