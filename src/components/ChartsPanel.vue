@@ -1,7 +1,7 @@
 <template>
   <q-card class="q-mb-md">
     <q-card-section class="text-h6">
-      模型發布趨勢圖表
+      模型發布趨勢圖表（近 12 個月）
     </q-card-section>
     
     <q-card-section>
