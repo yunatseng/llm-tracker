@@ -154,6 +154,7 @@
           "prompt": "0.0000001",
           "completion": "0.0000004",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.000000025",
           "input_cache_write": "0.0000001833",
@@ -190,7 +191,7 @@
       "architecture": "Gemini",
       "created": "2025-07-22T16:04:36.283638+00:00",
       "displayName": "Google: Gemini 2.5 Flash Lite",
-      "fetchedAt": "2025-07-29T08:09:39.541Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "mistralai/devstral-medium",
@@ -339,6 +340,7 @@
           "prompt": "0.0000004",
           "completion": "0.000002",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -370,7 +372,7 @@
       "architecture": "Mistral",
       "created": "2025-07-10T15:28:41.981407+00:00",
       "displayName": "Mistral: Devstral Medium",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/devstral-small",
@@ -556,6 +558,7 @@
           "prompt": "0.00000007",
           "completion": "0.00000028",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -586,7 +589,7 @@
       "architecture": "Mistral",
       "created": "2025-07-10T15:19:11.726916+00:00",
       "displayName": "Mistral: Devstral Small 1.1",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "x-ai/grok-4",
@@ -734,6 +737,7 @@
           "prompt": "0.000003",
           "completion": "0.000015",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000075",
           "web_search": "0",
@@ -777,7 +781,7 @@
       "architecture": "Grok",
       "created": "2025-07-09T19:01:29.595463+00:00",
       "displayName": "xAI: Grok 4",
-      "fetchedAt": "2025-07-29T08:09:39.861Z"
+      "fetchedAt": "2025-07-30T08:09:53.707Z"
     },
     {
       "slug": "mistralai/mistral-small-3.2-24b-instruct",
@@ -928,6 +932,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -961,7 +966,7 @@
       "architecture": "Mistral",
       "created": "2025-06-20T18:10:16.960494+00:00",
       "displayName": "Mistral: Mistral Small 3.2 24B (free)",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/mistral-small-3.2-24b-instruct",
@@ -1149,6 +1154,7 @@
           "prompt": "0.00000005",
           "completion": "0.0000001",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -1179,7 +1185,7 @@
       "architecture": "Mistral",
       "created": "2025-06-20T18:10:16.960494+00:00",
       "displayName": "Mistral: Mistral Small 3.2 24B",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "google/gemini-2.5-flash-lite-preview-06-17",
@@ -1335,6 +1341,7 @@
           "prompt": "0.0000001",
           "completion": "0.0000004",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.000000025",
           "input_cache_write": "0.0000001833",
@@ -1371,7 +1378,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T15:23:51.237783+00:00",
       "displayName": "Google: Gemini 2.5 Flash Lite Preview 06-17",
-      "fetchedAt": "2025-07-29T08:09:39.541Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "google/gemini-2.5-flash",
@@ -1527,6 +1534,7 @@
           "prompt": "0.0000003",
           "completion": "0.0000025",
           "image": "0.001238",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.000000075",
           "input_cache_write": "0.0000003833",
@@ -1563,7 +1571,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T15:01:28.103313+00:00",
       "displayName": "Google: Gemini 2.5 Flash",
-      "fetchedAt": "2025-07-29T08:09:39.541Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "google/gemini-2.5-pro",
@@ -1719,6 +1727,7 @@
           "prompt": "0.00000125",
           "completion": "0.00001",
           "image": "0.00516",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000031",
           "input_cache_write": "0.000001625",
@@ -1765,7 +1774,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T14:12:24+00:00",
       "displayName": "Google: Gemini 2.5 Pro",
-      "fetchedAt": "2025-07-29T08:09:39.541Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "openai/o3-pro",
@@ -1909,6 +1918,7 @@
           "prompt": "0.00002",
           "completion": "0.00008",
           "image": "0.0153",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -1943,7 +1953,7 @@
       "architecture": "GPT",
       "created": "2025-06-10T23:32:32.266087+00:00",
       "displayName": "OpenAI: o3 Pro",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "x-ai/grok-3-mini",
@@ -2090,6 +2100,7 @@
           "prompt": "0.0000003",
           "completion": "0.0000005",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.000000075",
           "web_search": "0",
@@ -2125,7 +2136,7 @@
       "architecture": "Grok",
       "created": "2025-06-10T19:20:45.198136+00:00",
       "displayName": "xAI: Grok 3 Mini",
-      "fetchedAt": "2025-07-29T08:09:39.861Z"
+      "fetchedAt": "2025-07-30T08:09:53.707Z"
     },
     {
       "slug": "x-ai/grok-3",
@@ -2272,6 +2283,7 @@
           "prompt": "0.000003",
           "completion": "0.000015",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000075",
           "web_search": "0",
@@ -2306,7 +2318,7 @@
       "architecture": "Grok",
       "created": "2025-06-10T19:15:08.007729+00:00",
       "displayName": "xAI: Grok 3",
-      "fetchedAt": "2025-07-29T08:09:39.861Z"
+      "fetchedAt": "2025-07-30T08:09:53.707Z"
     },
     {
       "slug": "mistralai/magistral-small-2506",
@@ -2477,6 +2489,7 @@
           "prompt": "0.0000005",
           "completion": "0.0000015",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -2511,7 +2524,7 @@
       "architecture": "Mistral",
       "created": "2025-06-10T15:32:41.038747+00:00",
       "displayName": "Mistral: Magistral Small 2506",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/magistral-medium-2506",
@@ -2682,6 +2695,7 @@
           "prompt": "0.000002",
           "completion": "0.000005",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -2716,7 +2730,7 @@
       "architecture": "Mistral",
       "created": "2025-06-08T03:40:54.076545+00:00",
       "displayName": "Mistral: Magistral Medium 2506",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/magistral-medium-2506",
@@ -2887,6 +2901,7 @@
           "prompt": "0.000002",
           "completion": "0.000005",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -2921,7 +2936,7 @@
       "architecture": "Mistral",
       "created": "2025-06-08T03:40:54.076545+00:00",
       "displayName": "Mistral: Magistral Medium 2506 (thinking)",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview",
@@ -3077,6 +3092,7 @@
           "prompt": "0.00000125",
           "completion": "0.00001",
           "image": "0.00516",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000031",
           "input_cache_write": "0.000001625",
@@ -3123,7 +3139,7 @@
       "architecture": "Gemini",
       "created": "2025-06-05T15:27:37.538116+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview 06-05",
-      "fetchedAt": "2025-07-29T08:09:39.541Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-7b",
@@ -3280,6 +3296,7 @@
           "prompt": "0.0000001",
           "completion": "0.0000002",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -3311,7 +3328,7 @@
       "architecture": "Qwen",
       "created": "2025-05-30T18:03:57.186962+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 7B",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "deepseek/deepseek-r1-0528-qwen3-8b",
@@ -3481,6 +3498,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -3512,7 +3530,7 @@
       "architecture": "Qwen",
       "created": "2025-05-29T17:09:03.280319+00:00",
       "displayName": "DeepSeek: Deepseek R1 0528 Qwen3 8B (free)",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "deepseek/deepseek-r1-0528-qwen3-8b",
@@ -3664,6 +3682,7 @@
           "prompt": "0.00000001",
           "completion": "0.00000002",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -3694,7 +3713,7 @@
       "architecture": "Qwen",
       "created": "2025-05-29T17:09:03.280319+00:00",
       "displayName": "DeepSeek: Deepseek R1 0528 Qwen3 8B",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "google/gemma-2b-it",
@@ -3733,7 +3752,7 @@
       "architecture": "Gemini",
       "created": "2025-05-28T19:33:35.082388+00:00",
       "displayName": "Google: Gemma 1 2B",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "anthropic/claude-opus-4",
@@ -3878,6 +3897,7 @@
           "prompt": "0.000015",
           "completion": "0.000075",
           "image": "0.024",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000015",
           "input_cache_write": "0.00001875",
@@ -3911,7 +3931,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:27:25.029961+00:00",
       "displayName": "Anthropic: Claude Opus 4",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4",
@@ -4062,6 +4082,7 @@
           "prompt": "0.000003",
           "completion": "0.000015",
           "image": "0.0048",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000003",
           "input_cache_write": "0.00000375",
@@ -4095,7 +4116,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:12:51.381897+00:00",
       "displayName": "Anthropic: Claude Sonnet 4",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "mistralai/devstral-small-2505",
@@ -4243,6 +4264,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -4274,7 +4296,7 @@
       "architecture": "Mistral",
       "created": "2025-05-21T14:22:59.930775+00:00",
       "displayName": "Mistral: Devstral Small 2505 (free)",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/devstral-small-2505",
@@ -4422,6 +4444,7 @@
           "prompt": "0.00000003",
           "completion": "0.00000003",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -4453,7 +4476,7 @@
       "architecture": "Mistral",
       "created": "2025-05-21T14:22:59.930775+00:00",
       "displayName": "Mistral: Devstral Small 2505",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview-05-20",
@@ -4490,7 +4513,7 @@
       "architecture": "Gemini",
       "created": "2025-05-20T17:25:24.343372+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 05-20",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "openai/codex-mini",
@@ -4632,6 +4655,7 @@
           "prompt": "0.0000015",
           "completion": "0.000006",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.000000375",
           "web_search": "0",
@@ -4667,7 +4691,7 @@
       "architecture": "GPT",
       "created": "2025-05-16T15:36:01.081688+00:00",
       "displayName": "OpenAI: Codex Mini",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "mistralai/mistral-medium-3",
@@ -4818,6 +4842,7 @@
           "prompt": "0.0000004",
           "completion": "0.000002",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -4849,7 +4874,7 @@
       "architecture": "Mistral",
       "created": "2025-05-07T14:15:41.980763+00:00",
       "displayName": "Mistral: Mistral Medium 3",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview-05-06",
@@ -5006,6 +5031,7 @@
           "prompt": "0.00000125",
           "completion": "0.00001",
           "image": "0.00516",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000031",
           "input_cache_write": "0.000001625",
@@ -5052,7 +5078,7 @@
       "architecture": "Gemini",
       "created": "2025-05-07T00:41:53+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview 05-06",
-      "fetchedAt": "2025-07-29T08:09:39.541Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "microsoft/phi-4-reasoning-plus",
@@ -5256,6 +5282,7 @@
           "prompt": "0.00000007",
           "completion": "0.00000035",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -5287,7 +5314,7 @@
       "architecture": "Phi",
       "created": "2025-05-01T20:22:41.235613+00:00",
       "displayName": "Microsoft: Phi 4 Reasoning Plus",
-      "fetchedAt": "2025-07-29T08:09:40.599Z"
+      "fetchedAt": "2025-07-30T08:09:54.328Z"
     },
     {
       "slug": "microsoft/phi-4-reasoning",
@@ -5322,7 +5349,7 @@
       "architecture": "Phi",
       "created": "2025-05-01T17:41:15.957157+00:00",
       "displayName": "Microsoft: Phi 4 Reasoning",
-      "fetchedAt": "2025-07-29T08:09:40.599Z"
+      "fetchedAt": "2025-07-30T08:09:54.328Z"
     },
     {
       "slug": "microsoft/mai-ds-r1",
@@ -5492,6 +5519,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -5523,7 +5551,7 @@
       "architecture": "Phi",
       "created": "2025-04-21T00:08:20.257185+00:00",
       "displayName": "Microsoft: MAI DS R1 (free)",
-      "fetchedAt": "2025-07-29T08:09:40.599Z"
+      "fetchedAt": "2025-07-30T08:09:54.328Z"
     },
     {
       "slug": "microsoft/mai-ds-r1",
@@ -5693,6 +5721,7 @@
           "prompt": "0.000000302",
           "completion": "0.000000302",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -5724,7 +5753,7 @@
       "architecture": "Phi",
       "created": "2025-04-21T00:08:20.257185+00:00",
       "displayName": "Microsoft: MAI DS R1",
-      "fetchedAt": "2025-07-29T08:09:40.599Z"
+      "fetchedAt": "2025-07-30T08:09:54.328Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview",
@@ -5761,7 +5790,7 @@
       "architecture": "Gemini",
       "created": "2025-04-17T18:31:07.815979+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 04-17",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "openai/o3",
@@ -5905,6 +5934,7 @@
           "prompt": "0.000002",
           "completion": "0.000008",
           "image": "0.00153",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000005",
           "web_search": "0",
@@ -5940,7 +5970,7 @@
       "architecture": "GPT",
       "created": "2025-04-16T17:10:57.049467+00:00",
       "displayName": "OpenAI: o3",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "qwen/qwen2.5-coder-7b-instruct",
@@ -5975,7 +6005,7 @@
       "architecture": "Qwen",
       "created": "2025-04-15T16:34:47.067646+00:00",
       "displayName": "Qwen: Qwen2.5 Coder 7B Instruct",
-      "fetchedAt": "2025-07-29T08:09:41.004Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "openai/gpt-4.1",
@@ -6128,6 +6158,7 @@
           "prompt": "0.000002",
           "completion": "0.000008",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000005",
           "web_search": "0",
@@ -6176,7 +6207,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:05+00:00",
       "displayName": "OpenAI: GPT-4.1",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/gpt-4.1-mini",
@@ -6329,6 +6360,7 @@
           "prompt": "0.0000004",
           "completion": "0.0000016",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000001",
           "web_search": "0",
@@ -6377,7 +6409,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:01+00:00",
       "displayName": "OpenAI: GPT-4.1 Mini",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/gpt-4.1-nano",
@@ -6529,6 +6561,7 @@
           "prompt": "0.0000001",
           "completion": "0.0000004",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.000000025",
           "web_search": "0",
@@ -6561,7 +6594,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:22:49+00:00",
       "displayName": "OpenAI: GPT-4.1 Nano",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "x-ai/grok-3-mini-beta",
@@ -6707,6 +6740,7 @@
           "prompt": "0.0000003",
           "completion": "0.0000005",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.000000075",
           "web_search": "0",
@@ -6739,7 +6773,7 @@
       "architecture": "Grok",
       "created": "2025-04-09T23:09:55.305821+00:00",
       "displayName": "xAI: Grok 3 Mini Beta",
-      "fetchedAt": "2025-07-29T08:09:39.861Z"
+      "fetchedAt": "2025-07-30T08:09:53.707Z"
     },
     {
       "slug": "x-ai/grok-3-beta",
@@ -6885,6 +6919,7 @@
           "prompt": "0.000003",
           "completion": "0.000015",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000075",
           "web_search": "0",
@@ -6917,7 +6952,7 @@
       "architecture": "Grok",
       "created": "2025-04-09T23:07:48.450334+00:00",
       "displayName": "xAI: Grok 3 Beta",
-      "fetchedAt": "2025-07-29T08:09:39.861Z"
+      "fetchedAt": "2025-07-30T08:09:53.707Z"
     },
     {
       "slug": "meta-llama/llama-4-maverick",
@@ -7105,6 +7140,7 @@
           "prompt": "0.00000015",
           "completion": "0.0000006",
           "image": "0.0006684",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -7136,7 +7172,7 @@
       "architecture": "Llama",
       "created": "2025-04-05T19:37:02.129674+00:00",
       "displayName": "Meta: Llama 4 Maverick",
-      "fetchedAt": "2025-07-29T08:09:40.092Z"
+      "fetchedAt": "2025-07-30T08:09:53.912Z"
     },
     {
       "slug": "meta-llama/llama-4-scout",
@@ -7288,6 +7324,7 @@
           "prompt": "0.00000008",
           "completion": "0.0000003",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -7319,7 +7356,7 @@
       "architecture": "Llama",
       "created": "2025-04-05T19:31:59.735804+00:00",
       "displayName": "Meta: Llama 4 Scout",
-      "fetchedAt": "2025-07-29T08:09:40.092Z"
+      "fetchedAt": "2025-07-30T08:09:53.912Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-3b-instruct",
@@ -7355,7 +7392,7 @@
       "architecture": "Qwen",
       "created": "2025-03-26T18:42:53.41832+00:00",
       "displayName": "Qwen: Qwen2.5 VL 3B Instruct",
-      "fetchedAt": "2025-07-29T08:09:41.004Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "google/gemini-2.5-pro-exp-03-25",
@@ -7509,6 +7546,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -7540,7 +7578,7 @@
       "architecture": "Gemini",
       "created": "2025-03-25T17:01:39.919989+00:00",
       "displayName": "Google: Gemini 2.5 Pro Experimental",
-      "fetchedAt": "2025-07-29T08:09:39.541Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-32b-instruct",
@@ -7680,6 +7718,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -7710,7 +7749,7 @@
       "architecture": "Qwen",
       "created": "2025-03-24T18:10:38.542849+00:00",
       "displayName": "Qwen: Qwen2.5 VL 32B Instruct (free)",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-32b-instruct",
@@ -7898,6 +7937,7 @@
           "prompt": "0.0000002",
           "completion": "0.0000006",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -7932,7 +7972,7 @@
       "architecture": "Qwen",
       "created": "2025-03-24T18:10:38.542849+00:00",
       "displayName": "Qwen: Qwen2.5 VL 32B Instruct",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "openai/o1-pro",
@@ -8072,6 +8112,7 @@
           "prompt": "0.00015",
           "completion": "0.0006",
           "image": "0.21675",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -8102,7 +8143,7 @@
       "architecture": "GPT",
       "created": "2025-03-19T22:26:51.610039+00:00",
       "displayName": "OpenAI: o1-pro",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "mistralai/mistral-small-3.1-24b-instruct",
@@ -8249,6 +8290,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -8283,7 +8325,7 @@
       "architecture": "Mistral",
       "created": "2025-03-17T19:15:37.00423+00:00",
       "displayName": "Mistral: Mistral Small 3.1 24B (free)",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/mistral-small-3.1-24b-instruct",
@@ -8433,6 +8475,7 @@
           "prompt": "0.000000027",
           "completion": "0.000000027",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -8464,7 +8507,7 @@
       "architecture": "Mistral",
       "created": "2025-03-17T19:15:37.00423+00:00",
       "displayName": "Mistral: Mistral Small 3.1 24B",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "google/gemma-3-1b-it",
@@ -8504,7 +8547,7 @@
       "architecture": "Gemini",
       "created": "2025-03-14T14:45:56.842499+00:00",
       "displayName": "Google: Gemma 3 1B",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -8673,6 +8716,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -8704,7 +8748,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B (free)",
-      "fetchedAt": "2025-07-29T08:09:39.541Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -8852,6 +8896,7 @@
           "prompt": "0.00000002",
           "completion": "0.00000004",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -8882,7 +8927,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B",
-      "fetchedAt": "2025-07-29T08:09:39.541Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -9038,6 +9083,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -9068,7 +9114,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B (free)",
-      "fetchedAt": "2025-07-29T08:09:39.541Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -9224,6 +9270,7 @@
           "prompt": "0.00000003",
           "completion": "0.00000003",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -9254,7 +9301,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B",
-      "fetchedAt": "2025-07-29T08:09:39.541Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "openai/gpt-4o-mini-search-preview",
@@ -9392,6 +9439,7 @@
           "prompt": "0.00000015",
           "completion": "0.0000006",
           "image": "0.000217",
+          "audio": "0",
           "request": "0.0275",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -9438,7 +9486,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:22:02.718344+00:00",
       "displayName": "OpenAI: GPT-4o-mini Search Preview",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/gpt-4o-search-preview",
@@ -9576,6 +9624,7 @@
           "prompt": "0.0000025",
           "completion": "0.00001",
           "image": "0.003613",
+          "audio": "0",
           "request": "0.035",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -9622,7 +9671,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:19:09.996816+00:00",
       "displayName": "OpenAI: GPT-4o Search Preview",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -9778,6 +9827,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -9808,7 +9858,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B (free)",
-      "fetchedAt": "2025-07-29T08:09:39.541Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -10004,6 +10054,7 @@
           "prompt": "0.00000009",
           "completion": "0.00000017",
           "image": "0.0000256",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -10035,7 +10086,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B",
-      "fetchedAt": "2025-07-29T08:09:39.541Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "microsoft/phi-4-multimodal-instruct",
@@ -10223,6 +10274,7 @@
           "prompt": "0.00000005",
           "completion": "0.0000001",
           "image": "0.00017685",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -10253,7 +10305,7 @@
       "architecture": "Phi",
       "created": "2025-03-08T01:11:24.652063+00:00",
       "displayName": "Microsoft: Phi 4 Multimodal Instruct",
-      "fetchedAt": "2025-07-29T08:09:40.599Z"
+      "fetchedAt": "2025-07-30T08:09:54.328Z"
     },
     {
       "slug": "qwen/qwq-32b",
@@ -10418,6 +10470,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -10452,7 +10505,7 @@
       "architecture": "Qwen",
       "created": "2025-03-05T21:06:54.875499+00:00",
       "displayName": "Qwen: QwQ 32B (free)",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwq-32b",
@@ -10662,6 +10715,7 @@
           "prompt": "0.000000075",
           "completion": "0.00000015",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -10692,7 +10746,7 @@
       "architecture": "Qwen",
       "created": "2025-03-05T21:06:54.875499+00:00",
       "displayName": "Qwen: QwQ 32B",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen2.5-32b-instruct",
@@ -10727,7 +10781,7 @@
       "architecture": "Qwen",
       "created": "2025-03-03T22:59:04.755619+00:00",
       "displayName": "Qwen: Qwen2.5 32B Instruct",
-      "fetchedAt": "2025-07-29T08:09:41.004Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "openai/gpt-4.5-preview",
@@ -10763,7 +10817,7 @@
       "architecture": "GPT",
       "created": "2025-02-27T20:23:30.841555+00:00",
       "displayName": "OpenAI: GPT-4.5 (Preview)",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "google/gemini-2.0-flash-lite-001",
@@ -10917,6 +10971,7 @@
           "prompt": "0.000000075",
           "completion": "0.0000003",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -10948,7 +11003,7 @@
       "architecture": "Gemini",
       "created": "2025-02-25T17:56:52.206054+00:00",
       "displayName": "Google: Gemini 2.0 Flash Lite",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -11099,6 +11154,7 @@
           "prompt": "0.000003",
           "completion": "0.000015",
           "image": "0.0048",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000003",
           "input_cache_write": "0.00000375",
@@ -11132,7 +11188,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -11283,6 +11339,7 @@
           "prompt": "0.000003",
           "completion": "0.000015",
           "image": "0.0048",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000003",
           "input_cache_write": "0.00000375",
@@ -11316,7 +11373,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (thinking)",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -11461,6 +11518,7 @@
           "prompt": "0.000003",
           "completion": "0.000015",
           "image": "0.0048",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000003",
           "input_cache_write": "0.00000375",
@@ -11494,7 +11552,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (self-moderated)",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "mistralai/mistral-saba",
@@ -11643,6 +11701,7 @@
           "prompt": "0.0000002",
           "completion": "0.0000006",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -11674,7 +11733,7 @@
       "architecture": "Mistral",
       "created": "2025-02-17T14:40:39.116446+00:00",
       "displayName": "Mistral: Saba",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "google/gemini-2.0-flash-001",
@@ -11839,6 +11898,7 @@
           "prompt": "0.0000001",
           "completion": "0.0000004",
           "image": "0.0000258",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.000000025",
           "input_cache_write": "0.0000001833",
@@ -11871,7 +11931,7 @@
       "architecture": "Gemini",
       "created": "2025-02-05T15:30:13.144552+00:00",
       "displayName": "Google: Gemini 2.0 Flash",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "qwen/qwen-vl-plus",
@@ -12011,6 +12071,7 @@
           "prompt": "0.00000021",
           "completion": "0.00000063",
           "image": "0.0002688",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -12041,7 +12102,7 @@
       "architecture": "Qwen",
       "created": "2025-02-05T04:54:15.216448+00:00",
       "displayName": "Qwen: Qwen VL Plus",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen-vl-max",
@@ -12181,6 +12242,7 @@
           "prompt": "0.0000008",
           "completion": "0.0000032",
           "image": "0.001024",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -12211,7 +12273,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T18:25:04.223655+00:00",
       "displayName": "Qwen: Qwen VL Max",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen-turbo",
@@ -12351,6 +12413,7 @@
           "prompt": "0.00000005",
           "completion": "0.0000002",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000002",
           "web_search": "0",
@@ -12382,7 +12445,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:56:14.820636+00:00",
       "displayName": "Qwen: Qwen-Turbo",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-72b-instruct",
@@ -12527,6 +12590,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -12561,7 +12625,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:45:11.997326+00:00",
       "displayName": "Qwen: Qwen2.5 VL 72B Instruct (free)",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-72b-instruct",
@@ -12708,6 +12772,7 @@
           "prompt": "0.00000025",
           "completion": "0.00000075",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -12739,7 +12804,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:45:11.997326+00:00",
       "displayName": "Qwen: Qwen2.5 VL 72B Instruct",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen-plus",
@@ -12879,6 +12944,7 @@
           "prompt": "0.0000004",
           "completion": "0.0000012",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000016",
           "web_search": "0",
@@ -12910,7 +12976,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:37:20.886831+00:00",
       "displayName": "Qwen: Qwen-Plus",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen-max",
@@ -13050,6 +13116,7 @@
           "prompt": "0.0000016",
           "completion": "0.0000064",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000064",
           "web_search": "0",
@@ -13081,7 +13148,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T09:31:29.206961+00:00",
       "displayName": "Qwen: Qwen-Max ",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "mistralai/mistral-small-24b-instruct-2501",
@@ -13227,6 +13294,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -13257,7 +13325,7 @@
       "architecture": "Mistral",
       "created": "2025-01-30T16:43:29.33592+00:00",
       "displayName": "Mistral: Mistral Small 3 (free)",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/mistral-small-24b-instruct-2501",
@@ -13403,6 +13471,7 @@
           "prompt": "0.00000003",
           "completion": "0.00000003",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -13433,7 +13502,7 @@
       "architecture": "Mistral",
       "created": "2025-01-30T16:43:29.33592+00:00",
       "displayName": "Mistral: Mistral Small 3",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-32b",
@@ -13643,6 +13712,7 @@
           "prompt": "0.000000075",
           "completion": "0.00000015",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -13673,7 +13743,7 @@
       "architecture": "Qwen",
       "created": "2025-01-29T23:53:50.865297+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 32B",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-14b",
@@ -13843,6 +13913,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -13873,7 +13944,7 @@
       "architecture": "Qwen",
       "created": "2025-01-29T23:39:00.13687+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 14B (free)",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-14b",
@@ -14042,6 +14113,7 @@
           "prompt": "0.00000015",
           "completion": "0.00000015",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -14072,7 +14144,7 @@
       "architecture": "Qwen",
       "created": "2025-01-29T23:39:00.13687+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 14B",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "mistralai/codestral-2501",
@@ -14221,6 +14293,7 @@
           "prompt": "0.0000003",
           "completion": "0.0000009",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -14252,7 +14325,7 @@
       "architecture": "Mistral",
       "created": "2025-01-14T22:58:42.43034+00:00",
       "displayName": "Mistral: Codestral 2501",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "microsoft/phi-4",
@@ -14390,6 +14463,7 @@
           "prompt": "0.00000006",
           "completion": "0.00000014",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -14420,7 +14494,7 @@
       "architecture": "Phi",
       "created": "2025-01-10T06:17:52.16346+00:00",
       "displayName": "Microsoft: Phi 4",
-      "fetchedAt": "2025-07-29T08:09:40.599Z"
+      "fetchedAt": "2025-07-30T08:09:54.328Z"
     },
     {
       "slug": "inflatebot/mn-mag-mell-r1",
@@ -14459,7 +14533,7 @@
       "architecture": "Mistral",
       "created": "2024-12-18T15:23:59.252033+00:00",
       "displayName": "Inflatebot: Mag Mell R1 12B",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "openai/o1",
@@ -14601,6 +14675,7 @@
           "prompt": "0.000015",
           "completion": "0.00006",
           "image": "0.021675",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000075",
           "web_search": "0",
@@ -14632,7 +14707,7 @@
       "architecture": "GPT",
       "created": "2024-12-17T18:26:39.576639+00:00",
       "displayName": "OpenAI: o1",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "x-ai/grok-2-vision-1212",
@@ -14778,6 +14853,7 @@
           "prompt": "0.000002",
           "completion": "0.00001",
           "image": "0.0036",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -14808,7 +14884,7 @@
       "architecture": "Grok",
       "created": "2024-12-15T04:35:38.489105+00:00",
       "displayName": "xAI: Grok 2 Vision 1212",
-      "fetchedAt": "2025-07-29T08:09:39.861Z"
+      "fetchedAt": "2025-07-30T08:09:53.707Z"
     },
     {
       "slug": "x-ai/grok-2-1212",
@@ -14954,6 +15030,7 @@
           "prompt": "0.000002",
           "completion": "0.00001",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -14984,7 +15061,7 @@
       "architecture": "Grok",
       "created": "2024-12-15T03:20:14.161318+00:00",
       "displayName": "xAI: Grok 2 1212",
-      "fetchedAt": "2025-07-29T08:09:39.861Z"
+      "fetchedAt": "2025-07-30T08:09:53.707Z"
     },
     {
       "slug": "google/gemini-2.0-flash-exp",
@@ -15133,6 +15210,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -15163,7 +15241,7 @@
       "architecture": "Gemini",
       "created": "2024-12-11T17:18:43.999311+00:00",
       "displayName": "Google: Gemini 2.0 Flash Experimental (free)",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "amazon/nova-lite-v1",
@@ -15302,6 +15380,7 @@
           "prompt": "0.00000006",
           "completion": "0.00000024",
           "image": "0.00009",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -15332,7 +15411,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:22:43.403315+00:00",
       "displayName": "Amazon: Nova Lite 1.0",
-      "fetchedAt": "2025-07-29T08:09:40.760Z"
+      "fetchedAt": "2025-07-30T08:09:54.529Z"
     },
     {
       "slug": "amazon/nova-micro-v1",
@@ -15469,6 +15548,7 @@
           "prompt": "0.000000035",
           "completion": "0.00000014",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -15499,7 +15579,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:20:37.90344+00:00",
       "displayName": "Amazon: Nova Micro 1.0",
-      "fetchedAt": "2025-07-29T08:09:40.760Z"
+      "fetchedAt": "2025-07-30T08:09:54.530Z"
     },
     {
       "slug": "amazon/nova-pro-v1",
@@ -15638,6 +15718,7 @@
           "prompt": "0.0000008",
           "completion": "0.0000032",
           "image": "0.0012",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -15668,7 +15749,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:05:03.587216+00:00",
       "displayName": "Amazon: Nova Pro 1.0",
-      "fetchedAt": "2025-07-29T08:09:40.760Z"
+      "fetchedAt": "2025-07-30T08:09:54.530Z"
     },
     {
       "slug": "qwen/qwq-32b-preview",
@@ -15833,6 +15914,7 @@
           "prompt": "0.0000002",
           "completion": "0.0000002",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -15863,7 +15945,7 @@
       "architecture": "Qwen",
       "created": "2024-11-28T00:42:21.381013+00:00",
       "displayName": "Qwen: QwQ 32B Preview",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "google/gemini-exp-1121",
@@ -15899,7 +15981,7 @@
       "architecture": "Gemini",
       "created": "2024-11-21T19:18:45.23737+00:00",
       "displayName": "Google: Gemini Experimental 1121",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-72b",
@@ -15912,7 +15994,7 @@
       "author": "eva-unit-01",
       "description": "EVA Qwen2.5 72B is a roleplay and storywriting specialist model. It's a full-parameter finetune of Qwen2.5-72B on mixture of synthetic and natural data.\n\nIt uses Celeste 70B 0.1 data mixture, greatly expanding it to improve versatility, creativity and \"flavor\" of the resulting model.",
       "model_version_group_id": null,
-      "context_length": 16384,
+      "context_length": 32000,
       "input_modalities": [
         "text"
       ],
@@ -15934,153 +16016,11 @@
       "permaslug": "eva-unit-01/eva-qwen-2.5-72b",
       "reasoning_config": null,
       "features": {},
-      "endpoint": {
-        "id": "8b520449-b64b-4344-864d-5e0e8fe0d515",
-        "name": "Featherless | eva-unit-01/eva-qwen-2.5-72b",
-        "context_length": 16384,
-        "model": {
-          "slug": "eva-unit-01/eva-qwen-2.5-72b",
-          "hf_slug": "EVA-UNIT-01/EVA-Qwen2.5-72B-v0.1",
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-11-21T17:36:46.956395+00:00",
-          "hf_updated_at": null,
-          "name": "EVA Qwen2.5 72B",
-          "short_name": "EVA Qwen2.5 72B",
-          "author": "eva-unit-01",
-          "description": "EVA Qwen2.5 72B is a roleplay and storywriting specialist model. It's a full-parameter finetune of Qwen2.5-72B on mixture of synthetic and natural data.\n\nIt uses Celeste 70B 0.1 data mixture, greatly expanding it to improve versatility, creativity and \"flavor\" of the resulting model.",
-          "model_version_group_id": null,
-          "context_length": 32000,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Qwen",
-          "instruct_type": "chatml",
-          "default_system": null,
-          "default_stops": [
-            "<|im_start|>",
-            "<|im_end|>",
-            "<|endoftext|>"
-          ],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "eva-unit-01/eva-qwen-2.5-72b",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "eva-unit-01/eva-qwen-2.5-72b",
-        "model_variant_permaslug": "eva-unit-01/eva-qwen-2.5-72b",
-        "adapter_name": "OpenAIAdapter",
-        "provider_name": "Featherless",
-        "provider_info": {
-          "name": "Featherless",
-          "displayName": "Featherless",
-          "slug": "featherless",
-          "baseUrl": "https://api.featherless.ai/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": false
-            },
-            "termsOfServiceURL": "https://featherless.ai/terms",
-            "privacyPolicyURL": "https://featherless.ai/privacy"
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": false,
-          "moderationRequired": false,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "OpenAIAdapter",
-          "isMultipartSupported": false,
-          "statusPageUrl": "https://featherless.ai/status",
-          "byokEnabled": true,
-          "icon": {
-            "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://featherless.ai/&size=256"
-          },
-          "ignoredProviderModels": [
-            "featherless-ai/Qwerky-72B"
-          ]
-        },
-        "provider_display_name": "Featherless",
-        "provider_slug": "featherless/fp8",
-        "provider_model_id": "EVA-UNIT-01/EVA-Qwen2.5-72B-v0.2",
-        "quantization": "fp8",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": false,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "stop",
-          "frequency_penalty",
-          "presence_penalty",
-          "repetition_penalty",
-          "top_k",
-          "min_p",
-          "seed"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": false
-          },
-          "termsOfServiceURL": "https://featherless.ai/terms",
-          "privacyPolicyURL": "https://featherless.ai/privacy",
-          "training": false,
-          "retainsPrompts": false
-        },
-        "pricing": {
-          "prompt": "0.000004",
-          "completion": "0.000006",
-          "image": "0",
-          "request": "0",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": false,
-        "supports_reasoning": false,
-        "supports_multipart": false,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null
-      },
+      "endpoint": null,
       "architecture": "Qwen",
       "created": "2024-11-21T17:36:46.956395+00:00",
       "displayName": "EVA Qwen2.5 72B",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "openai/gpt-4o-2024-11-20",
@@ -16233,6 +16173,7 @@
           "prompt": "0.0000025",
           "completion": "0.00001",
           "image": "0.003613",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000125",
           "web_search": "0",
@@ -16280,7 +16221,7 @@
       "architecture": "GPT",
       "created": "2024-11-20T18:33:14.771895+00:00",
       "displayName": "OpenAI: GPT-4o (2024-11-20)",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "mistralai/mistral-large-2411",
@@ -16429,6 +16370,7 @@
           "prompt": "0.000002",
           "completion": "0.000006",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -16460,7 +16402,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T01:11:25.108028+00:00",
       "displayName": "Mistral Large 2411",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/mistral-large-2407",
@@ -16609,6 +16551,7 @@
           "prompt": "0.000002",
           "completion": "0.000006",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -16640,7 +16583,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T01:06:55.27469+00:00",
       "displayName": "Mistral Large 2407",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/pixtral-large-2411",
@@ -16791,6 +16734,7 @@
           "prompt": "0.000002",
           "completion": "0.000006",
           "image": "0.002888",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -16822,7 +16766,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T00:49:48.873161+00:00",
       "displayName": "Mistral: Pixtral Large 2411",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "x-ai/grok-vision-beta",
@@ -16968,6 +16912,7 @@
           "prompt": "0.000005",
           "completion": "0.000015",
           "image": "0.009",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -16998,7 +16943,7 @@
       "architecture": "Grok",
       "created": "2024-11-19T00:37:04.585936+00:00",
       "displayName": "xAI: Grok Vision Beta",
-      "fetchedAt": "2025-07-29T08:09:39.861Z"
+      "fetchedAt": "2025-07-30T08:09:53.707Z"
     },
     {
       "slug": "google/gemini-exp-1114",
@@ -17034,7 +16979,7 @@
       "architecture": "Gemini",
       "created": "2024-11-15T23:52:20.203831+00:00",
       "displayName": "Google: Gemini Experimental 1114",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "infermatic/mn-inferor-12b",
@@ -17183,6 +17128,7 @@
           "prompt": "0.0000008",
           "completion": "0.0000012",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -17213,7 +17159,7 @@
       "architecture": "Mistral",
       "created": "2024-11-13T02:20:28.884947+00:00",
       "displayName": "Infermatic: Mistral Nemo Inferor 12B",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "qwen/qwen-2.5-coder-32b-instruct",
@@ -17362,6 +17308,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -17396,7 +17343,7 @@
       "architecture": "Qwen",
       "created": "2024-11-11T23:40:00.276653+00:00",
       "displayName": "Qwen2.5 Coder 32B Instruct (free)",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen-2.5-coder-32b-instruct",
@@ -17590,6 +17537,7 @@
           "prompt": "0.00000006",
           "completion": "0.00000015",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -17620,7 +17568,7 @@
       "architecture": "Qwen",
       "created": "2024-11-11T23:40:00.276653+00:00",
       "displayName": "Qwen2.5 Coder 32B Instruct",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "raifle/sorcererlm-8x22b",
@@ -17777,6 +17725,7 @@
           "prompt": "0.0000045",
           "completion": "0.0000045",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -17807,7 +17756,7 @@
       "architecture": "Mistral",
       "created": "2024-11-08T22:31:23.953049+00:00",
       "displayName": "SorcererLM 8x22B",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-32b",
@@ -17846,7 +17795,7 @@
       "architecture": "Qwen",
       "created": "2024-11-08T22:27:27.726229+00:00",
       "displayName": "EVA Qwen2.5 32B",
-      "fetchedAt": "2025-07-29T08:09:41.004Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "thedrummer/unslopnemo-12b",
@@ -17990,6 +17939,7 @@
           "prompt": "0.0000004",
           "completion": "0.0000004",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -18020,7 +17970,7 @@
       "architecture": "Mistral",
       "created": "2024-11-08T22:04:08.359811+00:00",
       "displayName": "TheDrummer: UnslopNemo 12B",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku",
@@ -18165,6 +18115,7 @@
           "prompt": "0.0000008",
           "completion": "0.000004",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000008",
           "input_cache_write": "0.000001",
@@ -18197,7 +18148,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (self-moderated)",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku",
@@ -18342,6 +18293,7 @@
           "prompt": "0.0000008",
           "completion": "0.000004",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000008",
           "input_cache_write": "0.000001",
@@ -18374,7 +18326,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku-20241022",
@@ -18525,6 +18477,7 @@
           "prompt": "0.0000008",
           "completion": "0.000004",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000008",
           "input_cache_write": "0.000001",
@@ -18557,7 +18510,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (2024-10-22)",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -18702,6 +18655,7 @@
           "prompt": "0.000003",
           "completion": "0.000015",
           "image": "0.0048",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000003",
           "input_cache_write": "0.00000375",
@@ -18734,7 +18688,7 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (self-moderated)",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -18879,6 +18833,7 @@
           "prompt": "0.000003",
           "completion": "0.000015",
           "image": "0.0048",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000003",
           "input_cache_write": "0.00000375",
@@ -18911,7 +18866,7 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthracite-org/magnum-v4-72b",
@@ -19061,6 +19016,7 @@
           "prompt": "0.0000025",
           "completion": "0.000003",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -19091,7 +19047,7 @@
       "architecture": "Qwen",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Magnum v4 72B",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "x-ai/grok-beta",
@@ -19126,7 +19082,7 @@
       "architecture": "Grok",
       "created": "2024-10-20T00:00:00+00:00",
       "displayName": "xAI: Grok Beta",
-      "fetchedAt": "2025-07-29T08:09:39.861Z"
+      "fetchedAt": "2025-07-30T08:09:53.707Z"
     },
     {
       "slug": "mistralai/ministral-8b",
@@ -19275,6 +19231,7 @@
           "prompt": "0.0000001",
           "completion": "0.0000001",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -19305,7 +19262,7 @@
       "architecture": "Mistral",
       "created": "2024-10-17T00:00:00+00:00",
       "displayName": "Mistral: Ministral 8B",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/ministral-3b",
@@ -19454,6 +19411,7 @@
           "prompt": "0.00000004",
           "completion": "0.00000004",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -19485,7 +19443,7 @@
       "architecture": "Mistral",
       "created": "2024-10-17T00:00:00+00:00",
       "displayName": "Mistral: Ministral 3B",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "qwen/qwen-2.5-7b-instruct",
@@ -19679,6 +19637,7 @@
           "prompt": "0.00000004",
           "completion": "0.0000001",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -19709,7 +19668,7 @@
       "architecture": "Qwen",
       "created": "2024-10-16T00:00:00+00:00",
       "displayName": "Qwen2.5 7B Instruct",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "x-ai/grok-2",
@@ -19744,7 +19703,7 @@
       "architecture": "Grok",
       "created": "2024-10-12T00:00:00+00:00",
       "displayName": "xAI: Grok 2",
-      "fetchedAt": "2025-07-29T08:09:39.861Z"
+      "fetchedAt": "2025-07-30T08:09:53.707Z"
     },
     {
       "slug": "x-ai/grok-2-mini",
@@ -19779,7 +19738,7 @@
       "architecture": "Grok",
       "created": "2024-10-12T00:00:00+00:00",
       "displayName": "xAI: Grok 2 mini",
-      "fetchedAt": "2025-07-29T08:09:39.861Z"
+      "fetchedAt": "2025-07-30T08:09:53.707Z"
     },
     {
       "slug": "google/gemini-flash-1.5-8b",
@@ -19945,6 +19904,7 @@
           "prompt": "0.0000000375",
           "completion": "0.00000015",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000001",
           "input_cache_write": "0.0000000583",
@@ -19987,7 +19947,7 @@
       "architecture": "Gemini",
       "created": "2024-10-03T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash 8B",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "anthracite-org/magnum-v2-72b",
@@ -20146,6 +20106,7 @@
           "prompt": "0.000003",
           "completion": "0.000003",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -20176,7 +20137,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "Magnum v2 72B",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "thedrummer/rocinante-12b",
@@ -20322,6 +20283,7 @@
           "prompt": "0.0000002",
           "completion": "0.0000005",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -20352,7 +20314,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "TheDrummer: Rocinante 12B",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-14b",
@@ -20391,7 +20353,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "EVA Qwen2.5 14B",
-      "fetchedAt": "2025-07-29T08:09:41.004Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen-2.5-72b-instruct",
@@ -20545,6 +20507,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -20575,7 +20538,7 @@
       "architecture": "Qwen",
       "created": "2024-09-19T00:00:00+00:00",
       "displayName": "Qwen2.5 72B Instruct (free)",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen-2.5-72b-instruct",
@@ -20729,6 +20692,7 @@
           "prompt": "0.000000101",
           "completion": "0.000000101",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -20759,7 +20723,7 @@
       "architecture": "Qwen",
       "created": "2024-09-19T00:00:00+00:00",
       "displayName": "Qwen2.5 72B Instruct",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "openai/o1-mini-2024-09-12",
@@ -20895,6 +20859,7 @@
           "prompt": "0.0000011",
           "completion": "0.0000044",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000055",
           "web_search": "0",
@@ -20926,7 +20891,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-mini (2024-09-12)",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/o1-preview",
@@ -21062,6 +21027,7 @@
           "prompt": "0.000015",
           "completion": "0.00006",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000075",
           "web_search": "0",
@@ -21093,7 +21059,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/o1-mini",
@@ -21229,6 +21195,7 @@
           "prompt": "0.0000011",
           "completion": "0.0000044",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000055",
           "web_search": "0",
@@ -21260,7 +21227,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-mini",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/o1-preview-2024-09-12",
@@ -21396,6 +21363,7 @@
           "prompt": "0.000015",
           "completion": "0.00006",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000075",
           "web_search": "0",
@@ -21427,7 +21395,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview (2024-09-12)",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "mistralai/pixtral-12b",
@@ -21572,6 +21540,7 @@
           "prompt": "0.0000001",
           "completion": "0.0000001",
           "image": "0.0001445",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -21603,7 +21572,7 @@
       "architecture": "Mistral",
       "created": "2024-09-10T00:00:00+00:00",
       "displayName": "Mistral: Pixtral 12B",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "google/gemini-flash-1.5-exp",
@@ -21639,7 +21608,7 @@
       "architecture": "Gemini",
       "created": "2024-08-28T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash Experimental",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "qwen/qwen-2.5-vl-7b-instruct",
@@ -21784,6 +21753,7 @@
           "prompt": "0.0000002",
           "completion": "0.0000002",
           "image": "0.0001445",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -21815,7 +21785,7 @@
       "architecture": "Qwen",
       "created": "2024-08-28T00:00:00+00:00",
       "displayName": "Qwen: Qwen2.5-VL 7B Instruct",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "microsoft/phi-3.5-mini-128k-instruct",
@@ -21960,6 +21930,7 @@
           "prompt": "0.0000001",
           "completion": "0.0000001",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -21990,7 +21961,7 @@
       "architecture": "Phi",
       "created": "2024-08-21T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3.5 Mini 128K Instruct",
-      "fetchedAt": "2025-07-29T08:09:40.599Z"
+      "fetchedAt": "2025-07-30T08:09:54.328Z"
     },
     {
       "slug": "openai/chatgpt-4o-latest",
@@ -22138,6 +22109,7 @@
           "prompt": "0.000005",
           "completion": "0.000015",
           "image": "0.007225",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -22168,7 +22140,7 @@
       "architecture": "GPT",
       "created": "2024-08-14T00:00:00+00:00",
       "displayName": "OpenAI: ChatGPT-4o",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "aetherwiing/mn-starcannon-12b",
@@ -22207,7 +22179,7 @@
       "architecture": "Mistral",
       "created": "2024-08-13T00:00:00+00:00",
       "displayName": "Aetherwiing: Starcannon 12B",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "openai/gpt-4o-2024-08-06",
@@ -22360,6 +22332,7 @@
           "prompt": "0.0000025",
           "completion": "0.00001",
           "image": "0.003613",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000125",
           "web_search": "0",
@@ -22407,7 +22380,7 @@
       "architecture": "GPT",
       "created": "2024-08-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-08-06)",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "nothingiisreal/mn-celeste-12b",
@@ -22558,6 +22531,7 @@
           "prompt": "0.0000008",
           "completion": "0.0000012",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -22588,7 +22562,7 @@
       "architecture": "Mistral",
       "created": "2024-08-02T00:00:00+00:00",
       "displayName": "Mistral Nemo 12B Celeste",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "google/gemini-pro-1.5-exp",
@@ -22624,7 +22598,7 @@
       "architecture": "Gemini",
       "created": "2024-08-01T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro Experimental",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "mistralai/mistral-nemo",
@@ -22776,6 +22750,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -22806,7 +22781,7 @@
       "architecture": "Mistral",
       "created": "2024-07-19T00:00:00+00:00",
       "displayName": "Mistral: Mistral Nemo (free)",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/mistral-nemo",
@@ -22940,6 +22915,7 @@
           "prompt": "0.0000000075",
           "completion": "0.00000005",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -22970,7 +22946,7 @@
       "architecture": "Mistral",
       "created": "2024-07-19T00:00:00+00:00",
       "displayName": "Mistral: Mistral Nemo",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/codestral-mamba",
@@ -23005,7 +22981,7 @@
       "architecture": "Mistral",
       "created": "2024-07-19T00:00:00+00:00",
       "displayName": "Mistral: Codestral Mamba",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "openai/gpt-4o-mini",
@@ -23158,6 +23134,7 @@
           "prompt": "0.00000015",
           "completion": "0.0000006",
           "image": "0.000217",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.000000075",
           "web_search": "0",
@@ -23205,7 +23182,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/gpt-4o-mini-2024-07-18",
@@ -23358,6 +23335,7 @@
           "prompt": "0.00000015",
           "completion": "0.0000006",
           "image": "0.007225",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.000000075",
           "web_search": "0",
@@ -23405,7 +23383,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini (2024-07-18)",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "qwen/qwen-2-7b-instruct",
@@ -23444,7 +23422,7 @@
       "architecture": "Qwen",
       "created": "2024-07-16T00:00:00+00:00",
       "displayName": "Qwen 2 7B Instruct",
-      "fetchedAt": "2025-07-29T08:09:41.004Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "google/gemma-2-27b-it",
@@ -23590,6 +23568,7 @@
           "prompt": "0.00000065",
           "completion": "0.00000065",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -23620,7 +23599,7 @@
       "architecture": "Gemini",
       "created": "2024-07-13T00:00:00+00:00",
       "displayName": "Google: Gemma 2 27B",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "alpindale/magnum-72b",
@@ -23659,7 +23638,7 @@
       "architecture": "Qwen",
       "created": "2024-07-11T00:00:00+00:00",
       "displayName": "Magnum 72B",
-      "fetchedAt": "2025-07-29T08:09:41.004Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -23813,6 +23792,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -23843,7 +23823,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B (free)",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -23997,6 +23977,7 @@
           "prompt": "0.000000004",
           "completion": "0.000000004",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -24027,7 +24008,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -24172,6 +24153,7 @@
           "prompt": "0.000003",
           "completion": "0.000015",
           "image": "0.0048",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000003",
           "input_cache_write": "0.00000375",
@@ -24204,7 +24186,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20) (self-moderated)",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -24349,6 +24331,7 @@
           "prompt": "0.000003",
           "completion": "0.000015",
           "image": "0.0048",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000003",
           "input_cache_write": "0.00000375",
@@ -24381,7 +24364,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20)",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "microsoft/phi-3-medium-4k-instruct",
@@ -24419,7 +24402,7 @@
       "architecture": "Phi",
       "created": "2024-06-15T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Medium 4K Instruct",
-      "fetchedAt": "2025-07-29T08:09:40.599Z"
+      "fetchedAt": "2025-07-30T08:09:54.328Z"
     },
     {
       "slug": "cognitivecomputations/dolphin-mixtral-8x22b",
@@ -24572,6 +24555,7 @@
           "prompt": "0.0000009",
           "completion": "0.0000009",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -24602,7 +24586,7 @@
       "architecture": "Mistral",
       "created": "2024-06-08T00:00:00+00:00",
       "displayName": "Dolphin 2.9.2 Mixtral 8x22B 🐬",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "qwen/qwen-2-72b-instruct",
@@ -24729,7 +24713,8 @@
             "moz-llama-3-3-70b-instruct-turbo",
             "moonshotai/Kimi-K2-Instruct-tgl-testing",
             "VirtueAIxTogether/VirtueGuard-Text-Lite",
-            "Virtue-AI/VirtueGuard-Text-Lite"
+            "Virtue-AI/VirtueGuard-Text-Lite",
+            "arcee-ai/AFM-4.5B"
           ]
         },
         "provider_display_name": "Together",
@@ -24772,6 +24757,7 @@
           "prompt": "0.0000009",
           "completion": "0.0000009",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -24802,7 +24788,7 @@
       "architecture": "Qwen",
       "created": "2024-06-07T00:00:00+00:00",
       "displayName": "Qwen 2 72B Instruct",
-      "fetchedAt": "2025-07-29T08:09:41.003Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct-v0.3",
@@ -24996,6 +24982,7 @@
           "prompt": "0.000000028",
           "completion": "0.000000054",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -25026,7 +25013,7 @@
       "architecture": "Mistral",
       "created": "2024-05-27T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct v0.3",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct",
@@ -25220,6 +25207,7 @@
           "prompt": "0",
           "completion": "0",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -25251,7 +25239,7 @@
       "architecture": "Mistral",
       "created": "2024-05-27T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct (free)",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct",
@@ -25394,6 +25382,7 @@
           "prompt": "0.000000028",
           "completion": "0.000000054",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -25425,7 +25414,7 @@
       "architecture": "Mistral",
       "created": "2024-05-27T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "microsoft/phi-3-mini-128k-instruct",
@@ -25570,6 +25559,7 @@
           "prompt": "0.0000001",
           "completion": "0.0000001",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -25600,7 +25590,7 @@
       "architecture": "Phi",
       "created": "2024-05-26T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Mini 128K Instruct",
-      "fetchedAt": "2025-07-29T08:09:40.599Z"
+      "fetchedAt": "2025-07-30T08:09:54.328Z"
     },
     {
       "slug": "microsoft/phi-3-medium-128k-instruct",
@@ -25745,6 +25735,7 @@
           "prompt": "0.000001",
           "completion": "0.000001",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -25775,7 +25766,7 @@
       "architecture": "Phi",
       "created": "2024-05-24T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Medium 128K Instruct",
-      "fetchedAt": "2025-07-29T08:09:40.599Z"
+      "fetchedAt": "2025-07-30T08:09:54.328Z"
     },
     {
       "slug": "google/gemini-flash-1.5",
@@ -25930,6 +25921,7 @@
           "prompt": "0.000000075",
           "completion": "0.0000003",
           "image": "0.00004",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000001875",
           "input_cache_write": "0.0000001583",
@@ -25972,7 +25964,7 @@
       "architecture": "Gemini",
       "created": "2024-05-14T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash ",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -26125,6 +26117,7 @@
           "prompt": "0.0000025",
           "completion": "0.00001",
           "image": "0.003613",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000125",
           "web_search": "0",
@@ -26172,7 +26165,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -26325,6 +26318,7 @@
           "prompt": "0.000006",
           "completion": "0.000018",
           "image": "0.007225",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -26371,7 +26365,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (extended)",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/gpt-4o-2024-05-13",
@@ -26524,6 +26518,7 @@
           "prompt": "0.000005",
           "completion": "0.000015",
           "image": "0.007225",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -26570,7 +26565,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-05-13)",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "qwen/qwen-4b-chat",
@@ -26609,7 +26604,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 4B Chat",
-      "fetchedAt": "2025-07-29T08:09:41.004Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen-32b-chat",
@@ -26648,7 +26643,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 32B Chat",
-      "fetchedAt": "2025-07-29T08:09:41.004Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen-72b-chat",
@@ -26687,7 +26682,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 72B Chat",
-      "fetchedAt": "2025-07-29T08:09:41.004Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen-110b-chat",
@@ -26726,7 +26721,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 110B Chat",
-      "fetchedAt": "2025-07-29T08:09:41.004Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen-14b-chat",
@@ -26765,7 +26760,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 14B Chat",
-      "fetchedAt": "2025-07-29T08:09:41.004Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "qwen/qwen-7b-chat",
@@ -26804,7 +26799,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 7B Chat",
-      "fetchedAt": "2025-07-29T08:09:41.004Z"
+      "fetchedAt": "2025-07-30T08:09:54.790Z"
     },
     {
       "slug": "mistralai/mixtral-8x22b-instruct",
@@ -26959,6 +26954,7 @@
           "prompt": "0.0000009",
           "completion": "0.0000009",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -26990,7 +26986,7 @@
       "architecture": "Mistral",
       "created": "2024-04-17T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x22B Instruct",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "microsoft/wizardlm-2-8x22b",
@@ -27137,6 +27133,7 @@
           "prompt": "0.00000048",
           "completion": "0.00000048",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -27168,7 +27165,7 @@
       "architecture": "Mistral",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 8x22B",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "microsoft/wizardlm-2-7b",
@@ -27206,7 +27203,7 @@
       "architecture": "Mistral",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 7B",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "microsoft/wizardlm-2-8x22b",
@@ -27353,6 +27350,7 @@
           "prompt": "0.00000048",
           "completion": "0.00000048",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -27384,7 +27382,7 @@
       "architecture": "Phi",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 8x22B",
-      "fetchedAt": "2025-07-29T08:09:40.599Z"
+      "fetchedAt": "2025-07-30T08:09:54.328Z"
     },
     {
       "slug": "microsoft/wizardlm-2-7b",
@@ -27422,7 +27420,7 @@
       "architecture": "Phi",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 7B",
-      "fetchedAt": "2025-07-29T08:09:40.599Z"
+      "fetchedAt": "2025-07-30T08:09:54.328Z"
     },
     {
       "slug": "huggingfaceh4/zephyr-orpo-141b-a35b",
@@ -27460,7 +27458,7 @@
       "architecture": "Mistral",
       "created": "2024-04-12T00:00:00+00:00",
       "displayName": "Zephyr 141B-A35B",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/mixtral-8x22b",
@@ -27499,7 +27497,7 @@
       "architecture": "Mistral",
       "created": "2024-04-10T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x22B (base)",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "openai/gpt-4-turbo",
@@ -27648,6 +27646,7 @@
           "prompt": "0.00001",
           "completion": "0.00003",
           "image": "0.01445",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -27678,7 +27677,7 @@
       "architecture": "GPT",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "google/gemini-pro-1.5",
@@ -27833,6 +27832,7 @@
           "prompt": "0.00000125",
           "completion": "0.000005",
           "image": "0.0006575",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -27871,7 +27871,7 @@
       "architecture": "Gemini",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -28016,6 +28016,7 @@
           "prompt": "0.00000025",
           "completion": "0.00000125",
           "image": "0.0004",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000003",
           "input_cache_write": "0.0000003",
@@ -28048,7 +28049,7 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku (self-moderated)",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -28193,6 +28194,7 @@
           "prompt": "0.00000025",
           "completion": "0.00000125",
           "image": "0.0004",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.00000003",
           "input_cache_write": "0.0000003",
@@ -28225,7 +28227,363 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
+    },
+    {
+      "slug": "anthropic/claude-3-opus",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-03-05T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude 3 Opus (self-moderated)",
+      "short_name": "Claude 3 Opus (self-moderated)",
+      "author": "anthropic",
+      "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
+      "model_version_group_id": null,
+      "context_length": 200000,
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-3-opus",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "27446213-0c2c-4ea3-86da-85910b4ef823",
+        "name": "Anthropic | anthropic/claude-3-opus:beta",
+        "context_length": 200000,
+        "model": {
+          "slug": "anthropic/claude-3-opus",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-03-05T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "Anthropic: Claude 3 Opus",
+          "short_name": "Claude 3 Opus",
+          "author": "anthropic",
+          "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
+          "model_version_group_id": null,
+          "context_length": 200000,
+          "input_modalities": [
+            "text",
+            "image"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Claude",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "anthropic/claude-3-opus",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "anthropic/claude-3-opus:beta",
+        "model_variant_permaslug": "anthropic/claude-3-opus:beta",
+        "adapter_name": "AnthropicMessageAdapter",
+        "provider_name": "Anthropic",
+        "provider_info": {
+          "name": "Anthropic",
+          "displayName": "Anthropic",
+          "slug": "anthropic",
+          "baseUrl": "https://api.anthropic.com/v1",
+          "dataPolicy": {
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            },
+            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "AnthropicMessageAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.anthropic.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/Anthropic.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "Anthropic",
+        "provider_slug": "anthropic",
+        "provider_model_id": "claude-3-opus-20240229",
+        "quantization": "unknown",
+        "variant": "beta",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 4096,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "tools",
+          "tool_choice",
+          "top_k",
+          "stop"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.000015",
+          "completion": "0.000075",
+          "image": "0.024",
+          "audio": "0",
+          "request": "0",
+          "input_cache_read": "0.0000015",
+          "input_cache_write": "0.00001875",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          }
+        },
+        "provider_region": null
+      },
+      "architecture": "Claude",
+      "created": "2024-03-05T00:00:00+00:00",
+      "displayName": "Anthropic: Claude 3 Opus (self-moderated)",
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
+    },
+    {
+      "slug": "anthropic/claude-3-opus",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-03-05T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude 3 Opus",
+      "short_name": "Claude 3 Opus",
+      "author": "anthropic",
+      "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
+      "model_version_group_id": null,
+      "context_length": 200000,
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-3-opus",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "ee74a4e0-2863-4f51-99a5-997c31c48ae7",
+        "name": "Anthropic | anthropic/claude-3-opus",
+        "context_length": 200000,
+        "model": {
+          "slug": "anthropic/claude-3-opus",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-03-05T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "Anthropic: Claude 3 Opus",
+          "short_name": "Claude 3 Opus",
+          "author": "anthropic",
+          "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
+          "model_version_group_id": null,
+          "context_length": 200000,
+          "input_modalities": [
+            "text",
+            "image"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Claude",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "anthropic/claude-3-opus",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "anthropic/claude-3-opus",
+        "model_variant_permaslug": "anthropic/claude-3-opus",
+        "adapter_name": "AnthropicMessageAdapter",
+        "provider_name": "Anthropic",
+        "provider_info": {
+          "name": "Anthropic",
+          "displayName": "Anthropic",
+          "slug": "anthropic",
+          "baseUrl": "https://api.anthropic.com/v1",
+          "dataPolicy": {
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            },
+            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "AnthropicMessageAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.anthropic.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/Anthropic.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "Anthropic",
+        "provider_slug": "anthropic",
+        "provider_model_id": "claude-3-opus-20240229",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 4096,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "tools",
+          "tool_choice",
+          "top_k",
+          "stop"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.000015",
+          "completion": "0.000075",
+          "image": "0.024",
+          "audio": "0",
+          "request": "0",
+          "input_cache_read": "0.0000015",
+          "input_cache_write": "0.00001875",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          }
+        },
+        "provider_region": null
+      },
+      "architecture": "Claude",
+      "created": "2024-03-05T00:00:00+00:00",
+      "displayName": "Anthropic: Claude 3 Opus",
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthropic/claude-3-sonnet",
@@ -28376,6 +28734,7 @@
           "prompt": "0.000003",
           "completion": "0.000015",
           "image": "0.0048",
+          "audio": "0",
           "request": "0",
           "input_cache_read": "0.0000003",
           "input_cache_write": "0.00000375",
@@ -28408,361 +28767,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Sonnet",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
-    },
-    {
-      "slug": "anthropic/claude-3-opus",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-03-05T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude 3 Opus (self-moderated)",
-      "short_name": "Claude 3 Opus (self-moderated)",
-      "author": "anthropic",
-      "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
-      "model_version_group_id": null,
-      "context_length": 200000,
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-3-opus",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "27446213-0c2c-4ea3-86da-85910b4ef823",
-        "name": "Anthropic | anthropic/claude-3-opus:beta",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-3-opus",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-03-05T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude 3 Opus",
-          "short_name": "Claude 3 Opus",
-          "author": "anthropic",
-          "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
-          "model_version_group_id": null,
-          "context_length": 200000,
-          "input_modalities": [
-            "text",
-            "image"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-3-opus",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-3-opus:beta",
-        "model_variant_permaslug": "anthropic/claude-3-opus:beta",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-3-opus-20240229",
-        "quantization": "unknown",
-        "variant": "beta",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "tools",
-          "tool_choice",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.000015",
-          "completion": "0.000075",
-          "image": "0.024",
-          "request": "0",
-          "input_cache_read": "0.0000015",
-          "input_cache_write": "0.00001875",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2024-03-05T00:00:00+00:00",
-      "displayName": "Anthropic: Claude 3 Opus (self-moderated)",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
-    },
-    {
-      "slug": "anthropic/claude-3-opus",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-03-05T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude 3 Opus",
-      "short_name": "Claude 3 Opus",
-      "author": "anthropic",
-      "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
-      "model_version_group_id": null,
-      "context_length": 200000,
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-3-opus",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "ee74a4e0-2863-4f51-99a5-997c31c48ae7",
-        "name": "Anthropic | anthropic/claude-3-opus",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-3-opus",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-03-05T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude 3 Opus",
-          "short_name": "Claude 3 Opus",
-          "author": "anthropic",
-          "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
-          "model_version_group_id": null,
-          "context_length": 200000,
-          "input_modalities": [
-            "text",
-            "image"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-3-opus",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-3-opus",
-        "model_variant_permaslug": "anthropic/claude-3-opus",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-3-opus-20240229",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "tools",
-          "tool_choice",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.000015",
-          "completion": "0.000075",
-          "image": "0.024",
-          "request": "0",
-          "input_cache_read": "0.0000015",
-          "input_cache_write": "0.00001875",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2024-03-05T00:00:00+00:00",
-      "displayName": "Anthropic: Claude 3 Opus",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "mistralai/mistral-large",
@@ -28911,6 +28916,7 @@
           "prompt": "0.000002",
           "completion": "0.000006",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -28941,7 +28947,7 @@
       "architecture": "Mistral",
       "created": "2024-02-26T00:00:00+00:00",
       "displayName": "Mistral Large",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "google/gemma-7b-it",
@@ -28980,7 +28986,7 @@
       "architecture": "Gemini",
       "created": "2024-02-22T00:00:00+00:00",
       "displayName": "Google: Gemma 7B",
-      "fetchedAt": "2025-07-29T08:09:39.542Z"
+      "fetchedAt": "2025-07-30T08:09:53.449Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mistral-7b-dpo",
@@ -29019,7 +29025,7 @@
       "architecture": "Mistral",
       "created": "2024-02-21T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mistral 7B DPO",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0613",
@@ -29167,6 +29173,7 @@
           "prompt": "0.000001",
           "completion": "0.000002",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -29197,7 +29204,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0613)",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/gpt-4-turbo-preview",
@@ -29345,6 +29352,7 @@
           "prompt": "0.00001",
           "completion": "0.00003",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -29375,7 +29383,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo Preview",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mixtral-8x7b-dpo",
@@ -29502,7 +29510,8 @@
             "moz-llama-3-3-70b-instruct-turbo",
             "moonshotai/Kimi-K2-Instruct-tgl-testing",
             "VirtueAIxTogether/VirtueGuard-Text-Lite",
-            "Virtue-AI/VirtueGuard-Text-Lite"
+            "Virtue-AI/VirtueGuard-Text-Lite",
+            "arcee-ai/AFM-4.5B"
           ]
         },
         "provider_display_name": "Together",
@@ -29545,6 +29554,7 @@
           "prompt": "0.0000006",
           "completion": "0.0000006",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -29575,7 +29585,7 @@
       "architecture": "Mistral",
       "created": "2024-01-16T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mixtral 8x7B DPO",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mixtral-8x7b-sft",
@@ -29614,7 +29624,7 @@
       "architecture": "Mistral",
       "created": "2024-01-16T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mixtral 8x7B SFT",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/mistral-small",
@@ -29763,6 +29773,7 @@
           "prompt": "0.0000002",
           "completion": "0.0000006",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -29794,7 +29805,7 @@
       "architecture": "Mistral",
       "created": "2024-01-10T00:00:00+00:00",
       "displayName": "Mistral Small",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/mistral-tiny",
@@ -29943,6 +29954,7 @@
           "prompt": "0.00000025",
           "completion": "0.00000025",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -29974,7 +29986,7 @@
       "architecture": "Mistral",
       "created": "2024-01-10T00:00:00+00:00",
       "displayName": "Mistral Tiny",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/mistral-medium",
@@ -30009,7 +30021,7 @@
       "architecture": "Mistral",
       "created": "2024-01-10T00:00:00+00:00",
       "displayName": "Mistral Medium",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "neversleep/noromaid-mixtral-8x7b-instruct",
@@ -30047,7 +30059,7 @@
       "architecture": "Mistral",
       "created": "2024-01-02T00:00:00+00:00",
       "displayName": "Noromaid Mixtral 8x7B Instruct",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct-v0.2",
@@ -30172,7 +30184,8 @@
             "moz-llama-3-3-70b-instruct-turbo",
             "moonshotai/Kimi-K2-Instruct-tgl-testing",
             "VirtueAIxTogether/VirtueGuard-Text-Lite",
-            "Virtue-AI/VirtueGuard-Text-Lite"
+            "Virtue-AI/VirtueGuard-Text-Lite",
+            "arcee-ai/AFM-4.5B"
           ]
         },
         "provider_display_name": "Together",
@@ -30215,6 +30228,7 @@
           "prompt": "0.0000002",
           "completion": "0.0000002",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -30245,7 +30259,7 @@
       "architecture": "Mistral",
       "created": "2023-12-28T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct v0.2",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "cognitivecomputations/dolphin-mixtral-8x7b",
@@ -30284,7 +30298,7 @@
       "architecture": "Mistral",
       "created": "2023-12-21T00:00:00+00:00",
       "displayName": "Dolphin 2.6 Mixtral 8x7B 🐬",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "mistralai/mixtral-8x7b-instruct",
@@ -30478,6 +30492,7 @@
           "prompt": "0.00000008",
           "completion": "0.00000024",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -30508,7 +30523,7 @@
       "architecture": "Mistral",
       "created": "2023-12-10T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x7B Instruct",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "togethercomputer/stripedhyena-hessian-7b",
@@ -30543,7 +30558,7 @@
       "architecture": "Mistral",
       "created": "2023-12-09T00:00:00+00:00",
       "displayName": "StripedHyena Hessian 7B (base)",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "togethercomputer/stripedhyena-nous-7b",
@@ -30581,7 +30596,7 @@
       "architecture": "Mistral",
       "created": "2023-12-09T00:00:00+00:00",
       "displayName": "StripedHyena Nous 7B",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "gryphe/mythomist-7b",
@@ -30619,7 +30634,7 @@
       "architecture": "Mistral",
       "created": "2023-12-07T00:00:00+00:00",
       "displayName": "MythoMist 7B",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-vision-7b",
@@ -30655,7 +30670,7 @@
       "architecture": "Mistral",
       "created": "2023-12-07T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Vision 7B (alpha)",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "openrouter/cinematika-7b",
@@ -30693,7 +30708,7 @@
       "architecture": "Mistral",
       "created": "2023-12-06T00:00:00+00:00",
       "displayName": "Cinematika 7B (alpha)",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "nousresearch/nous-capybara-7b",
@@ -30731,7 +30746,7 @@
       "architecture": "Mistral",
       "created": "2023-12-05T00:00:00+00:00",
       "displayName": "Nous: Capybara 7B",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "openchat/openchat-7b",
@@ -30768,7 +30783,7 @@
       "architecture": "Mistral",
       "created": "2023-11-28T00:00:00+00:00",
       "displayName": "OpenChat 3.5 7B",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "intel/neural-chat-7b",
@@ -30806,7 +30821,7 @@
       "architecture": "Mistral",
       "created": "2023-11-25T00:00:00+00:00",
       "displayName": "Neural Chat 7B v3.1",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "anthropic/claude-2.1",
@@ -30841,7 +30856,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.1",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthropic/claude-2",
@@ -30876,7 +30891,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthropic/claude-instant-1.1",
@@ -30913,7 +30928,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.1",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "teknium/openhermes-2.5-mistral-7b",
@@ -30952,7 +30967,7 @@
       "architecture": "Mistral",
       "created": "2023-11-20T00:00:00+00:00",
       "displayName": "OpenHermes 2.5 Mistral 7B",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "openai/gpt-4-vision-preview",
@@ -30988,7 +31003,7 @@
       "architecture": "GPT",
       "created": "2023-11-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Vision",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "undi95/toppy-m-7b",
@@ -31137,6 +31152,7 @@
           "prompt": "0.0000008",
           "completion": "0.0000012",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -31168,7 +31184,7 @@
       "architecture": "Mistral",
       "created": "2023-11-10T00:00:00+00:00",
       "displayName": "Toppy M 7B",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "openai/gpt-4-1106-preview",
@@ -31316,6 +31332,7 @@
           "prompt": "0.00001",
           "completion": "0.00003",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -31346,7 +31363,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo (older v1106)",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-1106",
@@ -31381,7 +31398,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k (older v1106)",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "teknium/openhermes-2-mistral-7b",
@@ -31420,7 +31437,7 @@
       "architecture": "Mistral",
       "created": "2023-11-01T00:00:00+00:00",
       "displayName": "OpenHermes 2 Mistral 7B",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "open-orca/mistral-7b-openorca",
@@ -31459,7 +31476,7 @@
       "architecture": "Mistral",
       "created": "2023-10-30T00:00:00+00:00",
       "displayName": "Mistral OpenOrca 7B",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-instruct",
@@ -31612,6 +31629,7 @@
           "prompt": "0.0000015",
           "completion": "0.000002",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -31642,7 +31660,7 @@
       "architecture": "GPT",
       "created": "2023-09-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo Instruct",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct-v0.1",
@@ -31784,6 +31802,7 @@
           "prompt": "0.00000011",
           "completion": "0.00000019",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -31815,7 +31834,7 @@
       "architecture": "Mistral",
       "created": "2023-09-28T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct v0.1",
-      "fetchedAt": "2025-07-29T08:09:40.473Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-16k",
@@ -31962,6 +31981,7 @@
           "prompt": "0.000003",
           "completion": "0.000004",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -31992,7 +32012,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/gpt-4-32k",
@@ -32027,7 +32047,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/gpt-4-32k-0314",
@@ -32062,7 +32082,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k (older v0314)",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "huggingfaceh4/zephyr-7b-beta",
@@ -32100,16 +32120,51 @@
       "architecture": "Mistral",
       "created": "2023-08-02T00:00:00+00:00",
       "displayName": "Hugging Face: Zephyr 7B",
-      "fetchedAt": "2025-07-29T08:09:40.474Z"
+      "fetchedAt": "2025-07-30T08:09:54.204Z"
     },
     {
-      "slug": "anthropic/claude-instant-1.0",
+      "slug": "anthropic/claude-2.0",
       "hf_slug": null,
       "updated_at": "2025-03-28T03:20:30.853469+00:00",
       "created_at": "2023-07-28T00:00:00+00:00",
       "hf_updated_at": null,
-      "name": "Anthropic: Claude Instant v1.0",
-      "short_name": "Claude Instant v1.0",
+      "name": "Anthropic: Claude v2.0",
+      "short_name": "Claude v2.0",
+      "author": "anthropic",
+      "description": "Anthropic's flagship model. Superior performance on tasks that require complex reasoning. Supports hundreds of pages of text.",
+      "model_version_group_id": null,
+      "context_length": 100000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-2.0",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Claude",
+      "created": "2023-07-28T00:00:00+00:00",
+      "displayName": "Anthropic: Claude v2.0",
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
+    },
+    {
+      "slug": "anthropic/claude-instant-1",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-07-28T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude Instant v1",
+      "short_name": "Claude Instant v1",
       "author": "anthropic",
       "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
       "model_version_group_id": null,
@@ -32122,22 +32177,20 @@
       ],
       "has_text_output": true,
       "group": "Claude",
-      "instruct_type": "claude",
+      "instruct_type": null,
       "default_system": null,
-      "default_stops": [
-        "\n\nHuman:"
-      ],
+      "default_stops": [],
       "hidden": false,
       "router": null,
       "warning_message": null,
-      "permaslug": "anthropic/claude-instant-1.0",
+      "permaslug": "anthropic/claude-instant-1",
       "reasoning_config": null,
       "features": {},
       "endpoint": null,
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
-      "displayName": "Anthropic: Claude Instant v1.0",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "displayName": "Anthropic: Claude Instant v1",
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthropic/claude-1",
@@ -32174,42 +32227,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v1",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
-    },
-    {
-      "slug": "anthropic/claude-instant-1",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-07-28T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude Instant v1",
-      "short_name": "Claude Instant v1",
-      "author": "anthropic",
-      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
-      "model_version_group_id": null,
-      "context_length": 100000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-instant-1",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Claude",
-      "created": "2023-07-28T00:00:00+00:00",
-      "displayName": "Anthropic: Claude Instant v1",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "anthropic/claude-1.2",
@@ -32246,18 +32264,18 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v1.2",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
-      "slug": "anthropic/claude-2.0",
+      "slug": "anthropic/claude-instant-1.0",
       "hf_slug": null,
       "updated_at": "2025-03-28T03:20:30.853469+00:00",
       "created_at": "2023-07-28T00:00:00+00:00",
       "hf_updated_at": null,
-      "name": "Anthropic: Claude v2.0",
-      "short_name": "Claude v2.0",
+      "name": "Anthropic: Claude Instant v1.0",
+      "short_name": "Claude Instant v1.0",
       "author": "anthropic",
-      "description": "Anthropic's flagship model. Superior performance on tasks that require complex reasoning. Supports hundreds of pages of text.",
+      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
       "model_version_group_id": null,
       "context_length": 100000,
       "input_modalities": [
@@ -32268,20 +32286,22 @@
       ],
       "has_text_output": true,
       "group": "Claude",
-      "instruct_type": null,
+      "instruct_type": "claude",
       "default_system": null,
-      "default_stops": [],
+      "default_stops": [
+        "\n\nHuman:"
+      ],
       "hidden": false,
       "router": null,
       "warning_message": null,
-      "permaslug": "anthropic/claude-2.0",
+      "permaslug": "anthropic/claude-instant-1.0",
       "reasoning_config": null,
       "features": {},
       "endpoint": null,
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
-      "displayName": "Anthropic: Claude v2.0",
-      "fetchedAt": "2025-07-29T08:09:39.266Z"
+      "displayName": "Anthropic: Claude Instant v1.0",
+      "fetchedAt": "2025-07-30T08:09:53.235Z"
     },
     {
       "slug": "openai/gpt-4",
@@ -32428,6 +32448,7 @@
           "prompt": "0.00003",
           "completion": "0.00006",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -32458,7 +32479,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo",
@@ -32605,6 +32626,7 @@
           "prompt": "0.0000005",
           "completion": "0.0000015",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -32635,7 +32657,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/gpt-4-0314",
@@ -32783,6 +32805,7 @@
           "prompt": "0.00003",
           "completion": "0.00006",
           "image": "0",
+          "audio": "0",
           "request": "0",
           "web_search": "0",
           "internal_reasoning": "0",
@@ -32813,7 +32836,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 (older v0314)",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0301",
@@ -32848,7 +32871,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0301)",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0125",
@@ -32883,7 +32906,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-07-29T08:09:39.095Z"
+      "fetchedAt": "2025-07-30T08:09:53.172Z"
     }
   ],
   "metadata": {
@@ -32893,7 +32916,7 @@
       "Claude": 25,
       "Gemini": 31
     },
-    "lastUpdated": "2025-07-29T08:09:41.005Z",
+    "lastUpdated": "2025-07-30T08:09:54.792Z",
     "errors": []
   }
 }
