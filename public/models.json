@@ -1,6 +1,735 @@
 {
   "models": [
     {
+      "slug": "openai/gpt-5-chat",
+      "hf_slug": "",
+      "updated_at": "2025-08-07T18:20:40.020207+00:00",
+      "created_at": "2025-08-07T17:30:37.42514+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: GPT-5 Chat",
+      "short_name": "GPT-5 Chat",
+      "author": "openai",
+      "description": "GPT-5 Chat is designed for advanced, natural, multimodal, and context-aware conversations for enterprise applications.",
+      "model_version_group_id": null,
+      "context_length": 400000,
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": "",
+      "permaslug": "openai/gpt-5-chat-2025-08-07",
+      "reasoning_config": null,
+      "features": null,
+      "endpoint": {
+        "id": "8f8398f5-523f-4676-8ba4-e82e3484efb1",
+        "name": "OpenAI | openai/gpt-5-chat-2025-08-07",
+        "context_length": 400000,
+        "model": {
+          "slug": "openai/gpt-5-chat",
+          "hf_slug": "",
+          "updated_at": "2025-08-07T18:20:40.020207+00:00",
+          "created_at": "2025-08-07T17:30:37.42514+00:00",
+          "hf_updated_at": null,
+          "name": "OpenAI: GPT-5 Chat",
+          "short_name": "GPT-5 Chat",
+          "author": "openai",
+          "description": "GPT-5 Chat is designed for advanced, natural, multimodal, and context-aware conversations for enterprise applications.",
+          "model_version_group_id": null,
+          "context_length": 400000,
+          "input_modalities": [
+            "file",
+            "image",
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "GPT",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": "",
+          "permaslug": "openai/gpt-5-chat-2025-08-07",
+          "reasoning_config": null,
+          "features": null
+        },
+        "model_variant_slug": "openai/gpt-5-chat",
+        "model_variant_permaslug": "openai/gpt-5-chat-2025-08-07",
+        "adapter_name": "OpenAIResponsesAdapter",
+        "provider_name": "OpenAI",
+        "provider_info": {
+          "name": "OpenAI",
+          "displayName": "OpenAI",
+          "slug": "openai",
+          "baseUrl": "https://api.openai.com/v1",
+          "dataPolicy": {
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true
+            },
+            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "OpenAIResponsesAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.openai.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/OpenAI.svg",
+            "className": "invert-0 dark:invert"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "OpenAI",
+        "provider_slug": "openai",
+        "provider_model_id": "gpt-5-chat-latest",
+        "quantization": null,
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": 272000,
+        "max_completion_tokens": 128000,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "seed",
+          "max_tokens",
+          "response_format",
+          "structured_outputs"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true
+          },
+          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true
+        },
+        "pricing": {
+          "prompt": "0.00000125",
+          "completion": "0.00001",
+          "image": "0",
+          "audio": "0",
+          "request": "0",
+          "input_cache_read": "0.000000125",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": false,
+        "supports_reasoning": true,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_implicit_caching": true,
+          "supports_input_audio": false,
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          },
+          "supported_parameters": {
+            "response_format": true,
+            "structured_outputs": true
+          }
+        },
+        "provider_region": null
+      },
+      "architecture": "GPT",
+      "created": "2025-08-07T17:30:37.42514+00:00",
+      "displayName": "OpenAI: GPT-5 Chat",
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
+    },
+    {
+      "slug": "openai/gpt-5",
+      "hf_slug": "",
+      "updated_at": "2025-08-07T18:37:47.885264+00:00",
+      "created_at": "2025-08-07T17:23:33+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: GPT-5",
+      "short_name": "GPT-5",
+      "author": "openai",
+      "description": "GPT-5 is OpenAI’s most advanced model, offering major improvements in reasoning, code quality, and user experience. It is optimized for complex tasks that require step-by-step reasoning, instruction following, and accuracy in high-stakes use cases. It supports test-time routing features and advanced prompt understanding, including user-specified intent like \"think hard about this.\" Improvements include reductions in hallucination, sycophancy, and better performance in coding, writing, and health-related tasks.\n\nNote that BYOK is required for this model. Set up here: https://openrouter.ai/settings/integrations",
+      "model_version_group_id": null,
+      "context_length": 400000,
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": "OpenAI requires bringing your own API key to use GPT-5 over the API. Set up here: https://openrouter.ai/settings/integrations",
+      "permaslug": "openai/gpt-5-2025-08-07",
+      "reasoning_config": null,
+      "features": null,
+      "endpoint": {
+        "id": "7c2f859a-7890-4e8e-b1de-1cd1c0a800b4",
+        "name": "OpenAI | openai/gpt-5-2025-08-07",
+        "context_length": 400000,
+        "model": {
+          "slug": "openai/gpt-5",
+          "hf_slug": "",
+          "updated_at": "2025-08-07T18:37:47.885264+00:00",
+          "created_at": "2025-08-07T17:23:33+00:00",
+          "hf_updated_at": null,
+          "name": "OpenAI: GPT-5",
+          "short_name": "GPT-5",
+          "author": "openai",
+          "description": "GPT-5 is OpenAI’s most advanced model, offering major improvements in reasoning, code quality, and user experience. It is optimized for complex tasks that require step-by-step reasoning, instruction following, and accuracy in high-stakes use cases. It supports test-time routing features and advanced prompt understanding, including user-specified intent like \"think hard about this.\" Improvements include reductions in hallucination, sycophancy, and better performance in coding, writing, and health-related tasks.\n\nNote that BYOK is required for this model. Set up here: https://openrouter.ai/settings/integrations",
+          "model_version_group_id": null,
+          "context_length": 400000,
+          "input_modalities": [
+            "text",
+            "image",
+            "file"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "GPT",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": "OpenAI requires bringing your own API key to use GPT-5 over the API. Set up here: https://openrouter.ai/settings/integrations",
+          "permaslug": "openai/gpt-5-2025-08-07",
+          "reasoning_config": null,
+          "features": null
+        },
+        "model_variant_slug": "openai/gpt-5",
+        "model_variant_permaslug": "openai/gpt-5-2025-08-07",
+        "adapter_name": "OpenAIResponsesAdapter",
+        "provider_name": "OpenAI",
+        "provider_info": {
+          "name": "OpenAI",
+          "displayName": "OpenAI",
+          "slug": "openai",
+          "baseUrl": "https://api.openai.com/v1",
+          "dataPolicy": {
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true
+            },
+            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "OpenAIResponsesAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.openai.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/OpenAI.svg",
+            "className": "invert-0 dark:invert"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "OpenAI",
+        "provider_slug": "openai",
+        "provider_model_id": "gpt-5-2025-08-07",
+        "quantization": null,
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": 272000,
+        "max_completion_tokens": 128000,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "tools",
+          "tool_choice",
+          "seed",
+          "max_tokens",
+          "response_format",
+          "structured_outputs"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true
+          },
+          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true
+        },
+        "pricing": {
+          "prompt": "0.00000125",
+          "completion": "0.00001",
+          "image": "0",
+          "audio": "0",
+          "request": "0",
+          "input_cache_read": "0.000000125",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": true,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "is_mandatory_reasoning": true,
+          "supports_implicit_caching": true,
+          "supports_input_audio": false,
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          },
+          "supported_parameters": {
+            "response_format": true,
+            "structured_outputs": true
+          }
+        },
+        "provider_region": null
+      },
+      "architecture": "GPT",
+      "created": "2025-08-07T17:23:33+00:00",
+      "displayName": "OpenAI: GPT-5",
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
+    },
+    {
+      "slug": "openai/gpt-5-mini",
+      "hf_slug": "",
+      "updated_at": "2025-08-07T18:19:25.35747+00:00",
+      "created_at": "2025-08-07T17:23:27+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: GPT-5 Mini",
+      "short_name": "GPT-5 Mini",
+      "author": "openai",
+      "description": "GPT-5 Mini is a compact version of GPT-5, designed to handle lighter-weight reasoning tasks. It provides the same instruction-following and safety-tuning benefits as GPT-5, but with reduced latency and cost. GPT-5 Mini is the successor to OpenAI's o4-mini model.",
+      "model_version_group_id": null,
+      "context_length": 400000,
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": "",
+      "permaslug": "openai/gpt-5-mini-2025-08-07",
+      "reasoning_config": null,
+      "features": null,
+      "endpoint": {
+        "id": "c4f66d01-20b0-4c27-a225-438ea22fda43",
+        "name": "OpenAI | openai/gpt-5-mini-2025-08-07",
+        "context_length": 400000,
+        "model": {
+          "slug": "openai/gpt-5-mini",
+          "hf_slug": "",
+          "updated_at": "2025-08-07T18:19:25.35747+00:00",
+          "created_at": "2025-08-07T17:23:27+00:00",
+          "hf_updated_at": null,
+          "name": "OpenAI: GPT-5 Mini",
+          "short_name": "GPT-5 Mini",
+          "author": "openai",
+          "description": "GPT-5 Mini is a compact version of GPT-5, designed to handle lighter-weight reasoning tasks. It provides the same instruction-following and safety-tuning benefits as GPT-5, but with reduced latency and cost. GPT-5 Mini is the successor to OpenAI's o4-mini model.",
+          "model_version_group_id": null,
+          "context_length": 400000,
+          "input_modalities": [
+            "text",
+            "image",
+            "file"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "GPT",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": "",
+          "permaslug": "openai/gpt-5-mini-2025-08-07",
+          "reasoning_config": null,
+          "features": null
+        },
+        "model_variant_slug": "openai/gpt-5-mini",
+        "model_variant_permaslug": "openai/gpt-5-mini-2025-08-07",
+        "adapter_name": "OpenAIResponsesAdapter",
+        "provider_name": "OpenAI",
+        "provider_info": {
+          "name": "OpenAI",
+          "displayName": "OpenAI",
+          "slug": "openai",
+          "baseUrl": "https://api.openai.com/v1",
+          "dataPolicy": {
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true
+            },
+            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "OpenAIResponsesAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.openai.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/OpenAI.svg",
+            "className": "invert-0 dark:invert"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "OpenAI",
+        "provider_slug": "openai",
+        "provider_model_id": "gpt-5-mini-2025-08-07",
+        "quantization": null,
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": 272000,
+        "max_completion_tokens": 128000,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "tools",
+          "tool_choice",
+          "seed",
+          "max_tokens",
+          "response_format",
+          "structured_outputs"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true
+          },
+          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true
+        },
+        "pricing": {
+          "prompt": "0.00000025",
+          "completion": "0.000002",
+          "image": "0",
+          "audio": "0",
+          "request": "0",
+          "input_cache_read": "0.000000025",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": true,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "is_mandatory_reasoning": true,
+          "supports_implicit_caching": true,
+          "supports_input_audio": false,
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          },
+          "supported_parameters": {
+            "response_format": true,
+            "structured_outputs": true
+          }
+        },
+        "provider_region": null
+      },
+      "architecture": "GPT",
+      "created": "2025-08-07T17:23:27+00:00",
+      "displayName": "OpenAI: GPT-5 Mini",
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
+    },
+    {
+      "slug": "openai/gpt-5-nano",
+      "hf_slug": "",
+      "updated_at": "2025-08-07T18:19:27.893085+00:00",
+      "created_at": "2025-08-07T17:23:22+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: GPT-5 Nano",
+      "short_name": "GPT-5 Nano",
+      "author": "openai",
+      "description": "GPT-5-Nano is the smallest and fastest variant in the GPT-5 system, optimized for developer tools, rapid interactions, and ultra-low latency environments. While limited in reasoning depth compared to its larger counterparts, it retains key instruction-following and safety features. It is the successor to GPT-4.1-nano and offers a lightweight option for cost-sensitive or real-time applications.",
+      "model_version_group_id": null,
+      "context_length": 400000,
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": "",
+      "permaslug": "openai/gpt-5-nano-2025-08-07",
+      "reasoning_config": null,
+      "features": null,
+      "endpoint": {
+        "id": "50329d77-04e1-4979-a184-c33030289476",
+        "name": "OpenAI | openai/gpt-5-nano-2025-08-07",
+        "context_length": 400000,
+        "model": {
+          "slug": "openai/gpt-5-nano",
+          "hf_slug": "",
+          "updated_at": "2025-08-07T18:19:27.893085+00:00",
+          "created_at": "2025-08-07T17:23:22+00:00",
+          "hf_updated_at": null,
+          "name": "OpenAI: GPT-5 Nano",
+          "short_name": "GPT-5 Nano",
+          "author": "openai",
+          "description": "GPT-5-Nano is the smallest and fastest variant in the GPT-5 system, optimized for developer tools, rapid interactions, and ultra-low latency environments. While limited in reasoning depth compared to its larger counterparts, it retains key instruction-following and safety features. It is the successor to GPT-4.1-nano and offers a lightweight option for cost-sensitive or real-time applications.",
+          "model_version_group_id": null,
+          "context_length": 400000,
+          "input_modalities": [
+            "text",
+            "image",
+            "file"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "GPT",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": "",
+          "permaslug": "openai/gpt-5-nano-2025-08-07",
+          "reasoning_config": null,
+          "features": null
+        },
+        "model_variant_slug": "openai/gpt-5-nano",
+        "model_variant_permaslug": "openai/gpt-5-nano-2025-08-07",
+        "adapter_name": "OpenAIResponsesAdapter",
+        "provider_name": "OpenAI",
+        "provider_info": {
+          "name": "OpenAI",
+          "displayName": "OpenAI",
+          "slug": "openai",
+          "baseUrl": "https://api.openai.com/v1",
+          "dataPolicy": {
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true
+            },
+            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "OpenAIResponsesAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.openai.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/OpenAI.svg",
+            "className": "invert-0 dark:invert"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "OpenAI",
+        "provider_slug": "openai",
+        "provider_model_id": "gpt-5-nano-2025-08-07",
+        "quantization": null,
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": 272000,
+        "max_completion_tokens": 128000,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "tools",
+          "tool_choice",
+          "seed",
+          "max_tokens",
+          "response_format",
+          "structured_outputs"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true
+          },
+          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true
+        },
+        "pricing": {
+          "prompt": "0.00000005",
+          "completion": "0.0000004",
+          "image": "0",
+          "audio": "0",
+          "request": "0",
+          "input_cache_read": "0.000000005",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": true,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "is_mandatory_reasoning": true,
+          "supports_implicit_caching": true,
+          "supports_input_audio": false,
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          },
+          "supported_parameters": {
+            "response_format": true,
+            "structured_outputs": true
+          }
+        },
+        "provider_region": null
+      },
+      "architecture": "GPT",
+      "created": "2025-08-07T17:23:22+00:00",
+      "displayName": "OpenAI: GPT-5 Nano",
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
+    },
+    {
       "slug": "openai/gpt-oss-120b",
       "hf_slug": "openai/gpt-oss-120b",
       "updated_at": "2025-08-06T21:03:51.758918+00:00",
@@ -220,7 +949,7 @@
       "architecture": "GPT",
       "created": "2025-08-05T17:17:11+00:00",
       "displayName": "OpenAI: gpt-oss-120b",
-      "fetchedAt": "2025-08-07T08:09:38.307Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "openai/gpt-oss-20b",
@@ -391,7 +1120,7 @@
       "architecture": "GPT",
       "created": "2025-08-05T17:17:09+00:00",
       "displayName": "OpenAI: gpt-oss-20b (free)",
-      "fetchedAt": "2025-08-07T08:09:38.307Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "openai/gpt-oss-20b",
@@ -617,7 +1346,7 @@
       "architecture": "GPT",
       "created": "2025-08-05T17:17:09+00:00",
       "displayName": "OpenAI: gpt-oss-20b",
-      "fetchedAt": "2025-08-07T08:09:38.307Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "anthropic/claude-opus-4.1",
@@ -797,7 +1526,7 @@
       "architecture": "Claude",
       "created": "2025-08-05T16:33:11.634562+00:00",
       "displayName": "Anthropic: Claude Opus 4.1",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "mistralai/codestral-2508",
@@ -983,7 +1712,7 @@
       "architecture": "Mistral",
       "created": "2025-08-01T20:20:30.639517+00:00",
       "displayName": "Mistral: Codestral 2508",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "google/gemini-2.5-flash-lite",
@@ -1178,7 +1907,7 @@
       "architecture": "Gemini",
       "created": "2025-07-22T16:04:36.283638+00:00",
       "displayName": "Google: Gemini 2.5 Flash Lite",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "mistralai/devstral-medium",
@@ -1360,7 +2089,7 @@
       "architecture": "Mistral",
       "created": "2025-07-10T15:28:41.981407+00:00",
       "displayName": "Mistral: Devstral Medium",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/devstral-small",
@@ -1578,7 +2307,7 @@
       "architecture": "Mistral",
       "created": "2025-07-10T15:19:11.726916+00:00",
       "displayName": "Mistral: Devstral Small 1.1",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "x-ai/grok-4",
@@ -1748,7 +2477,7 @@
         "supports_tool_parameters": true,
         "supports_reasoning": true,
         "supports_multipart": true,
-        "limit_rpm": null,
+        "limit_rpm": 1000,
         "limit_rpd": null,
         "limit_rpm_cf": null,
         "has_completions": true,
@@ -1770,7 +2499,7 @@
       "architecture": "Grok",
       "created": "2025-07-09T19:01:29.595463+00:00",
       "displayName": "xAI: Grok 4",
-      "fetchedAt": "2025-08-07T08:09:38.793Z"
+      "fetchedAt": "2025-08-08T08:09:52.700Z"
     },
     {
       "slug": "mistralai/mistral-small-3.2-24b-instruct",
@@ -1960,7 +2689,7 @@
       "architecture": "Mistral",
       "created": "2025-06-20T18:10:16.960494+00:00",
       "displayName": "Mistral: Mistral Small 3.2 24B (free)",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/mistral-small-3.2-24b-instruct",
@@ -2150,7 +2879,7 @@
       "architecture": "Mistral",
       "created": "2025-06-20T18:10:16.960494+00:00",
       "displayName": "Mistral: Mistral Small 3.2 24B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "google/gemini-2.5-flash-lite-preview-06-17",
@@ -2344,7 +3073,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T15:23:51.237783+00:00",
       "displayName": "Google: Gemini 2.5 Flash Lite Preview 06-17",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "google/gemini-2.5-flash",
@@ -2540,7 +3269,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T15:01:28.103313+00:00",
       "displayName": "Google: Gemini 2.5 Flash",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "google/gemini-2.5-pro",
@@ -2744,7 +3473,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T14:12:24+00:00",
       "displayName": "Google: Gemini 2.5 Pro",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "openai/o3-pro",
@@ -2923,7 +3652,7 @@
       "architecture": "GPT",
       "created": "2025-06-10T23:32:32.266087+00:00",
       "displayName": "OpenAI: o3 Pro",
-      "fetchedAt": "2025-08-07T08:09:38.307Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "x-ai/grok-3-mini",
@@ -3106,7 +3835,7 @@
       "architecture": "Grok",
       "created": "2025-06-10T19:20:45.198136+00:00",
       "displayName": "xAI: Grok 3 Mini",
-      "fetchedAt": "2025-08-07T08:09:38.793Z"
+      "fetchedAt": "2025-08-08T08:09:52.700Z"
     },
     {
       "slug": "x-ai/grok-3",
@@ -3288,7 +4017,7 @@
       "architecture": "Grok",
       "created": "2025-06-10T19:15:08.007729+00:00",
       "displayName": "xAI: Grok 3",
-      "fetchedAt": "2025-08-07T08:09:38.793Z"
+      "fetchedAt": "2025-08-08T08:09:52.700Z"
     },
     {
       "slug": "mistralai/magistral-small-2506",
@@ -3495,7 +4224,7 @@
       "architecture": "Mistral",
       "created": "2025-06-10T15:32:41.038747+00:00",
       "displayName": "Mistral: Magistral Small 2506",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/magistral-medium-2506",
@@ -3702,7 +4431,7 @@
       "architecture": "Mistral",
       "created": "2025-06-08T03:40:54.076545+00:00",
       "displayName": "Mistral: Magistral Medium 2506",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/magistral-medium-2506",
@@ -3909,7 +4638,7 @@
       "architecture": "Mistral",
       "created": "2025-06-08T03:40:54.076545+00:00",
       "displayName": "Mistral: Magistral Medium 2506 (thinking)",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview",
@@ -4113,7 +4842,7 @@
       "architecture": "Gemini",
       "created": "2025-06-05T15:27:37.538116+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview 06-05",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-7b",
@@ -4303,7 +5032,7 @@
       "architecture": "Qwen",
       "created": "2025-05-30T18:03:57.186962+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 7B",
-      "fetchedAt": "2025-08-07T08:09:39.555Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "deepseek/deepseek-r1-0528-qwen3-8b",
@@ -4510,7 +5239,7 @@
       "architecture": "Qwen",
       "created": "2025-05-29T17:09:03.280319+00:00",
       "displayName": "DeepSeek: Deepseek R1 0528 Qwen3 8B (free)",
-      "fetchedAt": "2025-08-07T08:09:39.555Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "deepseek/deepseek-r1-0528-qwen3-8b",
@@ -4693,7 +5422,7 @@
       "architecture": "Qwen",
       "created": "2025-05-29T17:09:03.280319+00:00",
       "displayName": "DeepSeek: Deepseek R1 0528 Qwen3 8B",
-      "fetchedAt": "2025-08-07T08:09:39.555Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "google/gemma-2b-it",
@@ -4732,7 +5461,7 @@
       "architecture": "Gemini",
       "created": "2025-05-28T19:33:35.082388+00:00",
       "displayName": "Google: Gemma 1 2B",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "anthropic/claude-opus-4",
@@ -4911,7 +5640,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:27:25.029961+00:00",
       "displayName": "Anthropic: Claude Opus 4",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4",
@@ -5096,7 +5825,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:12:51.381897+00:00",
       "displayName": "Anthropic: Claude Sonnet 4",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "mistralai/devstral-small-2505",
@@ -5281,7 +6010,7 @@
       "architecture": "Mistral",
       "created": "2025-05-21T14:22:59.930775+00:00",
       "displayName": "Mistral: Devstral Small 2505 (free)",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/devstral-small-2505",
@@ -5466,7 +6195,7 @@
       "architecture": "Mistral",
       "created": "2025-05-21T14:22:59.930775+00:00",
       "displayName": "Mistral: Devstral Small 2505",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview-05-20",
@@ -5503,7 +6232,7 @@
       "architecture": "Gemini",
       "created": "2025-05-20T17:25:24.343372+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 05-20",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "openai/codex-mini",
@@ -5681,7 +6410,7 @@
       "architecture": "GPT",
       "created": "2025-05-16T15:36:01.081688+00:00",
       "displayName": "OpenAI: Codex Mini",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "mistralai/mistral-medium-3",
@@ -5865,7 +6594,7 @@
       "architecture": "Mistral",
       "created": "2025-05-07T14:15:41.980763+00:00",
       "displayName": "Mistral: Mistral Medium 3",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview-05-06",
@@ -6069,7 +6798,7 @@
       "architecture": "Gemini",
       "created": "2025-05-07T00:41:53+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview 05-06",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "microsoft/phi-4-reasoning-plus",
@@ -6306,7 +7035,7 @@
       "architecture": "Phi",
       "created": "2025-05-01T20:22:41.235613+00:00",
       "displayName": "Microsoft: Phi 4 Reasoning Plus",
-      "fetchedAt": "2025-08-07T08:09:39.247Z"
+      "fetchedAt": "2025-08-08T08:09:53.209Z"
     },
     {
       "slug": "microsoft/phi-4-reasoning",
@@ -6341,7 +7070,7 @@
       "architecture": "Phi",
       "created": "2025-05-01T17:41:15.957157+00:00",
       "displayName": "Microsoft: Phi 4 Reasoning",
-      "fetchedAt": "2025-08-07T08:09:39.248Z"
+      "fetchedAt": "2025-08-08T08:09:53.209Z"
     },
     {
       "slug": "microsoft/mai-ds-r1",
@@ -6548,7 +7277,7 @@
       "architecture": "Phi",
       "created": "2025-04-21T00:08:20.257185+00:00",
       "displayName": "Microsoft: MAI DS R1 (free)",
-      "fetchedAt": "2025-08-07T08:09:39.247Z"
+      "fetchedAt": "2025-08-08T08:09:53.209Z"
     },
     {
       "slug": "microsoft/mai-ds-r1",
@@ -6755,7 +7484,7 @@
       "architecture": "Phi",
       "created": "2025-04-21T00:08:20.257185+00:00",
       "displayName": "Microsoft: MAI DS R1",
-      "fetchedAt": "2025-08-07T08:09:39.247Z"
+      "fetchedAt": "2025-08-08T08:09:53.209Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview",
@@ -6792,7 +7521,7 @@
       "architecture": "Gemini",
       "created": "2025-04-17T18:31:07.815979+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 04-17",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "openai/o3",
@@ -6972,7 +7701,7 @@
       "architecture": "GPT",
       "created": "2025-04-16T17:10:57.049467+00:00",
       "displayName": "OpenAI: o3",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "qwen/qwen2.5-coder-7b-instruct",
@@ -7007,7 +7736,7 @@
       "architecture": "Qwen",
       "created": "2025-04-15T16:34:47.067646+00:00",
       "displayName": "Qwen: Qwen2.5 Coder 7B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "openai/gpt-4.1",
@@ -7209,7 +7938,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:05+00:00",
       "displayName": "OpenAI: GPT-4.1",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "openai/gpt-4.1-mini",
@@ -7411,7 +8140,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:01+00:00",
       "displayName": "OpenAI: GPT-4.1 Mini",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "openai/gpt-4.1-nano",
@@ -7596,7 +8325,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:22:49+00:00",
       "displayName": "OpenAI: GPT-4.1 Nano",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "x-ai/grok-3-mini-beta",
@@ -7775,7 +8504,7 @@
       "architecture": "Grok",
       "created": "2025-04-09T23:09:55.305821+00:00",
       "displayName": "xAI: Grok 3 Mini Beta",
-      "fetchedAt": "2025-08-07T08:09:38.793Z"
+      "fetchedAt": "2025-08-08T08:09:52.700Z"
     },
     {
       "slug": "x-ai/grok-3-beta",
@@ -7954,7 +8683,7 @@
       "architecture": "Grok",
       "created": "2025-04-09T23:07:48.450334+00:00",
       "displayName": "xAI: Grok 3 Beta",
-      "fetchedAt": "2025-08-07T08:09:38.793Z"
+      "fetchedAt": "2025-08-08T08:09:52.700Z"
     },
     {
       "slug": "meta-llama/llama-4-maverick",
@@ -8175,7 +8904,7 @@
       "architecture": "Llama",
       "created": "2025-04-05T19:37:02.129674+00:00",
       "displayName": "Meta: Llama 4 Maverick",
-      "fetchedAt": "2025-08-07T08:09:38.925Z"
+      "fetchedAt": "2025-08-08T08:09:52.755Z"
     },
     {
       "slug": "meta-llama/llama-4-scout",
@@ -8359,7 +9088,7 @@
       "architecture": "Llama",
       "created": "2025-04-05T19:31:59.735804+00:00",
       "displayName": "Meta: Llama 4 Scout",
-      "fetchedAt": "2025-08-07T08:09:38.925Z"
+      "fetchedAt": "2025-08-08T08:09:52.755Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-3b-instruct",
@@ -8395,7 +9124,7 @@
       "architecture": "Qwen",
       "created": "2025-03-26T18:42:53.41832+00:00",
       "displayName": "Qwen: Qwen2.5 VL 3B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "google/gemini-2.5-pro-exp-03-25",
@@ -8581,7 +9310,7 @@
       "architecture": "Gemini",
       "created": "2025-03-25T17:01:39.919989+00:00",
       "displayName": "Google: Gemini 2.5 Pro Experimental",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-32b-instruct",
@@ -8752,7 +9481,7 @@
       "architecture": "Qwen",
       "created": "2025-03-24T18:10:38.542849+00:00",
       "displayName": "Qwen: Qwen2.5 VL 32B Instruct (free)",
-      "fetchedAt": "2025-08-07T08:09:39.555Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-32b-instruct",
@@ -8937,7 +9666,7 @@
       "architecture": "Qwen",
       "created": "2025-03-24T18:10:38.542849+00:00",
       "displayName": "Qwen: Qwen2.5 VL 32B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.555Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "openai/o1-pro",
@@ -9108,7 +9837,7 @@
       "architecture": "GPT",
       "created": "2025-03-19T22:26:51.610039+00:00",
       "displayName": "OpenAI: o1-pro",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "mistralai/mistral-small-3.1-24b-instruct",
@@ -9290,7 +10019,7 @@
       "architecture": "Mistral",
       "created": "2025-03-17T19:15:37.00423+00:00",
       "displayName": "Mistral: Mistral Small 3.1 24B (free)",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/mistral-small-3.1-24b-instruct",
@@ -9477,7 +10206,7 @@
       "architecture": "Mistral",
       "created": "2025-03-17T19:15:37.00423+00:00",
       "displayName": "Mistral: Mistral Small 3.1 24B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "google/gemma-3-1b-it",
@@ -9517,7 +10246,7 @@
       "architecture": "Gemini",
       "created": "2025-03-14T14:45:56.842499+00:00",
       "displayName": "Google: Gemma 3 1B",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -9718,7 +10447,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B (free)",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -9947,7 +10676,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -10139,7 +10868,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B (free)",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -10331,7 +11060,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "openai/gpt-4o-mini-search-preview",
@@ -10516,7 +11245,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:22:02.718344+00:00",
       "displayName": "OpenAI: GPT-4o-mini Search Preview",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "openai/gpt-4o-search-preview",
@@ -10701,7 +11430,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:19:09.996816+00:00",
       "displayName": "OpenAI: GPT-4o Search Preview",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -10893,7 +11622,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B (free)",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -11085,7 +11814,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "microsoft/phi-4-multimodal-instruct",
@@ -11305,7 +12034,7 @@
       "architecture": "Phi",
       "created": "2025-03-08T01:11:24.652063+00:00",
       "displayName": "Microsoft: Phi 4 Multimodal Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.247Z"
+      "fetchedAt": "2025-08-08T08:09:53.209Z"
     },
     {
       "slug": "qwen/qwq-32b",
@@ -11505,7 +12234,7 @@
       "architecture": "Qwen",
       "created": "2025-03-05T21:06:54.875499+00:00",
       "displayName": "Qwen: QwQ 32B (free)",
-      "fetchedAt": "2025-08-07T08:09:39.555Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "qwen/qwq-32b",
@@ -11747,7 +12476,7 @@
       "architecture": "Qwen",
       "created": "2025-03-05T21:06:54.875499+00:00",
       "displayName": "Qwen: QwQ 32B",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "qwen/qwen2.5-32b-instruct",
@@ -11782,7 +12511,7 @@
       "architecture": "Qwen",
       "created": "2025-03-03T22:59:04.755619+00:00",
       "displayName": "Qwen: Qwen2.5 32B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "openai/gpt-4.5-preview",
@@ -11818,7 +12547,7 @@
       "architecture": "GPT",
       "created": "2025-02-27T20:23:30.841555+00:00",
       "displayName": "OpenAI: GPT-4.5 (Preview)",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "google/gemini-2.0-flash-lite-001",
@@ -12005,7 +12734,7 @@
       "architecture": "Gemini",
       "created": "2025-02-25T17:56:52.206054+00:00",
       "displayName": "Google: Gemini 2.0 Flash Lite",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -12190,7 +12919,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -12375,7 +13104,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (thinking)",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -12554,7 +13283,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (self-moderated)",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "mistralai/mistral-saba",
@@ -12736,7 +13465,7 @@
       "architecture": "Mistral",
       "created": "2025-02-17T14:40:39.116446+00:00",
       "displayName": "Mistral: Saba",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "google/gemini-2.0-flash-001",
@@ -12938,7 +13667,7 @@
       "architecture": "Gemini",
       "created": "2025-02-05T15:30:13.144552+00:00",
       "displayName": "Google: Gemini 2.0 Flash",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "qwen/qwen-vl-plus",
@@ -13109,7 +13838,7 @@
       "architecture": "Qwen",
       "created": "2025-02-05T04:54:15.216448+00:00",
       "displayName": "Qwen: Qwen VL Plus",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "qwen/qwen-vl-max",
@@ -13280,7 +14009,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T18:25:04.223655+00:00",
       "displayName": "Qwen: Qwen VL Max",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "qwen/qwen-turbo",
@@ -13452,7 +14181,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:56:14.820636+00:00",
       "displayName": "Qwen: Qwen-Turbo",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-72b-instruct",
@@ -13632,7 +14361,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:45:11.997326+00:00",
       "displayName": "Qwen: Qwen2.5 VL 72B Instruct (free)",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-72b-instruct",
@@ -13811,7 +14540,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:45:11.997326+00:00",
       "displayName": "Qwen: Qwen2.5 VL 72B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "qwen/qwen-plus",
@@ -13983,7 +14712,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:37:20.886831+00:00",
       "displayName": "Qwen: Qwen-Plus",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "qwen/qwen-max",
@@ -14155,7 +14884,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T09:31:29.206961+00:00",
       "displayName": "Qwen: Qwen-Max ",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "mistralai/mistral-small-24b-instruct-2501",
@@ -14337,7 +15066,7 @@
       "architecture": "Mistral",
       "created": "2025-01-30T16:43:29.33592+00:00",
       "displayName": "Mistral: Mistral Small 3 (free)",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/mistral-small-24b-instruct-2501",
@@ -14519,7 +15248,7 @@
       "architecture": "Mistral",
       "created": "2025-01-30T16:43:29.33592+00:00",
       "displayName": "Mistral: Mistral Small 3",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-32b",
@@ -14761,7 +15490,7 @@
       "architecture": "Qwen",
       "created": "2025-01-29T23:53:50.865297+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 32B",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-14b",
@@ -14967,7 +15696,7 @@
       "architecture": "Qwen",
       "created": "2025-01-29T23:39:00.13687+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 14B (free)",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-14b",
@@ -15167,7 +15896,7 @@
       "architecture": "Qwen",
       "created": "2025-01-29T23:39:00.13687+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 14B",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "mistralai/codestral-2501",
@@ -15349,7 +16078,7 @@
       "architecture": "Mistral",
       "created": "2025-01-14T22:58:42.43034+00:00",
       "displayName": "Mistral: Codestral 2501",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "microsoft/phi-4",
@@ -15518,7 +16247,7 @@
       "architecture": "Phi",
       "created": "2025-01-10T06:17:52.16346+00:00",
       "displayName": "Microsoft: Phi 4",
-      "fetchedAt": "2025-08-07T08:09:39.247Z"
+      "fetchedAt": "2025-08-08T08:09:53.209Z"
     },
     {
       "slug": "inflatebot/mn-mag-mell-r1",
@@ -15557,7 +16286,7 @@
       "architecture": "Mistral",
       "created": "2024-12-18T15:23:59.252033+00:00",
       "displayName": "Inflatebot: Mag Mell R1 12B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "openai/o1",
@@ -15731,7 +16460,7 @@
       "architecture": "GPT",
       "created": "2024-12-17T18:26:39.576639+00:00",
       "displayName": "OpenAI: o1",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "x-ai/grok-2-vision-1212",
@@ -15908,7 +16637,7 @@
       "architecture": "Grok",
       "created": "2024-12-15T04:35:38.489105+00:00",
       "displayName": "xAI: Grok 2 Vision 1212",
-      "fetchedAt": "2025-08-07T08:09:38.793Z"
+      "fetchedAt": "2025-08-08T08:09:52.700Z"
     },
     {
       "slug": "x-ai/grok-2-1212",
@@ -16085,7 +16814,7 @@
       "architecture": "Grok",
       "created": "2024-12-15T03:20:14.161318+00:00",
       "displayName": "xAI: Grok 2 1212",
-      "fetchedAt": "2025-08-07T08:09:38.793Z"
+      "fetchedAt": "2025-08-08T08:09:52.700Z"
     },
     {
       "slug": "google/gemini-2.0-flash-exp",
@@ -16267,7 +16996,7 @@
       "architecture": "Gemini",
       "created": "2024-12-11T17:18:43.999311+00:00",
       "displayName": "Google: Gemini 2.0 Flash Experimental (free)",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "amazon/nova-lite-v1",
@@ -16437,7 +17166,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:22:43.403315+00:00",
       "displayName": "Amazon: Nova Lite 1.0",
-      "fetchedAt": "2025-08-07T08:09:39.368Z"
+      "fetchedAt": "2025-08-08T08:09:53.366Z"
     },
     {
       "slug": "amazon/nova-micro-v1",
@@ -16605,7 +17334,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:20:37.90344+00:00",
       "displayName": "Amazon: Nova Micro 1.0",
-      "fetchedAt": "2025-08-07T08:09:39.368Z"
+      "fetchedAt": "2025-08-08T08:09:53.366Z"
     },
     {
       "slug": "amazon/nova-pro-v1",
@@ -16775,7 +17504,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:05:03.587216+00:00",
       "displayName": "Amazon: Nova Pro 1.0",
-      "fetchedAt": "2025-08-07T08:09:39.368Z"
+      "fetchedAt": "2025-08-08T08:09:53.366Z"
     },
     {
       "slug": "qwen/qwq-32b-preview",
@@ -16971,7 +17700,7 @@
       "architecture": "Qwen",
       "created": "2024-11-28T00:42:21.381013+00:00",
       "displayName": "Qwen: QwQ 32B Preview",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "google/gemini-exp-1121",
@@ -17007,7 +17736,7 @@
       "architecture": "Gemini",
       "created": "2024-11-21T19:18:45.23737+00:00",
       "displayName": "Google: Gemini Experimental 1121",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-72b",
@@ -17046,7 +17775,7 @@
       "architecture": "Qwen",
       "created": "2024-11-21T17:36:46.956395+00:00",
       "displayName": "EVA Qwen2.5 72B",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "openai/gpt-4o-2024-11-20",
@@ -17247,7 +17976,7 @@
       "architecture": "GPT",
       "created": "2024-11-20T18:33:14.771895+00:00",
       "displayName": "OpenAI: GPT-4o (2024-11-20)",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "mistralai/mistral-large-2411",
@@ -17429,7 +18158,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T01:11:25.108028+00:00",
       "displayName": "Mistral Large 2411",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/mistral-large-2407",
@@ -17611,7 +18340,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T01:06:55.27469+00:00",
       "displayName": "Mistral Large 2407",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/pixtral-large-2411",
@@ -17795,7 +18524,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T00:49:48.873161+00:00",
       "displayName": "Mistral: Pixtral Large 2411",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "x-ai/grok-vision-beta",
@@ -17972,7 +18701,7 @@
       "architecture": "Grok",
       "created": "2024-11-19T00:37:04.585936+00:00",
       "displayName": "xAI: Grok Vision Beta",
-      "fetchedAt": "2025-08-07T08:09:38.793Z"
+      "fetchedAt": "2025-08-08T08:09:52.700Z"
     },
     {
       "slug": "google/gemini-exp-1114",
@@ -18008,7 +18737,7 @@
       "architecture": "Gemini",
       "created": "2024-11-15T23:52:20.203831+00:00",
       "displayName": "Google: Gemini Experimental 1114",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "infermatic/mn-inferor-12b",
@@ -18186,7 +18915,7 @@
       "architecture": "Mistral",
       "created": "2024-11-13T02:20:28.884947+00:00",
       "displayName": "Infermatic: Mistral Nemo Inferor 12B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "qwen/qwen-2.5-coder-32b-instruct",
@@ -18370,7 +19099,7 @@
       "architecture": "Qwen",
       "created": "2024-11-11T23:40:00.276653+00:00",
       "displayName": "Qwen2.5 Coder 32B Instruct (free)",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "qwen/qwen-2.5-coder-32b-instruct",
@@ -18560,7 +19289,7 @@
       "architecture": "Qwen",
       "created": "2024-11-11T23:40:00.276653+00:00",
       "displayName": "Qwen2.5 Coder 32B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "raifle/sorcererlm-8x22b",
@@ -18748,7 +19477,7 @@
       "architecture": "Mistral",
       "created": "2024-11-08T22:31:23.953049+00:00",
       "displayName": "SorcererLM 8x22B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-32b",
@@ -18787,7 +19516,7 @@
       "architecture": "Qwen",
       "created": "2024-11-08T22:27:27.726229+00:00",
       "displayName": "EVA Qwen2.5 32B",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "thedrummer/unslopnemo-12b",
@@ -18962,363 +19691,7 @@
       "architecture": "Mistral",
       "created": "2024-11-08T22:04:08.359811+00:00",
       "displayName": "TheDrummer: UnslopNemo 12B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
-    },
-    {
-      "slug": "anthropic/claude-3.5-haiku",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-11-04T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude 3.5 Haiku (self-moderated)",
-      "short_name": "Claude 3.5 Haiku (self-moderated)",
-      "author": "anthropic",
-      "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
-      "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
-      "context_length": 200000,
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-3-5-haiku",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "e40c1746-bcb1-4237-b024-519df8cb4a3f",
-        "name": "Anthropic | anthropic/claude-3-5-haiku:beta",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-3.5-haiku",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-11-04T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude 3.5 Haiku",
-          "short_name": "Claude 3.5 Haiku",
-          "author": "anthropic",
-          "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
-          "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
-          "context_length": 200000,
-          "input_modalities": [
-            "text",
-            "image"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-3-5-haiku",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-3.5-haiku:beta",
-        "model_variant_permaslug": "anthropic/claude-3-5-haiku:beta",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-3-5-haiku-20241022",
-        "quantization": "unknown",
-        "variant": "beta",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 8192,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.0000008",
-          "completion": "0.000004",
-          "image": "0",
-          "audio": "0",
-          "request": "0",
-          "input_cache_read": "0.00000008",
-          "input_cache_write": "0.000001",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2024-11-04T00:00:00+00:00",
-      "displayName": "Anthropic: Claude 3.5 Haiku (self-moderated)",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
-    },
-    {
-      "slug": "anthropic/claude-3.5-haiku",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-11-04T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude 3.5 Haiku",
-      "short_name": "Claude 3.5 Haiku",
-      "author": "anthropic",
-      "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
-      "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
-      "context_length": 200000,
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-3-5-haiku",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "ced809d4-9715-4634-8b4d-ea0e09d6bb85",
-        "name": "Anthropic | anthropic/claude-3-5-haiku",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-3.5-haiku",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-11-04T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude 3.5 Haiku",
-          "short_name": "Claude 3.5 Haiku",
-          "author": "anthropic",
-          "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
-          "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
-          "context_length": 200000,
-          "input_modalities": [
-            "text",
-            "image"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-3-5-haiku",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-3.5-haiku",
-        "model_variant_permaslug": "anthropic/claude-3-5-haiku",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-3-5-haiku-20241022",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 8192,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.0000008",
-          "completion": "0.000004",
-          "image": "0",
-          "audio": "0",
-          "request": "0",
-          "input_cache_read": "0.00000008",
-          "input_cache_write": "0.000001",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2024-11-04T00:00:00+00:00",
-      "displayName": "Anthropic: Claude 3.5 Haiku",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku-20241022",
@@ -19502,7 +19875,363 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (2024-10-22)",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
+    },
+    {
+      "slug": "anthropic/claude-3.5-haiku",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-11-04T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude 3.5 Haiku (self-moderated)",
+      "short_name": "Claude 3.5 Haiku (self-moderated)",
+      "author": "anthropic",
+      "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
+      "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
+      "context_length": 200000,
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-3-5-haiku",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "e40c1746-bcb1-4237-b024-519df8cb4a3f",
+        "name": "Anthropic | anthropic/claude-3-5-haiku:beta",
+        "context_length": 200000,
+        "model": {
+          "slug": "anthropic/claude-3.5-haiku",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-11-04T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "Anthropic: Claude 3.5 Haiku",
+          "short_name": "Claude 3.5 Haiku",
+          "author": "anthropic",
+          "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
+          "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
+          "context_length": 200000,
+          "input_modalities": [
+            "text",
+            "image"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Claude",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "anthropic/claude-3-5-haiku",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "anthropic/claude-3.5-haiku:beta",
+        "model_variant_permaslug": "anthropic/claude-3-5-haiku:beta",
+        "adapter_name": "AnthropicMessageAdapter",
+        "provider_name": "Anthropic",
+        "provider_info": {
+          "name": "Anthropic",
+          "displayName": "Anthropic",
+          "slug": "anthropic",
+          "baseUrl": "https://api.anthropic.com/v1",
+          "dataPolicy": {
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            },
+            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "AnthropicMessageAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.anthropic.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/Anthropic.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "Anthropic",
+        "provider_slug": "anthropic",
+        "provider_model_id": "claude-3-5-haiku-20241022",
+        "quantization": "unknown",
+        "variant": "beta",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 8192,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "tools",
+          "tool_choice",
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "top_k",
+          "stop"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.0000008",
+          "completion": "0.000004",
+          "image": "0",
+          "audio": "0",
+          "request": "0",
+          "input_cache_read": "0.00000008",
+          "input_cache_write": "0.000001",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          }
+        },
+        "provider_region": null
+      },
+      "architecture": "Claude",
+      "created": "2024-11-04T00:00:00+00:00",
+      "displayName": "Anthropic: Claude 3.5 Haiku (self-moderated)",
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
+    },
+    {
+      "slug": "anthropic/claude-3.5-haiku",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-11-04T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude 3.5 Haiku",
+      "short_name": "Claude 3.5 Haiku",
+      "author": "anthropic",
+      "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
+      "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
+      "context_length": 200000,
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-3-5-haiku",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "ced809d4-9715-4634-8b4d-ea0e09d6bb85",
+        "name": "Anthropic | anthropic/claude-3-5-haiku",
+        "context_length": 200000,
+        "model": {
+          "slug": "anthropic/claude-3.5-haiku",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-11-04T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "Anthropic: Claude 3.5 Haiku",
+          "short_name": "Claude 3.5 Haiku",
+          "author": "anthropic",
+          "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
+          "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
+          "context_length": 200000,
+          "input_modalities": [
+            "text",
+            "image"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Claude",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "anthropic/claude-3-5-haiku",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "anthropic/claude-3.5-haiku",
+        "model_variant_permaslug": "anthropic/claude-3-5-haiku",
+        "adapter_name": "AnthropicMessageAdapter",
+        "provider_name": "Anthropic",
+        "provider_info": {
+          "name": "Anthropic",
+          "displayName": "Anthropic",
+          "slug": "anthropic",
+          "baseUrl": "https://api.anthropic.com/v1",
+          "dataPolicy": {
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            },
+            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "AnthropicMessageAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.anthropic.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/Anthropic.svg"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "Anthropic",
+        "provider_slug": "anthropic",
+        "provider_model_id": "claude-3-5-haiku-20241022",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 8192,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "tools",
+          "tool_choice",
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "top_k",
+          "stop"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
+          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.0000008",
+          "completion": "0.000004",
+          "image": "0",
+          "audio": "0",
+          "request": "0",
+          "input_cache_read": "0.00000008",
+          "input_cache_write": "0.000001",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          }
+        },
+        "provider_region": null
+      },
+      "architecture": "Claude",
+      "created": "2024-11-04T00:00:00+00:00",
+      "displayName": "Anthropic: Claude 3.5 Haiku",
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -19680,7 +20409,7 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (self-moderated)",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -19858,7 +20587,7 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "anthracite-org/magnum-v4-72b",
@@ -20039,7 +20768,7 @@
       "architecture": "Qwen",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Magnum v4 72B",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "x-ai/grok-beta",
@@ -20074,7 +20803,7 @@
       "architecture": "Grok",
       "created": "2024-10-20T00:00:00+00:00",
       "displayName": "xAI: Grok Beta",
-      "fetchedAt": "2025-08-07T08:09:38.793Z"
+      "fetchedAt": "2025-08-08T08:09:52.700Z"
     },
     {
       "slug": "mistralai/ministral-8b",
@@ -20255,7 +20984,7 @@
       "architecture": "Mistral",
       "created": "2024-10-17T00:00:00+00:00",
       "displayName": "Mistral: Ministral 8B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/ministral-3b",
@@ -20435,7 +21164,7 @@
       "architecture": "Mistral",
       "created": "2024-10-17T00:00:00+00:00",
       "displayName": "Mistral: Ministral 3B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "qwen/qwen-2.5-7b-instruct",
@@ -20613,7 +21342,7 @@
       "architecture": "Qwen",
       "created": "2024-10-16T00:00:00+00:00",
       "displayName": "Qwen2.5 7B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "x-ai/grok-2-mini",
@@ -20648,7 +21377,7 @@
       "architecture": "Grok",
       "created": "2024-10-12T00:00:00+00:00",
       "displayName": "xAI: Grok 2 mini",
-      "fetchedAt": "2025-08-07T08:09:38.793Z"
+      "fetchedAt": "2025-08-08T08:09:52.700Z"
     },
     {
       "slug": "x-ai/grok-2",
@@ -20683,7 +21412,7 @@
       "architecture": "Grok",
       "created": "2024-10-12T00:00:00+00:00",
       "displayName": "xAI: Grok 2",
-      "fetchedAt": "2025-08-07T08:09:38.793Z"
+      "fetchedAt": "2025-08-08T08:09:52.700Z"
     },
     {
       "slug": "google/gemini-flash-1.5-8b",
@@ -20892,7 +21621,7 @@
       "architecture": "Gemini",
       "created": "2024-10-03T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash 8B",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "thedrummer/rocinante-12b",
@@ -21072,7 +21801,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "TheDrummer: Rocinante 12B",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "anthracite-org/magnum-v2-72b",
@@ -21262,7 +21991,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "Magnum v2 72B",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-14b",
@@ -21301,7 +22030,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "EVA Qwen2.5 14B",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "qwen/qwen-2.5-72b-instruct",
@@ -21491,7 +22220,7 @@
       "architecture": "Qwen",
       "created": "2024-09-19T00:00:00+00:00",
       "displayName": "Qwen2.5 72B Instruct (free)",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "qwen/qwen-2.5-72b-instruct",
@@ -21681,175 +22410,7 @@
       "architecture": "Qwen",
       "created": "2024-09-19T00:00:00+00:00",
       "displayName": "Qwen2.5 72B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
-    },
-    {
-      "slug": "openai/o1-mini-2024-09-12",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-09-12T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: o1-mini (2024-09-12)",
-      "short_name": "o1-mini (2024-09-12)",
-      "author": "openai",
-      "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
-      "model_version_group_id": null,
-      "context_length": 128000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "openai/o1-mini-2024-09-12",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "66ac30ec-dd07-4b8d-9dc0-5c7369bb2efe",
-        "name": "OpenAI | openai/o1-mini-2024-09-12",
-        "context_length": 128000,
-        "model": {
-          "slug": "openai/o1-mini-2024-09-12",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-09-12T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "OpenAI: o1-mini (2024-09-12)",
-          "short_name": "o1-mini (2024-09-12)",
-          "author": "openai",
-          "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
-          "model_version_group_id": null,
-          "context_length": 128000,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "GPT",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "openai/o1-mini-2024-09-12",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "openai/o1-mini-2024-09-12",
-        "model_variant_permaslug": "openai/o1-mini-2024-09-12",
-        "adapter_name": "OpenAIReasoningAdapter",
-        "provider_name": "OpenAI",
-        "provider_info": {
-          "name": "OpenAI",
-          "displayName": "OpenAI",
-          "slug": "openai",
-          "baseUrl": "https://api.openai.com/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true
-            },
-            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "OpenAIReasoningAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.openai.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "className": "invert-0 dark:invert"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "OpenAI",
-        "provider_slug": "openai",
-        "provider_model_id": "o1-mini-2024-09-12",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 65536,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "seed",
-          "max_tokens"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true
-          },
-          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true
-        },
-        "pricing": {
-          "prompt": "0.0000011",
-          "completion": "0.0000044",
-          "image": "0",
-          "audio": "0",
-          "request": "0",
-          "input_cache_read": "0.00000055",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": false,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null
-      },
-      "architecture": "GPT",
-      "created": "2024-09-12T00:00:00+00:00",
-      "displayName": "OpenAI: o1-mini (2024-09-12)",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "openai/o1-mini",
@@ -22017,7 +22578,175 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-mini",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
+    },
+    {
+      "slug": "openai/o1-mini-2024-09-12",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-09-12T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: o1-mini (2024-09-12)",
+      "short_name": "o1-mini (2024-09-12)",
+      "author": "openai",
+      "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
+      "model_version_group_id": null,
+      "context_length": 128000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "openai/o1-mini-2024-09-12",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "66ac30ec-dd07-4b8d-9dc0-5c7369bb2efe",
+        "name": "OpenAI | openai/o1-mini-2024-09-12",
+        "context_length": 128000,
+        "model": {
+          "slug": "openai/o1-mini-2024-09-12",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-09-12T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "OpenAI: o1-mini (2024-09-12)",
+          "short_name": "o1-mini (2024-09-12)",
+          "author": "openai",
+          "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
+          "model_version_group_id": null,
+          "context_length": 128000,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "GPT",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "openai/o1-mini-2024-09-12",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "openai/o1-mini-2024-09-12",
+        "model_variant_permaslug": "openai/o1-mini-2024-09-12",
+        "adapter_name": "OpenAIReasoningAdapter",
+        "provider_name": "OpenAI",
+        "provider_info": {
+          "name": "OpenAI",
+          "displayName": "OpenAI",
+          "slug": "openai",
+          "baseUrl": "https://api.openai.com/v1",
+          "dataPolicy": {
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true
+            },
+            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "OpenAIReasoningAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.openai.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/OpenAI.svg",
+            "className": "invert-0 dark:invert"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "OpenAI",
+        "provider_slug": "openai",
+        "provider_model_id": "o1-mini-2024-09-12",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 65536,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "seed",
+          "max_tokens"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true
+          },
+          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true
+        },
+        "pricing": {
+          "prompt": "0.0000011",
+          "completion": "0.0000044",
+          "image": "0",
+          "audio": "0",
+          "request": "0",
+          "input_cache_read": "0.00000055",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": false,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          }
+        },
+        "provider_region": null
+      },
+      "architecture": "GPT",
+      "created": "2024-09-12T00:00:00+00:00",
+      "displayName": "OpenAI: o1-mini (2024-09-12)",
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "openai/o1-preview-2024-09-12",
@@ -22052,7 +22781,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview (2024-09-12)",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "openai/o1-preview",
@@ -22087,7 +22816,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "mistralai/pixtral-12b",
@@ -22264,7 +22993,7 @@
       "architecture": "Mistral",
       "created": "2024-09-10T00:00:00+00:00",
       "displayName": "Mistral: Pixtral 12B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "google/gemini-flash-1.5-exp",
@@ -22300,7 +23029,7 @@
       "architecture": "Gemini",
       "created": "2024-08-28T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash Experimental",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "qwen/qwen-2.5-vl-7b-instruct",
@@ -22477,7 +23206,7 @@
       "architecture": "Qwen",
       "created": "2024-08-28T00:00:00+00:00",
       "displayName": "Qwen: Qwen2.5-VL 7B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "microsoft/phi-3.5-mini-128k-instruct",
@@ -22653,7 +23382,7 @@
       "architecture": "Phi",
       "created": "2024-08-21T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3.5 Mini 128K Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.247Z"
+      "fetchedAt": "2025-08-08T08:09:53.209Z"
     },
     {
       "slug": "openai/chatgpt-4o-latest",
@@ -22832,7 +23561,7 @@
       "architecture": "GPT",
       "created": "2024-08-14T00:00:00+00:00",
       "displayName": "OpenAI: ChatGPT-4o",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "aetherwiing/mn-starcannon-12b",
@@ -22871,7 +23600,7 @@
       "architecture": "Mistral",
       "created": "2024-08-13T00:00:00+00:00",
       "displayName": "Aetherwiing: Starcannon 12B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "openai/gpt-4o-2024-08-06",
@@ -23072,7 +23801,7 @@
       "architecture": "GPT",
       "created": "2024-08-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-08-06)",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "nothingiisreal/mn-celeste-12b",
@@ -23111,7 +23840,7 @@
       "architecture": "Mistral",
       "created": "2024-08-02T00:00:00+00:00",
       "displayName": "Mistral Nemo 12B Celeste",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "google/gemini-pro-1.5-exp",
@@ -23147,7 +23876,7 @@
       "architecture": "Gemini",
       "created": "2024-08-01T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro Experimental",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "mistralai/mistral-nemo",
@@ -23335,7 +24064,7 @@
       "architecture": "Mistral",
       "created": "2024-07-19T00:00:00+00:00",
       "displayName": "Mistral: Mistral Nemo (free)",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/mistral-nemo",
@@ -23500,7 +24229,7 @@
       "architecture": "Mistral",
       "created": "2024-07-19T00:00:00+00:00",
       "displayName": "Mistral: Mistral Nemo",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/codestral-mamba",
@@ -23535,208 +24264,7 @@
       "architecture": "Mistral",
       "created": "2024-07-19T00:00:00+00:00",
       "displayName": "Mistral: Codestral Mamba",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
-    },
-    {
-      "slug": "openai/gpt-4o-mini-2024-07-18",
-      "hf_slug": null,
-      "updated_at": "2025-04-23T22:07:14.802248+00:00",
-      "created_at": "2024-07-18T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: GPT-4o-mini (2024-07-18)",
-      "short_name": "GPT-4o-mini (2024-07-18)",
-      "author": "openai",
-      "description": "GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text and image inputs with text outputs.\n\nAs their most advanced small model, it is many multiples more affordable than other recent frontier models, and more than 60% cheaper than [GPT-3.5 Turbo](/models/openai/gpt-3.5-turbo). It maintains SOTA intelligence, while being significantly more cost-effective.\n\nGPT-4o mini achieves an 82% score on MMLU and presently ranks higher than GPT-4 on chat preferences [common leaderboards](https://arena.lmsys.org/).\n\nCheck out the [launch announcement](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) to learn more.\n\n#multimodal",
-      "model_version_group_id": null,
-      "context_length": 128000,
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "openai/gpt-4o-mini-2024-07-18",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "ebcc1f0a-6621-4cdc-a93f-88a6e2cc2e15",
-        "name": "OpenAI | openai/gpt-4o-mini-2024-07-18",
-        "context_length": 128000,
-        "model": {
-          "slug": "openai/gpt-4o-mini-2024-07-18",
-          "hf_slug": null,
-          "updated_at": "2025-04-23T22:07:14.802248+00:00",
-          "created_at": "2024-07-18T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "OpenAI: GPT-4o-mini (2024-07-18)",
-          "short_name": "GPT-4o-mini (2024-07-18)",
-          "author": "openai",
-          "description": "GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text and image inputs with text outputs.\n\nAs their most advanced small model, it is many multiples more affordable than other recent frontier models, and more than 60% cheaper than [GPT-3.5 Turbo](/models/openai/gpt-3.5-turbo). It maintains SOTA intelligence, while being significantly more cost-effective.\n\nGPT-4o mini achieves an 82% score on MMLU and presently ranks higher than GPT-4 on chat preferences [common leaderboards](https://arena.lmsys.org/).\n\nCheck out the [launch announcement](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) to learn more.\n\n#multimodal",
-          "model_version_group_id": null,
-          "context_length": 128000,
-          "input_modalities": [
-            "text",
-            "image",
-            "file"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "GPT",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "openai/gpt-4o-mini-2024-07-18",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "openai/gpt-4o-mini-2024-07-18",
-        "model_variant_permaslug": "openai/gpt-4o-mini-2024-07-18",
-        "adapter_name": "OpenAIAdapter",
-        "provider_name": "OpenAI",
-        "provider_info": {
-          "name": "OpenAI",
-          "displayName": "OpenAI",
-          "slug": "openai",
-          "baseUrl": "https://api.openai.com/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true
-            },
-            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "OpenAIAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.openai.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "className": "invert-0 dark:invert"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "OpenAI",
-        "provider_slug": "openai",
-        "provider_model_id": "gpt-4o-mini-2024-07-18",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 16384,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "seed",
-          "max_tokens",
-          "response_format",
-          "structured_outputs",
-          "temperature",
-          "top_p",
-          "stop",
-          "frequency_penalty",
-          "presence_penalty",
-          "web_search_options",
-          "logit_bias",
-          "logprobs",
-          "top_logprobs"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true
-          },
-          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true
-        },
-        "pricing": {
-          "prompt": "0.00000015",
-          "completion": "0.0000006",
-          "image": "0.007225",
-          "audio": "0",
-          "request": "0",
-          "input_cache_read": "0.000000075",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [
-          {
-            "type": "search-threshold",
-            "threshold": "high",
-            "request": "0.03"
-          },
-          {
-            "type": "search-threshold",
-            "threshold": "medium",
-            "request": "0.0275"
-          },
-          {
-            "type": "search-threshold",
-            "threshold": "low",
-            "request": "0.025"
-          }
-        ],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null
-      },
-      "architecture": "GPT",
-      "created": "2024-07-18T00:00:00+00:00",
-      "displayName": "OpenAI: GPT-4o-mini (2024-07-18)",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "openai/gpt-4o-mini",
@@ -23937,7 +24465,208 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
+    },
+    {
+      "slug": "openai/gpt-4o-mini-2024-07-18",
+      "hf_slug": null,
+      "updated_at": "2025-04-23T22:07:14.802248+00:00",
+      "created_at": "2024-07-18T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: GPT-4o-mini (2024-07-18)",
+      "short_name": "GPT-4o-mini (2024-07-18)",
+      "author": "openai",
+      "description": "GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text and image inputs with text outputs.\n\nAs their most advanced small model, it is many multiples more affordable than other recent frontier models, and more than 60% cheaper than [GPT-3.5 Turbo](/models/openai/gpt-3.5-turbo). It maintains SOTA intelligence, while being significantly more cost-effective.\n\nGPT-4o mini achieves an 82% score on MMLU and presently ranks higher than GPT-4 on chat preferences [common leaderboards](https://arena.lmsys.org/).\n\nCheck out the [launch announcement](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) to learn more.\n\n#multimodal",
+      "model_version_group_id": null,
+      "context_length": 128000,
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "openai/gpt-4o-mini-2024-07-18",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "ebcc1f0a-6621-4cdc-a93f-88a6e2cc2e15",
+        "name": "OpenAI | openai/gpt-4o-mini-2024-07-18",
+        "context_length": 128000,
+        "model": {
+          "slug": "openai/gpt-4o-mini-2024-07-18",
+          "hf_slug": null,
+          "updated_at": "2025-04-23T22:07:14.802248+00:00",
+          "created_at": "2024-07-18T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "OpenAI: GPT-4o-mini (2024-07-18)",
+          "short_name": "GPT-4o-mini (2024-07-18)",
+          "author": "openai",
+          "description": "GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text and image inputs with text outputs.\n\nAs their most advanced small model, it is many multiples more affordable than other recent frontier models, and more than 60% cheaper than [GPT-3.5 Turbo](/models/openai/gpt-3.5-turbo). It maintains SOTA intelligence, while being significantly more cost-effective.\n\nGPT-4o mini achieves an 82% score on MMLU and presently ranks higher than GPT-4 on chat preferences [common leaderboards](https://arena.lmsys.org/).\n\nCheck out the [launch announcement](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) to learn more.\n\n#multimodal",
+          "model_version_group_id": null,
+          "context_length": 128000,
+          "input_modalities": [
+            "text",
+            "image",
+            "file"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "GPT",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "openai/gpt-4o-mini-2024-07-18",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "openai/gpt-4o-mini-2024-07-18",
+        "model_variant_permaslug": "openai/gpt-4o-mini-2024-07-18",
+        "adapter_name": "OpenAIAdapter",
+        "provider_name": "OpenAI",
+        "provider_info": {
+          "name": "OpenAI",
+          "displayName": "OpenAI",
+          "slug": "openai",
+          "baseUrl": "https://api.openai.com/v1",
+          "dataPolicy": {
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true
+            },
+            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "OpenAIAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.openai.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/OpenAI.svg",
+            "className": "invert-0 dark:invert"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "OpenAI",
+        "provider_slug": "openai",
+        "provider_model_id": "gpt-4o-mini-2024-07-18",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 16384,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "tools",
+          "tool_choice",
+          "seed",
+          "max_tokens",
+          "response_format",
+          "structured_outputs",
+          "temperature",
+          "top_p",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "web_search_options",
+          "logit_bias",
+          "logprobs",
+          "top_logprobs"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true
+          },
+          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true
+        },
+        "pricing": {
+          "prompt": "0.00000015",
+          "completion": "0.0000006",
+          "image": "0.007225",
+          "audio": "0",
+          "request": "0",
+          "input_cache_read": "0.000000075",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [
+          {
+            "type": "search-threshold",
+            "threshold": "high",
+            "request": "0.03"
+          },
+          {
+            "type": "search-threshold",
+            "threshold": "medium",
+            "request": "0.0275"
+          },
+          {
+            "type": "search-threshold",
+            "threshold": "low",
+            "request": "0.025"
+          }
+        ],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          }
+        },
+        "provider_region": null
+      },
+      "architecture": "GPT",
+      "created": "2024-07-18T00:00:00+00:00",
+      "displayName": "OpenAI: GPT-4o-mini (2024-07-18)",
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "qwen/qwen-2-7b-instruct",
@@ -23976,7 +24705,7 @@
       "architecture": "Qwen",
       "created": "2024-07-16T00:00:00+00:00",
       "displayName": "Qwen 2 7B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "google/gemma-2-27b-it",
@@ -24153,7 +24882,7 @@
       "architecture": "Gemini",
       "created": "2024-07-13T00:00:00+00:00",
       "displayName": "Google: Gemma 2 27B",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "alpindale/magnum-72b",
@@ -24192,7 +24921,7 @@
       "architecture": "Qwen",
       "created": "2024-07-11T00:00:00+00:00",
       "displayName": "Magnum 72B",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -24382,7 +25111,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B (free)",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -24572,7 +25301,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -24750,7 +25479,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20) (self-moderated)",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -24928,7 +25657,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20)",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "microsoft/phi-3-medium-4k-instruct",
@@ -24966,7 +25695,7 @@
       "architecture": "Phi",
       "created": "2024-06-15T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Medium 4K Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.248Z"
+      "fetchedAt": "2025-08-08T08:09:53.209Z"
     },
     {
       "slug": "cognitivecomputations/dolphin-mixtral-8x22b",
@@ -25150,7 +25879,7 @@
       "architecture": "Mistral",
       "created": "2024-06-08T00:00:00+00:00",
       "displayName": "Dolphin 2.9.2 Mixtral 8x22B 🐬",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "qwen/qwen-2-72b-instruct",
@@ -25353,7 +26082,7 @@
       "architecture": "Qwen",
       "created": "2024-06-07T00:00:00+00:00",
       "displayName": "Qwen 2 72B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct-v0.3",
@@ -25579,7 +26308,7 @@
       "architecture": "Mistral",
       "created": "2024-05-27T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct v0.3",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct",
@@ -25806,7 +26535,7 @@
       "architecture": "Mistral",
       "created": "2024-05-27T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct (free)",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct",
@@ -25981,7 +26710,7 @@
       "architecture": "Mistral",
       "created": "2024-05-27T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "microsoft/phi-3-mini-128k-instruct",
@@ -26157,7 +26886,7 @@
       "architecture": "Phi",
       "created": "2024-05-26T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Mini 128K Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.248Z"
+      "fetchedAt": "2025-08-08T08:09:53.209Z"
     },
     {
       "slug": "microsoft/phi-3-medium-128k-instruct",
@@ -26333,7 +27062,7 @@
       "architecture": "Phi",
       "created": "2024-05-24T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Medium 128K Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.248Z"
+      "fetchedAt": "2025-08-08T08:09:53.209Z"
     },
     {
       "slug": "google/gemini-flash-1.5",
@@ -26531,7 +27260,7 @@
       "architecture": "Gemini",
       "created": "2024-05-14T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash ",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "openai/gpt-4o-2024-05-13",
@@ -26731,7 +27460,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-05-13)",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -26932,7 +27661,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -27132,7 +27861,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (extended)",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "qwen/qwen-4b-chat",
@@ -27171,85 +27900,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 4B Chat",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
-    },
-    {
-      "slug": "qwen/qwen-14b-chat",
-      "hf_slug": "Qwen/Qwen1.5-14B-Chat",
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-05-09T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Qwen 1.5 14B Chat",
-      "short_name": "Qwen 1.5 14B Chat",
-      "author": "qwen",
-      "description": "Qwen1.5 14B is the beta version of Qwen2, a transformer-based decoder-only language model pretrained on a large amount of data. In comparison with the previous released Qwen, the improvements include:\n\n- Significant performance improvement in human preference for chat models\n- Multilingual support of both base and chat models\n- Stable support of 32K context length for models of all sizes\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen1.5/) and [GitHub repo](https://github.com/QwenLM/Qwen1.5).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
-      "model_version_group_id": null,
-      "context_length": 32768,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Qwen",
-      "instruct_type": "chatml",
-      "default_system": null,
-      "default_stops": [
-        "<|im_start|>",
-        "<|im_end|>",
-        "<|endoftext|>"
-      ],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "qwen/qwen-14b-chat",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Qwen",
-      "created": "2024-05-09T00:00:00+00:00",
-      "displayName": "Qwen 1.5 14B Chat",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
-    },
-    {
-      "slug": "qwen/qwen-7b-chat",
-      "hf_slug": "Qwen/Qwen1.5-7B-Chat",
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-05-09T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Qwen 1.5 7B Chat",
-      "short_name": "Qwen 1.5 7B Chat",
-      "author": "qwen",
-      "description": "Qwen1.5 7B is the beta version of Qwen2, a transformer-based decoder-only language model pretrained on a large amount of data. In comparison with the previous released Qwen, the improvements include:\n\n- Significant performance improvement in human preference for chat models\n- Multilingual support of both base and chat models\n- Stable support of 32K context length for models of all sizes\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen1.5/) and [GitHub repo](https://github.com/QwenLM/Qwen1.5).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
-      "model_version_group_id": null,
-      "context_length": 32768,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Qwen",
-      "instruct_type": "chatml",
-      "default_system": null,
-      "default_stops": [
-        "<|im_start|>",
-        "<|im_end|>",
-        "<|endoftext|>"
-      ],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "qwen/qwen-7b-chat",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Qwen",
-      "created": "2024-05-09T00:00:00+00:00",
-      "displayName": "Qwen 1.5 7B Chat",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "qwen/qwen-32b-chat",
@@ -27288,46 +27939,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 32B Chat",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
-    },
-    {
-      "slug": "qwen/qwen-110b-chat",
-      "hf_slug": "Qwen/Qwen1.5-110B-Chat",
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-05-09T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Qwen 1.5 110B Chat",
-      "short_name": "Qwen 1.5 110B Chat",
-      "author": "qwen",
-      "description": "Qwen1.5 110B is the beta version of Qwen2, a transformer-based decoder-only language model pretrained on a large amount of data. In comparison with the previous released Qwen, the improvements include:\n\n- Significant performance improvement in human preference for chat models\n- Multilingual support of both base and chat models\n- Stable support of 32K context length for models of all sizes\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen1.5/) and [GitHub repo](https://github.com/QwenLM/Qwen1.5).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
-      "model_version_group_id": null,
-      "context_length": 32768,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Qwen",
-      "instruct_type": "chatml",
-      "default_system": null,
-      "default_stops": [
-        "<|im_start|>",
-        "<|im_end|>",
-        "<|endoftext|>"
-      ],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "qwen/qwen-110b-chat",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Qwen",
-      "created": "2024-05-09T00:00:00+00:00",
-      "displayName": "Qwen 1.5 110B Chat",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "qwen/qwen-72b-chat",
@@ -27366,7 +27978,124 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 72B Chat",
-      "fetchedAt": "2025-08-07T08:09:39.556Z"
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
+    },
+    {
+      "slug": "qwen/qwen-110b-chat",
+      "hf_slug": "Qwen/Qwen1.5-110B-Chat",
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-05-09T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Qwen 1.5 110B Chat",
+      "short_name": "Qwen 1.5 110B Chat",
+      "author": "qwen",
+      "description": "Qwen1.5 110B is the beta version of Qwen2, a transformer-based decoder-only language model pretrained on a large amount of data. In comparison with the previous released Qwen, the improvements include:\n\n- Significant performance improvement in human preference for chat models\n- Multilingual support of both base and chat models\n- Stable support of 32K context length for models of all sizes\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen1.5/) and [GitHub repo](https://github.com/QwenLM/Qwen1.5).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
+      "model_version_group_id": null,
+      "context_length": 32768,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Qwen",
+      "instruct_type": "chatml",
+      "default_system": null,
+      "default_stops": [
+        "<|im_start|>",
+        "<|im_end|>",
+        "<|endoftext|>"
+      ],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "qwen/qwen-110b-chat",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Qwen",
+      "created": "2024-05-09T00:00:00+00:00",
+      "displayName": "Qwen 1.5 110B Chat",
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
+    },
+    {
+      "slug": "qwen/qwen-7b-chat",
+      "hf_slug": "Qwen/Qwen1.5-7B-Chat",
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-05-09T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Qwen 1.5 7B Chat",
+      "short_name": "Qwen 1.5 7B Chat",
+      "author": "qwen",
+      "description": "Qwen1.5 7B is the beta version of Qwen2, a transformer-based decoder-only language model pretrained on a large amount of data. In comparison with the previous released Qwen, the improvements include:\n\n- Significant performance improvement in human preference for chat models\n- Multilingual support of both base and chat models\n- Stable support of 32K context length for models of all sizes\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen1.5/) and [GitHub repo](https://github.com/QwenLM/Qwen1.5).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
+      "model_version_group_id": null,
+      "context_length": 32768,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Qwen",
+      "instruct_type": "chatml",
+      "default_system": null,
+      "default_stops": [
+        "<|im_start|>",
+        "<|im_end|>",
+        "<|endoftext|>"
+      ],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "qwen/qwen-7b-chat",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Qwen",
+      "created": "2024-05-09T00:00:00+00:00",
+      "displayName": "Qwen 1.5 7B Chat",
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
+    },
+    {
+      "slug": "qwen/qwen-14b-chat",
+      "hf_slug": "Qwen/Qwen1.5-14B-Chat",
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-05-09T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Qwen 1.5 14B Chat",
+      "short_name": "Qwen 1.5 14B Chat",
+      "author": "qwen",
+      "description": "Qwen1.5 14B is the beta version of Qwen2, a transformer-based decoder-only language model pretrained on a large amount of data. In comparison with the previous released Qwen, the improvements include:\n\n- Significant performance improvement in human preference for chat models\n- Multilingual support of both base and chat models\n- Stable support of 32K context length for models of all sizes\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen1.5/) and [GitHub repo](https://github.com/QwenLM/Qwen1.5).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
+      "model_version_group_id": null,
+      "context_length": 32768,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Qwen",
+      "instruct_type": "chatml",
+      "default_system": null,
+      "default_stops": [
+        "<|im_start|>",
+        "<|im_end|>",
+        "<|endoftext|>"
+      ],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "qwen/qwen-14b-chat",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Qwen",
+      "created": "2024-05-09T00:00:00+00:00",
+      "displayName": "Qwen 1.5 14B Chat",
+      "fetchedAt": "2025-08-08T08:09:53.725Z"
     },
     {
       "slug": "mistralai/mixtral-8x22b-instruct",
@@ -27553,7 +28282,7 @@
       "architecture": "Mistral",
       "created": "2024-04-17T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x22B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "microsoft/wizardlm-2-8x22b",
@@ -27732,7 +28461,7 @@
       "architecture": "Mistral",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 8x22B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "microsoft/wizardlm-2-7b",
@@ -27770,7 +28499,7 @@
       "architecture": "Mistral",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 7B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "microsoft/wizardlm-2-8x22b",
@@ -27949,7 +28678,7 @@
       "architecture": "Phi",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 8x22B",
-      "fetchedAt": "2025-08-07T08:09:39.247Z"
+      "fetchedAt": "2025-08-08T08:09:53.209Z"
     },
     {
       "slug": "microsoft/wizardlm-2-7b",
@@ -27987,7 +28716,7 @@
       "architecture": "Phi",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 7B",
-      "fetchedAt": "2025-08-07T08:09:39.248Z"
+      "fetchedAt": "2025-08-08T08:09:53.209Z"
     },
     {
       "slug": "huggingfaceh4/zephyr-orpo-141b-a35b",
@@ -28025,7 +28754,7 @@
       "architecture": "Mistral",
       "created": "2024-04-12T00:00:00+00:00",
       "displayName": "Zephyr 141B-A35B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/mixtral-8x22b",
@@ -28064,7 +28793,7 @@
       "architecture": "Mistral",
       "created": "2024-04-10T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x22B (base)",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "openai/gpt-4-turbo",
@@ -28245,7 +28974,7 @@
       "architecture": "GPT",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "google/gemini-pro-1.5",
@@ -28439,7 +29168,7 @@
       "architecture": "Gemini",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -28617,7 +29346,7 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku (self-moderated)",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -28795,7 +29524,7 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "anthropic/claude-3-opus",
@@ -28973,7 +29702,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Opus (self-moderated)",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "anthropic/claude-3-opus",
@@ -29151,7 +29880,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Opus",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "anthropic/claude-3-sonnet",
@@ -29187,7 +29916,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Sonnet",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "mistralai/mistral-large",
@@ -29368,7 +30097,7 @@
       "architecture": "Mistral",
       "created": "2024-02-26T00:00:00+00:00",
       "displayName": "Mistral Large",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "google/gemma-7b-it",
@@ -29407,7 +30136,7 @@
       "architecture": "Gemini",
       "created": "2024-02-22T00:00:00+00:00",
       "displayName": "Google: Gemma 7B",
-      "fetchedAt": "2025-08-07T08:09:38.627Z"
+      "fetchedAt": "2025-08-08T08:09:52.608Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mistral-7b-dpo",
@@ -29446,7 +30175,7 @@
       "architecture": "Mistral",
       "created": "2024-02-21T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mistral 7B DPO",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0613",
@@ -29625,7 +30354,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0613)",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "openai/gpt-4-turbo-preview",
@@ -29804,7 +30533,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo Preview",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mixtral-8x7b-dpo",
@@ -30007,7 +30736,7 @@
       "architecture": "Mistral",
       "created": "2024-01-16T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mixtral 8x7B DPO",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mixtral-8x7b-sft",
@@ -30046,7 +30775,7 @@
       "architecture": "Mistral",
       "created": "2024-01-16T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mixtral 8x7B SFT",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/mistral-small",
@@ -30228,7 +30957,7 @@
       "architecture": "Mistral",
       "created": "2024-01-10T00:00:00+00:00",
       "displayName": "Mistral Small",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/mistral-tiny",
@@ -30410,7 +31139,7 @@
       "architecture": "Mistral",
       "created": "2024-01-10T00:00:00+00:00",
       "displayName": "Mistral Tiny",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/mistral-medium",
@@ -30445,7 +31174,7 @@
       "architecture": "Mistral",
       "created": "2024-01-10T00:00:00+00:00",
       "displayName": "Mistral Medium",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "neversleep/noromaid-mixtral-8x7b-instruct",
@@ -30483,7 +31212,7 @@
       "architecture": "Mistral",
       "created": "2024-01-02T00:00:00+00:00",
       "displayName": "Noromaid Mixtral 8x7B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct-v0.2",
@@ -30684,7 +31413,7 @@
       "architecture": "Mistral",
       "created": "2023-12-28T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct v0.2",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "cognitivecomputations/dolphin-mixtral-8x7b",
@@ -30723,7 +31452,7 @@
       "architecture": "Mistral",
       "created": "2023-12-21T00:00:00+00:00",
       "displayName": "Dolphin 2.6 Mixtral 8x7B 🐬",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "mistralai/mixtral-8x7b-instruct",
@@ -30949,7 +31678,42 @@
       "architecture": "Mistral",
       "created": "2023-12-10T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x7B Instruct",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
+    },
+    {
+      "slug": "togethercomputer/stripedhyena-hessian-7b",
+      "hf_slug": "togethercomputer/StripedHyena-Hessian-7B",
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-12-09T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "StripedHyena Hessian 7B (base)",
+      "short_name": "StripedHyena Hessian 7B (base)",
+      "author": "togethercomputer",
+      "description": "This is the base model variant of the [StripedHyena series](/models?q=stripedhyena), developed by Together.\n\nStripedHyena uses a new architecture that competes with traditional Transformers, particularly in long-context data processing. It combines attention mechanisms with gated convolutions for improved speed, efficiency, and scaling. This model marks an advancement in AI architecture for sequence modeling tasks.",
+      "model_version_group_id": null,
+      "context_length": 32768,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Mistral",
+      "instruct_type": "none",
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "togethercomputer/stripedhyena-hessian-7b",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Mistral",
+      "created": "2023-12-09T00:00:00+00:00",
+      "displayName": "StripedHyena Hessian 7B (base)",
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "togethercomputer/stripedhyena-nous-7b",
@@ -30987,42 +31751,7 @@
       "architecture": "Mistral",
       "created": "2023-12-09T00:00:00+00:00",
       "displayName": "StripedHyena Nous 7B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
-    },
-    {
-      "slug": "togethercomputer/stripedhyena-hessian-7b",
-      "hf_slug": "togethercomputer/StripedHyena-Hessian-7B",
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-12-09T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "StripedHyena Hessian 7B (base)",
-      "short_name": "StripedHyena Hessian 7B (base)",
-      "author": "togethercomputer",
-      "description": "This is the base model variant of the [StripedHyena series](/models?q=stripedhyena), developed by Together.\n\nStripedHyena uses a new architecture that competes with traditional Transformers, particularly in long-context data processing. It combines attention mechanisms with gated convolutions for improved speed, efficiency, and scaling. This model marks an advancement in AI architecture for sequence modeling tasks.",
-      "model_version_group_id": null,
-      "context_length": 32768,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Mistral",
-      "instruct_type": "none",
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "togethercomputer/stripedhyena-hessian-7b",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Mistral",
-      "created": "2023-12-09T00:00:00+00:00",
-      "displayName": "StripedHyena Hessian 7B (base)",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-vision-7b",
@@ -31058,7 +31787,7 @@
       "architecture": "Mistral",
       "created": "2023-12-07T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Vision 7B (alpha)",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "gryphe/mythomist-7b",
@@ -31096,7 +31825,7 @@
       "architecture": "Mistral",
       "created": "2023-12-07T00:00:00+00:00",
       "displayName": "MythoMist 7B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "openrouter/cinematika-7b",
@@ -31134,7 +31863,7 @@
       "architecture": "Mistral",
       "created": "2023-12-06T00:00:00+00:00",
       "displayName": "Cinematika 7B (alpha)",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "nousresearch/nous-capybara-7b",
@@ -31172,7 +31901,7 @@
       "architecture": "Mistral",
       "created": "2023-12-05T00:00:00+00:00",
       "displayName": "Nous: Capybara 7B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "openchat/openchat-7b",
@@ -31209,7 +31938,7 @@
       "architecture": "Mistral",
       "created": "2023-11-28T00:00:00+00:00",
       "displayName": "OpenChat 3.5 7B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "intel/neural-chat-7b",
@@ -31247,42 +31976,7 @@
       "architecture": "Mistral",
       "created": "2023-11-25T00:00:00+00:00",
       "displayName": "Neural Chat 7B v3.1",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
-    },
-    {
-      "slug": "anthropic/claude-2",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-11-22T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude v2",
-      "short_name": "Claude v2",
-      "author": "anthropic",
-      "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
-      "model_version_group_id": null,
-      "context_length": 200000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-2",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Claude",
-      "created": "2023-11-22T00:00:00+00:00",
-      "displayName": "Anthropic: Claude v2",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "anthropic/claude-2.1",
@@ -31317,7 +32011,42 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.1",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
+    },
+    {
+      "slug": "anthropic/claude-2",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-11-22T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude v2",
+      "short_name": "Claude v2",
+      "author": "anthropic",
+      "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
+      "model_version_group_id": null,
+      "context_length": 200000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-2",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Claude",
+      "created": "2023-11-22T00:00:00+00:00",
+      "displayName": "Anthropic: Claude v2",
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "anthropic/claude-instant-1.1",
@@ -31354,7 +32083,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.1",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "teknium/openhermes-2.5-mistral-7b",
@@ -31393,7 +32122,7 @@
       "architecture": "Mistral",
       "created": "2023-11-20T00:00:00+00:00",
       "displayName": "OpenHermes 2.5 Mistral 7B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "openai/gpt-4-vision-preview",
@@ -31429,7 +32158,7 @@
       "architecture": "GPT",
       "created": "2023-11-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Vision",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "undi95/toppy-m-7b",
@@ -31463,154 +32192,11 @@
       "permaslug": "undi95/toppy-m-7b",
       "reasoning_config": null,
       "features": {},
-      "endpoint": {
-        "id": "d2b3973b-76cb-43ef-affa-1ca7e1b25ea2",
-        "name": "Featherless | undi95/toppy-m-7b",
-        "context_length": 4096,
-        "model": {
-          "slug": "undi95/toppy-m-7b",
-          "hf_slug": "Undi95/Toppy-M-7B",
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2023-11-10T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Toppy M 7B",
-          "short_name": "Toppy M 7B",
-          "author": "undi95",
-          "description": "A wild 7B parameter model that merges several models using the new task_arithmetic merge method from mergekit.\nList of merged models:\n- NousResearch/Nous-Capybara-7B-V1.9\n- [HuggingFaceH4/zephyr-7b-beta](/models/huggingfaceh4/zephyr-7b-beta)\n- lemonilia/AshhLimaRP-Mistral-7B\n- Vulkane/120-Days-of-Sodom-LoRA-Mistral-7b\n- Undi95/Mistral-pippa-sharegpt-7b-qlora\n\n#merge #uncensored",
-          "model_version_group_id": null,
-          "context_length": 4096,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Mistral",
-          "instruct_type": "alpaca",
-          "default_system": null,
-          "default_stops": [
-            "###",
-            "</s>"
-          ],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "undi95/toppy-m-7b",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "undi95/toppy-m-7b",
-        "model_variant_permaslug": "undi95/toppy-m-7b",
-        "adapter_name": "OpenAIAdapter",
-        "provider_name": "Featherless",
-        "provider_info": {
-          "name": "Featherless",
-          "displayName": "Featherless",
-          "slug": "featherless",
-          "baseUrl": "https://api.featherless.ai/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": false
-            },
-            "termsOfServiceURL": "https://featherless.ai/terms",
-            "privacyPolicyURL": "https://featherless.ai/privacy"
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": false,
-          "moderationRequired": false,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "OpenAIAdapter",
-          "isMultipartSupported": false,
-          "statusPageUrl": "https://featherless.ai/status",
-          "byokEnabled": true,
-          "icon": {
-            "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://featherless.ai/&size=256"
-          },
-          "ignoredProviderModels": [
-            "featherless-ai/Qwerky-72B"
-          ]
-        },
-        "provider_display_name": "Featherless",
-        "provider_slug": "featherless",
-        "provider_model_id": "Undi95/Toppy-M-7B",
-        "quantization": null,
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": false,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "stop",
-          "frequency_penalty",
-          "presence_penalty",
-          "repetition_penalty",
-          "top_k",
-          "min_p",
-          "seed"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": false
-          },
-          "termsOfServiceURL": "https://featherless.ai/terms",
-          "privacyPolicyURL": "https://featherless.ai/privacy",
-          "training": false,
-          "retainsPrompts": false
-        },
-        "pricing": {
-          "prompt": "0.0000008",
-          "completion": "0.0000012",
-          "image": "0",
-          "audio": "0",
-          "request": "0",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": false,
-        "supports_reasoning": false,
-        "supports_multipart": false,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": false,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          },
-          "supported_parameters": {}
-        },
-        "provider_region": null
-      },
+      "endpoint": null,
       "architecture": "Mistral",
       "created": "2023-11-10T00:00:00+00:00",
       "displayName": "Toppy M 7B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "openai/gpt-4-1106-preview",
@@ -31789,7 +32375,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo (older v1106)",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-1106",
@@ -31824,7 +32410,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k (older v1106)",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "teknium/openhermes-2-mistral-7b",
@@ -31863,7 +32449,7 @@
       "architecture": "Mistral",
       "created": "2023-11-01T00:00:00+00:00",
       "displayName": "OpenHermes 2 Mistral 7B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "open-orca/mistral-7b-openorca",
@@ -31902,7 +32488,7 @@
       "architecture": "Mistral",
       "created": "2023-10-30T00:00:00+00:00",
       "displayName": "Mistral OpenOrca 7B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-instruct",
@@ -32087,7 +32673,7 @@
       "architecture": "GPT",
       "created": "2023-09-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo Instruct",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct-v0.1",
@@ -32261,7 +32847,7 @@
       "architecture": "Mistral",
       "created": "2023-09-28T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct v0.1",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-16k",
@@ -32440,42 +33026,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
-    },
-    {
-      "slug": "openai/gpt-4-32k",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-08-28T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: GPT-4 32k",
-      "short_name": "GPT-4 32k",
-      "author": "openai",
-      "description": "GPT-4-32k is an extended version of GPT-4, with the same capabilities but quadrupled context length, allowing for processing up to 40 pages of text in a single pass. This is particularly beneficial for handling longer content like interacting with PDFs without an external vector database. Training data: up to Sep 2021.",
-      "model_version_group_id": null,
-      "context_length": 32767,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "openai/gpt-4-32k",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "GPT",
-      "created": "2023-08-28T00:00:00+00:00",
-      "displayName": "OpenAI: GPT-4 32k",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "openai/gpt-4-32k-0314",
@@ -32510,7 +33061,42 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k (older v0314)",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
+    },
+    {
+      "slug": "openai/gpt-4-32k",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-08-28T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: GPT-4 32k",
+      "short_name": "GPT-4 32k",
+      "author": "openai",
+      "description": "GPT-4-32k is an extended version of GPT-4, with the same capabilities but quadrupled context length, allowing for processing up to 40 pages of text in a single pass. This is particularly beneficial for handling longer content like interacting with PDFs without an external vector database. Training data: up to Sep 2021.",
+      "model_version_group_id": null,
+      "context_length": 32767,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "openai/gpt-4-32k",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "GPT",
+      "created": "2023-08-28T00:00:00+00:00",
+      "displayName": "OpenAI: GPT-4 32k",
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "huggingfaceh4/zephyr-7b-beta",
@@ -32548,42 +33134,7 @@
       "architecture": "Mistral",
       "created": "2023-08-02T00:00:00+00:00",
       "displayName": "Hugging Face: Zephyr 7B",
-      "fetchedAt": "2025-08-07T08:09:39.110Z"
-    },
-    {
-      "slug": "anthropic/claude-2.0",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-07-28T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude v2.0",
-      "short_name": "Claude v2.0",
-      "author": "anthropic",
-      "description": "Anthropic's flagship model. Superior performance on tasks that require complex reasoning. Supports hundreds of pages of text.",
-      "model_version_group_id": null,
-      "context_length": 100000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-2.0",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Claude",
-      "created": "2023-07-28T00:00:00+00:00",
-      "displayName": "Anthropic: Claude v2.0",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:53.086Z"
     },
     {
       "slug": "anthropic/claude-1.2",
@@ -32620,16 +33171,51 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v1.2",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
-      "slug": "anthropic/claude-1",
+      "slug": "anthropic/claude-2.0",
       "hf_slug": null,
       "updated_at": "2025-03-28T03:20:30.853469+00:00",
       "created_at": "2023-07-28T00:00:00+00:00",
       "hf_updated_at": null,
-      "name": "Anthropic: Claude v1",
-      "short_name": "Claude v1",
+      "name": "Anthropic: Claude v2.0",
+      "short_name": "Claude v2.0",
+      "author": "anthropic",
+      "description": "Anthropic's flagship model. Superior performance on tasks that require complex reasoning. Supports hundreds of pages of text.",
+      "model_version_group_id": null,
+      "context_length": 100000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-2.0",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Claude",
+      "created": "2023-07-28T00:00:00+00:00",
+      "displayName": "Anthropic: Claude v2.0",
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
+    },
+    {
+      "slug": "anthropic/claude-instant-1",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-07-28T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude Instant v1",
+      "short_name": "Claude Instant v1",
       "author": "anthropic",
       "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
       "model_version_group_id": null,
@@ -32642,22 +33228,20 @@
       ],
       "has_text_output": true,
       "group": "Claude",
-      "instruct_type": "claude",
+      "instruct_type": null,
       "default_system": null,
-      "default_stops": [
-        "\n\nHuman:"
-      ],
+      "default_stops": [],
       "hidden": false,
       "router": null,
       "warning_message": null,
-      "permaslug": "anthropic/claude-1",
+      "permaslug": "anthropic/claude-instant-1",
       "reasoning_config": null,
       "features": {},
       "endpoint": null,
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
-      "displayName": "Anthropic: Claude v1",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "displayName": "Anthropic: Claude Instant v1",
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "anthropic/claude-instant-1.0",
@@ -32694,16 +33278,16 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.0",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
-      "slug": "anthropic/claude-instant-1",
+      "slug": "anthropic/claude-1",
       "hf_slug": null,
       "updated_at": "2025-03-28T03:20:30.853469+00:00",
       "created_at": "2023-07-28T00:00:00+00:00",
       "hf_updated_at": null,
-      "name": "Anthropic: Claude Instant v1",
-      "short_name": "Claude Instant v1",
+      "name": "Anthropic: Claude v1",
+      "short_name": "Claude v1",
       "author": "anthropic",
       "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
       "model_version_group_id": null,
@@ -32716,199 +33300,22 @@
       ],
       "has_text_output": true,
       "group": "Claude",
-      "instruct_type": null,
+      "instruct_type": "claude",
       "default_system": null,
-      "default_stops": [],
+      "default_stops": [
+        "\n\nHuman:"
+      ],
       "hidden": false,
       "router": null,
       "warning_message": null,
-      "permaslug": "anthropic/claude-instant-1",
+      "permaslug": "anthropic/claude-1",
       "reasoning_config": null,
       "features": {},
       "endpoint": null,
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
-      "displayName": "Anthropic: Claude Instant v1",
-      "fetchedAt": "2025-08-07T08:09:38.487Z"
-    },
-    {
-      "slug": "openai/gpt-4",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-05-28T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: GPT-4",
-      "short_name": "GPT-4",
-      "author": "openai",
-      "description": "OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficult problems with greater accuracy than previous models due to its broader general knowledge and advanced reasoning capabilities. Training data: up to Sep 2021.",
-      "model_version_group_id": null,
-      "context_length": 8191,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "openai/gpt-4",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "355b1df4-06c8-4c36-a091-3d50477095fb",
-        "name": "OpenAI | openai/gpt-4",
-        "context_length": 8191,
-        "model": {
-          "slug": "openai/gpt-4",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2023-05-28T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "OpenAI: GPT-4",
-          "short_name": "GPT-4",
-          "author": "openai",
-          "description": "OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficult problems with greater accuracy than previous models due to its broader general knowledge and advanced reasoning capabilities. Training data: up to Sep 2021.",
-          "model_version_group_id": null,
-          "context_length": 8191,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "GPT",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "openai/gpt-4",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "openai/gpt-4",
-        "model_variant_permaslug": "openai/gpt-4",
-        "adapter_name": "OpenAIAdapter",
-        "provider_name": "OpenAI",
-        "provider_info": {
-          "name": "OpenAI",
-          "displayName": "OpenAI",
-          "slug": "openai",
-          "baseUrl": "https://api.openai.com/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true
-            },
-            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "OpenAIAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.openai.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "className": "invert-0 dark:invert"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "OpenAI",
-        "provider_slug": "openai",
-        "provider_model_id": "gpt-4",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "seed",
-          "max_tokens",
-          "response_format",
-          "structured_outputs",
-          "temperature",
-          "top_p",
-          "stop",
-          "frequency_penalty",
-          "presence_penalty",
-          "logit_bias",
-          "logprobs",
-          "top_logprobs"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true
-          },
-          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true
-        },
-        "pricing": {
-          "prompt": "0.00003",
-          "completion": "0.00006",
-          "image": "0",
-          "audio": "0",
-          "request": "0",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null
-      },
-      "architecture": "GPT",
-      "created": "2023-05-28T00:00:00+00:00",
-      "displayName": "OpenAI: GPT-4",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "displayName": "Anthropic: Claude v1",
+      "fetchedAt": "2025-08-08T08:09:52.316Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo",
@@ -33087,7 +33494,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "openai/gpt-4-0314",
@@ -33266,20 +33673,20 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 (older v0314)",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
-      "slug": "openai/gpt-3.5-turbo-0301",
+      "slug": "openai/gpt-4",
       "hf_slug": null,
       "updated_at": "2025-03-28T03:20:30.853469+00:00",
       "created_at": "2023-05-28T00:00:00+00:00",
       "hf_updated_at": null,
-      "name": "OpenAI: GPT-3.5 Turbo (older v0301)",
-      "short_name": "GPT-3.5 Turbo (older v0301)",
+      "name": "OpenAI: GPT-4",
+      "short_name": "GPT-4",
       "author": "openai",
-      "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
+      "description": "OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficult problems with greater accuracy than previous models due to its broader general knowledge and advanced reasoning capabilities. Training data: up to Sep 2021.",
       "model_version_group_id": null,
-      "context_length": 4095,
+      "context_length": 8191,
       "input_modalities": [
         "text"
       ],
@@ -33294,14 +33701,158 @@
       "hidden": false,
       "router": null,
       "warning_message": null,
-      "permaslug": "openai/gpt-3.5-turbo-0301",
+      "permaslug": "openai/gpt-4",
       "reasoning_config": null,
       "features": {},
-      "endpoint": null,
+      "endpoint": {
+        "id": "355b1df4-06c8-4c36-a091-3d50477095fb",
+        "name": "OpenAI | openai/gpt-4",
+        "context_length": 8191,
+        "model": {
+          "slug": "openai/gpt-4",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2023-05-28T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "OpenAI: GPT-4",
+          "short_name": "GPT-4",
+          "author": "openai",
+          "description": "OpenAI's flagship model, GPT-4 is a large-scale multimodal language model capable of solving difficult problems with greater accuracy than previous models due to its broader general knowledge and advanced reasoning capabilities. Training data: up to Sep 2021.",
+          "model_version_group_id": null,
+          "context_length": 8191,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "GPT",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "openai/gpt-4",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "openai/gpt-4",
+        "model_variant_permaslug": "openai/gpt-4",
+        "adapter_name": "OpenAIAdapter",
+        "provider_name": "OpenAI",
+        "provider_info": {
+          "name": "OpenAI",
+          "displayName": "OpenAI",
+          "slug": "openai",
+          "baseUrl": "https://api.openai.com/v1",
+          "dataPolicy": {
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true
+            },
+            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "OpenAIAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.openai.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/OpenAI.svg",
+            "className": "invert-0 dark:invert"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "OpenAI",
+        "provider_slug": "openai",
+        "provider_model_id": "gpt-4",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 4096,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "tools",
+          "tool_choice",
+          "seed",
+          "max_tokens",
+          "response_format",
+          "structured_outputs",
+          "temperature",
+          "top_p",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "logit_bias",
+          "logprobs",
+          "top_logprobs"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true
+          },
+          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+          "requiresUserIDs": true,
+          "training": false,
+          "retainsPrompts": true
+        },
+        "pricing": {
+          "prompt": "0.00003",
+          "completion": "0.00006",
+          "image": "0",
+          "audio": "0",
+          "request": "0",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          }
+        },
+        "provider_region": null
+      },
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
-      "displayName": "OpenAI: GPT-3.5 Turbo (older v0301)",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "displayName": "OpenAI: GPT-4",
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0125",
@@ -33336,17 +33887,52 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-08-07T08:09:38.308Z"
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
+    },
+    {
+      "slug": "openai/gpt-3.5-turbo-0301",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-05-28T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: GPT-3.5 Turbo (older v0301)",
+      "short_name": "GPT-3.5 Turbo (older v0301)",
+      "author": "openai",
+      "description": "GPT-3.5 Turbo is OpenAI's fastest model. It can understand and generate natural language or code, and is optimized for chat and traditional completion tasks.\n\nTraining data up to Sep 2021.",
+      "model_version_group_id": null,
+      "context_length": 4095,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "openai/gpt-3.5-turbo-0301",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "GPT",
+      "created": "2023-05-28T00:00:00+00:00",
+      "displayName": "OpenAI: GPT-3.5 Turbo (older v0301)",
+      "fetchedAt": "2025-08-08T08:09:52.259Z"
     }
   ],
   "metadata": {
-    "totalModels": 234,
+    "totalModels": 238,
     "architectures": {
-      "GPT": 41,
+      "GPT": 45,
       "Claude": 26,
       "Gemini": 31
     },
-    "lastUpdated": "2025-08-07T08:09:39.558Z",
+    "lastUpdated": "2025-08-08T08:09:53.727Z",
     "errors": []
   }
 }
