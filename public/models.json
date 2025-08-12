@@ -180,7 +180,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:30:37.42514+00:00",
       "displayName": "OpenAI: GPT-5 Chat",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-5",
@@ -365,7 +365,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:33+00:00",
       "displayName": "OpenAI: GPT-5",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-5-mini",
@@ -550,7 +550,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:27+00:00",
       "displayName": "OpenAI: GPT-5 Mini",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-5-nano",
@@ -735,7 +735,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:22+00:00",
       "displayName": "OpenAI: GPT-5 Nano",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-oss-120b",
@@ -919,7 +919,7 @@
       "architecture": "GPT",
       "created": "2025-08-05T17:17:11+00:00",
       "displayName": "OpenAI: gpt-oss-120b",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-oss-20b",
@@ -1090,7 +1090,7 @@
       "architecture": "GPT",
       "created": "2025-08-05T17:17:09+00:00",
       "displayName": "OpenAI: gpt-oss-20b (free)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-oss-20b",
@@ -1316,7 +1316,7 @@
       "architecture": "GPT",
       "created": "2025-08-05T17:17:09+00:00",
       "displayName": "OpenAI: gpt-oss-20b",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "anthropic/claude-opus-4.1",
@@ -1499,7 +1499,7 @@
       "architecture": "Claude",
       "created": "2025-08-05T16:33:11.634562+00:00",
       "displayName": "Anthropic: Claude Opus 4.1",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "mistralai/codestral-2508",
@@ -1685,7 +1685,7 @@
       "architecture": "Mistral",
       "created": "2025-08-01T20:20:30.639517+00:00",
       "displayName": "Mistral: Codestral 2508",
-      "fetchedAt": "2025-08-11T08:10:19.804Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "google/gemini-2.5-flash-lite",
@@ -1880,7 +1880,7 @@
       "architecture": "Gemini",
       "created": "2025-07-22T16:04:36.283638+00:00",
       "displayName": "Google: Gemini 2.5 Flash Lite",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "mistralai/devstral-medium",
@@ -2062,7 +2062,7 @@
       "architecture": "Mistral",
       "created": "2025-07-10T15:28:41.981407+00:00",
       "displayName": "Mistral: Devstral Medium",
-      "fetchedAt": "2025-08-11T08:10:19.804Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/devstral-small",
@@ -2280,7 +2280,7 @@
       "architecture": "Mistral",
       "created": "2025-07-10T15:19:11.726916+00:00",
       "displayName": "Mistral: Devstral Small 1.1",
-      "fetchedAt": "2025-08-11T08:10:19.804Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "x-ai/grok-4",
@@ -2472,7 +2472,7 @@
       "architecture": "Grok",
       "created": "2025-07-09T19:01:29.595463+00:00",
       "displayName": "xAI: Grok 4",
-      "fetchedAt": "2025-08-11T08:10:19.262Z"
+      "fetchedAt": "2025-08-12T08:09:13.220Z"
     },
     {
       "slug": "mistralai/mistral-small-3.2-24b-instruct",
@@ -2662,7 +2662,7 @@
       "architecture": "Mistral",
       "created": "2025-06-20T18:10:16.960494+00:00",
       "displayName": "Mistral: Mistral Small 3.2 24B (free)",
-      "fetchedAt": "2025-08-11T08:10:19.804Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/mistral-small-3.2-24b-instruct",
@@ -2852,7 +2852,7 @@
       "architecture": "Mistral",
       "created": "2025-06-20T18:10:16.960494+00:00",
       "displayName": "Mistral: Mistral Small 3.2 24B",
-      "fetchedAt": "2025-08-11T08:10:19.804Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "google/gemini-2.5-flash-lite-preview-06-17",
@@ -3046,7 +3046,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T15:23:51.237783+00:00",
       "displayName": "Google: Gemini 2.5 Flash Lite Preview 06-17",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "google/gemini-2.5-flash",
@@ -3242,7 +3242,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T15:01:28.103313+00:00",
       "displayName": "Google: Gemini 2.5 Flash",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "google/gemini-2.5-pro",
@@ -3446,7 +3446,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T14:12:24+00:00",
       "displayName": "Google: Gemini 2.5 Pro",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "openai/o3-pro",
@@ -3628,7 +3628,7 @@
       "architecture": "GPT",
       "created": "2025-06-10T23:32:32.266087+00:00",
       "displayName": "OpenAI: o3 Pro",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "x-ai/grok-3-mini",
@@ -3811,7 +3811,7 @@
       "architecture": "Grok",
       "created": "2025-06-10T19:20:45.198136+00:00",
       "displayName": "xAI: Grok 3 Mini",
-      "fetchedAt": "2025-08-11T08:10:19.262Z"
+      "fetchedAt": "2025-08-12T08:09:13.220Z"
     },
     {
       "slug": "x-ai/grok-3",
@@ -3993,7 +3993,7 @@
       "architecture": "Grok",
       "created": "2025-06-10T19:15:08.007729+00:00",
       "displayName": "xAI: Grok 3",
-      "fetchedAt": "2025-08-11T08:10:19.262Z"
+      "fetchedAt": "2025-08-12T08:09:13.221Z"
     },
     {
       "slug": "mistralai/magistral-small-2506",
@@ -4200,7 +4200,7 @@
       "architecture": "Mistral",
       "created": "2025-06-10T15:32:41.038747+00:00",
       "displayName": "Mistral: Magistral Small 2506",
-      "fetchedAt": "2025-08-11T08:10:19.804Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/magistral-medium-2506",
@@ -4407,7 +4407,7 @@
       "architecture": "Mistral",
       "created": "2025-06-08T03:40:54.076545+00:00",
       "displayName": "Mistral: Magistral Medium 2506",
-      "fetchedAt": "2025-08-11T08:10:19.804Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/magistral-medium-2506",
@@ -4614,7 +4614,7 @@
       "architecture": "Mistral",
       "created": "2025-06-08T03:40:54.076545+00:00",
       "displayName": "Mistral: Magistral Medium 2506 (thinking)",
-      "fetchedAt": "2025-08-11T08:10:19.804Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview",
@@ -4818,7 +4818,7 @@
       "architecture": "Gemini",
       "created": "2025-06-05T15:27:37.538116+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview 06-05",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-7b",
@@ -5008,7 +5008,7 @@
       "architecture": "Qwen",
       "created": "2025-05-30T18:03:57.186962+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 7B",
-      "fetchedAt": "2025-08-11T08:10:20.407Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "deepseek/deepseek-r1-0528-qwen3-8b",
@@ -5215,7 +5215,7 @@
       "architecture": "Qwen",
       "created": "2025-05-29T17:09:03.280319+00:00",
       "displayName": "DeepSeek: Deepseek R1 0528 Qwen3 8B (free)",
-      "fetchedAt": "2025-08-11T08:10:20.407Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "deepseek/deepseek-r1-0528-qwen3-8b",
@@ -5398,7 +5398,7 @@
       "architecture": "Qwen",
       "created": "2025-05-29T17:09:03.280319+00:00",
       "displayName": "DeepSeek: Deepseek R1 0528 Qwen3 8B",
-      "fetchedAt": "2025-08-11T08:10:20.407Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "google/gemma-2b-it",
@@ -5437,7 +5437,7 @@
       "architecture": "Gemini",
       "created": "2025-05-28T19:33:35.082388+00:00",
       "displayName": "Google: Gemma 1 2B",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.029Z"
     },
     {
       "slug": "anthropic/claude-opus-4",
@@ -5619,7 +5619,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:27:25.029961+00:00",
       "displayName": "Anthropic: Claude Opus 4",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4",
@@ -5806,7 +5806,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:12:51.381897+00:00",
       "displayName": "Anthropic: Claude Sonnet 4",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "mistralai/devstral-small-2505",
@@ -5991,7 +5991,7 @@
       "architecture": "Mistral",
       "created": "2025-05-21T14:22:59.930775+00:00",
       "displayName": "Mistral: Devstral Small 2505 (free)",
-      "fetchedAt": "2025-08-11T08:10:19.804Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/devstral-small-2505",
@@ -6176,7 +6176,7 @@
       "architecture": "Mistral",
       "created": "2025-05-21T14:22:59.930775+00:00",
       "displayName": "Mistral: Devstral Small 2505",
-      "fetchedAt": "2025-08-11T08:10:19.804Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview-05-20",
@@ -6213,7 +6213,7 @@
       "architecture": "Gemini",
       "created": "2025-05-20T17:25:24.343372+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 05-20",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.029Z"
     },
     {
       "slug": "openai/codex-mini",
@@ -6393,7 +6393,7 @@
       "architecture": "GPT",
       "created": "2025-05-16T15:36:01.081688+00:00",
       "displayName": "OpenAI: Codex Mini",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "mistralai/mistral-medium-3",
@@ -6577,7 +6577,7 @@
       "architecture": "Mistral",
       "created": "2025-05-07T14:15:41.980763+00:00",
       "displayName": "Mistral: Mistral Medium 3",
-      "fetchedAt": "2025-08-11T08:10:19.804Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview-05-06",
@@ -6781,7 +6781,7 @@
       "architecture": "Gemini",
       "created": "2025-05-07T00:41:53+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview 05-06",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "microsoft/phi-4-reasoning-plus",
@@ -7018,7 +7018,7 @@
       "architecture": "Phi",
       "created": "2025-05-01T20:22:41.235613+00:00",
       "displayName": "Microsoft: Phi 4 Reasoning Plus",
-      "fetchedAt": "2025-08-11T08:10:19.921Z"
+      "fetchedAt": "2025-08-12T08:09:13.853Z"
     },
     {
       "slug": "microsoft/phi-4-reasoning",
@@ -7053,7 +7053,7 @@
       "architecture": "Phi",
       "created": "2025-05-01T17:41:15.957157+00:00",
       "displayName": "Microsoft: Phi 4 Reasoning",
-      "fetchedAt": "2025-08-11T08:10:19.921Z"
+      "fetchedAt": "2025-08-12T08:09:13.853Z"
     },
     {
       "slug": "microsoft/mai-ds-r1",
@@ -7260,7 +7260,7 @@
       "architecture": "Phi",
       "created": "2025-04-21T00:08:20.257185+00:00",
       "displayName": "Microsoft: MAI DS R1 (free)",
-      "fetchedAt": "2025-08-11T08:10:19.921Z"
+      "fetchedAt": "2025-08-12T08:09:13.853Z"
     },
     {
       "slug": "microsoft/mai-ds-r1",
@@ -7467,7 +7467,7 @@
       "architecture": "Phi",
       "created": "2025-04-21T00:08:20.257185+00:00",
       "displayName": "Microsoft: MAI DS R1",
-      "fetchedAt": "2025-08-11T08:10:19.921Z"
+      "fetchedAt": "2025-08-12T08:09:13.853Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview",
@@ -7504,7 +7504,7 @@
       "architecture": "Gemini",
       "created": "2025-04-17T18:31:07.815979+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 04-17",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.029Z"
     },
     {
       "slug": "openai/o3",
@@ -7687,7 +7687,7 @@
       "architecture": "GPT",
       "created": "2025-04-16T17:10:57.049467+00:00",
       "displayName": "OpenAI: o3",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "qwen/qwen2.5-coder-7b-instruct",
@@ -7722,7 +7722,7 @@
       "architecture": "Qwen",
       "created": "2025-04-15T16:34:47.067646+00:00",
       "displayName": "Qwen: Qwen2.5 Coder 7B Instruct",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "openai/gpt-4.1",
@@ -7924,7 +7924,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:05+00:00",
       "displayName": "OpenAI: GPT-4.1",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-4.1-mini",
@@ -8126,7 +8126,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:01+00:00",
       "displayName": "OpenAI: GPT-4.1 Mini",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-4.1-nano",
@@ -8311,7 +8311,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:22:49+00:00",
       "displayName": "OpenAI: GPT-4.1 Nano",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "x-ai/grok-3-mini-beta",
@@ -8490,7 +8490,7 @@
       "architecture": "Grok",
       "created": "2025-04-09T23:09:55.305821+00:00",
       "displayName": "xAI: Grok 3 Mini Beta",
-      "fetchedAt": "2025-08-11T08:10:19.262Z"
+      "fetchedAt": "2025-08-12T08:09:13.221Z"
     },
     {
       "slug": "x-ai/grok-3-beta",
@@ -8669,7 +8669,7 @@
       "architecture": "Grok",
       "created": "2025-04-09T23:07:48.450334+00:00",
       "displayName": "xAI: Grok 3 Beta",
-      "fetchedAt": "2025-08-11T08:10:19.262Z"
+      "fetchedAt": "2025-08-12T08:09:13.221Z"
     },
     {
       "slug": "meta-llama/llama-4-maverick",
@@ -8890,7 +8890,7 @@
       "architecture": "Llama",
       "created": "2025-04-05T19:37:02.129674+00:00",
       "displayName": "Meta: Llama 4 Maverick",
-      "fetchedAt": "2025-08-11T08:10:19.583Z"
+      "fetchedAt": "2025-08-12T08:09:13.363Z"
     },
     {
       "slug": "meta-llama/llama-4-scout",
@@ -9074,7 +9074,7 @@
       "architecture": "Llama",
       "created": "2025-04-05T19:31:59.735804+00:00",
       "displayName": "Meta: Llama 4 Scout",
-      "fetchedAt": "2025-08-11T08:10:19.583Z"
+      "fetchedAt": "2025-08-12T08:09:13.363Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-3b-instruct",
@@ -9110,7 +9110,7 @@
       "architecture": "Qwen",
       "created": "2025-03-26T18:42:53.41832+00:00",
       "displayName": "Qwen: Qwen2.5 VL 3B Instruct",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "google/gemini-2.5-pro-exp-03-25",
@@ -9296,7 +9296,7 @@
       "architecture": "Gemini",
       "created": "2025-03-25T17:01:39.919989+00:00",
       "displayName": "Google: Gemini 2.5 Pro Experimental",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-32b-instruct",
@@ -9467,7 +9467,7 @@
       "architecture": "Qwen",
       "created": "2025-03-24T18:10:38.542849+00:00",
       "displayName": "Qwen: Qwen2.5 VL 32B Instruct (free)",
-      "fetchedAt": "2025-08-11T08:10:20.407Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-32b-instruct",
@@ -9652,7 +9652,7 @@
       "architecture": "Qwen",
       "created": "2025-03-24T18:10:38.542849+00:00",
       "displayName": "Qwen: Qwen2.5 VL 32B Instruct",
-      "fetchedAt": "2025-08-11T08:10:20.407Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "openai/o1-pro",
@@ -9826,7 +9826,7 @@
       "architecture": "GPT",
       "created": "2025-03-19T22:26:51.610039+00:00",
       "displayName": "OpenAI: o1-pro",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "mistralai/mistral-small-3.1-24b-instruct",
@@ -10008,7 +10008,7 @@
       "architecture": "Mistral",
       "created": "2025-03-17T19:15:37.00423+00:00",
       "displayName": "Mistral: Mistral Small 3.1 24B (free)",
-      "fetchedAt": "2025-08-11T08:10:19.804Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/mistral-small-3.1-24b-instruct",
@@ -10195,7 +10195,7 @@
       "architecture": "Mistral",
       "created": "2025-03-17T19:15:37.00423+00:00",
       "displayName": "Mistral: Mistral Small 3.1 24B",
-      "fetchedAt": "2025-08-11T08:10:19.804Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "google/gemma-3-1b-it",
@@ -10235,7 +10235,7 @@
       "architecture": "Gemini",
       "created": "2025-03-14T14:45:56.842499+00:00",
       "displayName": "Google: Gemma 3 1B",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.029Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -10436,7 +10436,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B (free)",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -10665,7 +10665,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -10857,7 +10857,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B (free)",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -11049,7 +11049,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "openai/gpt-4o-mini-search-preview",
@@ -11234,7 +11234,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:22:02.718344+00:00",
       "displayName": "OpenAI: GPT-4o-mini Search Preview",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-4o-search-preview",
@@ -11419,7 +11419,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:19:09.996816+00:00",
       "displayName": "OpenAI: GPT-4o Search Preview",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -11611,7 +11611,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B (free)",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -11803,7 +11803,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "microsoft/phi-4-multimodal-instruct",
@@ -12023,7 +12023,7 @@
       "architecture": "Phi",
       "created": "2025-03-08T01:11:24.652063+00:00",
       "displayName": "Microsoft: Phi 4 Multimodal Instruct",
-      "fetchedAt": "2025-08-11T08:10:19.921Z"
+      "fetchedAt": "2025-08-12T08:09:13.853Z"
     },
     {
       "slug": "qwen/qwq-32b",
@@ -12223,7 +12223,7 @@
       "architecture": "Qwen",
       "created": "2025-03-05T21:06:54.875499+00:00",
       "displayName": "Qwen: QwQ 32B (free)",
-      "fetchedAt": "2025-08-11T08:10:20.407Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwq-32b",
@@ -12465,7 +12465,7 @@
       "architecture": "Qwen",
       "created": "2025-03-05T21:06:54.875499+00:00",
       "displayName": "Qwen: QwQ 32B",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen2.5-32b-instruct",
@@ -12500,7 +12500,7 @@
       "architecture": "Qwen",
       "created": "2025-03-03T22:59:04.755619+00:00",
       "displayName": "Qwen: Qwen2.5 32B Instruct",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "openai/gpt-4.5-preview",
@@ -12536,7 +12536,7 @@
       "architecture": "GPT",
       "created": "2025-02-27T20:23:30.841555+00:00",
       "displayName": "OpenAI: GPT-4.5 (Preview)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "google/gemini-2.0-flash-lite-001",
@@ -12723,7 +12723,7 @@
       "architecture": "Gemini",
       "created": "2025-02-25T17:56:52.206054+00:00",
       "displayName": "Google: Gemini 2.0 Flash Lite",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -12910,7 +12910,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -13097,7 +13097,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (thinking)",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -13279,7 +13279,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (self-moderated)",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "mistralai/mistral-saba",
@@ -13461,7 +13461,7 @@
       "architecture": "Mistral",
       "created": "2025-02-17T14:40:39.116446+00:00",
       "displayName": "Mistral: Saba",
-      "fetchedAt": "2025-08-11T08:10:19.804Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "google/gemini-2.0-flash-001",
@@ -13663,7 +13663,7 @@
       "architecture": "Gemini",
       "created": "2025-02-05T15:30:13.144552+00:00",
       "displayName": "Google: Gemini 2.0 Flash",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "qwen/qwen-vl-plus",
@@ -13834,7 +13834,7 @@
       "architecture": "Qwen",
       "created": "2025-02-05T04:54:15.216448+00:00",
       "displayName": "Qwen: Qwen VL Plus",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen-vl-max",
@@ -14005,7 +14005,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T18:25:04.223655+00:00",
       "displayName": "Qwen: Qwen VL Max",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen-turbo",
@@ -14177,7 +14177,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:56:14.820636+00:00",
       "displayName": "Qwen: Qwen-Turbo",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-72b-instruct",
@@ -14357,7 +14357,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:45:11.997326+00:00",
       "displayName": "Qwen: Qwen2.5 VL 72B Instruct (free)",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-72b-instruct",
@@ -14536,7 +14536,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:45:11.997326+00:00",
       "displayName": "Qwen: Qwen2.5 VL 72B Instruct",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen-plus",
@@ -14708,7 +14708,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:37:20.886831+00:00",
       "displayName": "Qwen: Qwen-Plus",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen-max",
@@ -14880,7 +14880,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T09:31:29.206961+00:00",
       "displayName": "Qwen: Qwen-Max ",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "mistralai/mistral-small-24b-instruct-2501",
@@ -15062,7 +15062,7 @@
       "architecture": "Mistral",
       "created": "2025-01-30T16:43:29.33592+00:00",
       "displayName": "Mistral: Mistral Small 3 (free)",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/mistral-small-24b-instruct-2501",
@@ -15244,7 +15244,7 @@
       "architecture": "Mistral",
       "created": "2025-01-30T16:43:29.33592+00:00",
       "displayName": "Mistral: Mistral Small 3",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-32b",
@@ -15486,7 +15486,7 @@
       "architecture": "Qwen",
       "created": "2025-01-29T23:53:50.865297+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 32B",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-14b",
@@ -15692,7 +15692,7 @@
       "architecture": "Qwen",
       "created": "2025-01-29T23:39:00.13687+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 14B (free)",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-14b",
@@ -15892,7 +15892,7 @@
       "architecture": "Qwen",
       "created": "2025-01-29T23:39:00.13687+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 14B",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "mistralai/codestral-2501",
@@ -16074,7 +16074,7 @@
       "architecture": "Mistral",
       "created": "2025-01-14T22:58:42.43034+00:00",
       "displayName": "Mistral: Codestral 2501",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "microsoft/phi-4",
@@ -16292,7 +16292,7 @@
       "architecture": "Phi",
       "created": "2025-01-10T06:17:52.16346+00:00",
       "displayName": "Microsoft: Phi 4",
-      "fetchedAt": "2025-08-11T08:10:19.921Z"
+      "fetchedAt": "2025-08-12T08:09:13.853Z"
     },
     {
       "slug": "inflatebot/mn-mag-mell-r1",
@@ -16331,7 +16331,7 @@
       "architecture": "Mistral",
       "created": "2024-12-18T15:23:59.252033+00:00",
       "displayName": "Inflatebot: Mag Mell R1 12B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "openai/o1",
@@ -16506,7 +16506,7 @@
       "architecture": "GPT",
       "created": "2024-12-17T18:26:39.576639+00:00",
       "displayName": "OpenAI: o1",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "x-ai/grok-2-vision-1212",
@@ -16683,7 +16683,7 @@
       "architecture": "Grok",
       "created": "2024-12-15T04:35:38.489105+00:00",
       "displayName": "xAI: Grok 2 Vision 1212",
-      "fetchedAt": "2025-08-11T08:10:19.262Z"
+      "fetchedAt": "2025-08-12T08:09:13.221Z"
     },
     {
       "slug": "x-ai/grok-2-1212",
@@ -16860,7 +16860,7 @@
       "architecture": "Grok",
       "created": "2024-12-15T03:20:14.161318+00:00",
       "displayName": "xAI: Grok 2 1212",
-      "fetchedAt": "2025-08-11T08:10:19.262Z"
+      "fetchedAt": "2025-08-12T08:09:13.221Z"
     },
     {
       "slug": "google/gemini-2.0-flash-exp",
@@ -17042,7 +17042,7 @@
       "architecture": "Gemini",
       "created": "2024-12-11T17:18:43.999311+00:00",
       "displayName": "Google: Gemini 2.0 Flash Experimental (free)",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "amazon/nova-lite-v1",
@@ -17212,7 +17212,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:22:43.403315+00:00",
       "displayName": "Amazon: Nova Lite 1.0",
-      "fetchedAt": "2025-08-11T08:10:20.137Z"
+      "fetchedAt": "2025-08-12T08:09:14.101Z"
     },
     {
       "slug": "amazon/nova-micro-v1",
@@ -17380,7 +17380,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:20:37.90344+00:00",
       "displayName": "Amazon: Nova Micro 1.0",
-      "fetchedAt": "2025-08-11T08:10:20.137Z"
+      "fetchedAt": "2025-08-12T08:09:14.101Z"
     },
     {
       "slug": "amazon/nova-pro-v1",
@@ -17550,7 +17550,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:05:03.587216+00:00",
       "displayName": "Amazon: Nova Pro 1.0",
-      "fetchedAt": "2025-08-11T08:10:20.137Z"
+      "fetchedAt": "2025-08-12T08:09:14.101Z"
     },
     {
       "slug": "qwen/qwq-32b-preview",
@@ -17746,7 +17746,7 @@
       "architecture": "Qwen",
       "created": "2024-11-28T00:42:21.381013+00:00",
       "displayName": "Qwen: QwQ 32B Preview",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "google/gemini-exp-1121",
@@ -17782,7 +17782,7 @@
       "architecture": "Gemini",
       "created": "2024-11-21T19:18:45.23737+00:00",
       "displayName": "Google: Gemini Experimental 1121",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.029Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-72b",
@@ -17821,7 +17821,7 @@
       "architecture": "Qwen",
       "created": "2024-11-21T17:36:46.956395+00:00",
       "displayName": "EVA Qwen2.5 72B",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "openai/gpt-4o-2024-11-20",
@@ -18022,7 +18022,7 @@
       "architecture": "GPT",
       "created": "2024-11-20T18:33:14.771895+00:00",
       "displayName": "OpenAI: GPT-4o (2024-11-20)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "mistralai/mistral-large-2411",
@@ -18204,7 +18204,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T01:11:25.108028+00:00",
       "displayName": "Mistral Large 2411",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/mistral-large-2407",
@@ -18386,7 +18386,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T01:06:55.27469+00:00",
       "displayName": "Mistral Large 2407",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/pixtral-large-2411",
@@ -18570,7 +18570,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T00:49:48.873161+00:00",
       "displayName": "Mistral: Pixtral Large 2411",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "x-ai/grok-vision-beta",
@@ -18747,7 +18747,7 @@
       "architecture": "Grok",
       "created": "2024-11-19T00:37:04.585936+00:00",
       "displayName": "xAI: Grok Vision Beta",
-      "fetchedAt": "2025-08-11T08:10:19.262Z"
+      "fetchedAt": "2025-08-12T08:09:13.221Z"
     },
     {
       "slug": "google/gemini-exp-1114",
@@ -18783,7 +18783,7 @@
       "architecture": "Gemini",
       "created": "2024-11-15T23:52:20.203831+00:00",
       "displayName": "Google: Gemini Experimental 1114",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.029Z"
     },
     {
       "slug": "infermatic/mn-inferor-12b",
@@ -18961,7 +18961,7 @@
       "architecture": "Mistral",
       "created": "2024-11-13T02:20:28.884947+00:00",
       "displayName": "Infermatic: Mistral Nemo Inferor 12B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "qwen/qwen-2.5-coder-32b-instruct",
@@ -19145,7 +19145,7 @@
       "architecture": "Qwen",
       "created": "2024-11-11T23:40:00.276653+00:00",
       "displayName": "Qwen2.5 Coder 32B Instruct (free)",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen-2.5-coder-32b-instruct",
@@ -19335,7 +19335,7 @@
       "architecture": "Qwen",
       "created": "2024-11-11T23:40:00.276653+00:00",
       "displayName": "Qwen2.5 Coder 32B Instruct",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "raifle/sorcererlm-8x22b",
@@ -19523,7 +19523,7 @@
       "architecture": "Mistral",
       "created": "2024-11-08T22:31:23.953049+00:00",
       "displayName": "SorcererLM 8x22B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-32b",
@@ -19562,7 +19562,7 @@
       "architecture": "Qwen",
       "created": "2024-11-08T22:27:27.726229+00:00",
       "displayName": "EVA Qwen2.5 32B",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "thedrummer/unslopnemo-12b",
@@ -19706,8 +19706,8 @@
           "training": false
         },
         "pricing": {
-          "prompt": "0.0000004",
-          "completion": "0.0000004",
+          "prompt": "0.00000045",
+          "completion": "0.00000045",
           "image": "0",
           "audio": "0",
           "request": "0",
@@ -19744,185 +19744,7 @@
       "architecture": "Mistral",
       "created": "2024-11-08T22:04:08.359811+00:00",
       "displayName": "TheDrummer: UnslopNemo 12B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
-    },
-    {
-      "slug": "anthropic/claude-3.5-haiku",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-11-04T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude 3.5 Haiku (self-moderated)",
-      "short_name": "Claude 3.5 Haiku (self-moderated)",
-      "author": "anthropic",
-      "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
-      "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
-      "context_length": 200000,
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-3-5-haiku",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "e40c1746-bcb1-4237-b024-519df8cb4a3f",
-        "name": "Anthropic | anthropic/claude-3-5-haiku:beta",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-3.5-haiku",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-11-04T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude 3.5 Haiku",
-          "short_name": "Claude 3.5 Haiku",
-          "author": "anthropic",
-          "description": "Claude 3.5 Haiku features offers enhanced capabilities in speed, coding accuracy, and tool use. Engineered to excel in real-time applications, it delivers quick response times that are essential for dynamic tasks such as chat interactions and immediate coding suggestions.\n\nThis makes it highly suitable for environments that demand both speed and precision, such as software development, customer service bots, and data management systems.\n\nThis model is currently pointing to [Claude 3.5 Haiku (2024-10-22)](/anthropic/claude-3-5-haiku-20241022).",
-          "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
-          "context_length": 200000,
-          "input_modalities": [
-            "text",
-            "image"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-3-5-haiku",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-3.5-haiku:beta",
-        "model_variant_permaslug": "anthropic/claude-3-5-haiku:beta",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-3-5-haiku-20241022",
-        "quantization": "unknown",
-        "variant": "beta",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 8192,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.0000008",
-          "completion": "0.000004",
-          "image": "0",
-          "audio": "0",
-          "request": "0",
-          "input_cache_read": "0.00000008",
-          "input_cache_write": "0.000001",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2024-11-04T00:00:00+00:00",
-      "displayName": "Anthropic: Claude 3.5 Haiku (self-moderated)",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku",
@@ -20100,7 +19922,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku-20241022",
@@ -20286,188 +20108,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (2024-10-22)",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
-    },
-    {
-      "slug": "anthropic/claude-3.5-sonnet",
-      "hf_slug": null,
-      "updated_at": "2025-08-08T22:24:53.568294+00:00",
-      "created_at": "2024-10-22T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude 3.5 Sonnet (self-moderated)",
-      "short_name": "Claude 3.5 Sonnet (self-moderated)",
-      "author": "anthropic",
-      "description": "New Claude 3.5 Sonnet delivers better-than-Opus capabilities, faster-than-Sonnet speeds, at the same Sonnet prices. Sonnet is particularly good at:\n\n- Coding: Scores ~49% on SWE-Bench Verified, higher than the last best score, and without any fancy prompt scaffolding\n- Data science: Augments human data science expertise; navigates unstructured data while using multiple tools for insights\n- Visual processing: excelling at interpreting charts, graphs, and images, accurately transcribing text to derive insights beyond just the text alone\n- Agentic tasks: exceptional tool use, making it great at agentic tasks (i.e. complex, multi-step problem solving tasks that require engaging with other systems)\n\n#multimodal",
-      "model_version_group_id": "30636d20-cda3-4a59-aa0c-1a5b6efba072",
-      "context_length": 200000,
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-3.5-sonnet",
-      "reasoning_config": null,
-      "features": null,
-      "endpoint": {
-        "id": "d37de2be-ede2-4f34-ae2a-7587d128b212",
-        "name": "Anthropic | anthropic/claude-3.5-sonnet:beta",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-3.5-sonnet",
-          "hf_slug": null,
-          "updated_at": "2025-08-08T22:24:53.568294+00:00",
-          "created_at": "2024-10-22T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude 3.5 Sonnet",
-          "short_name": "Claude 3.5 Sonnet",
-          "author": "anthropic",
-          "description": "New Claude 3.5 Sonnet delivers better-than-Opus capabilities, faster-than-Sonnet speeds, at the same Sonnet prices. Sonnet is particularly good at:\n\n- Coding: Scores ~49% on SWE-Bench Verified, higher than the last best score, and without any fancy prompt scaffolding\n- Data science: Augments human data science expertise; navigates unstructured data while using multiple tools for insights\n- Visual processing: excelling at interpreting charts, graphs, and images, accurately transcribing text to derive insights beyond just the text alone\n- Agentic tasks: exceptional tool use, making it great at agentic tasks (i.e. complex, multi-step problem solving tasks that require engaging with other systems)\n\n#multimodal",
-          "model_version_group_id": "30636d20-cda3-4a59-aa0c-1a5b6efba072",
-          "context_length": 200000,
-          "input_modalities": [
-            "text",
-            "image",
-            "file"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-3.5-sonnet",
-          "reasoning_config": null,
-          "features": null
-        },
-        "model_variant_slug": "anthropic/claude-3.5-sonnet:beta",
-        "model_variant_permaslug": "anthropic/claude-3.5-sonnet:beta",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-3-5-sonnet-20241022",
-        "quantization": "unknown",
-        "variant": "beta",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 8192,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.000003",
-          "completion": "0.000015",
-          "image": "0.0048",
-          "audio": "0",
-          "request": "0",
-          "input_cache_read": "0.0000003",
-          "input_cache_write": "0.00000375",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_file_urls": true,
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2024-10-22T00:00:00+00:00",
-      "displayName": "Anthropic: Claude 3.5 Sonnet (self-moderated)",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -20648,7 +20289,7 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "anthracite-org/magnum-v4-72b",
@@ -20829,7 +20470,7 @@
       "architecture": "Qwen",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Magnum v4 72B",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "x-ai/grok-beta",
@@ -20864,7 +20505,7 @@
       "architecture": "Grok",
       "created": "2024-10-20T00:00:00+00:00",
       "displayName": "xAI: Grok Beta",
-      "fetchedAt": "2025-08-11T08:10:19.262Z"
+      "fetchedAt": "2025-08-12T08:09:13.221Z"
     },
     {
       "slug": "mistralai/ministral-8b",
@@ -21045,7 +20686,7 @@
       "architecture": "Mistral",
       "created": "2024-10-17T00:00:00+00:00",
       "displayName": "Mistral: Ministral 8B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/ministral-3b",
@@ -21225,7 +20866,7 @@
       "architecture": "Mistral",
       "created": "2024-10-17T00:00:00+00:00",
       "displayName": "Mistral: Ministral 3B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "qwen/qwen-2.5-7b-instruct",
@@ -21451,42 +21092,7 @@
       "architecture": "Qwen",
       "created": "2024-10-16T00:00:00+00:00",
       "displayName": "Qwen2.5 7B Instruct",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
-    },
-    {
-      "slug": "x-ai/grok-2-mini",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-10-12T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "xAI: Grok 2 mini",
-      "short_name": "Grok 2 mini",
-      "author": "x-ai",
-      "description": "Grok 2 Mini is xAI's fast, lightweight language model that offers a balance between speed and answer quality.\n\nTo use the stronger model, see [Grok Beta](/x-ai/grok-beta).\n\nFor more information, see the [launch announcement](https://x.ai/blog/grok-2).",
-      "model_version_group_id": null,
-      "context_length": 32768,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Grok",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "x-ai/grok-2-mini",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Grok",
-      "created": "2024-10-12T00:00:00+00:00",
-      "displayName": "xAI: Grok 2 mini",
-      "fetchedAt": "2025-08-11T08:10:19.262Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "x-ai/grok-2",
@@ -21521,7 +21127,42 @@
       "architecture": "Grok",
       "created": "2024-10-12T00:00:00+00:00",
       "displayName": "xAI: Grok 2",
-      "fetchedAt": "2025-08-11T08:10:19.262Z"
+      "fetchedAt": "2025-08-12T08:09:13.221Z"
+    },
+    {
+      "slug": "x-ai/grok-2-mini",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-10-12T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "xAI: Grok 2 mini",
+      "short_name": "Grok 2 mini",
+      "author": "x-ai",
+      "description": "Grok 2 Mini is xAI's fast, lightweight language model that offers a balance between speed and answer quality.\n\nTo use the stronger model, see [Grok Beta](/x-ai/grok-beta).\n\nFor more information, see the [launch announcement](https://x.ai/blog/grok-2).",
+      "model_version_group_id": null,
+      "context_length": 32768,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Grok",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "x-ai/grok-2-mini",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Grok",
+      "created": "2024-10-12T00:00:00+00:00",
+      "displayName": "xAI: Grok 2 mini",
+      "fetchedAt": "2025-08-12T08:09:13.221Z"
     },
     {
       "slug": "google/gemini-flash-1.5-8b",
@@ -21730,7 +21371,7 @@
       "architecture": "Gemini",
       "created": "2024-10-03T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash 8B",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "thedrummer/rocinante-12b",
@@ -21910,7 +21551,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "TheDrummer: Rocinante 12B",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "anthracite-org/magnum-v2-72b",
@@ -22100,7 +21741,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "Magnum v2 72B",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-14b",
@@ -22139,7 +21780,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "EVA Qwen2.5 14B",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen-2.5-72b-instruct",
@@ -22329,7 +21970,7 @@
       "architecture": "Qwen",
       "created": "2024-09-19T00:00:00+00:00",
       "displayName": "Qwen2.5 72B Instruct (free)",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen-2.5-72b-instruct",
@@ -22519,7 +22160,7 @@
       "architecture": "Qwen",
       "created": "2024-09-19T00:00:00+00:00",
       "displayName": "Qwen2.5 72B Instruct",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "openai/o1-mini",
@@ -22687,7 +22328,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-mini",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/o1-mini-2024-09-12",
@@ -22855,7 +22496,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-mini (2024-09-12)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/o1-preview",
@@ -22890,7 +22531,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/o1-preview-2024-09-12",
@@ -22925,7 +22566,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview (2024-09-12)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "mistralai/pixtral-12b",
@@ -23102,7 +22743,7 @@
       "architecture": "Mistral",
       "created": "2024-09-10T00:00:00+00:00",
       "displayName": "Mistral: Pixtral 12B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "google/gemini-flash-1.5-exp",
@@ -23138,7 +22779,7 @@
       "architecture": "Gemini",
       "created": "2024-08-28T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash Experimental",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.029Z"
     },
     {
       "slug": "qwen/qwen-2.5-vl-7b-instruct",
@@ -23315,7 +22956,7 @@
       "architecture": "Qwen",
       "created": "2024-08-28T00:00:00+00:00",
       "displayName": "Qwen: Qwen2.5-VL 7B Instruct",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "microsoft/phi-3.5-mini-128k-instruct",
@@ -23491,7 +23132,7 @@
       "architecture": "Phi",
       "created": "2024-08-21T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3.5 Mini 128K Instruct",
-      "fetchedAt": "2025-08-11T08:10:19.921Z"
+      "fetchedAt": "2025-08-12T08:09:13.853Z"
     },
     {
       "slug": "openai/chatgpt-4o-latest",
@@ -23670,7 +23311,7 @@
       "architecture": "GPT",
       "created": "2024-08-14T00:00:00+00:00",
       "displayName": "OpenAI: ChatGPT-4o",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "aetherwiing/mn-starcannon-12b",
@@ -23709,7 +23350,7 @@
       "architecture": "Mistral",
       "created": "2024-08-13T00:00:00+00:00",
       "displayName": "Aetherwiing: Starcannon 12B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "openai/gpt-4o-2024-08-06",
@@ -23910,7 +23551,7 @@
       "architecture": "GPT",
       "created": "2024-08-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-08-06)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "nothingiisreal/mn-celeste-12b",
@@ -23949,7 +23590,7 @@
       "architecture": "Mistral",
       "created": "2024-08-02T00:00:00+00:00",
       "displayName": "Mistral Nemo 12B Celeste",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "google/gemini-pro-1.5-exp",
@@ -23985,7 +23626,7 @@
       "architecture": "Gemini",
       "created": "2024-08-01T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro Experimental",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.029Z"
     },
     {
       "slug": "mistralai/mistral-nemo",
@@ -24173,7 +23814,7 @@
       "architecture": "Mistral",
       "created": "2024-07-19T00:00:00+00:00",
       "displayName": "Mistral: Mistral Nemo (free)",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/mistral-nemo",
@@ -24338,7 +23979,7 @@
       "architecture": "Mistral",
       "created": "2024-07-19T00:00:00+00:00",
       "displayName": "Mistral: Mistral Nemo",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/codestral-mamba",
@@ -24373,7 +24014,7 @@
       "architecture": "Mistral",
       "created": "2024-07-19T00:00:00+00:00",
       "displayName": "Mistral: Codestral Mamba",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "openai/gpt-4o-mini",
@@ -24574,7 +24215,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-4o-mini-2024-07-18",
@@ -24775,7 +24416,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini (2024-07-18)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "qwen/qwen-2-7b-instruct",
@@ -24814,7 +24455,7 @@
       "architecture": "Qwen",
       "created": "2024-07-16T00:00:00+00:00",
       "displayName": "Qwen 2 7B Instruct",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "google/gemma-2-27b-it",
@@ -25017,7 +24658,7 @@
       "architecture": "Gemini",
       "created": "2024-07-13T00:00:00+00:00",
       "displayName": "Google: Gemma 2 27B",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "alpindale/magnum-72b",
@@ -25056,7 +24697,7 @@
       "architecture": "Qwen",
       "created": "2024-07-11T00:00:00+00:00",
       "displayName": "Magnum 72B",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -25246,7 +24887,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B (free)",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.028Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -25436,188 +25077,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
-    },
-    {
-      "slug": "anthropic/claude-3.5-sonnet-20240620",
-      "hf_slug": null,
-      "updated_at": "2025-08-08T22:24:57.954986+00:00",
-      "created_at": "2024-06-20T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude 3.5 Sonnet (2024-06-20) (self-moderated)",
-      "short_name": "Claude 3.5 Sonnet (2024-06-20) (self-moderated)",
-      "author": "anthropic",
-      "description": "Claude 3.5 Sonnet delivers better-than-Opus capabilities, faster-than-Sonnet speeds, at the same Sonnet prices. Sonnet is particularly good at:\n\n- Coding: Autonomously writes, edits, and runs code with reasoning and troubleshooting\n- Data science: Augments human data science expertise; navigates unstructured data while using multiple tools for insights\n- Visual processing: excelling at interpreting charts, graphs, and images, accurately transcribing text to derive insights beyond just the text alone\n- Agentic tasks: exceptional tool use, making it great at agentic tasks (i.e. complex, multi-step problem solving tasks that require engaging with other systems)\n\nFor the latest version (2024-10-23), check out [Claude 3.5 Sonnet](/anthropic/claude-3.5-sonnet).\n\n#multimodal",
-      "model_version_group_id": "30636d20-cda3-4a59-aa0c-1a5b6efba072",
-      "context_length": 200000,
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-3.5-sonnet-20240620",
-      "reasoning_config": null,
-      "features": null,
-      "endpoint": {
-        "id": "18625f9a-9318-4cd5-9332-9f795b4a02dd",
-        "name": "Anthropic | anthropic/claude-3.5-sonnet-20240620:beta",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-3.5-sonnet-20240620",
-          "hf_slug": null,
-          "updated_at": "2025-08-08T22:24:57.954986+00:00",
-          "created_at": "2024-06-20T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude 3.5 Sonnet (2024-06-20)",
-          "short_name": "Claude 3.5 Sonnet (2024-06-20)",
-          "author": "anthropic",
-          "description": "Claude 3.5 Sonnet delivers better-than-Opus capabilities, faster-than-Sonnet speeds, at the same Sonnet prices. Sonnet is particularly good at:\n\n- Coding: Autonomously writes, edits, and runs code with reasoning and troubleshooting\n- Data science: Augments human data science expertise; navigates unstructured data while using multiple tools for insights\n- Visual processing: excelling at interpreting charts, graphs, and images, accurately transcribing text to derive insights beyond just the text alone\n- Agentic tasks: exceptional tool use, making it great at agentic tasks (i.e. complex, multi-step problem solving tasks that require engaging with other systems)\n\nFor the latest version (2024-10-23), check out [Claude 3.5 Sonnet](/anthropic/claude-3.5-sonnet).\n\n#multimodal",
-          "model_version_group_id": "30636d20-cda3-4a59-aa0c-1a5b6efba072",
-          "context_length": 200000,
-          "input_modalities": [
-            "text",
-            "image",
-            "file"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-3.5-sonnet-20240620",
-          "reasoning_config": null,
-          "features": null
-        },
-        "model_variant_slug": "anthropic/claude-3.5-sonnet-20240620:beta",
-        "model_variant_permaslug": "anthropic/claude-3.5-sonnet-20240620:beta",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-3-5-sonnet-20240620",
-        "quantization": "unknown",
-        "variant": "beta",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 8192,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.000003",
-          "completion": "0.000015",
-          "image": "0.0048",
-          "audio": "0",
-          "request": "0",
-          "input_cache_read": "0.0000003",
-          "input_cache_write": "0.00000375",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_file_urls": true,
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2024-06-20T00:00:00+00:00",
-      "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20) (self-moderated)",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:13.029Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -25798,7 +25258,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20)",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "microsoft/phi-3-medium-4k-instruct",
@@ -25836,7 +25296,7 @@
       "architecture": "Phi",
       "created": "2024-06-15T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Medium 4K Instruct",
-      "fetchedAt": "2025-08-11T08:10:19.921Z"
+      "fetchedAt": "2025-08-12T08:09:13.853Z"
     },
     {
       "slug": "cognitivecomputations/dolphin-mixtral-8x22b",
@@ -26020,7 +25480,7 @@
       "architecture": "Mistral",
       "created": "2024-06-08T00:00:00+00:00",
       "displayName": "Dolphin 2.9.2 Mixtral 8x22B 🐬",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "qwen/qwen-2-72b-instruct",
@@ -26223,7 +25683,233 @@
       "architecture": "Qwen",
       "created": "2024-06-07T00:00:00+00:00",
       "displayName": "Qwen 2 72B Instruct",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
+    },
+    {
+      "slug": "mistralai/mistral-7b-instruct-v0.3",
+      "hf_slug": "mistralai/Mistral-7B-Instruct-v0.3",
+      "updated_at": "2025-04-28T20:21:03.247395+00:00",
+      "created_at": "2024-05-27T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Mistral: Mistral 7B Instruct v0.3",
+      "short_name": "Mistral 7B Instruct v0.3",
+      "author": "mistralai",
+      "description": "A high-performing, industry-standard 7.3B parameter model, with optimizations for speed and context length.\n\nAn improved version of [Mistral 7B Instruct v0.2](/models/mistralai/mistral-7b-instruct-v0.2), with the following changes:\n\n- Extended vocabulary to 32768\n- Supports v3 Tokenizer\n- Supports function calling\n\nNOTE: Support for function calling depends on the provider.",
+      "model_version_group_id": "1d07cc56-c54d-4587-b785-5093496397a4",
+      "context_length": 32768,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Mistral",
+      "instruct_type": "mistral",
+      "default_system": null,
+      "default_stops": [
+        "[INST]",
+        "</s>"
+      ],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "mistralai/mistral-7b-instruct-v0.3",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "38092675-d388-4ddc-8ede-41632353ad18",
+        "name": "DeepInfra | mistralai/mistral-7b-instruct-v0.3",
+        "context_length": 32768,
+        "model": {
+          "slug": "mistralai/mistral-7b-instruct-v0.3",
+          "hf_slug": "mistralai/Mistral-7B-Instruct-v0.3",
+          "updated_at": "2025-04-28T20:21:03.247395+00:00",
+          "created_at": "2024-05-27T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "Mistral: Mistral 7B Instruct v0.3",
+          "short_name": "Mistral 7B Instruct v0.3",
+          "author": "mistralai",
+          "description": "A high-performing, industry-standard 7.3B parameter model, with optimizations for speed and context length.\n\nAn improved version of [Mistral 7B Instruct v0.2](/models/mistralai/mistral-7b-instruct-v0.2), with the following changes:\n\n- Extended vocabulary to 32768\n- Supports v3 Tokenizer\n- Supports function calling\n\nNOTE: Support for function calling depends on the provider.",
+          "model_version_group_id": "1d07cc56-c54d-4587-b785-5093496397a4",
+          "context_length": 32768,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Mistral",
+          "instruct_type": "mistral",
+          "default_system": null,
+          "default_stops": [
+            "[INST]",
+            "</s>"
+          ],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "mistralai/mistral-7b-instruct-v0.3",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "mistralai/mistral-7b-instruct-v0.3",
+        "model_variant_permaslug": "mistralai/mistral-7b-instruct-v0.3",
+        "adapter_name": "DeepInfraAdapter",
+        "provider_name": "DeepInfra",
+        "provider_info": {
+          "name": "DeepInfra",
+          "displayName": "DeepInfra",
+          "slug": "deepinfra",
+          "baseUrl": "https://api.deepinfra.com/v1/openai",
+          "dataPolicy": {
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": false
+            },
+            "termsOfServiceURL": "https://deepinfra.com/terms",
+            "privacyPolicyURL": "https://deepinfra.com/privacy"
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": false,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "DeepInfraAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.deepinfra.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/DeepInfra.webp"
+          },
+          "ignoredProviderModels": [
+            "anthropic/claude-4-opus",
+            "anthropic/claude-4-sonnet",
+            "deepseek-ai/DeepSeek-R1-0528-Turbo",
+            "meta-llama/Llama-2-70b-chat-hf",
+            "mistralai/Mixtral-8x22B-Instruct-v0.1",
+            "google/gemma-1.1-7b-it",
+            "microsoft/Phi-3-medium-4k-instruct",
+            "google/gemma-2-27b-it",
+            "microsoft/WizardLM-2-7B",
+            "mattshumer/Reflection-Llama-3.1-70B",
+            "Sao10K/L3-8B-Lunaris-v1",
+            "openbmb/MiniCPM-Llama3-V-2_5",
+            "Qwen/QVQ-72B-Preview",
+            "deepinfra/airoboros-70b",
+            "Qwen/QwQ-32B-Preview",
+            "Phind/Phind-CodeLlama-34B-v2",
+            "lizpreciatior/lzlv_70b_fp16_hf",
+            "mistralai/Mistral-7B-Instruct-v0.2",
+            "cognitivecomputations/dolphin-2.6-mixtral-8x7b",
+            "cognitivecomputations/dolphin-2.9.1-llama-3-70b",
+            "Qwen/Qwen2-72B-Instruct",
+            "Qwen/Qwen2-7B-Instruct",
+            "google/gemma-2-9b-it",
+            "Sao10K/L3-70B-Euryale-v2.1",
+            "google/codegemma-7b-it",
+            "mistralai/Mistral-7B-Instruct-v0.1",
+            "KoboldAI/LLaMA2-13B-Tiefighter",
+            "nvidia/Nemotron-4-340B-Instruct",
+            "meta-llama/Llama-2-13b-chat-hf",
+            "openchat/openchat_3.5",
+            "openchat/openchat-3.6-8b",
+            "bigcode/starcoder2-15b-instruct-v0.1",
+            "Gryphe/MythoMax-L2-13b-turbo",
+            "Austism/chronos-hermes-13b-v2",
+            "Qwen/Qwen2.5-Coder-7B",
+            "moonshotai/Kimi-K2-Instruct",
+            "google/gemini-1.5-flash",
+            "google/gemini-2.5-flash",
+            "google/gemini-2.0-flash-001",
+            "anthropic/claude-3-7-sonnet-latest",
+            "google/gemini-1.5-flash-8b",
+            "google/gemini-2.5-pro",
+            "NovaSky-AI/Sky-T1-32B-Preview",
+            "allenai/olmOCR-7B-0725-FP8"
+          ]
+        },
+        "provider_display_name": "DeepInfra",
+        "provider_slug": "deepinfra/bf16",
+        "provider_model_id": "mistralai/Mistral-7B-Instruct-v0.3",
+        "quantization": "bf16",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 16384,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "tools",
+          "tool_choice",
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "repetition_penalty",
+          "top_k",
+          "seed",
+          "min_p",
+          "response_format"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": false
+          },
+          "termsOfServiceURL": "https://deepinfra.com/terms",
+          "privacyPolicyURL": "https://deepinfra.com/privacy",
+          "training": false,
+          "retainsPrompts": false
+        },
+        "pricing": {
+          "prompt": "0.000000028",
+          "completion": "0.000000054",
+          "image": "0",
+          "audio": "0",
+          "request": "0",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": false,
+            "type_function": false
+          }
+        },
+        "provider_region": null
+      },
+      "architecture": "Mistral",
+      "created": "2024-05-27T00:00:00+00:00",
+      "displayName": "Mistral: Mistral 7B Instruct v0.3",
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct",
@@ -26450,7 +26136,7 @@
       "architecture": "Mistral",
       "created": "2024-05-27T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct (free)",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct",
@@ -26625,233 +26311,7 @@
       "architecture": "Mistral",
       "created": "2024-05-27T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
-    },
-    {
-      "slug": "mistralai/mistral-7b-instruct-v0.3",
-      "hf_slug": "mistralai/Mistral-7B-Instruct-v0.3",
-      "updated_at": "2025-04-28T20:21:03.247395+00:00",
-      "created_at": "2024-05-27T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Mistral: Mistral 7B Instruct v0.3",
-      "short_name": "Mistral 7B Instruct v0.3",
-      "author": "mistralai",
-      "description": "A high-performing, industry-standard 7.3B parameter model, with optimizations for speed and context length.\n\nAn improved version of [Mistral 7B Instruct v0.2](/models/mistralai/mistral-7b-instruct-v0.2), with the following changes:\n\n- Extended vocabulary to 32768\n- Supports v3 Tokenizer\n- Supports function calling\n\nNOTE: Support for function calling depends on the provider.",
-      "model_version_group_id": "1d07cc56-c54d-4587-b785-5093496397a4",
-      "context_length": 32768,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Mistral",
-      "instruct_type": "mistral",
-      "default_system": null,
-      "default_stops": [
-        "[INST]",
-        "</s>"
-      ],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "mistralai/mistral-7b-instruct-v0.3",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "38092675-d388-4ddc-8ede-41632353ad18",
-        "name": "DeepInfra | mistralai/mistral-7b-instruct-v0.3",
-        "context_length": 32768,
-        "model": {
-          "slug": "mistralai/mistral-7b-instruct-v0.3",
-          "hf_slug": "mistralai/Mistral-7B-Instruct-v0.3",
-          "updated_at": "2025-04-28T20:21:03.247395+00:00",
-          "created_at": "2024-05-27T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Mistral: Mistral 7B Instruct v0.3",
-          "short_name": "Mistral 7B Instruct v0.3",
-          "author": "mistralai",
-          "description": "A high-performing, industry-standard 7.3B parameter model, with optimizations for speed and context length.\n\nAn improved version of [Mistral 7B Instruct v0.2](/models/mistralai/mistral-7b-instruct-v0.2), with the following changes:\n\n- Extended vocabulary to 32768\n- Supports v3 Tokenizer\n- Supports function calling\n\nNOTE: Support for function calling depends on the provider.",
-          "model_version_group_id": "1d07cc56-c54d-4587-b785-5093496397a4",
-          "context_length": 32768,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Mistral",
-          "instruct_type": "mistral",
-          "default_system": null,
-          "default_stops": [
-            "[INST]",
-            "</s>"
-          ],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "mistralai/mistral-7b-instruct-v0.3",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "mistralai/mistral-7b-instruct-v0.3",
-        "model_variant_permaslug": "mistralai/mistral-7b-instruct-v0.3",
-        "adapter_name": "DeepInfraAdapter",
-        "provider_name": "DeepInfra",
-        "provider_info": {
-          "name": "DeepInfra",
-          "displayName": "DeepInfra",
-          "slug": "deepinfra",
-          "baseUrl": "https://api.deepinfra.com/v1/openai",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": false
-            },
-            "termsOfServiceURL": "https://deepinfra.com/terms",
-            "privacyPolicyURL": "https://deepinfra.com/privacy"
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": false,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "DeepInfraAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.deepinfra.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/DeepInfra.webp"
-          },
-          "ignoredProviderModels": [
-            "anthropic/claude-4-opus",
-            "anthropic/claude-4-sonnet",
-            "deepseek-ai/DeepSeek-R1-0528-Turbo",
-            "meta-llama/Llama-2-70b-chat-hf",
-            "mistralai/Mixtral-8x22B-Instruct-v0.1",
-            "google/gemma-1.1-7b-it",
-            "microsoft/Phi-3-medium-4k-instruct",
-            "google/gemma-2-27b-it",
-            "microsoft/WizardLM-2-7B",
-            "mattshumer/Reflection-Llama-3.1-70B",
-            "Sao10K/L3-8B-Lunaris-v1",
-            "openbmb/MiniCPM-Llama3-V-2_5",
-            "Qwen/QVQ-72B-Preview",
-            "deepinfra/airoboros-70b",
-            "Qwen/QwQ-32B-Preview",
-            "Phind/Phind-CodeLlama-34B-v2",
-            "lizpreciatior/lzlv_70b_fp16_hf",
-            "mistralai/Mistral-7B-Instruct-v0.2",
-            "cognitivecomputations/dolphin-2.6-mixtral-8x7b",
-            "cognitivecomputations/dolphin-2.9.1-llama-3-70b",
-            "Qwen/Qwen2-72B-Instruct",
-            "Qwen/Qwen2-7B-Instruct",
-            "google/gemma-2-9b-it",
-            "Sao10K/L3-70B-Euryale-v2.1",
-            "google/codegemma-7b-it",
-            "mistralai/Mistral-7B-Instruct-v0.1",
-            "KoboldAI/LLaMA2-13B-Tiefighter",
-            "nvidia/Nemotron-4-340B-Instruct",
-            "meta-llama/Llama-2-13b-chat-hf",
-            "openchat/openchat_3.5",
-            "openchat/openchat-3.6-8b",
-            "bigcode/starcoder2-15b-instruct-v0.1",
-            "Gryphe/MythoMax-L2-13b-turbo",
-            "Austism/chronos-hermes-13b-v2",
-            "Qwen/Qwen2.5-Coder-7B",
-            "moonshotai/Kimi-K2-Instruct",
-            "google/gemini-1.5-flash",
-            "google/gemini-2.5-flash",
-            "google/gemini-2.0-flash-001",
-            "anthropic/claude-3-7-sonnet-latest",
-            "google/gemini-1.5-flash-8b",
-            "google/gemini-2.5-pro",
-            "NovaSky-AI/Sky-T1-32B-Preview",
-            "allenai/olmOCR-7B-0725-FP8"
-          ]
-        },
-        "provider_display_name": "DeepInfra",
-        "provider_slug": "deepinfra/bf16",
-        "provider_model_id": "mistralai/Mistral-7B-Instruct-v0.3",
-        "quantization": "bf16",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 16384,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "stop",
-          "frequency_penalty",
-          "presence_penalty",
-          "repetition_penalty",
-          "top_k",
-          "seed",
-          "min_p",
-          "response_format"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": false
-          },
-          "termsOfServiceURL": "https://deepinfra.com/terms",
-          "privacyPolicyURL": "https://deepinfra.com/privacy",
-          "training": false,
-          "retainsPrompts": false
-        },
-        "pricing": {
-          "prompt": "0.000000028",
-          "completion": "0.000000054",
-          "image": "0",
-          "audio": "0",
-          "request": "0",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": false,
-            "type_function": false
-          }
-        },
-        "provider_region": null
-      },
-      "architecture": "Mistral",
-      "created": "2024-05-27T00:00:00+00:00",
-      "displayName": "Mistral: Mistral 7B Instruct v0.3",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "microsoft/phi-3-mini-128k-instruct",
@@ -27027,7 +26487,7 @@
       "architecture": "Phi",
       "created": "2024-05-26T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Mini 128K Instruct",
-      "fetchedAt": "2025-08-11T08:10:19.921Z"
+      "fetchedAt": "2025-08-12T08:09:13.853Z"
     },
     {
       "slug": "microsoft/phi-3-medium-128k-instruct",
@@ -27203,7 +26663,7 @@
       "architecture": "Phi",
       "created": "2024-05-24T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Medium 128K Instruct",
-      "fetchedAt": "2025-08-11T08:10:19.921Z"
+      "fetchedAt": "2025-08-12T08:09:13.853Z"
     },
     {
       "slug": "google/gemini-flash-1.5",
@@ -27401,7 +26861,7 @@
       "architecture": "Gemini",
       "created": "2024-05-14T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash ",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.029Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -27602,7 +27062,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -27802,7 +27262,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (extended)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-4o-2024-05-13",
@@ -28002,7 +27462,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-05-13)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "qwen/qwen-110b-chat",
@@ -28041,7 +27501,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 110B Chat",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen-72b-chat",
@@ -28080,7 +27540,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 72B Chat",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen-32b-chat",
@@ -28119,7 +27579,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 32B Chat",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen-14b-chat",
@@ -28158,7 +27618,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 14B Chat",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen-7b-chat",
@@ -28197,7 +27657,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 7B Chat",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "qwen/qwen-4b-chat",
@@ -28236,7 +27696,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 4B Chat",
-      "fetchedAt": "2025-08-11T08:10:20.408Z"
+      "fetchedAt": "2025-08-12T08:09:14.272Z"
     },
     {
       "slug": "mistralai/mixtral-8x22b-instruct",
@@ -28423,7 +27883,7 @@
       "architecture": "Mistral",
       "created": "2024-04-17T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x22B Instruct",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "microsoft/wizardlm-2-8x22b",
@@ -28602,7 +28062,7 @@
       "architecture": "Mistral",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 8x22B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "microsoft/wizardlm-2-7b",
@@ -28640,7 +28100,7 @@
       "architecture": "Mistral",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 7B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "microsoft/wizardlm-2-8x22b",
@@ -28819,7 +28279,7 @@
       "architecture": "Phi",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 8x22B",
-      "fetchedAt": "2025-08-11T08:10:19.921Z"
+      "fetchedAt": "2025-08-12T08:09:13.853Z"
     },
     {
       "slug": "microsoft/wizardlm-2-7b",
@@ -28857,7 +28317,7 @@
       "architecture": "Phi",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 7B",
-      "fetchedAt": "2025-08-11T08:10:19.921Z"
+      "fetchedAt": "2025-08-12T08:09:13.853Z"
     },
     {
       "slug": "huggingfaceh4/zephyr-orpo-141b-a35b",
@@ -28895,7 +28355,7 @@
       "architecture": "Mistral",
       "created": "2024-04-12T00:00:00+00:00",
       "displayName": "Zephyr 141B-A35B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/mixtral-8x22b",
@@ -28934,7 +28394,7 @@
       "architecture": "Mistral",
       "created": "2024-04-10T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x22B (base)",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "openai/gpt-4-turbo",
@@ -29115,7 +28575,7 @@
       "architecture": "GPT",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "google/gemini-pro-1.5",
@@ -29309,185 +28769,7 @@
       "architecture": "Gemini",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
-    },
-    {
-      "slug": "anthropic/claude-3-haiku",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-03-13T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude 3 Haiku (self-moderated)",
-      "short_name": "Claude 3 Haiku (self-moderated)",
-      "author": "anthropic",
-      "description": "Claude 3 Haiku is Anthropic's fastest and most compact model for\nnear-instant responsiveness. Quick and accurate targeted performance.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-haiku)\n\n#multimodal",
-      "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
-      "context_length": 200000,
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-3-haiku",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "2b4cdc7b-5181-4751-8608-98d2b1ab049a",
-        "name": "Anthropic | anthropic/claude-3-haiku:beta",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-3-haiku",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-03-13T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude 3 Haiku",
-          "short_name": "Claude 3 Haiku",
-          "author": "anthropic",
-          "description": "Claude 3 Haiku is Anthropic's fastest and most compact model for\nnear-instant responsiveness. Quick and accurate targeted performance.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-haiku)\n\n#multimodal",
-          "model_version_group_id": "028ec497-a034-40fd-81fe-f51d0a0c640c",
-          "context_length": 200000,
-          "input_modalities": [
-            "text",
-            "image"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-3-haiku",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-3-haiku:beta",
-        "model_variant_permaslug": "anthropic/claude-3-haiku:beta",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-3-haiku-20240307",
-        "quantization": "unknown",
-        "variant": "beta",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.00000025",
-          "completion": "0.00000125",
-          "image": "0.0004",
-          "audio": "0",
-          "request": "0",
-          "input_cache_read": "0.00000003",
-          "input_cache_write": "0.0000003",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2024-03-13T00:00:00+00:00",
-      "displayName": "Anthropic: Claude 3 Haiku (self-moderated)",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:13.029Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -29665,185 +28947,7 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
-    },
-    {
-      "slug": "anthropic/claude-3-opus",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-03-05T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude 3 Opus (self-moderated)",
-      "short_name": "Claude 3 Opus (self-moderated)",
-      "author": "anthropic",
-      "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
-      "model_version_group_id": null,
-      "context_length": 200000,
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-3-opus",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "27446213-0c2c-4ea3-86da-85910b4ef823",
-        "name": "Anthropic | anthropic/claude-3-opus:beta",
-        "context_length": 200000,
-        "model": {
-          "slug": "anthropic/claude-3-opus",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-03-05T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Anthropic: Claude 3 Opus",
-          "short_name": "Claude 3 Opus",
-          "author": "anthropic",
-          "description": "Claude 3 Opus is Anthropic's most powerful model for highly complex tasks. It boasts top-level performance, intelligence, fluency, and understanding.\n\nSee the launch announcement and benchmark results [here](https://www.anthropic.com/news/claude-3-family)\n\n#multimodal",
-          "model_version_group_id": null,
-          "context_length": 200000,
-          "input_modalities": [
-            "text",
-            "image"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Claude",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "anthropic/claude-3-opus",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "anthropic/claude-3-opus:beta",
-        "model_variant_permaslug": "anthropic/claude-3-opus:beta",
-        "adapter_name": "AnthropicMessageAdapter",
-        "provider_name": "Anthropic",
-        "provider_info": {
-          "name": "Anthropic",
-          "displayName": "Anthropic",
-          "slug": "anthropic",
-          "baseUrl": "https://api.anthropic.com/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-            "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "AnthropicMessageAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.anthropic.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Anthropic.svg"
-          },
-          "ignoredProviderModels": []
-        },
-        "provider_display_name": "Anthropic",
-        "provider_slug": "anthropic",
-        "provider_model_id": "claude-3-opus-20240229",
-        "quantization": "unknown",
-        "variant": "beta",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "top_k",
-          "stop"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "termsOfServiceURL": "https://www.anthropic.com/legal/commercial-terms",
-          "privacyPolicyURL": "https://www.anthropic.com/legal/privacy",
-          "requiresUserIDs": true,
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.000015",
-          "completion": "0.000075",
-          "image": "0.024",
-          "audio": "0",
-          "request": "0",
-          "input_cache_read": "0.0000015",
-          "input_cache_write": "0.00001875",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null
-      },
-      "architecture": "Claude",
-      "created": "2024-03-05T00:00:00+00:00",
-      "displayName": "Anthropic: Claude 3 Opus (self-moderated)",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "anthropic/claude-3-opus",
@@ -30021,7 +29125,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Opus",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "anthropic/claude-3-sonnet",
@@ -30057,7 +29161,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Sonnet",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "mistralai/mistral-large",
@@ -30238,7 +29342,7 @@
       "architecture": "Mistral",
       "created": "2024-02-26T00:00:00+00:00",
       "displayName": "Mistral Large",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "google/gemma-7b-it",
@@ -30277,7 +29381,7 @@
       "architecture": "Gemini",
       "created": "2024-02-22T00:00:00+00:00",
       "displayName": "Google: Gemma 7B",
-      "fetchedAt": "2025-08-11T08:10:19.157Z"
+      "fetchedAt": "2025-08-12T08:09:13.029Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mistral-7b-dpo",
@@ -30316,7 +29420,7 @@
       "architecture": "Mistral",
       "created": "2024-02-21T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mistral 7B DPO",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0613",
@@ -30495,7 +29599,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0613)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-4-turbo-preview",
@@ -30674,7 +29778,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo Preview",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mixtral-8x7b-dpo",
@@ -30877,7 +29981,7 @@
       "architecture": "Mistral",
       "created": "2024-01-16T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mixtral 8x7B DPO",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mixtral-8x7b-sft",
@@ -30916,189 +30020,7 @@
       "architecture": "Mistral",
       "created": "2024-01-16T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mixtral 8x7B SFT",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
-    },
-    {
-      "slug": "mistralai/mistral-small",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-01-10T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Mistral Small",
-      "short_name": "Mistral Small",
-      "author": "mistralai",
-      "description": "With 22 billion parameters, Mistral Small v24.09 offers a convenient mid-point between (Mistral NeMo 12B)[/mistralai/mistral-nemo] and (Mistral Large 2)[/mistralai/mistral-large], providing a cost-effective solution that can be deployed across various platforms and environments. It has better reasoning, exhibits more capabilities, can produce and reason about code, and is multiligual, supporting English, French, German, Italian, and Spanish.",
-      "model_version_group_id": null,
-      "context_length": 32768,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Mistral",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "mistralai/mistral-small",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": {
-        "id": "e9fb7fa9-5720-4fd1-ac88-06fba8fbca50",
-        "name": "Mistral | mistralai/mistral-small",
-        "context_length": 32768,
-        "model": {
-          "slug": "mistralai/mistral-small",
-          "hf_slug": null,
-          "updated_at": "2025-03-28T03:20:30.853469+00:00",
-          "created_at": "2024-01-10T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "Mistral Small",
-          "short_name": "Mistral Small",
-          "author": "mistralai",
-          "description": "With 22 billion parameters, Mistral Small v24.09 offers a convenient mid-point between (Mistral NeMo 12B)[/mistralai/mistral-nemo] and (Mistral Large 2)[/mistralai/mistral-large], providing a cost-effective solution that can be deployed across various platforms and environments. It has better reasoning, exhibits more capabilities, can produce and reason about code, and is multiligual, supporting English, French, German, Italian, and Spanish.",
-          "model_version_group_id": null,
-          "context_length": 32000,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "Mistral",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "permaslug": "mistralai/mistral-small",
-          "reasoning_config": null,
-          "features": {}
-        },
-        "model_variant_slug": "mistralai/mistral-small",
-        "model_variant_permaslug": "mistralai/mistral-small",
-        "adapter_name": "MistralAdapter",
-        "provider_name": "Mistral",
-        "provider_info": {
-          "name": "Mistral",
-          "displayName": "Mistral",
-          "slug": "mistral",
-          "baseUrl": "https://api.mistral.ai/v1",
-          "dataPolicy": {
-            "paidModels": {
-              "training": false,
-              "retainsPrompts": true,
-              "retentionDays": 30
-            },
-            "termsOfServiceURL": "https://mistral.ai/terms/#terms-of-use",
-            "privacyPolicyURL": "https://mistral.ai/terms/#privacy-policy"
-          },
-          "headquarters": "FR",
-          "hasChatCompletions": true,
-          "hasCompletions": false,
-          "isAbortable": false,
-          "moderationRequired": false,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "MistralAdapter",
-          "isMultipartSupported": true,
-          "statusPageUrl": "https://status.mistral.ai/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/Mistral.png"
-          },
-          "ignoredProviderModels": [
-            "mistral-moderation-2411-all",
-            "voxtral-mini-2507",
-            "voxtral-small-2507",
-            "voxtral-mini-transcribe-2507"
-          ]
-        },
-        "provider_display_name": "Mistral",
-        "provider_slug": "mistral",
-        "provider_model_id": "mistral-small-2409",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": false,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": null,
-        "max_prompt_images": null,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "tools",
-          "tool_choice",
-          "max_tokens",
-          "temperature",
-          "top_p",
-          "stop",
-          "frequency_penalty",
-          "presence_penalty",
-          "seed",
-          "response_format",
-          "structured_outputs"
-        ],
-        "is_byok": false,
-        "moderation_required": false,
-        "data_policy": {
-          "paidModels": {
-            "training": false,
-            "retainsPrompts": true,
-            "retentionDays": 30
-          },
-          "termsOfServiceURL": "https://mistral.ai/terms/#terms-of-use",
-          "privacyPolicyURL": "https://mistral.ai/terms/#privacy-policy",
-          "training": false,
-          "retainsPrompts": true,
-          "retentionDays": 30
-        },
-        "pricing": {
-          "prompt": "0.0000002",
-          "completion": "0.0000006",
-          "image": "0",
-          "audio": "0",
-          "request": "0",
-          "web_search": "0",
-          "internal_reasoning": "0",
-          "discount": 0
-        },
-        "variable_pricings": [],
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": false,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          },
-          "supported_parameters": {}
-        },
-        "provider_region": null
-      },
-      "architecture": "Mistral",
-      "created": "2024-01-10T00:00:00+00:00",
-      "displayName": "Mistral Small",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/mistral-tiny",
@@ -31280,7 +30202,189 @@
       "architecture": "Mistral",
       "created": "2024-01-10T00:00:00+00:00",
       "displayName": "Mistral Tiny",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
+    },
+    {
+      "slug": "mistralai/mistral-small",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-01-10T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Mistral Small",
+      "short_name": "Mistral Small",
+      "author": "mistralai",
+      "description": "With 22 billion parameters, Mistral Small v24.09 offers a convenient mid-point between (Mistral NeMo 12B)[/mistralai/mistral-nemo] and (Mistral Large 2)[/mistralai/mistral-large], providing a cost-effective solution that can be deployed across various platforms and environments. It has better reasoning, exhibits more capabilities, can produce and reason about code, and is multiligual, supporting English, French, German, Italian, and Spanish.",
+      "model_version_group_id": null,
+      "context_length": 32768,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Mistral",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "mistralai/mistral-small",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": {
+        "id": "e9fb7fa9-5720-4fd1-ac88-06fba8fbca50",
+        "name": "Mistral | mistralai/mistral-small",
+        "context_length": 32768,
+        "model": {
+          "slug": "mistralai/mistral-small",
+          "hf_slug": null,
+          "updated_at": "2025-03-28T03:20:30.853469+00:00",
+          "created_at": "2024-01-10T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "Mistral Small",
+          "short_name": "Mistral Small",
+          "author": "mistralai",
+          "description": "With 22 billion parameters, Mistral Small v24.09 offers a convenient mid-point between (Mistral NeMo 12B)[/mistralai/mistral-nemo] and (Mistral Large 2)[/mistralai/mistral-large], providing a cost-effective solution that can be deployed across various platforms and environments. It has better reasoning, exhibits more capabilities, can produce and reason about code, and is multiligual, supporting English, French, German, Italian, and Spanish.",
+          "model_version_group_id": null,
+          "context_length": 32000,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "Mistral",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "mistralai/mistral-small",
+          "reasoning_config": null,
+          "features": {}
+        },
+        "model_variant_slug": "mistralai/mistral-small",
+        "model_variant_permaslug": "mistralai/mistral-small",
+        "adapter_name": "MistralAdapter",
+        "provider_name": "Mistral",
+        "provider_info": {
+          "name": "Mistral",
+          "displayName": "Mistral",
+          "slug": "mistral",
+          "baseUrl": "https://api.mistral.ai/v1",
+          "dataPolicy": {
+            "paidModels": {
+              "training": false,
+              "retainsPrompts": true,
+              "retentionDays": 30
+            },
+            "termsOfServiceURL": "https://mistral.ai/terms/#terms-of-use",
+            "privacyPolicyURL": "https://mistral.ai/terms/#privacy-policy"
+          },
+          "headquarters": "FR",
+          "hasChatCompletions": true,
+          "hasCompletions": false,
+          "isAbortable": false,
+          "moderationRequired": false,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "MistralAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.mistral.ai/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/Mistral.png"
+          },
+          "ignoredProviderModels": [
+            "mistral-moderation-2411-all",
+            "voxtral-mini-2507",
+            "voxtral-small-2507",
+            "voxtral-mini-transcribe-2507"
+          ]
+        },
+        "provider_display_name": "Mistral",
+        "provider_slug": "mistral",
+        "provider_model_id": "mistral-small-2409",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": false,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": null,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "tools",
+          "tool_choice",
+          "max_tokens",
+          "temperature",
+          "top_p",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "seed",
+          "response_format",
+          "structured_outputs"
+        ],
+        "is_byok": false,
+        "moderation_required": false,
+        "data_policy": {
+          "paidModels": {
+            "training": false,
+            "retainsPrompts": true,
+            "retentionDays": 30
+          },
+          "termsOfServiceURL": "https://mistral.ai/terms/#terms-of-use",
+          "privacyPolicyURL": "https://mistral.ai/terms/#privacy-policy",
+          "training": false,
+          "retainsPrompts": true,
+          "retentionDays": 30
+        },
+        "pricing": {
+          "prompt": "0.0000002",
+          "completion": "0.0000006",
+          "image": "0",
+          "audio": "0",
+          "request": "0",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": false,
+        "has_chat_completions": true,
+        "features": {
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          },
+          "supported_parameters": {}
+        },
+        "provider_region": null
+      },
+      "architecture": "Mistral",
+      "created": "2024-01-10T00:00:00+00:00",
+      "displayName": "Mistral Small",
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/mistral-medium",
@@ -31315,7 +30419,7 @@
       "architecture": "Mistral",
       "created": "2024-01-10T00:00:00+00:00",
       "displayName": "Mistral Medium",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "neversleep/noromaid-mixtral-8x7b-instruct",
@@ -31353,7 +30457,7 @@
       "architecture": "Mistral",
       "created": "2024-01-02T00:00:00+00:00",
       "displayName": "Noromaid Mixtral 8x7B Instruct",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct-v0.2",
@@ -31554,7 +30658,7 @@
       "architecture": "Mistral",
       "created": "2023-12-28T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct v0.2",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "cognitivecomputations/dolphin-mixtral-8x7b",
@@ -31593,7 +30697,7 @@
       "architecture": "Mistral",
       "created": "2023-12-21T00:00:00+00:00",
       "displayName": "Dolphin 2.6 Mixtral 8x7B 🐬",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "mistralai/mixtral-8x7b-instruct",
@@ -31819,7 +30923,7 @@
       "architecture": "Mistral",
       "created": "2023-12-10T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x7B Instruct",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "togethercomputer/stripedhyena-nous-7b",
@@ -31857,7 +30961,7 @@
       "architecture": "Mistral",
       "created": "2023-12-09T00:00:00+00:00",
       "displayName": "StripedHyena Nous 7B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "togethercomputer/stripedhyena-hessian-7b",
@@ -31892,7 +30996,7 @@
       "architecture": "Mistral",
       "created": "2023-12-09T00:00:00+00:00",
       "displayName": "StripedHyena Hessian 7B (base)",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "gryphe/mythomist-7b",
@@ -31930,7 +31034,7 @@
       "architecture": "Mistral",
       "created": "2023-12-07T00:00:00+00:00",
       "displayName": "MythoMist 7B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-vision-7b",
@@ -31966,7 +31070,7 @@
       "architecture": "Mistral",
       "created": "2023-12-07T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Vision 7B (alpha)",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "openrouter/cinematika-7b",
@@ -32004,7 +31108,7 @@
       "architecture": "Mistral",
       "created": "2023-12-06T00:00:00+00:00",
       "displayName": "Cinematika 7B (alpha)",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "nousresearch/nous-capybara-7b",
@@ -32042,7 +31146,7 @@
       "architecture": "Mistral",
       "created": "2023-12-05T00:00:00+00:00",
       "displayName": "Nous: Capybara 7B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "openchat/openchat-7b",
@@ -32079,7 +31183,7 @@
       "architecture": "Mistral",
       "created": "2023-11-28T00:00:00+00:00",
       "displayName": "OpenChat 3.5 7B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "intel/neural-chat-7b",
@@ -32117,77 +31221,7 @@
       "architecture": "Mistral",
       "created": "2023-11-25T00:00:00+00:00",
       "displayName": "Neural Chat 7B v3.1",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
-    },
-    {
-      "slug": "anthropic/claude-2.1",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-11-22T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude v2.1",
-      "short_name": "Claude v2.1",
-      "author": "anthropic",
-      "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
-      "model_version_group_id": null,
-      "context_length": 200000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-2.1",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Claude",
-      "created": "2023-11-22T00:00:00+00:00",
-      "displayName": "Anthropic: Claude v2.1",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
-    },
-    {
-      "slug": "anthropic/claude-2",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-11-22T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude v2",
-      "short_name": "Claude v2",
-      "author": "anthropic",
-      "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
-      "model_version_group_id": null,
-      "context_length": 200000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-2",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Claude",
-      "created": "2023-11-22T00:00:00+00:00",
-      "displayName": "Anthropic: Claude v2",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "anthropic/claude-instant-1.1",
@@ -32224,7 +31258,77 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.1",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
+    },
+    {
+      "slug": "anthropic/claude-2.1",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-11-22T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude v2.1",
+      "short_name": "Claude v2.1",
+      "author": "anthropic",
+      "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
+      "model_version_group_id": null,
+      "context_length": 200000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-2.1",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Claude",
+      "created": "2023-11-22T00:00:00+00:00",
+      "displayName": "Anthropic: Claude v2.1",
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
+    },
+    {
+      "slug": "anthropic/claude-2",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-11-22T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude v2",
+      "short_name": "Claude v2",
+      "author": "anthropic",
+      "description": "Claude 2 delivers advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and a new beta feature: tool use.",
+      "model_version_group_id": null,
+      "context_length": 200000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-2",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Claude",
+      "created": "2023-11-22T00:00:00+00:00",
+      "displayName": "Anthropic: Claude v2",
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "teknium/openhermes-2.5-mistral-7b",
@@ -32263,7 +31367,7 @@
       "architecture": "Mistral",
       "created": "2023-11-20T00:00:00+00:00",
       "displayName": "OpenHermes 2.5 Mistral 7B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "openai/gpt-4-vision-preview",
@@ -32299,7 +31403,7 @@
       "architecture": "GPT",
       "created": "2023-11-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Vision",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "undi95/toppy-m-7b",
@@ -32337,7 +31441,7 @@
       "architecture": "Mistral",
       "created": "2023-11-10T00:00:00+00:00",
       "displayName": "Toppy M 7B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "openai/gpt-4-1106-preview",
@@ -32517,7 +31621,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo (older v1106)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-1106",
@@ -32552,7 +31656,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k (older v1106)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "teknium/openhermes-2-mistral-7b",
@@ -32591,7 +31695,7 @@
       "architecture": "Mistral",
       "created": "2023-11-01T00:00:00+00:00",
       "displayName": "OpenHermes 2 Mistral 7B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "open-orca/mistral-7b-openorca",
@@ -32630,7 +31734,7 @@
       "architecture": "Mistral",
       "created": "2023-10-30T00:00:00+00:00",
       "displayName": "Mistral OpenOrca 7B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-instruct",
@@ -32815,7 +31919,7 @@
       "architecture": "GPT",
       "created": "2023-09-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo Instruct",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct-v0.1",
@@ -32989,7 +32093,7 @@
       "architecture": "Mistral",
       "created": "2023-09-28T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct v0.1",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-16k",
@@ -33168,7 +32272,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-4-32k",
@@ -33203,7 +32307,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-4-32k-0314",
@@ -33238,7 +32342,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k (older v0314)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "huggingfaceh4/zephyr-7b-beta",
@@ -33276,77 +32380,7 @@
       "architecture": "Mistral",
       "created": "2023-08-02T00:00:00+00:00",
       "displayName": "Hugging Face: Zephyr 7B",
-      "fetchedAt": "2025-08-11T08:10:19.805Z"
-    },
-    {
-      "slug": "anthropic/claude-2.0",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-07-28T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude v2.0",
-      "short_name": "Claude v2.0",
-      "author": "anthropic",
-      "description": "Anthropic's flagship model. Superior performance on tasks that require complex reasoning. Supports hundreds of pages of text.",
-      "model_version_group_id": null,
-      "context_length": 100000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-2.0",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Claude",
-      "created": "2023-07-28T00:00:00+00:00",
-      "displayName": "Anthropic: Claude v2.0",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
-    },
-    {
-      "slug": "anthropic/claude-instant-1",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2023-07-28T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Anthropic: Claude Instant v1",
-      "short_name": "Claude Instant v1",
-      "author": "anthropic",
-      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
-      "model_version_group_id": null,
-      "context_length": 100000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Claude",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "anthropic/claude-instant-1",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Claude",
-      "created": "2023-07-28T00:00:00+00:00",
-      "displayName": "Anthropic: Claude Instant v1",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:13.589Z"
     },
     {
       "slug": "anthropic/claude-1",
@@ -33383,7 +32417,42 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v1",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
+    },
+    {
+      "slug": "anthropic/claude-instant-1",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-07-28T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude Instant v1",
+      "short_name": "Claude Instant v1",
+      "author": "anthropic",
+      "description": "Anthropic's model for low-latency, high throughput text generation. Supports hundreds of pages of text.",
+      "model_version_group_id": null,
+      "context_length": 100000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-instant-1",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Claude",
+      "created": "2023-07-28T00:00:00+00:00",
+      "displayName": "Anthropic: Claude Instant v1",
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "anthropic/claude-1.2",
@@ -33420,7 +32489,42 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v1.2",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
+    },
+    {
+      "slug": "anthropic/claude-2.0",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2023-07-28T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Anthropic: Claude v2.0",
+      "short_name": "Claude v2.0",
+      "author": "anthropic",
+      "description": "Anthropic's flagship model. Superior performance on tasks that require complex reasoning. Supports hundreds of pages of text.",
+      "model_version_group_id": null,
+      "context_length": 100000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Claude",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "anthropic/claude-2.0",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Claude",
+      "created": "2023-07-28T00:00:00+00:00",
+      "displayName": "Anthropic: Claude v2.0",
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "anthropic/claude-instant-1.0",
@@ -33457,7 +32561,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.0",
-      "fetchedAt": "2025-08-11T08:10:18.899Z"
+      "fetchedAt": "2025-08-12T08:09:12.824Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo",
@@ -33636,7 +32740,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-4",
@@ -33815,7 +32919,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-4-0314",
@@ -33994,7 +33098,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 (older v0314)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0301",
@@ -34029,7 +33133,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0301)",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0125",
@@ -34064,17 +33168,17 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-08-11T08:10:18.869Z"
+      "fetchedAt": "2025-08-12T08:09:12.797Z"
     }
   ],
   "metadata": {
-    "totalModels": 238,
+    "totalModels": 233,
     "architectures": {
       "GPT": 45,
-      "Claude": 26,
+      "Claude": 21,
       "Gemini": 31
     },
-    "lastUpdated": "2025-08-11T08:10:20.409Z",
+    "lastUpdated": "2025-08-12T08:09:14.275Z",
     "errors": []
   }
 }
