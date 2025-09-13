@@ -226,7 +226,7 @@
       "architecture": "Llama",
       "created": "2025-09-02T16:46:08.407814+00:00",
       "displayName": "Cogito V2 Preview Llama 109B",
-      "fetchedAt": "2025-09-12T08:08:44.406Z"
+      "fetchedAt": "2025-09-13T08:07:52.282Z"
     },
     {
       "slug": "x-ai/grok-code-fast-1",
@@ -407,7 +407,7 @@
       "architecture": "Grok",
       "created": "2025-08-26T20:08:47+00:00",
       "displayName": "xAI: Grok Code Fast 1",
-      "fetchedAt": "2025-09-12T08:08:44.177Z"
+      "fetchedAt": "2025-09-13T08:07:52.097Z"
     },
     {
       "slug": "google/gemini-2.5-flash-image-preview",
@@ -588,7 +588,7 @@
       "architecture": "Gemini",
       "created": "2025-08-26T14:36:17+00:00",
       "displayName": "Google: Gemini 2.5 Flash Image Preview",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.859Z"
     },
     {
       "slug": "openai/gpt-4o-audio-preview",
@@ -768,7 +768,7 @@
       "architecture": "GPT",
       "created": "2025-08-15T04:44:21.353523+00:00",
       "displayName": "OpenAI: GPT-4o Audio",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "mistralai/mistral-medium-3.1",
@@ -949,7 +949,7 @@
       "architecture": "Mistral",
       "created": "2025-08-13T14:33:59.459114+00:00",
       "displayName": "Mistral: Mistral Medium 3.1",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "openai/gpt-5-chat",
@@ -1126,7 +1126,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:30:37.42514+00:00",
       "displayName": "OpenAI: GPT-5 Chat",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-5",
@@ -1308,7 +1308,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:33+00:00",
       "displayName": "OpenAI: GPT-5",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-5-mini",
@@ -1490,7 +1490,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:27+00:00",
       "displayName": "OpenAI: GPT-5 Mini",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-5-nano",
@@ -1673,7 +1673,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:22+00:00",
       "displayName": "OpenAI: GPT-5 Nano",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-oss-120b",
@@ -1839,7 +1839,7 @@
       "architecture": "GPT",
       "created": "2025-08-05T17:17:11+00:00",
       "displayName": "OpenAI: gpt-oss-120b (free)",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-oss-120b",
@@ -2008,7 +2008,7 @@
       "architecture": "GPT",
       "created": "2025-08-05T17:17:11+00:00",
       "displayName": "OpenAI: gpt-oss-120b",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-oss-20b",
@@ -2206,7 +2206,7 @@
       "architecture": "GPT",
       "created": "2025-08-05T17:17:09+00:00",
       "displayName": "OpenAI: gpt-oss-20b (free)",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-oss-20b",
@@ -2375,7 +2375,7 @@
       "architecture": "GPT",
       "created": "2025-08-05T17:17:09+00:00",
       "displayName": "OpenAI: gpt-oss-20b",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "anthropic/claude-opus-4.1",
@@ -2554,7 +2554,7 @@
       "architecture": "Claude",
       "created": "2025-08-05T16:33:11.634562+00:00",
       "displayName": "Anthropic: Claude Opus 4.1",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "mistralai/codestral-2508",
@@ -2736,7 +2736,7 @@
       "architecture": "Mistral",
       "created": "2025-08-01T20:20:30.639517+00:00",
       "displayName": "Mistral: Codestral 2508",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "google/gemini-2.5-flash-lite",
@@ -2947,7 +2947,7 @@
       "architecture": "Gemini",
       "created": "2025-07-22T16:04:36.283638+00:00",
       "displayName": "Google: Gemini 2.5 Flash Lite",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.859Z"
     },
     {
       "slug": "mistralai/devstral-medium",
@@ -3125,7 +3125,7 @@
       "architecture": "Mistral",
       "created": "2025-07-10T15:28:41.981407+00:00",
       "displayName": "Mistral: Devstral Medium",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/devstral-small",
@@ -3339,7 +3339,7 @@
       "architecture": "Mistral",
       "created": "2025-07-10T15:19:11.726916+00:00",
       "displayName": "Mistral: Devstral Small 1.1",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "x-ai/grok-4",
@@ -3526,7 +3526,7 @@
       "architecture": "Grok",
       "created": "2025-07-09T19:01:29.595463+00:00",
       "displayName": "xAI: Grok 4",
-      "fetchedAt": "2025-09-12T08:08:44.177Z"
+      "fetchedAt": "2025-09-13T08:07:52.097Z"
     },
     {
       "slug": "mistralai/mistral-small-3.2-24b-instruct",
@@ -3720,7 +3720,7 @@
       "architecture": "Mistral",
       "created": "2025-06-20T18:10:16.960494+00:00",
       "displayName": "Mistral: Mistral Small 3.2 24B (free)",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/mistral-small-3.2-24b-instruct",
@@ -3936,7 +3936,7 @@
       "architecture": "Mistral",
       "created": "2025-06-20T18:10:16.960494+00:00",
       "displayName": "Mistral: Mistral Small 3.2 24B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "google/gemini-2.5-flash-lite-preview-06-17",
@@ -4147,7 +4147,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T15:23:51.237783+00:00",
       "displayName": "Google: Gemini 2.5 Flash Lite Preview 06-17",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.859Z"
     },
     {
       "slug": "google/gemini-2.5-flash",
@@ -4358,7 +4358,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T15:01:28.103313+00:00",
       "displayName": "Google: Gemini 2.5 Flash",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.859Z"
     },
     {
       "slug": "google/gemini-2.5-pro",
@@ -4579,7 +4579,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T14:12:24+00:00",
       "displayName": "Google: Gemini 2.5 Pro",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.859Z"
     },
     {
       "slug": "openai/o3-pro",
@@ -4757,7 +4757,7 @@
       "architecture": "GPT",
       "created": "2025-06-10T23:32:32.266087+00:00",
       "displayName": "OpenAI: o3 Pro",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "x-ai/grok-3-mini",
@@ -4935,7 +4935,7 @@
       "architecture": "Grok",
       "created": "2025-06-10T19:20:45.198136+00:00",
       "displayName": "xAI: Grok 3 Mini",
-      "fetchedAt": "2025-09-12T08:08:44.177Z"
+      "fetchedAt": "2025-09-13T08:07:52.097Z"
     },
     {
       "slug": "x-ai/grok-3",
@@ -5112,7 +5112,7 @@
       "architecture": "Grok",
       "created": "2025-06-10T19:15:08.007729+00:00",
       "displayName": "xAI: Grok 3",
-      "fetchedAt": "2025-09-12T08:08:44.177Z"
+      "fetchedAt": "2025-09-13T08:07:52.097Z"
     },
     {
       "slug": "mistralai/magistral-small-2506",
@@ -5125,7 +5125,7 @@
       "author": "mistralai",
       "description": "Magistral Small is a 24B parameter instruction-tuned model based on Mistral-Small-3.1 (2503), enhanced through supervised fine-tuning on traces from Magistral Medium and further refined via reinforcement learning. It is optimized for reasoning and supports a wide multilingual range, including over 20 languages.",
       "model_version_group_id": null,
-      "context_length": 40960,
+      "context_length": 40000,
       "input_modalities": [
         "text"
       ],
@@ -5156,7 +5156,7 @@
       "endpoint": {
         "id": "e205d867-cd87-4daa-a71e-e803fa11102f",
         "name": "Mistral | mistralai/magistral-small-2506",
-        "context_length": 40960,
+        "context_length": 40000,
         "model": {
           "slug": "mistralai/magistral-small-2506",
           "hf_slug": "mistralai/Magistral-Small-2506",
@@ -5315,7 +5315,7 @@
       "architecture": "Mistral",
       "created": "2025-06-10T15:32:41.038747+00:00",
       "displayName": "Mistral: Magistral Small 2506",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/magistral-medium-2506",
@@ -5518,7 +5518,7 @@
       "architecture": "Mistral",
       "created": "2025-06-08T03:40:54.076545+00:00",
       "displayName": "Mistral: Magistral Medium 2506",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/magistral-medium-2506",
@@ -5721,7 +5721,7 @@
       "architecture": "Mistral",
       "created": "2025-06-08T03:40:54.076545+00:00",
       "displayName": "Mistral: Magistral Medium 2506 (thinking)",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview",
@@ -5942,7 +5942,7 @@
       "architecture": "Gemini",
       "created": "2025-06-05T15:27:37.538116+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview 06-05",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.859Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-7b",
@@ -5988,7 +5988,7 @@
       "architecture": "Qwen",
       "created": "2025-05-30T18:03:57.186962+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 7B",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "deepseek/deepseek-r1-0528-qwen3-8b",
@@ -6199,7 +6199,7 @@
       "architecture": "Qwen",
       "created": "2025-05-29T17:09:03.280319+00:00",
       "displayName": "DeepSeek: Deepseek R1 0528 Qwen3 8B (free)",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "deepseek/deepseek-r1-0528-qwen3-8b",
@@ -6410,7 +6410,7 @@
       "architecture": "Qwen",
       "created": "2025-05-29T17:09:03.280319+00:00",
       "displayName": "DeepSeek: Deepseek R1 0528 Qwen3 8B",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "google/gemma-2b-it",
@@ -6449,7 +6449,7 @@
       "architecture": "Gemini",
       "created": "2025-05-28T19:33:35.082388+00:00",
       "displayName": "Google: Gemma 1 2B",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "anthropic/claude-opus-4",
@@ -6627,7 +6627,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:27:25.029961+00:00",
       "displayName": "Anthropic: Claude Opus 4",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4",
@@ -6837,7 +6837,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:12:51.381897+00:00",
       "displayName": "Anthropic: Claude Sonnet 4",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "mistralai/devstral-small-2505",
@@ -7026,7 +7026,7 @@
       "architecture": "Mistral",
       "created": "2025-05-21T14:22:59.930775+00:00",
       "displayName": "Mistral: Devstral Small 2505 (free)",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/devstral-small-2505",
@@ -7215,7 +7215,7 @@
       "architecture": "Mistral",
       "created": "2025-05-21T14:22:59.930775+00:00",
       "displayName": "Mistral: Devstral Small 2505",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview-05-20",
@@ -7252,7 +7252,7 @@
       "architecture": "Gemini",
       "created": "2025-05-20T17:25:24.343372+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 05-20",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "openai/codex-mini",
@@ -7428,7 +7428,7 @@
       "architecture": "GPT",
       "created": "2025-05-16T15:36:01.081688+00:00",
       "displayName": "OpenAI: Codex Mini",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "mistralai/mistral-medium-3",
@@ -7608,7 +7608,7 @@
       "architecture": "Mistral",
       "created": "2025-05-07T14:15:41.980763+00:00",
       "displayName": "Mistral: Mistral Medium 3",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview-05-06",
@@ -7828,7 +7828,7 @@
       "architecture": "Gemini",
       "created": "2025-05-07T00:41:53+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview 05-06",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.859Z"
     },
     {
       "slug": "microsoft/phi-4-reasoning-plus",
@@ -8061,7 +8061,7 @@
       "architecture": "Phi",
       "created": "2025-05-01T20:22:41.235613+00:00",
       "displayName": "Microsoft: Phi 4 Reasoning Plus",
-      "fetchedAt": "2025-09-12T08:08:45.068Z"
+      "fetchedAt": "2025-09-13T08:07:53.075Z"
     },
     {
       "slug": "microsoft/phi-4-reasoning",
@@ -8096,7 +8096,7 @@
       "architecture": "Phi",
       "created": "2025-05-01T17:41:15.957157+00:00",
       "displayName": "Microsoft: Phi 4 Reasoning",
-      "fetchedAt": "2025-09-12T08:08:45.069Z"
+      "fetchedAt": "2025-09-13T08:07:53.075Z"
     },
     {
       "slug": "microsoft/mai-ds-r1",
@@ -8307,7 +8307,7 @@
       "architecture": "Phi",
       "created": "2025-04-21T00:08:20.257185+00:00",
       "displayName": "Microsoft: MAI DS R1 (free)",
-      "fetchedAt": "2025-09-12T08:08:45.068Z"
+      "fetchedAt": "2025-09-13T08:07:53.075Z"
     },
     {
       "slug": "microsoft/mai-ds-r1",
@@ -8518,7 +8518,7 @@
       "architecture": "Phi",
       "created": "2025-04-21T00:08:20.257185+00:00",
       "displayName": "Microsoft: MAI DS R1",
-      "fetchedAt": "2025-09-12T08:08:45.068Z"
+      "fetchedAt": "2025-09-13T08:07:53.075Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview",
@@ -8555,7 +8555,7 @@
       "architecture": "Gemini",
       "created": "2025-04-17T18:31:07.815979+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 04-17",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "openai/o3",
@@ -8734,7 +8734,7 @@
       "architecture": "GPT",
       "created": "2025-04-16T17:10:57.049467+00:00",
       "displayName": "OpenAI: o3",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/o4-mini",
@@ -8913,7 +8913,7 @@
       "architecture": "GPT",
       "created": "2025-04-16T16:29:02.980764+00:00",
       "displayName": "OpenAI: o4 Mini",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "qwen/qwen2.5-coder-7b-instruct",
@@ -8948,7 +8948,7 @@
       "architecture": "Qwen",
       "created": "2025-04-15T16:34:47.067646+00:00",
       "displayName": "Qwen: Qwen2.5 Coder 7B Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "openai/gpt-4.1",
@@ -9146,7 +9146,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:05+00:00",
       "displayName": "OpenAI: GPT-4.1",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-4.1-mini",
@@ -9344,7 +9344,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:01+00:00",
       "displayName": "OpenAI: GPT-4.1 Mini",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-4.1-nano",
@@ -9390,7 +9390,7 @@
           "name": "OpenAI: GPT-4.1 Nano",
           "short_name": "GPT-4.1 Nano",
           "author": "openai",
-          "description": "For tasks that demand low latency, GPT‑4.1 nano is the fastest and cheapest model in the GPT-4.1 series. It delivers exceptional performance at a small size with its 1 million token context window, and scores 80.1% on MMLU, 50.3% on GPQA, and 9.8% on Aider polyglot coding �� even higher than GPT‑4o mini. It’s ideal for tasks like classification or autocompletion.",
+          "description": "For tasks that demand low latency, GPT‑4.1 nano is the fastest and cheapest model in the GPT-4.1 series. It delivers exceptional performance at a small size with its 1 million token context window, and scores 80.1% on MMLU, 50.3% on GPQA, and 9.8% on Aider polyglot coding – even higher than GPT‑4o mini. It’s ideal for tasks like classification or autocompletion.",
           "model_version_group_id": null,
           "context_length": 1047576,
           "input_modalities": [
@@ -9525,7 +9525,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:22:49+00:00",
       "displayName": "OpenAI: GPT-4.1 Nano",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "x-ai/grok-3-mini-beta",
@@ -9699,7 +9699,7 @@
       "architecture": "Grok",
       "created": "2025-04-09T23:09:55.305821+00:00",
       "displayName": "xAI: Grok 3 Mini Beta",
-      "fetchedAt": "2025-09-12T08:08:44.177Z"
+      "fetchedAt": "2025-09-13T08:07:52.097Z"
     },
     {
       "slug": "x-ai/grok-3-beta",
@@ -9873,7 +9873,7 @@
       "architecture": "Grok",
       "created": "2025-04-09T23:07:48.450334+00:00",
       "displayName": "xAI: Grok 3 Beta",
-      "fetchedAt": "2025-09-12T08:08:44.178Z"
+      "fetchedAt": "2025-09-13T08:07:52.097Z"
     },
     {
       "slug": "meta-llama/llama-4-maverick",
@@ -10050,7 +10050,7 @@
       "architecture": "Llama",
       "created": "2025-04-05T19:37:02.129674+00:00",
       "displayName": "Meta: Llama 4 Maverick (free)",
-      "fetchedAt": "2025-09-12T08:08:44.406Z"
+      "fetchedAt": "2025-09-13T08:07:52.282Z"
     },
     {
       "slug": "meta-llama/llama-4-maverick",
@@ -10267,7 +10267,7 @@
       "architecture": "Llama",
       "created": "2025-04-05T19:37:02.129674+00:00",
       "displayName": "Meta: Llama 4 Maverick",
-      "fetchedAt": "2025-09-12T08:08:44.406Z"
+      "fetchedAt": "2025-09-13T08:07:52.282Z"
     },
     {
       "slug": "meta-llama/llama-4-scout",
@@ -10444,7 +10444,7 @@
       "architecture": "Llama",
       "created": "2025-04-05T19:31:59.735804+00:00",
       "displayName": "Meta: Llama 4 Scout (free)",
-      "fetchedAt": "2025-09-12T08:08:44.406Z"
+      "fetchedAt": "2025-09-13T08:07:52.282Z"
     },
     {
       "slug": "meta-llama/llama-4-scout",
@@ -10627,7 +10627,7 @@
       "architecture": "Llama",
       "created": "2025-04-05T19:31:59.735804+00:00",
       "displayName": "Meta: Llama 4 Scout",
-      "fetchedAt": "2025-09-12T08:08:44.406Z"
+      "fetchedAt": "2025-09-13T08:07:52.282Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-3b-instruct",
@@ -10663,7 +10663,7 @@
       "architecture": "Qwen",
       "created": "2025-03-26T18:42:53.41832+00:00",
       "displayName": "Qwen: Qwen2.5 VL 3B Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "google/gemini-2.5-pro-exp-03-25",
@@ -10700,7 +10700,7 @@
       "architecture": "Gemini",
       "created": "2025-03-25T17:01:39.919989+00:00",
       "displayName": "Google: Gemini 2.5 Pro Experimental",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-32b-instruct",
@@ -10870,7 +10870,7 @@
       "architecture": "Qwen",
       "created": "2025-03-24T18:10:38.542849+00:00",
       "displayName": "Qwen: Qwen2.5 VL 32B Instruct (free)",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-32b-instruct",
@@ -11059,7 +11059,7 @@
       "architecture": "Qwen",
       "created": "2025-03-24T18:10:38.542849+00:00",
       "displayName": "Qwen: Qwen2.5 VL 32B Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "openai/o1-pro",
@@ -11231,7 +11231,7 @@
       "architecture": "GPT",
       "created": "2025-03-19T22:26:51.610039+00:00",
       "displayName": "OpenAI: o1-pro",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "mistralai/mistral-small-3.1-24b-instruct",
@@ -11409,7 +11409,7 @@
       "architecture": "Mistral",
       "created": "2025-03-17T19:15:37.00423+00:00",
       "displayName": "Mistral: Mistral Small 3.1 24B (free)",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/mistral-small-3.1-24b-instruct",
@@ -11600,7 +11600,7 @@
       "architecture": "Mistral",
       "created": "2025-03-17T19:15:37.00423+00:00",
       "displayName": "Mistral: Mistral Small 3.1 24B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "google/gemma-3-1b-it",
@@ -11640,7 +11640,7 @@
       "architecture": "Gemini",
       "created": "2025-03-14T14:45:56.842499+00:00",
       "displayName": "Google: Gemma 3 1B",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -11828,7 +11828,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B (free)",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.859Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -12053,7 +12053,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.859Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -12239,7 +12239,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B (free)",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.859Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -12435,7 +12435,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.859Z"
     },
     {
       "slug": "openai/gpt-4o-mini-search-preview",
@@ -12616,7 +12616,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:22:02.718344+00:00",
       "displayName": "OpenAI: GPT-4o-mini Search Preview",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-4o-search-preview",
@@ -12797,7 +12797,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:19:09.996816+00:00",
       "displayName": "OpenAI: GPT-4o Search Preview",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -12993,7 +12993,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B (free)",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.859Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -13189,7 +13189,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "microsoft/phi-4-multimodal-instruct",
@@ -13405,7 +13405,7 @@
       "architecture": "Phi",
       "created": "2025-03-08T01:11:24.652063+00:00",
       "displayName": "Microsoft: Phi 4 Multimodal Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.068Z"
+      "fetchedAt": "2025-09-13T08:07:53.075Z"
     },
     {
       "slug": "qwen/qwq-32b",
@@ -13601,7 +13601,7 @@
       "architecture": "Qwen",
       "created": "2025-03-05T21:06:54.875499+00:00",
       "displayName": "Qwen: QwQ 32B (free)",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "qwen/qwq-32b",
@@ -13794,7 +13794,7 @@
       "architecture": "Qwen",
       "created": "2025-03-05T21:06:54.875499+00:00",
       "displayName": "Qwen: QwQ 32B",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "qwen/qwen2.5-32b-instruct",
@@ -13829,7 +13829,7 @@
       "architecture": "Qwen",
       "created": "2025-03-03T22:59:04.755619+00:00",
       "displayName": "Qwen: Qwen2.5 32B Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "openai/gpt-4.5-preview",
@@ -13865,7 +13865,7 @@
       "architecture": "GPT",
       "created": "2025-02-27T20:23:30.841555+00:00",
       "displayName": "OpenAI: GPT-4.5 (Preview)",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.446Z"
     },
     {
       "slug": "google/gemini-2.0-flash-lite-001",
@@ -14069,7 +14069,7 @@
       "architecture": "Gemini",
       "created": "2025-02-25T17:56:52.206054+00:00",
       "displayName": "Google: Gemini 2.0 Flash Lite",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -14270,7 +14270,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -14471,7 +14471,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (thinking)",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "mistralai/mistral-saba",
@@ -14649,7 +14649,178 @@
       "architecture": "Mistral",
       "created": "2025-02-17T14:40:39.116446+00:00",
       "displayName": "Mistral: Saba",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
+    },
+    {
+      "slug": "openai/o3-mini-high",
+      "hf_slug": "",
+      "updated_at": "2025-09-12T23:37:30.472717+00:00",
+      "created_at": "2025-02-12T15:03:31.504126+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: o3 Mini High",
+      "short_name": "o3 Mini High",
+      "author": "openai",
+      "description": "OpenAI o3-mini-high is the same model as [o3-mini](/openai/o3-mini) with reasoning_effort set to high. \n\no3-mini is a cost-efficient language model optimized for STEM reasoning tasks, particularly excelling in science, mathematics, and coding. The model features three adjustable reasoning effort levels and supports key developer capabilities including function calling, structured outputs, and streaming, though it does not include vision processing capabilities.\n\nThe model demonstrates significant improvements over its predecessor, with expert testers preferring its responses 56% of the time and noting a 39% reduction in major errors on complex questions. With medium reasoning effort settings, o3-mini matches the performance of the larger o1 model on challenging reasoning evaluations like AIME and GPQA, while maintaining lower latency and cost.",
+      "model_version_group_id": null,
+      "context_length": 200000,
+      "input_modalities": [
+        "text",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "openai/o3-mini-high-2025-01-31",
+      "reasoning_config": null,
+      "features": null,
+      "endpoint": {
+        "id": "4a8663f2-89f3-40e9-9b50-e4838fff0155",
+        "name": "OpenAI | openai/o3-mini-high-2025-01-31",
+        "context_length": 200000,
+        "model": {
+          "slug": "openai/o3-mini-high",
+          "hf_slug": "",
+          "updated_at": "2025-09-12T23:37:30.472717+00:00",
+          "created_at": "2025-02-12T15:03:31.504126+00:00",
+          "hf_updated_at": null,
+          "name": "OpenAI: o3 Mini High",
+          "short_name": "o3 Mini High",
+          "author": "openai",
+          "description": "OpenAI o3-mini-high is the same model as [o3-mini](/openai/o3-mini) with reasoning_effort set to high. \n\no3-mini is a cost-efficient language model optimized for STEM reasoning tasks, particularly excelling in science, mathematics, and coding. The model features three adjustable reasoning effort levels and supports key developer capabilities including function calling, structured outputs, and streaming, though it does not include vision processing capabilities.\n\nThe model demonstrates significant improvements over its predecessor, with expert testers preferring its responses 56% of the time and noting a 39% reduction in major errors on complex questions. With medium reasoning effort settings, o3-mini matches the performance of the larger o1 model on challenging reasoning evaluations like AIME and GPQA, while maintaining lower latency and cost.",
+          "model_version_group_id": null,
+          "context_length": 200000,
+          "input_modalities": [
+            "text",
+            "file"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "GPT",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "permaslug": "openai/o3-mini-high-2025-01-31",
+          "reasoning_config": null,
+          "features": null
+        },
+        "model_variant_slug": "openai/o3-mini-high",
+        "model_variant_permaslug": "openai/o3-mini-high-2025-01-31",
+        "adapter_name": "OpenAIResponsesAdapter",
+        "provider_name": "OpenAI",
+        "provider_info": {
+          "name": "OpenAI",
+          "displayName": "OpenAI",
+          "slug": "openai",
+          "baseUrl": "https://api.openai.com/v1",
+          "dataPolicy": {
+            "training": false,
+            "retainsPrompts": true,
+            "canPublish": false,
+            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "OpenAIAdapter",
+          "isMultipartSupported": true,
+          "statusPageUrl": "https://status.openai.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/OpenAI.svg",
+            "className": "invert-0 dark:invert"
+          },
+          "ignoredProviderModels": []
+        },
+        "provider_display_name": "OpenAI",
+        "provider_slug": "openai",
+        "provider_model_id": "o3-mini-2025-01-31",
+        "quantization": null,
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 100000,
+        "max_prompt_images": null,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "tools",
+          "tool_choice",
+          "seed",
+          "max_tokens",
+          "response_format",
+          "structured_outputs"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "training": false,
+          "retainsPrompts": true,
+          "canPublish": false,
+          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+          "requiresUserIDs": true
+        },
+        "pricing": {
+          "prompt": "0.0000011",
+          "completion": "0.0000044",
+          "image": "0",
+          "request": "0",
+          "input_cache_read": "0.00000055",
+          "web_search": "0",
+          "internal_reasoning": "0",
+          "image_output": "0",
+          "discount": 0
+        },
+        "variable_pricings": [],
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_file_urls": true,
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          }
+        },
+        "provider_region": null
+      },
+      "architecture": "GPT",
+      "created": "2025-02-12T15:03:31.504126+00:00",
+      "displayName": "OpenAI: o3 Mini High",
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "google/gemini-2.0-flash-001",
@@ -14838,7 +15009,7 @@
       "architecture": "Gemini",
       "created": "2025-02-05T15:30:13.144552+00:00",
       "displayName": "Google: Gemini 2.0 Flash",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "qwen/qwen-vl-plus",
@@ -15008,7 +15179,7 @@
       "architecture": "Qwen",
       "created": "2025-02-05T04:54:15.216448+00:00",
       "displayName": "Qwen: Qwen VL Plus",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "qwen/qwen-vl-max",
@@ -15178,7 +15349,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T18:25:04.223655+00:00",
       "displayName": "Qwen: Qwen VL Max",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "qwen/qwen-turbo",
@@ -15349,7 +15520,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:56:14.820636+00:00",
       "displayName": "Qwen: Qwen-Turbo",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-72b-instruct",
@@ -15525,7 +15696,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:45:11.997326+00:00",
       "displayName": "Qwen: Qwen2.5 VL 72B Instruct (free)",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-72b-instruct",
@@ -15714,7 +15885,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:45:11.997326+00:00",
       "displayName": "Qwen: Qwen2.5 VL 72B Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "qwen/qwen-plus",
@@ -15885,7 +16056,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:37:20.886831+00:00",
       "displayName": "Qwen: Qwen-Plus",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "qwen/qwen-max",
@@ -16056,12 +16227,12 @@
       "architecture": "Qwen",
       "created": "2025-02-01T09:31:29.206961+00:00",
       "displayName": "Qwen: Qwen-Max ",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "openai/o3-mini",
       "hf_slug": "",
-      "updated_at": "2025-09-02T16:51:53.345473+00:00",
+      "updated_at": "2025-09-12T23:29:54.738025+00:00",
       "created_at": "2025-01-31T19:28:41.132151+00:00",
       "hf_updated_at": null,
       "name": "OpenAI: o3 Mini",
@@ -16071,7 +16242,8 @@
       "model_version_group_id": null,
       "context_length": 200000,
       "input_modalities": [
-        "text"
+        "text",
+        "file"
       ],
       "output_modalities": [
         "text"
@@ -16094,7 +16266,7 @@
         "model": {
           "slug": "openai/o3-mini",
           "hf_slug": "",
-          "updated_at": "2025-09-02T16:51:53.345473+00:00",
+          "updated_at": "2025-09-12T23:29:54.738025+00:00",
           "created_at": "2025-01-31T19:28:41.132151+00:00",
           "hf_updated_at": null,
           "name": "OpenAI: o3 Mini",
@@ -16104,7 +16276,8 @@
           "model_version_group_id": null,
           "context_length": 200000,
           "input_modalities": [
-            "text"
+            "text",
+            "file"
           ],
           "output_modalities": [
             "text"
@@ -16225,7 +16398,7 @@
       "architecture": "GPT",
       "created": "2025-01-31T19:28:41.132151+00:00",
       "displayName": "OpenAI: o3 Mini",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "mistralai/mistral-small-24b-instruct-2501",
@@ -16411,7 +16584,7 @@
       "architecture": "Mistral",
       "created": "2025-01-30T16:43:29.33592+00:00",
       "displayName": "Mistral: Mistral Small 3 (free)",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/mistral-small-24b-instruct-2501",
@@ -16597,7 +16770,7 @@
       "architecture": "Mistral",
       "created": "2025-01-30T16:43:29.33592+00:00",
       "displayName": "Mistral: Mistral Small 3",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-32b",
@@ -16801,8 +16974,8 @@
           "privacyPolicyURL": "https://deepinfra.com/privacy"
         },
         "pricing": {
-          "prompt": "0.000000075",
-          "completion": "0.00000015",
+          "prompt": "0.00000027",
+          "completion": "0.00000027",
           "image": "0",
           "request": "0",
           "web_search": "0",
@@ -16835,7 +17008,7 @@
       "architecture": "Qwen",
       "created": "2025-01-29T23:53:50.865297+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 32B",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-14b",
@@ -17045,7 +17218,7 @@
       "architecture": "Qwen",
       "created": "2025-01-29T23:39:00.13687+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 14B (free)",
-      "fetchedAt": "2025-09-12T08:08:45.564Z"
+      "fetchedAt": "2025-09-13T08:07:53.317Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-14b",
@@ -17243,7 +17416,7 @@
       "architecture": "Qwen",
       "created": "2025-01-29T23:39:00.13687+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 14B",
-      "fetchedAt": "2025-09-12T08:08:45.565Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "mistralai/codestral-2501",
@@ -17421,7 +17594,7 @@
       "architecture": "Mistral",
       "created": "2025-01-14T22:58:42.43034+00:00",
       "displayName": "Mistral: Codestral 2501",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "microsoft/phi-4",
@@ -17589,7 +17762,7 @@
       "architecture": "Phi",
       "created": "2025-01-10T06:17:52.16346+00:00",
       "displayName": "Microsoft: Phi 4",
-      "fetchedAt": "2025-09-12T08:08:45.068Z"
+      "fetchedAt": "2025-09-13T08:07:53.075Z"
     },
     {
       "slug": "inflatebot/mn-mag-mell-r1",
@@ -17628,7 +17801,7 @@
       "architecture": "Mistral",
       "created": "2024-12-18T15:23:59.252033+00:00",
       "displayName": "Inflatebot: Mag Mell R1 12B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "openai/o1",
@@ -17801,7 +17974,7 @@
       "architecture": "GPT",
       "created": "2024-12-17T18:26:39.576639+00:00",
       "displayName": "OpenAI: o1",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "x-ai/grok-2-vision-1212",
@@ -17973,7 +18146,7 @@
       "architecture": "Grok",
       "created": "2024-12-15T04:35:38.489105+00:00",
       "displayName": "xAI: Grok 2 Vision 1212",
-      "fetchedAt": "2025-09-12T08:08:44.178Z"
+      "fetchedAt": "2025-09-13T08:07:52.097Z"
     },
     {
       "slug": "x-ai/grok-2-1212",
@@ -18145,7 +18318,7 @@
       "architecture": "Grok",
       "created": "2024-12-15T03:20:14.161318+00:00",
       "displayName": "xAI: Grok 2 1212",
-      "fetchedAt": "2025-09-12T08:08:44.178Z"
+      "fetchedAt": "2025-09-13T08:07:52.097Z"
     },
     {
       "slug": "google/gemini-2.0-flash-exp",
@@ -18343,7 +18516,7 @@
       "architecture": "Gemini",
       "created": "2024-12-11T17:18:43.999311+00:00",
       "displayName": "Google: Gemini 2.0 Flash Experimental (free)",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "amazon/nova-lite-v1",
@@ -18509,7 +18682,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:22:43.403315+00:00",
       "displayName": "Amazon: Nova Lite 1.0",
-      "fetchedAt": "2025-09-12T08:08:45.337Z"
+      "fetchedAt": "2025-09-13T08:07:53.238Z"
     },
     {
       "slug": "amazon/nova-micro-v1",
@@ -18673,7 +18846,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:20:37.90344+00:00",
       "displayName": "Amazon: Nova Micro 1.0",
-      "fetchedAt": "2025-09-12T08:08:45.337Z"
+      "fetchedAt": "2025-09-13T08:07:53.238Z"
     },
     {
       "slug": "amazon/nova-pro-v1",
@@ -18839,7 +19012,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:05:03.587216+00:00",
       "displayName": "Amazon: Nova Pro 1.0",
-      "fetchedAt": "2025-09-12T08:08:45.337Z"
+      "fetchedAt": "2025-09-13T08:07:53.238Z"
     },
     {
       "slug": "qwen/qwq-32b-preview",
@@ -19034,7 +19207,7 @@
       "architecture": "Qwen",
       "created": "2024-11-28T00:42:21.381013+00:00",
       "displayName": "Qwen: QwQ 32B Preview",
-      "fetchedAt": "2025-09-12T08:08:45.565Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "google/gemini-exp-1121",
@@ -19070,7 +19243,7 @@
       "architecture": "Gemini",
       "created": "2024-11-21T19:18:45.23737+00:00",
       "displayName": "Google: Gemini Experimental 1121",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-72b",
@@ -19109,7 +19282,7 @@
       "architecture": "Qwen",
       "created": "2024-11-21T17:36:46.956395+00:00",
       "displayName": "EVA Qwen2.5 72B",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "openai/gpt-4o-2024-11-20",
@@ -19306,7 +19479,7 @@
       "architecture": "GPT",
       "created": "2024-11-20T18:33:14.771895+00:00",
       "displayName": "OpenAI: GPT-4o (2024-11-20)",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "mistralai/mistral-large-2411",
@@ -19484,7 +19657,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T01:11:25.108028+00:00",
       "displayName": "Mistral Large 2411",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/mistral-large-2407",
@@ -19662,7 +19835,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T01:06:55.27469+00:00",
       "displayName": "Mistral Large 2407",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/pixtral-large-2411",
@@ -19842,7 +20015,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T00:49:48.873161+00:00",
       "displayName": "Mistral: Pixtral Large 2411",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "x-ai/grok-vision-beta",
@@ -19878,7 +20051,7 @@
       "architecture": "Grok",
       "created": "2024-11-19T00:37:04.585936+00:00",
       "displayName": "xAI: Grok Vision Beta",
-      "fetchedAt": "2025-09-12T08:08:44.178Z"
+      "fetchedAt": "2025-09-13T08:07:52.098Z"
     },
     {
       "slug": "google/gemini-exp-1114",
@@ -19914,7 +20087,7 @@
       "architecture": "Gemini",
       "created": "2024-11-15T23:52:20.203831+00:00",
       "displayName": "Google: Gemini Experimental 1114",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "infermatic/mn-inferor-12b",
@@ -19952,7 +20125,7 @@
       "architecture": "Mistral",
       "created": "2024-11-13T02:20:28.884947+00:00",
       "displayName": "Infermatic: Mistral Nemo Inferor 12B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "qwen/qwen-2.5-coder-32b-instruct",
@@ -20132,7 +20305,7 @@
       "architecture": "Qwen",
       "created": "2024-11-11T23:40:00.276653+00:00",
       "displayName": "Qwen2.5 Coder 32B Instruct (free)",
-      "fetchedAt": "2025-09-12T08:08:45.565Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "qwen/qwen-2.5-coder-32b-instruct",
@@ -20354,7 +20527,7 @@
       "architecture": "Qwen",
       "created": "2024-11-11T23:40:00.276653+00:00",
       "displayName": "Qwen2.5 Coder 32B Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.565Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "raifle/sorcererlm-8x22b",
@@ -20542,7 +20715,7 @@
       "architecture": "Mistral",
       "created": "2024-11-08T22:31:23.953049+00:00",
       "displayName": "SorcererLM 8x22B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-32b",
@@ -20581,7 +20754,7 @@
       "architecture": "Qwen",
       "created": "2024-11-08T22:27:27.726229+00:00",
       "displayName": "EVA Qwen2.5 32B",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "thedrummer/unslopnemo-12b",
@@ -20754,7 +20927,7 @@
       "architecture": "Mistral",
       "created": "2024-11-08T22:04:08.359811+00:00",
       "displayName": "TheDrummer: UnslopNemo 12B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku",
@@ -20928,7 +21101,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku-20241022",
@@ -21128,7 +21301,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (2024-10-22)",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -21304,7 +21477,7 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "anthracite-org/magnum-v4-72b",
@@ -21481,7 +21654,7 @@
       "architecture": "Qwen",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Magnum v4 72B",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "x-ai/grok-beta",
@@ -21516,7 +21689,7 @@
       "architecture": "Grok",
       "created": "2024-10-20T00:00:00+00:00",
       "displayName": "xAI: Grok Beta",
-      "fetchedAt": "2025-09-12T08:08:44.178Z"
+      "fetchedAt": "2025-09-13T08:07:52.098Z"
     },
     {
       "slug": "mistralai/ministral-8b",
@@ -21693,7 +21866,7 @@
       "architecture": "Mistral",
       "created": "2024-10-17T00:00:00+00:00",
       "displayName": "Mistral: Ministral 8B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/ministral-3b",
@@ -21869,7 +22042,7 @@
       "architecture": "Mistral",
       "created": "2024-10-17T00:00:00+00:00",
       "displayName": "Mistral: Ministral 3B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "qwen/qwen-2.5-7b-instruct",
@@ -22043,42 +22216,7 @@
       "architecture": "Qwen",
       "created": "2024-10-16T00:00:00+00:00",
       "displayName": "Qwen2.5 7B Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
-    },
-    {
-      "slug": "x-ai/grok-2",
-      "hf_slug": null,
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-10-12T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "xAI: Grok 2",
-      "short_name": "Grok 2",
-      "author": "x-ai",
-      "description": "Grok 2 is xAI's frontier language model with state-of-the-art reasoning capabilities, best for complex and multi-step use cases.\n\nTo use a faster version, see [Grok 2 Mini](/x-ai/grok-2-mini).\n\nFor more information, see the [launch announcement](https://x.ai/blog/grok-2).",
-      "model_version_group_id": null,
-      "context_length": 32768,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Grok",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "x-ai/grok-2",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Grok",
-      "created": "2024-10-12T00:00:00+00:00",
-      "displayName": "xAI: Grok 2",
-      "fetchedAt": "2025-09-12T08:08:44.178Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "x-ai/grok-2-mini",
@@ -22113,7 +22251,42 @@
       "architecture": "Grok",
       "created": "2024-10-12T00:00:00+00:00",
       "displayName": "xAI: Grok 2 mini",
-      "fetchedAt": "2025-09-12T08:08:44.178Z"
+      "fetchedAt": "2025-09-13T08:07:52.098Z"
+    },
+    {
+      "slug": "x-ai/grok-2",
+      "hf_slug": null,
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-10-12T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "xAI: Grok 2",
+      "short_name": "Grok 2",
+      "author": "x-ai",
+      "description": "Grok 2 is xAI's frontier language model with state-of-the-art reasoning capabilities, best for complex and multi-step use cases.\n\nTo use a faster version, see [Grok 2 Mini](/x-ai/grok-2-mini).\n\nFor more information, see the [launch announcement](https://x.ai/blog/grok-2).",
+      "model_version_group_id": null,
+      "context_length": 32768,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Grok",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "x-ai/grok-2",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Grok",
+      "created": "2024-10-12T00:00:00+00:00",
+      "displayName": "xAI: Grok 2",
+      "fetchedAt": "2025-09-13T08:07:52.098Z"
     },
     {
       "slug": "google/gemini-flash-1.5-8b",
@@ -22307,7 +22480,7 @@
       "architecture": "Gemini",
       "created": "2024-10-03T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash 8B",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "thedrummer/rocinante-12b",
@@ -22486,7 +22659,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "TheDrummer: Rocinante 12B",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "anthracite-org/magnum-v2-72b",
@@ -22676,7 +22849,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "Magnum v2 72B",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-14b",
@@ -22715,7 +22888,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "EVA Qwen2.5 14B",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "qwen/qwen-2.5-72b-instruct",
@@ -22909,7 +23082,7 @@
       "architecture": "Qwen",
       "created": "2024-09-19T00:00:00+00:00",
       "displayName": "Qwen2.5 72B Instruct (free)",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "qwen/qwen-2.5-72b-instruct",
@@ -23103,7 +23276,7 @@
       "architecture": "Qwen",
       "created": "2024-09-19T00:00:00+00:00",
       "displayName": "Qwen2.5 72B Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "openai/o1-mini",
@@ -23267,7 +23440,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-mini",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/o1-mini-2024-09-12",
@@ -23431,7 +23604,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-mini (2024-09-12)",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/o1-preview-2024-09-12",
@@ -23466,7 +23639,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview (2024-09-12)",
-      "fetchedAt": "2025-09-12T08:08:43.335Z"
+      "fetchedAt": "2025-09-13T08:07:51.446Z"
     },
     {
       "slug": "openai/o1-preview",
@@ -23501,7 +23674,7 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview",
-      "fetchedAt": "2025-09-12T08:08:43.335Z"
+      "fetchedAt": "2025-09-13T08:07:51.446Z"
     },
     {
       "slug": "mistralai/pixtral-12b",
@@ -23677,7 +23850,7 @@
       "architecture": "Mistral",
       "created": "2024-09-10T00:00:00+00:00",
       "displayName": "Mistral: Pixtral 12B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "google/gemini-flash-1.5-exp",
@@ -23713,7 +23886,7 @@
       "architecture": "Gemini",
       "created": "2024-08-28T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash Experimental",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "qwen/qwen-2.5-vl-7b-instruct",
@@ -23889,7 +24062,7 @@
       "architecture": "Qwen",
       "created": "2024-08-28T00:00:00+00:00",
       "displayName": "Qwen: Qwen2.5-VL 7B Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "microsoft/phi-3.5-mini-128k-instruct",
@@ -24060,7 +24233,7 @@
       "architecture": "Phi",
       "created": "2024-08-21T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3.5 Mini 128K Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.068Z"
+      "fetchedAt": "2025-09-13T08:07:53.075Z"
     },
     {
       "slug": "openai/chatgpt-4o-latest",
@@ -24235,7 +24408,7 @@
       "architecture": "GPT",
       "created": "2024-08-14T00:00:00+00:00",
       "displayName": "OpenAI: ChatGPT-4o",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "aetherwiing/mn-starcannon-12b",
@@ -24274,7 +24447,7 @@
       "architecture": "Mistral",
       "created": "2024-08-13T00:00:00+00:00",
       "displayName": "Aetherwiing: Starcannon 12B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "openai/gpt-4o-2024-08-06",
@@ -24470,7 +24643,7 @@
       "architecture": "GPT",
       "created": "2024-08-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-08-06)",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "nothingiisreal/mn-celeste-12b",
@@ -24509,7 +24682,7 @@
       "architecture": "Mistral",
       "created": "2024-08-02T00:00:00+00:00",
       "displayName": "Mistral Nemo 12B Celeste",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "google/gemini-pro-1.5-exp",
@@ -24545,7 +24718,7 @@
       "architecture": "Gemini",
       "created": "2024-08-01T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro Experimental",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "mistralai/mistral-nemo",
@@ -24737,7 +24910,7 @@
       "architecture": "Mistral",
       "created": "2024-07-19T00:00:00+00:00",
       "displayName": "Mistral: Mistral Nemo (free)",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/mistral-nemo",
@@ -24929,7 +25102,7 @@
       "architecture": "Mistral",
       "created": "2024-07-19T00:00:00+00:00",
       "displayName": "Mistral: Mistral Nemo",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/codestral-mamba",
@@ -24964,7 +25137,7 @@
       "architecture": "Mistral",
       "created": "2024-07-19T00:00:00+00:00",
       "displayName": "Mistral: Codestral Mamba",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "openai/gpt-4o-mini-2024-07-18",
@@ -25161,7 +25334,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini (2024-07-18)",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-4o-mini",
@@ -25358,7 +25531,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "qwen/qwen-2-7b-instruct",
@@ -25397,7 +25570,7 @@
       "architecture": "Qwen",
       "created": "2024-07-16T00:00:00+00:00",
       "displayName": "Qwen 2 7B Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "google/gemma-2-27b-it",
@@ -25570,7 +25743,7 @@
       "architecture": "Gemini",
       "created": "2024-07-13T00:00:00+00:00",
       "displayName": "Google: Gemma 2 27B",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "alpindale/magnum-72b",
@@ -25609,7 +25782,7 @@
       "architecture": "Qwen",
       "created": "2024-07-11T00:00:00+00:00",
       "displayName": "Magnum 72B",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -25803,7 +25976,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B (free)",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -25997,7 +26170,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -26173,7 +26346,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20)",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "microsoft/phi-3-medium-4k-instruct",
@@ -26211,7 +26384,7 @@
       "architecture": "Phi",
       "created": "2024-06-15T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Medium 4K Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.069Z"
+      "fetchedAt": "2025-09-13T08:07:53.075Z"
     },
     {
       "slug": "cognitivecomputations/dolphin-mixtral-8x22b",
@@ -26393,7 +26566,7 @@
       "architecture": "Mistral",
       "created": "2024-06-08T00:00:00+00:00",
       "displayName": "Dolphin 2.9.2 Mixtral 8x22B 🐬",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "qwen/qwen-2-72b-instruct",
@@ -26432,7 +26605,7 @@
       "architecture": "Qwen",
       "created": "2024-06-07T00:00:00+00:00",
       "displayName": "Qwen 2 72B Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct",
@@ -26655,7 +26828,7 @@
       "architecture": "Mistral",
       "created": "2024-05-27T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct (free)",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct",
@@ -26877,7 +27050,7 @@
       "architecture": "Mistral",
       "created": "2024-05-27T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct-v0.3",
@@ -27099,7 +27272,7 @@
       "architecture": "Mistral",
       "created": "2024-05-27T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct v0.3",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "microsoft/phi-3-mini-128k-instruct",
@@ -27270,7 +27443,7 @@
       "architecture": "Phi",
       "created": "2024-05-26T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Mini 128K Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.068Z"
+      "fetchedAt": "2025-09-13T08:07:53.075Z"
     },
     {
       "slug": "microsoft/phi-3-medium-128k-instruct",
@@ -27441,7 +27614,7 @@
       "architecture": "Phi",
       "created": "2024-05-24T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Medium 128K Instruct",
-      "fetchedAt": "2025-09-12T08:08:45.068Z"
+      "fetchedAt": "2025-09-13T08:07:53.075Z"
     },
     {
       "slug": "google/gemini-flash-1.5",
@@ -27654,7 +27827,7 @@
       "architecture": "Gemini",
       "created": "2024-05-14T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash ",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "openai/gpt-4o-2024-05-13",
@@ -27850,7 +28023,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-05-13)",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -28047,7 +28220,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -28243,46 +28416,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (extended)",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
-    },
-    {
-      "slug": "qwen/qwen-110b-chat",
-      "hf_slug": "Qwen/Qwen1.5-110B-Chat",
-      "updated_at": "2025-03-28T03:20:30.853469+00:00",
-      "created_at": "2024-05-09T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "Qwen 1.5 110B Chat",
-      "short_name": "Qwen 1.5 110B Chat",
-      "author": "qwen",
-      "description": "Qwen1.5 110B is the beta version of Qwen2, a transformer-based decoder-only language model pretrained on a large amount of data. In comparison with the previous released Qwen, the improvements include:\n\n- Significant performance improvement in human preference for chat models\n- Multilingual support of both base and chat models\n- Stable support of 32K context length for models of all sizes\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen1.5/) and [GitHub repo](https://github.com/QwenLM/Qwen1.5).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
-      "model_version_group_id": null,
-      "context_length": 32768,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "Qwen",
-      "instruct_type": "chatml",
-      "default_system": null,
-      "default_stops": [
-        "<|im_start|>",
-        "<|im_end|>",
-        "<|endoftext|>"
-      ],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "permaslug": "qwen/qwen-110b-chat",
-      "reasoning_config": null,
-      "features": {},
-      "endpoint": null,
-      "architecture": "Qwen",
-      "created": "2024-05-09T00:00:00+00:00",
-      "displayName": "Qwen 1.5 110B Chat",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "qwen/qwen-72b-chat",
@@ -28321,18 +28455,18 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 72B Chat",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
-      "slug": "qwen/qwen-32b-chat",
-      "hf_slug": "Qwen/Qwen1.5-32B-Chat",
+      "slug": "qwen/qwen-110b-chat",
+      "hf_slug": "Qwen/Qwen1.5-110B-Chat",
       "updated_at": "2025-03-28T03:20:30.853469+00:00",
       "created_at": "2024-05-09T00:00:00+00:00",
       "hf_updated_at": null,
-      "name": "Qwen 1.5 32B Chat",
-      "short_name": "Qwen 1.5 32B Chat",
+      "name": "Qwen 1.5 110B Chat",
+      "short_name": "Qwen 1.5 110B Chat",
       "author": "qwen",
-      "description": "Qwen1.5 32B is the beta version of Qwen2, a transformer-based decoder-only language model pretrained on a large amount of data. In comparison with the previous released Qwen, the improvements include:\n\n- Significant performance improvement in human preference for chat models\n- Multilingual support of both base and chat models\n- Stable support of 32K context length for models of all sizes\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen1.5/) and [GitHub repo](https://github.com/QwenLM/Qwen1.5).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
+      "description": "Qwen1.5 110B is the beta version of Qwen2, a transformer-based decoder-only language model pretrained on a large amount of data. In comparison with the previous released Qwen, the improvements include:\n\n- Significant performance improvement in human preference for chat models\n- Multilingual support of both base and chat models\n- Stable support of 32K context length for models of all sizes\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen1.5/) and [GitHub repo](https://github.com/QwenLM/Qwen1.5).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
       "model_version_group_id": null,
       "context_length": 32768,
       "input_modalities": [
@@ -28353,14 +28487,14 @@
       "hidden": false,
       "router": null,
       "warning_message": null,
-      "permaslug": "qwen/qwen-32b-chat",
+      "permaslug": "qwen/qwen-110b-chat",
       "reasoning_config": null,
       "features": {},
       "endpoint": null,
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
-      "displayName": "Qwen 1.5 32B Chat",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "displayName": "Qwen 1.5 110B Chat",
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "qwen/qwen-14b-chat",
@@ -28399,18 +28533,18 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 14B Chat",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
-      "slug": "qwen/qwen-7b-chat",
-      "hf_slug": "Qwen/Qwen1.5-7B-Chat",
+      "slug": "qwen/qwen-32b-chat",
+      "hf_slug": "Qwen/Qwen1.5-32B-Chat",
       "updated_at": "2025-03-28T03:20:30.853469+00:00",
       "created_at": "2024-05-09T00:00:00+00:00",
       "hf_updated_at": null,
-      "name": "Qwen 1.5 7B Chat",
-      "short_name": "Qwen 1.5 7B Chat",
+      "name": "Qwen 1.5 32B Chat",
+      "short_name": "Qwen 1.5 32B Chat",
       "author": "qwen",
-      "description": "Qwen1.5 7B is the beta version of Qwen2, a transformer-based decoder-only language model pretrained on a large amount of data. In comparison with the previous released Qwen, the improvements include:\n\n- Significant performance improvement in human preference for chat models\n- Multilingual support of both base and chat models\n- Stable support of 32K context length for models of all sizes\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen1.5/) and [GitHub repo](https://github.com/QwenLM/Qwen1.5).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
+      "description": "Qwen1.5 32B is the beta version of Qwen2, a transformer-based decoder-only language model pretrained on a large amount of data. In comparison with the previous released Qwen, the improvements include:\n\n- Significant performance improvement in human preference for chat models\n- Multilingual support of both base and chat models\n- Stable support of 32K context length for models of all sizes\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen1.5/) and [GitHub repo](https://github.com/QwenLM/Qwen1.5).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
       "model_version_group_id": null,
       "context_length": 32768,
       "input_modalities": [
@@ -28431,14 +28565,14 @@
       "hidden": false,
       "router": null,
       "warning_message": null,
-      "permaslug": "qwen/qwen-7b-chat",
+      "permaslug": "qwen/qwen-32b-chat",
       "reasoning_config": null,
       "features": {},
       "endpoint": null,
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
-      "displayName": "Qwen 1.5 7B Chat",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "displayName": "Qwen 1.5 32B Chat",
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "qwen/qwen-4b-chat",
@@ -28477,7 +28611,46 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 4B Chat",
-      "fetchedAt": "2025-09-12T08:08:45.566Z"
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
+    },
+    {
+      "slug": "qwen/qwen-7b-chat",
+      "hf_slug": "Qwen/Qwen1.5-7B-Chat",
+      "updated_at": "2025-03-28T03:20:30.853469+00:00",
+      "created_at": "2024-05-09T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "Qwen 1.5 7B Chat",
+      "short_name": "Qwen 1.5 7B Chat",
+      "author": "qwen",
+      "description": "Qwen1.5 7B is the beta version of Qwen2, a transformer-based decoder-only language model pretrained on a large amount of data. In comparison with the previous released Qwen, the improvements include:\n\n- Significant performance improvement in human preference for chat models\n- Multilingual support of both base and chat models\n- Stable support of 32K context length for models of all sizes\n\nFor more details, see this [blog post](https://qwenlm.github.io/blog/qwen1.5/) and [GitHub repo](https://github.com/QwenLM/Qwen1.5).\n\nUsage of this model is subject to [Tongyi Qianwen LICENSE AGREEMENT](https://huggingface.co/Qwen/Qwen1.5-110B-Chat/blob/main/LICENSE).",
+      "model_version_group_id": null,
+      "context_length": 32768,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "Qwen",
+      "instruct_type": "chatml",
+      "default_system": null,
+      "default_stops": [
+        "<|im_start|>",
+        "<|im_end|>",
+        "<|endoftext|>"
+      ],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "permaslug": "qwen/qwen-7b-chat",
+      "reasoning_config": null,
+      "features": {},
+      "endpoint": null,
+      "architecture": "Qwen",
+      "created": "2024-05-09T00:00:00+00:00",
+      "displayName": "Qwen 1.5 7B Chat",
+      "fetchedAt": "2025-09-13T08:07:53.318Z"
     },
     {
       "slug": "mistralai/mixtral-8x22b-instruct",
@@ -28666,7 +28839,7 @@
       "architecture": "Mistral",
       "created": "2024-04-17T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x22B Instruct",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "microsoft/wizardlm-2-8x22b",
@@ -28842,7 +29015,7 @@
       "architecture": "Mistral",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 8x22B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "microsoft/wizardlm-2-7b",
@@ -28880,7 +29053,7 @@
       "architecture": "Mistral",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 7B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "microsoft/wizardlm-2-8x22b",
@@ -29056,7 +29229,7 @@
       "architecture": "Phi",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 8x22B",
-      "fetchedAt": "2025-09-12T08:08:45.068Z"
+      "fetchedAt": "2025-09-13T08:07:53.075Z"
     },
     {
       "slug": "microsoft/wizardlm-2-7b",
@@ -29094,7 +29267,7 @@
       "architecture": "Phi",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 7B",
-      "fetchedAt": "2025-09-12T08:08:45.069Z"
+      "fetchedAt": "2025-09-13T08:07:53.075Z"
     },
     {
       "slug": "huggingfaceh4/zephyr-orpo-141b-a35b",
@@ -29132,7 +29305,7 @@
       "architecture": "Mistral",
       "created": "2024-04-12T00:00:00+00:00",
       "displayName": "Zephyr 141B-A35B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/mixtral-8x22b",
@@ -29171,7 +29344,7 @@
       "architecture": "Mistral",
       "created": "2024-04-10T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x22B (base)",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "openai/gpt-4-turbo",
@@ -29348,7 +29521,7 @@
       "architecture": "GPT",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "google/gemini-pro-1.5",
@@ -29557,7 +29730,7 @@
       "architecture": "Gemini",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -29730,7 +29903,7 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "anthropic/claude-3-opus",
@@ -29903,7 +30076,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Opus",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "anthropic/claude-3-sonnet",
@@ -29939,7 +30112,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Sonnet",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "mistralai/mistral-large",
@@ -30116,7 +30289,7 @@
       "architecture": "Mistral",
       "created": "2024-02-26T00:00:00+00:00",
       "displayName": "Mistral Large",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "google/gemma-7b-it",
@@ -30155,7 +30328,7 @@
       "architecture": "Gemini",
       "created": "2024-02-22T00:00:00+00:00",
       "displayName": "Google: Gemma 7B",
-      "fetchedAt": "2025-09-12T08:08:43.939Z"
+      "fetchedAt": "2025-09-13T08:07:51.860Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mistral-7b-dpo",
@@ -30194,7 +30367,7 @@
       "architecture": "Mistral",
       "created": "2024-02-21T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mistral 7B DPO",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "openai/gpt-4-turbo-preview",
@@ -30369,7 +30542,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo Preview",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0613",
@@ -30543,7 +30716,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0613)",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mixtral-8x7b-dpo",
@@ -30582,7 +30755,7 @@
       "architecture": "Mistral",
       "created": "2024-01-16T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mixtral 8x7B DPO",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mixtral-8x7b-sft",
@@ -30621,7 +30794,7 @@
       "architecture": "Mistral",
       "created": "2024-01-16T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mixtral 8x7B SFT",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/mistral-small",
@@ -30799,7 +30972,7 @@
       "architecture": "Mistral",
       "created": "2024-01-10T00:00:00+00:00",
       "displayName": "Mistral Small",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/mistral-tiny",
@@ -30977,7 +31150,7 @@
       "architecture": "Mistral",
       "created": "2024-01-10T00:00:00+00:00",
       "displayName": "Mistral Tiny",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/mistral-medium",
@@ -31012,7 +31185,7 @@
       "architecture": "Mistral",
       "created": "2024-01-10T00:00:00+00:00",
       "displayName": "Mistral Medium",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "neversleep/noromaid-mixtral-8x7b-instruct",
@@ -31050,7 +31223,7 @@
       "architecture": "Mistral",
       "created": "2024-01-02T00:00:00+00:00",
       "displayName": "Noromaid Mixtral 8x7B Instruct",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct-v0.2",
@@ -31088,7 +31261,7 @@
       "architecture": "Mistral",
       "created": "2023-12-28T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct v0.2",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "cognitivecomputations/dolphin-mixtral-8x7b",
@@ -31127,7 +31300,7 @@
       "architecture": "Mistral",
       "created": "2023-12-21T00:00:00+00:00",
       "displayName": "Dolphin 2.6 Mixtral 8x7B 🐬",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "mistralai/mixtral-8x7b-instruct",
@@ -31349,7 +31522,7 @@
       "architecture": "Mistral",
       "created": "2023-12-10T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x7B Instruct",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "togethercomputer/stripedhyena-nous-7b",
@@ -31387,7 +31560,7 @@
       "architecture": "Mistral",
       "created": "2023-12-09T00:00:00+00:00",
       "displayName": "StripedHyena Nous 7B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "togethercomputer/stripedhyena-hessian-7b",
@@ -31422,7 +31595,7 @@
       "architecture": "Mistral",
       "created": "2023-12-09T00:00:00+00:00",
       "displayName": "StripedHyena Hessian 7B (base)",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "gryphe/mythomist-7b",
@@ -31460,7 +31633,7 @@
       "architecture": "Mistral",
       "created": "2023-12-07T00:00:00+00:00",
       "displayName": "MythoMist 7B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-vision-7b",
@@ -31496,7 +31669,7 @@
       "architecture": "Mistral",
       "created": "2023-12-07T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Vision 7B (alpha)",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "openrouter/cinematika-7b",
@@ -31534,7 +31707,7 @@
       "architecture": "Mistral",
       "created": "2023-12-06T00:00:00+00:00",
       "displayName": "Cinematika 7B (alpha)",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "nousresearch/nous-capybara-7b",
@@ -31572,7 +31745,7 @@
       "architecture": "Mistral",
       "created": "2023-12-05T00:00:00+00:00",
       "displayName": "Nous: Capybara 7B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "openchat/openchat-7b",
@@ -31609,7 +31782,7 @@
       "architecture": "Mistral",
       "created": "2023-11-28T00:00:00+00:00",
       "displayName": "OpenChat 3.5 7B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "intel/neural-chat-7b",
@@ -31647,7 +31820,7 @@
       "architecture": "Mistral",
       "created": "2023-11-25T00:00:00+00:00",
       "displayName": "Neural Chat 7B v3.1",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "anthropic/claude-instant-1.1",
@@ -31684,7 +31857,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.1",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "anthropic/claude-2.1",
@@ -31719,7 +31892,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.1",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "anthropic/claude-2",
@@ -31754,7 +31927,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "teknium/openhermes-2.5-mistral-7b",
@@ -31793,7 +31966,7 @@
       "architecture": "Mistral",
       "created": "2023-11-20T00:00:00+00:00",
       "displayName": "OpenHermes 2.5 Mistral 7B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "openai/gpt-4-vision-preview",
@@ -31829,7 +32002,7 @@
       "architecture": "GPT",
       "created": "2023-11-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Vision",
-      "fetchedAt": "2025-09-12T08:08:43.335Z"
+      "fetchedAt": "2025-09-13T08:07:51.446Z"
     },
     {
       "slug": "undi95/toppy-m-7b",
@@ -31867,7 +32040,7 @@
       "architecture": "Mistral",
       "created": "2023-11-10T00:00:00+00:00",
       "displayName": "Toppy M 7B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "openai/gpt-4-1106-preview",
@@ -32043,7 +32216,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo (older v1106)",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-1106",
@@ -32078,7 +32251,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k (older v1106)",
-      "fetchedAt": "2025-09-12T08:08:43.335Z"
+      "fetchedAt": "2025-09-13T08:07:51.446Z"
     },
     {
       "slug": "teknium/openhermes-2-mistral-7b",
@@ -32117,7 +32290,7 @@
       "architecture": "Mistral",
       "created": "2023-11-01T00:00:00+00:00",
       "displayName": "OpenHermes 2 Mistral 7B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "open-orca/mistral-7b-openorca",
@@ -32156,7 +32329,7 @@
       "architecture": "Mistral",
       "created": "2023-10-30T00:00:00+00:00",
       "displayName": "Mistral OpenOrca 7B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-instruct",
@@ -32337,7 +32510,7 @@
       "architecture": "GPT",
       "created": "2023-09-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo Instruct",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.445Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct-v0.1",
@@ -32510,7 +32683,7 @@
       "architecture": "Mistral",
       "created": "2023-09-28T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct v0.1",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-16k",
@@ -32685,7 +32858,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.446Z"
     },
     {
       "slug": "openai/gpt-4-32k-0314",
@@ -32720,7 +32893,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k (older v0314)",
-      "fetchedAt": "2025-09-12T08:08:43.335Z"
+      "fetchedAt": "2025-09-13T08:07:51.446Z"
     },
     {
       "slug": "openai/gpt-4-32k",
@@ -32755,7 +32928,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k",
-      "fetchedAt": "2025-09-12T08:08:43.335Z"
+      "fetchedAt": "2025-09-13T08:07:51.446Z"
     },
     {
       "slug": "huggingfaceh4/zephyr-7b-beta",
@@ -32793,7 +32966,7 @@
       "architecture": "Mistral",
       "created": "2023-08-02T00:00:00+00:00",
       "displayName": "Hugging Face: Zephyr 7B",
-      "fetchedAt": "2025-09-12T08:08:44.885Z"
+      "fetchedAt": "2025-09-13T08:07:52.730Z"
     },
     {
       "slug": "anthropic/claude-1.2",
@@ -32830,7 +33003,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v1.2",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "anthropic/claude-instant-1",
@@ -32865,7 +33038,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "anthropic/claude-2.0",
@@ -32900,7 +33073,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.0",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "anthropic/claude-instant-1.0",
@@ -32937,7 +33110,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.0",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "anthropic/claude-1",
@@ -32974,7 +33147,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v1",
-      "fetchedAt": "2025-09-12T08:08:43.629Z"
+      "fetchedAt": "2025-09-13T08:07:51.616Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo",
@@ -33149,7 +33322,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.446Z"
     },
     {
       "slug": "openai/gpt-4-0314",
@@ -33324,7 +33497,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 (older v0314)",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.446Z"
     },
     {
       "slug": "openai/gpt-4",
@@ -33499,7 +33672,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4",
-      "fetchedAt": "2025-09-12T08:08:43.334Z"
+      "fetchedAt": "2025-09-13T08:07:51.446Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0125",
@@ -33534,7 +33707,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2025-09-12T08:08:43.335Z"
+      "fetchedAt": "2025-09-13T08:07:51.446Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0301",
@@ -33569,17 +33742,17 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0301)",
-      "fetchedAt": "2025-09-12T08:08:43.335Z"
+      "fetchedAt": "2025-09-13T08:07:51.446Z"
     }
   ],
   "metadata": {
-    "totalModels": 242,
+    "totalModels": 243,
     "architectures": {
-      "GPT": 49,
+      "GPT": 50,
       "Claude": 20,
       "Gemini": 32
     },
-    "lastUpdated": "2025-09-12T08:08:45.567Z",
+    "lastUpdated": "2025-09-13T08:07:53.320Z",
     "errors": []
   }
 }
