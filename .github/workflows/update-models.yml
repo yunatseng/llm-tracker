@@ -48,7 +48,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update LLM models data - $(date)"
-            git pull --rebase origin main
+            git pull --rebase -Xtheirs origin main
             git push
           fi
 
