@@ -275,7 +275,7 @@
       "architecture": "GPT",
       "created": "2026-03-17T11:49:47+00:00",
       "displayName": "OpenAI: GPT-5.4 Nano",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "openai/gpt-5.4-mini",
@@ -552,7 +552,7 @@
       "architecture": "GPT",
       "created": "2026-03-17T11:49:38+00:00",
       "displayName": "OpenAI: GPT-5.4 Mini",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "mistralai/mistral-small-2603",
@@ -767,7 +767,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -848,7 +850,7 @@
       "architecture": "Mistral",
       "created": "2026-03-16T21:14:45.935052+00:00",
       "displayName": "Mistral: Mistral Small 4",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "x-ai/grok-4.20-multi-agent-beta",
@@ -1157,7 +1159,7 @@
       "architecture": "Grok",
       "created": "2026-03-12T14:22:47+00:00",
       "displayName": "xAI: Grok 4.20 Multi-Agent Beta",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "x-ai/grok-4.20-beta",
@@ -1436,7 +1438,7 @@
       "architecture": "Grok",
       "created": "2026-03-12T14:22:34+00:00",
       "displayName": "xAI: Grok 4.20 Beta",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "openai/gpt-5.4-pro",
@@ -1728,7 +1730,7 @@
       "architecture": "GPT",
       "created": "2026-03-05T18:12:46+00:00",
       "displayName": "OpenAI: GPT-5.4 Pro",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "openai/gpt-5.4",
@@ -2043,7 +2045,7 @@
       "architecture": "GPT",
       "created": "2026-03-05T18:12:32+00:00",
       "displayName": "OpenAI: GPT-5.4",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "openai/gpt-5.3-chat",
@@ -2276,7 +2278,7 @@
       "architecture": "GPT",
       "created": "2026-03-03T18:54:21.454797+00:00",
       "displayName": "OpenAI: GPT-5.3 Chat",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "google/gemini-3.1-flash-lite-preview",
@@ -2618,7 +2620,7 @@
       "architecture": "Gemini",
       "created": "2026-03-03T04:37:53.564789+00:00",
       "displayName": "Google: Gemini 3.1 Flash Lite Preview",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "google/gemini-3.1-flash-image-preview",
@@ -2925,7 +2927,7 @@
       "architecture": "Gemini",
       "created": "2026-02-26T15:25:58.367817+00:00",
       "displayName": "Google: Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "google/gemini-3.1-pro-preview-customtools",
@@ -3307,7 +3309,7 @@
       "architecture": "Gemini",
       "created": "2026-02-25T18:58:43+00:00",
       "displayName": "Google: Gemini 3.1 Pro Preview Custom Tools",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "openai/gpt-5.3-codex",
@@ -3580,7 +3582,7 @@
       "architecture": "GPT",
       "created": "2026-02-24T18:52:44.481761+00:00",
       "displayName": "OpenAI: GPT-5.3-Codex",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "google/gemini-3.1-pro-preview",
@@ -3968,12 +3970,12 @@
       "architecture": "Gemini",
       "created": "2026-02-19T14:00:27+00:00",
       "displayName": "Google: Gemini 3.1 Pro Preview",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4.6",
       "hf_slug": "",
-      "updated_at": "2026-03-19T13:51:16.956243+00:00",
+      "updated_at": "2026-03-23T16:38:05.526865+00:00",
       "created_at": "2026-02-17T15:43:10.807722+00:00",
       "hf_updated_at": null,
       "name": "Anthropic: Claude Sonnet 4.6",
@@ -4021,10 +4023,10 @@
         "repetition_penalty": null
       },
       "default_order": [
-        "google-vertex",
-        "amazon-bedrock",
-        "anthropic",
         "google-vertex/us-east5",
+        "amazon-bedrock",
+        "google-vertex",
+        "anthropic",
         "azure"
       ],
       "quick_start_example_type": "reasoning",
@@ -4037,7 +4039,7 @@
         "model": {
           "slug": "anthropic/claude-sonnet-4.6",
           "hf_slug": "",
-          "updated_at": "2026-03-19T13:51:16.956243+00:00",
+          "updated_at": "2026-03-23T16:38:05.526865+00:00",
           "created_at": "2026-02-17T15:43:10.807722+00:00",
           "hf_updated_at": null,
           "name": "Anthropic: Claude Sonnet 4.6",
@@ -4085,10 +4087,10 @@
             "repetition_penalty": null
           },
           "default_order": [
-            "google-vertex",
-            "amazon-bedrock",
-            "anthropic",
             "google-vertex/us-east5",
+            "amazon-bedrock",
+            "google-vertex",
+            "anthropic",
             "azure"
           ],
           "quick_start_example_type": "reasoning",
@@ -4217,7 +4219,7 @@
       "architecture": "Claude",
       "created": "2026-02-17T15:43:10.807722+00:00",
       "displayName": "Anthropic: Claude Sonnet 4.6",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "qwen/qwen3-max-thinking",
@@ -4556,7 +4558,7 @@
       "architecture": "Qwen",
       "created": "2026-02-09T21:18:21.683315+00:00",
       "displayName": "Qwen: Qwen3 Max Thinking",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "anthropic/claude-opus-4.6",
@@ -4847,7 +4849,7 @@
       "architecture": "Claude",
       "created": "2026-02-04T15:30:50.029498+00:00",
       "displayName": "Anthropic: Claude Opus 4.6",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "qwen/qwen3-coder-next",
@@ -5066,7 +5068,7 @@
       "architecture": "Qwen",
       "created": "2026-02-04T00:15:01.820167+00:00",
       "displayName": "Qwen: Qwen3 Coder Next",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "openai/gpt-audio",
@@ -5283,7 +5285,7 @@
       "architecture": "GPT",
       "created": "2026-01-19T22:42:49.327397+00:00",
       "displayName": "OpenAI: GPT Audio",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "openai/gpt-audio-mini",
@@ -5500,7 +5502,7 @@
       "architecture": "GPT",
       "created": "2026-01-19T21:50:19.564599+00:00",
       "displayName": "OpenAI: GPT Audio Mini",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "openai/gpt-5.2-codex",
@@ -5754,7 +5756,7 @@
       "architecture": "GPT",
       "created": "2026-01-14T16:48:35.067026+00:00",
       "displayName": "OpenAI: GPT-5.2-Codex",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "google/gemini-3-flash-preview",
@@ -6109,7 +6111,7 @@
       "architecture": "Gemini",
       "created": "2025-12-17T15:57:58+00:00",
       "displayName": "Google: Gemini 3 Flash Preview",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "mistralai/mistral-small-creative",
@@ -6308,7 +6310,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -6378,7 +6382,7 @@
       "architecture": "Mistral",
       "created": "2025-12-16T18:10:53.032181+00:00",
       "displayName": "Mistral: Mistral Small Creative",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "openai/gpt-5.2-chat",
@@ -6609,7 +6613,7 @@
       "architecture": "GPT",
       "created": "2025-12-10T18:03:03.398082+00:00",
       "displayName": "OpenAI: GPT-5.2 Chat",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "openai/gpt-5.2-pro",
@@ -6884,7 +6888,7 @@
       "architecture": "GPT",
       "created": "2025-12-10T18:03:00.055991+00:00",
       "displayName": "OpenAI: GPT-5.2 Pro",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "openai/gpt-5.2",
@@ -7156,7 +7160,7 @@
       "architecture": "GPT",
       "created": "2025-12-10T18:02:55.765028+00:00",
       "displayName": "OpenAI: GPT-5.2",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "mistralai/devstral-2512",
@@ -7335,7 +7339,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -7414,7 +7420,7 @@
       "architecture": "Mistral",
       "created": "2025-12-09T13:03:39+00:00",
       "displayName": "Mistral: Devstral 2 2512",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "openai/gpt-5.1-codex-max",
@@ -7683,7 +7689,7 @@
       "architecture": "GPT",
       "created": "2025-12-04T20:08:54.10013+00:00",
       "displayName": "OpenAI: GPT-5.1-Codex-Max",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "amazon/nova-2-lite-v1",
@@ -7939,7 +7945,7 @@
       "architecture": "Nova",
       "created": "2025-12-02T17:31:12+00:00",
       "displayName": "Amazon: Nova 2 Lite",
-      "fetchedAt": "2026-03-23T08:25:57.768Z"
+      "fetchedAt": "2026-03-24T08:21:29.538Z"
     },
     {
       "slug": "mistralai/ministral-14b-2512",
@@ -8120,7 +8126,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -8200,7 +8208,7 @@
       "architecture": "Mistral",
       "created": "2025-12-02T13:22:15.851192+00:00",
       "displayName": "Mistral: Ministral 3 14B 2512",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/ministral-8b-2512",
@@ -8381,7 +8389,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -8461,7 +8471,7 @@
       "architecture": "Mistral",
       "created": "2025-12-02T13:20:54.103183+00:00",
       "displayName": "Mistral: Ministral 3 8B 2512",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/ministral-3b-2512",
@@ -8642,7 +8652,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -8722,7 +8734,7 @@
       "architecture": "Mistral",
       "created": "2025-12-02T13:19:20.726635+00:00",
       "displayName": "Mistral: Ministral 3 3B 2512",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/mistral-large-2512",
@@ -8903,7 +8915,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -8983,7 +8997,7 @@
       "architecture": "Mistral",
       "created": "2025-12-01T21:27:52.65109+00:00",
       "displayName": "Mistral: Mistral Large 3 2512",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "anthropic/claude-opus-4.5",
@@ -9229,7 +9243,7 @@
       "architecture": "Claude",
       "created": "2025-11-24T18:56:20+00:00",
       "displayName": "Anthropic: Claude Opus 4.5",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "google/gemini-3-pro-image-preview",
@@ -9554,7 +9568,7 @@
       "architecture": "Gemini",
       "created": "2025-11-20T15:49:57.064095+00:00",
       "displayName": "Google: Nano Banana Pro (Gemini 3 Pro Image Preview)",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "x-ai/grok-4.1-fast",
@@ -9800,7 +9814,7 @@
       "architecture": "Grok",
       "created": "2025-11-19T21:25:02.724692+00:00",
       "displayName": "xAI: Grok 4.1 Fast",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "google/gemini-3-pro-preview",
@@ -10217,7 +10231,7 @@
       "architecture": "Gemini",
       "created": "2025-11-18T14:04:28+00:00",
       "displayName": "Google: Gemini 3 Pro Preview",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "openai/gpt-5.1",
@@ -10497,7 +10511,7 @@
       "architecture": "GPT",
       "created": "2025-11-13T18:58:25+00:00",
       "displayName": "OpenAI: GPT-5.1",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "openai/gpt-5.1-chat",
@@ -10732,7 +10746,7 @@
       "architecture": "GPT",
       "created": "2025-11-13T18:58:22+00:00",
       "displayName": "OpenAI: GPT-5.1 Chat",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "openai/gpt-5.1-codex",
@@ -10998,7 +11012,7 @@
       "architecture": "GPT",
       "created": "2025-11-13T18:58:18+00:00",
       "displayName": "OpenAI: GPT-5.1-Codex",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "openai/gpt-5.1-codex-mini",
@@ -11257,7 +11271,7 @@
       "architecture": "GPT",
       "created": "2025-11-13T18:17:00.379348+00:00",
       "displayName": "OpenAI: GPT-5.1-Codex-Mini",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "amazon/nova-premier-v1",
@@ -11504,7 +11518,7 @@
       "architecture": "Nova",
       "created": "2025-10-31T22:38:52.074161+00:00",
       "displayName": "Amazon: Nova Premier 1.0",
-      "fetchedAt": "2026-03-23T08:25:57.768Z"
+      "fetchedAt": "2026-03-24T08:21:29.538Z"
     },
     {
       "slug": "mistralai/mistral-embed-2312",
@@ -11683,7 +11697,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -11761,7 +11777,7 @@
       "architecture": "Mistral",
       "created": "2025-10-31T21:03:42.776557+00:00",
       "displayName": "Mistral: Mistral Embed 2312",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "google/gemini-embedding-001",
@@ -12032,7 +12048,7 @@
       "architecture": "Gemini",
       "created": "2025-10-31T20:43:30.264019+00:00",
       "displayName": "Google: Gemini Embedding 001",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "mistralai/codestral-embed-2505",
@@ -12211,7 +12227,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -12289,7 +12307,7 @@
       "architecture": "Mistral",
       "created": "2025-10-30T22:47:40.42301+00:00",
       "displayName": "Mistral: Codestral Embed 2505",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/voxtral-small-24b-2507",
@@ -12470,7 +12488,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -12553,7 +12573,7 @@
       "architecture": "Mistral",
       "created": "2025-10-30T14:39:04+00:00",
       "displayName": "Mistral: Voxtral Small 24B 2507",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "openai/gpt-oss-safeguard-20b",
@@ -12795,7 +12815,7 @@
       "architecture": "GPT",
       "created": "2025-10-29T15:47:16.557286+00:00",
       "displayName": "OpenAI: gpt-oss-safeguard-20b",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "qwen/qwen3-vl-32b-instruct",
@@ -13100,7 +13120,7 @@
       "architecture": "Qwen",
       "created": "2025-10-23T14:55:32.53917+00:00",
       "displayName": "Qwen: Qwen3 VL 32B Instruct",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "openai/gpt-5-image-mini",
@@ -13353,7 +13373,7 @@
       "architecture": "GPT",
       "created": "2025-10-16T14:23:03.143259+00:00",
       "displayName": "OpenAI: GPT-5 Image Mini",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "anthropic/claude-haiku-4.5",
@@ -13620,7 +13640,7 @@
       "architecture": "Claude",
       "created": "2025-10-15T17:00:38+00:00",
       "displayName": "Anthropic: Claude Haiku 4.5",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "openai/gpt-5-image",
@@ -13890,7 +13910,7 @@
       "architecture": "GPT",
       "created": "2025-10-14T13:19:46.029021+00:00",
       "displayName": "OpenAI: GPT-5 Image",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "openai/o3-deep-research",
@@ -14132,7 +14152,7 @@
       "architecture": "GPT",
       "created": "2025-10-10T20:54:21.971349+00:00",
       "displayName": "OpenAI: o3 Deep Research",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "openai/o4-mini-deep-research",
@@ -14374,7 +14394,7 @@
       "architecture": "GPT",
       "created": "2025-10-10T20:54:02.725273+00:00",
       "displayName": "OpenAI: o4 Mini Deep Research",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.166Z"
     },
     {
       "slug": "google/gemini-2.5-flash-image",
@@ -14674,7 +14694,7 @@
       "architecture": "Gemini",
       "created": "2025-10-07T20:53:51+00:00",
       "displayName": "Google: Nano Banana (Gemini 2.5 Flash Image)",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "openai/gpt-5-pro",
@@ -14945,7 +14965,7 @@
       "architecture": "GPT",
       "created": "2025-10-06T18:51:03.215373+00:00",
       "displayName": "OpenAI: GPT-5 Pro",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4.5",
@@ -15300,7 +15320,7 @@
       "architecture": "Claude",
       "created": "2025-09-29T16:01:16.552976+00:00",
       "displayName": "Anthropic: Claude Sonnet 4.5",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "google/gemini-2.5-flash-preview-09-2025",
@@ -15362,7 +15382,7 @@
       "architecture": "Gemini",
       "created": "2025-09-25T17:09:38.646963+00:00",
       "displayName": "Google: Gemini 2.5 Flash Preview 09-2025",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "google/gemini-2.5-flash-lite-preview-09-2025",
@@ -15670,7 +15690,7 @@
       "architecture": "Gemini",
       "created": "2025-09-25T17:01:26.198818+00:00",
       "displayName": "Google: Gemini 2.5 Flash Lite Preview 09-2025",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "openai/gpt-5-codex",
@@ -15904,7 +15924,7 @@
       "architecture": "GPT",
       "created": "2025-09-23T16:03:23.098042+00:00",
       "displayName": "OpenAI: GPT-5 Codex",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "x-ai/grok-4-fast",
@@ -16155,7 +16175,7 @@
       "architecture": "Grok",
       "created": "2025-09-19T00:01:30.267569+00:00",
       "displayName": "xAI: Grok 4 Fast",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "deepcogito/cogito-v2-preview-llama-109b-moe",
@@ -16209,7 +16229,7 @@
       "architecture": "Llama",
       "created": "2025-09-02T16:46:08.407814+00:00",
       "displayName": "Cogito V2 Preview Llama 109B",
-      "fetchedAt": "2026-03-23T08:25:56.908Z"
+      "fetchedAt": "2026-03-24T08:21:28.383Z"
     },
     {
       "slug": "x-ai/grok-code-fast-1",
@@ -16440,7 +16460,7 @@
       "architecture": "Grok",
       "created": "2025-08-26T20:08:47+00:00",
       "displayName": "xAI: Grok Code Fast 1",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "google/gemini-2.5-flash-image-preview",
@@ -16502,7 +16522,7 @@
       "architecture": "Gemini",
       "created": "2025-08-26T14:36:17+00:00",
       "displayName": "Google: Gemini 2.5 Flash Image Preview (Nano Banana)",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "openai/gpt-4o-audio-preview",
@@ -16739,7 +16759,7 @@
       "architecture": "GPT",
       "created": "2025-08-15T04:44:21.353523+00:00",
       "displayName": "OpenAI: GPT-4o Audio",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "mistralai/mistral-medium-3.1",
@@ -16914,7 +16934,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -16995,7 +17017,7 @@
       "architecture": "Mistral",
       "created": "2025-08-13T14:33:59.459114+00:00",
       "displayName": "Mistral: Mistral Medium 3.1",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "openai/gpt-5-chat",
@@ -17218,7 +17240,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:30:37.42514+00:00",
       "displayName": "OpenAI: GPT-5 Chat",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-5",
@@ -17514,7 +17536,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:33+00:00",
       "displayName": "OpenAI: GPT-5",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-5-mini",
@@ -17790,7 +17812,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:27+00:00",
       "displayName": "OpenAI: GPT-5 Mini",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-5-nano",
@@ -18066,7 +18088,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:22+00:00",
       "displayName": "OpenAI: GPT-5 Nano",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-oss-120b",
@@ -18326,7 +18348,7 @@
       "architecture": "GPT",
       "created": "2025-08-05T17:17:11+00:00",
       "displayName": "OpenAI: gpt-oss-120b (free)",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-oss-120b",
@@ -18657,7 +18679,7 @@
       "architecture": "GPT",
       "created": "2025-08-05T17:17:11+00:00",
       "displayName": "OpenAI: gpt-oss-120b",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-oss-20b",
@@ -18925,7 +18947,7 @@
       "architecture": "GPT",
       "created": "2025-08-05T17:17:09+00:00",
       "displayName": "OpenAI: gpt-oss-20b (free)",
-      "fetchedAt": "2026-03-23T08:25:56.040Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-oss-20b",
@@ -19187,7 +19209,7 @@
       "architecture": "GPT",
       "created": "2025-08-05T17:17:09+00:00",
       "displayName": "OpenAI: gpt-oss-20b",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "anthropic/claude-opus-4.1",
@@ -19451,7 +19473,7 @@
       "architecture": "Claude",
       "created": "2025-08-05T16:33:11.634562+00:00",
       "displayName": "Anthropic: Claude Opus 4.1",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "mistralai/codestral-2508",
@@ -19624,7 +19646,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -19708,7 +19732,7 @@
       "architecture": "Mistral",
       "created": "2025-08-01T20:20:30.639517+00:00",
       "displayName": "Mistral: Codestral 2508",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "google/gemini-2.5-flash-lite",
@@ -20019,7 +20043,7 @@
       "architecture": "Gemini",
       "created": "2025-07-22T16:04:36.283638+00:00",
       "displayName": "Google: Gemini 2.5 Flash Lite",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "mistralai/devstral-medium",
@@ -20192,7 +20216,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -20272,7 +20298,7 @@
       "architecture": "Mistral",
       "created": "2025-07-10T15:28:41.981407+00:00",
       "displayName": "Mistral: Devstral Medium",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/devstral-small",
@@ -20445,7 +20471,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -20525,7 +20553,7 @@
       "architecture": "Mistral",
       "created": "2025-07-10T15:19:11.726916+00:00",
       "displayName": "Mistral: Devstral Small 1.1",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "x-ai/grok-4",
@@ -20796,7 +20824,7 @@
       "architecture": "Grok",
       "created": "2025-07-09T19:01:29.595463+00:00",
       "displayName": "xAI: Grok 4",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "mistralai/mistral-small-3.2-24b-instruct",
@@ -21067,7 +21095,7 @@
       "architecture": "Mistral",
       "created": "2025-06-20T18:10:16.960494+00:00",
       "displayName": "Mistral: Mistral Small 3.2 24B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "google/gemini-2.5-flash",
@@ -21378,7 +21406,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T15:01:28.103313+00:00",
       "displayName": "Google: Gemini 2.5 Flash",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "google/gemini-2.5-pro",
@@ -21777,7 +21805,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T14:12:24+00:00",
       "displayName": "Google: Gemini 2.5 Pro",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "openai/o3-pro",
@@ -22010,7 +22038,7 @@
       "architecture": "GPT",
       "created": "2025-06-10T23:32:32.266087+00:00",
       "displayName": "OpenAI: o3 Pro",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "x-ai/grok-3-mini",
@@ -22288,7 +22316,7 @@
       "architecture": "Grok",
       "created": "2025-06-10T19:20:45.198136+00:00",
       "displayName": "xAI: Grok 3 Mini",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "x-ai/grok-3",
@@ -22511,7 +22539,7 @@
       "architecture": "Grok",
       "created": "2025-06-10T19:15:08.007729+00:00",
       "displayName": "xAI: Grok 3",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "mistralai/magistral-small-2506",
@@ -22566,7 +22594,7 @@
       "architecture": "Mistral",
       "created": "2025-06-10T15:32:41.038747+00:00",
       "displayName": "Mistral: Magistral Small 2506",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/magistral-medium-2506",
@@ -22621,7 +22649,7 @@
       "architecture": "Mistral",
       "created": "2025-06-08T03:40:54.076545+00:00",
       "displayName": "Mistral: Magistral Medium 2506",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview",
@@ -22986,7 +23014,7 @@
       "architecture": "Gemini",
       "created": "2025-06-05T15:27:37.538116+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview 06-05",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-7b",
@@ -23040,7 +23068,7 @@
       "architecture": "Qwen",
       "created": "2025-05-30T18:03:57.186962+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 7B",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "deepseek/deepseek-r1-0528-qwen3-8b",
@@ -23100,7 +23128,7 @@
       "architecture": "Qwen",
       "created": "2025-05-29T17:09:03.280319+00:00",
       "displayName": "DeepSeek: DeepSeek R1 0528 Qwen3 8B",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "google/gemma-2b-it",
@@ -23147,7 +23175,7 @@
       "architecture": "Gemini",
       "created": "2025-05-28T19:33:35.082388+00:00",
       "displayName": "Google: Gemma 1 2B",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "anthropic/claude-opus-4",
@@ -23410,7 +23438,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:27:25.029961+00:00",
       "displayName": "Anthropic: Claude Opus 4",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4",
@@ -23723,7 +23751,7 @@
       "architecture": "Claude",
       "created": "2025-05-22T16:12:51.381897+00:00",
       "displayName": "Anthropic: Claude Sonnet 4",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "mistralai/devstral-small-2505",
@@ -23778,7 +23806,7 @@
       "architecture": "Mistral",
       "created": "2025-05-21T14:22:59.930775+00:00",
       "displayName": "Mistral: Devstral Small 2505",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "openai/codex-mini",
@@ -23822,7 +23850,7 @@
       "architecture": "GPT",
       "created": "2025-05-16T15:36:01.081688+00:00",
       "displayName": "OpenAI: Codex Mini",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "mistralai/mistral-medium-3",
@@ -23977,7 +24005,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -24057,7 +24087,7 @@
       "architecture": "Mistral",
       "created": "2025-05-07T14:15:41.980763+00:00",
       "displayName": "Mistral: Mistral Medium 3",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "google/gemini-2.5-pro-preview-05-06",
@@ -24434,7 +24464,7 @@
       "architecture": "Gemini",
       "created": "2025-05-07T00:41:53+00:00",
       "displayName": "Google: Gemini 2.5 Pro Preview 05-06",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.622Z"
     },
     {
       "slug": "microsoft/phi-4-reasoning-plus",
@@ -24485,7 +24515,7 @@
       "architecture": "Phi",
       "created": "2025-05-01T20:22:41.235613+00:00",
       "displayName": "Microsoft: Phi 4 Reasoning Plus",
-      "fetchedAt": "2026-03-23T08:25:57.466Z"
+      "fetchedAt": "2026-03-24T08:21:28.985Z"
     },
     {
       "slug": "microsoft/phi-4-reasoning",
@@ -24528,7 +24558,7 @@
       "architecture": "Phi",
       "created": "2025-05-01T17:41:15.957157+00:00",
       "displayName": "Microsoft: Phi 4 Reasoning",
-      "fetchedAt": "2026-03-23T08:25:57.466Z"
+      "fetchedAt": "2026-03-24T08:21:28.985Z"
     },
     {
       "slug": "microsoft/mai-ds-r1",
@@ -24582,7 +24612,7 @@
       "architecture": "Phi",
       "created": "2025-04-21T00:08:20.257185+00:00",
       "displayName": "Microsoft: MAI DS R1",
-      "fetchedAt": "2026-03-23T08:25:57.466Z"
+      "fetchedAt": "2026-03-24T08:21:28.985Z"
     },
     {
       "slug": "openai/o4-mini-high",
@@ -24837,7 +24867,7 @@
       "architecture": "GPT",
       "created": "2025-04-16T17:23:32.042157+00:00",
       "displayName": "OpenAI: o4 Mini High",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/o3",
@@ -25062,7 +25092,7 @@
       "architecture": "GPT",
       "created": "2025-04-16T17:10:57.049467+00:00",
       "displayName": "OpenAI: o3",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/o4-mini",
@@ -25287,7 +25317,7 @@
       "architecture": "GPT",
       "created": "2025-04-16T16:29:02.980764+00:00",
       "displayName": "OpenAI: o4 Mini",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "qwen/qwen2.5-coder-7b-instruct",
@@ -25493,7 +25523,7 @@
       "architecture": "Qwen",
       "created": "2025-04-15T16:34:47.067646+00:00",
       "displayName": "Qwen: Qwen2.5 Coder 7B Instruct",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "openai/gpt-4.1",
@@ -25710,7 +25740,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:05+00:00",
       "displayName": "OpenAI: GPT-4.1",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-4.1-mini",
@@ -25927,7 +25957,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:01+00:00",
       "displayName": "OpenAI: GPT-4.1 Mini",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-4.1-nano",
@@ -26128,7 +26158,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:22:49+00:00",
       "displayName": "OpenAI: GPT-4.1 Nano",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "x-ai/grok-3-mini-beta",
@@ -26382,7 +26412,7 @@
       "architecture": "Grok",
       "created": "2025-04-09T23:09:55.305821+00:00",
       "displayName": "xAI: Grok 3 Mini Beta",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "x-ai/grok-3-beta",
@@ -26586,7 +26616,7 @@
       "architecture": "Grok",
       "created": "2025-04-09T23:07:48.450334+00:00",
       "displayName": "xAI: Grok 3 Beta",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "meta-llama/llama-4-maverick",
@@ -26858,7 +26888,7 @@
       "architecture": "Llama",
       "created": "2025-04-05T19:37:02.129674+00:00",
       "displayName": "Meta: Llama 4 Maverick",
-      "fetchedAt": "2026-03-23T08:25:56.908Z"
+      "fetchedAt": "2026-03-24T08:21:28.383Z"
     },
     {
       "slug": "meta-llama/llama-4-scout",
@@ -27126,7 +27156,7 @@
       "architecture": "Llama",
       "created": "2025-04-05T19:31:59.735804+00:00",
       "displayName": "Meta: Llama 4 Scout",
-      "fetchedAt": "2026-03-23T08:25:56.908Z"
+      "fetchedAt": "2026-03-24T08:21:28.383Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-3b-instruct",
@@ -27170,7 +27200,7 @@
       "architecture": "Qwen",
       "created": "2025-03-26T18:42:53.41832+00:00",
       "displayName": "Qwen: Qwen2.5 VL 3B Instruct",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "google/gemini-2.5-pro-exp-03-25",
@@ -27223,7 +27253,7 @@
       "architecture": "Gemini",
       "created": "2025-03-25T17:01:39.919989+00:00",
       "displayName": "Google: Gemini 2.5 Pro Experimental",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-32b-instruct",
@@ -27494,7 +27524,7 @@
       "architecture": "Qwen",
       "created": "2025-03-24T18:10:38.542849+00:00",
       "displayName": "Qwen: Qwen2.5 VL 32B Instruct",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "openai/o1-pro",
@@ -27708,7 +27738,7 @@
       "architecture": "GPT",
       "created": "2025-03-19T22:26:51.610039+00:00",
       "displayName": "OpenAI: o1-pro",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "mistralai/mistral-small-3.1-24b-instruct",
@@ -27955,7 +27985,7 @@
       "architecture": "Mistral",
       "created": "2025-03-17T19:15:37.00423+00:00",
       "displayName": "Mistral: Mistral Small 3.1 24B (free)",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/mistral-small-3.1-24b-instruct",
@@ -28172,7 +28202,7 @@
       "architecture": "Mistral",
       "created": "2025-03-17T19:15:37.00423+00:00",
       "displayName": "Mistral: Mistral Small 3.1 24B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "google/gemma-3-1b-it",
@@ -28220,7 +28250,7 @@
       "architecture": "Gemini",
       "created": "2025-03-14T14:45:56.842499+00:00",
       "displayName": "Google: Gemma 3 1B",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -28473,7 +28503,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B (free)",
-      "fetchedAt": "2026-03-23T08:25:56.494Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "google/gemma-3-4b-it",
@@ -28749,7 +28779,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T22:38:30.653142+00:00",
       "displayName": "Google: Gemma 3 4B",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -29001,7 +29031,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B (free)",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "google/gemma-3-12b-it",
@@ -29277,7 +29307,7 @@
       "architecture": "Gemini",
       "created": "2025-03-13T21:50:25.140801+00:00",
       "displayName": "Google: Gemma 3 12B",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "openai/gpt-4o-mini-search-preview",
@@ -29482,7 +29512,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:22:02.718344+00:00",
       "displayName": "OpenAI: GPT-4o-mini Search Preview",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-4o-search-preview",
@@ -29687,7 +29717,7 @@
       "architecture": "GPT",
       "created": "2025-03-12T22:19:09.996816+00:00",
       "displayName": "OpenAI: GPT-4o Search Preview",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -29971,7 +30001,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B (free)",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "google/gemma-3-27b-it",
@@ -30277,7 +30307,7 @@
       "architecture": "Gemini",
       "created": "2025-03-12T05:12:39.645813+00:00",
       "displayName": "Google: Gemma 3 27B",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "microsoft/phi-4-multimodal-instruct",
@@ -30321,7 +30351,7 @@
       "architecture": "Phi",
       "created": "2025-03-08T01:11:24.652063+00:00",
       "displayName": "Microsoft: Phi 4 Multimodal Instruct",
-      "fetchedAt": "2026-03-23T08:25:57.466Z"
+      "fetchedAt": "2026-03-24T08:21:28.985Z"
     },
     {
       "slug": "qwen/qwq-32b",
@@ -30538,7 +30568,7 @@
       "architecture": "Qwen",
       "created": "2025-03-05T21:06:54.875499+00:00",
       "displayName": "Qwen: QwQ 32B",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "qwen/qwen2.5-32b-instruct",
@@ -30581,7 +30611,7 @@
       "architecture": "Qwen",
       "created": "2025-03-03T22:59:04.755619+00:00",
       "displayName": "Qwen: Qwen2.5 32B Instruct",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "openai/gpt-4.5-preview",
@@ -30625,7 +30655,7 @@
       "architecture": "GPT",
       "created": "2025-02-27T20:23:30.841555+00:00",
       "displayName": "OpenAI: GPT-4.5 (Preview)",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "google/gemini-2.0-flash-lite-001",
@@ -30917,7 +30947,7 @@
       "architecture": "Gemini",
       "created": "2025-02-25T17:56:52.206054+00:00",
       "displayName": "Google: Gemini 2.0 Flash Lite",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -31207,7 +31237,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "anthropic/claude-3.7-sonnet",
@@ -31497,7 +31527,7 @@
       "architecture": "Claude",
       "created": "2025-02-24T18:35:10.00008+00:00",
       "displayName": "Anthropic: Claude 3.7 Sonnet (thinking)",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "mistralai/mistral-saba",
@@ -31650,7 +31680,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -31730,7 +31762,7 @@
       "architecture": "Mistral",
       "created": "2025-02-17T14:40:39.116446+00:00",
       "displayName": "Mistral: Saba",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "cognitivecomputations/dolphin3.0-r1-mistral-24b",
@@ -31791,7 +31823,7 @@
       "architecture": "Mistral",
       "created": "2025-02-13T16:01:38.017763+00:00",
       "displayName": "Dolphin3.0 R1 Mistral 24B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "cognitivecomputations/dolphin3.0-mistral-24b",
@@ -31849,7 +31881,7 @@
       "architecture": "Mistral",
       "created": "2025-02-13T15:53:39.941479+00:00",
       "displayName": "Dolphin3.0 Mistral 24B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "openai/o3-mini-high",
@@ -32111,7 +32143,7 @@
       "architecture": "GPT",
       "created": "2025-02-12T15:03:31.504126+00:00",
       "displayName": "OpenAI: o3 Mini High",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "google/gemini-2.0-flash-001",
@@ -32411,7 +32443,7 @@
       "architecture": "Gemini",
       "created": "2025-02-05T15:30:13.144552+00:00",
       "displayName": "Google: Gemini 2.0 Flash",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "qwen/qwen-vl-plus",
@@ -32680,7 +32712,7 @@
       "architecture": "Qwen",
       "created": "2025-02-05T04:54:15.216448+00:00",
       "displayName": "Qwen: Qwen VL Plus",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "qwen/qwen-vl-max",
@@ -32977,7 +33009,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T18:25:04.223655+00:00",
       "displayName": "Qwen: Qwen VL Max",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "qwen/qwen-turbo",
@@ -33246,7 +33278,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:56:14.820636+00:00",
       "displayName": "Qwen: Qwen-Turbo",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-72b-instruct",
@@ -33457,7 +33489,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:45:11.997326+00:00",
       "displayName": "Qwen: Qwen2.5 VL 72B Instruct",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "qwen/qwen-plus",
@@ -33764,7 +33796,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:37:20.886831+00:00",
       "displayName": "Qwen: Qwen-Plus",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "qwen/qwen-max",
@@ -34033,7 +34065,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T09:31:29.206961+00:00",
       "displayName": "Qwen: Qwen-Max ",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "openai/o3-mini",
@@ -34265,7 +34297,7 @@
       "architecture": "GPT",
       "created": "2025-01-31T19:28:41.132151+00:00",
       "displayName": "OpenAI: o3 Mini",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "mistralai/mistral-small-24b-instruct-2501",
@@ -34560,7 +34592,7 @@
       "architecture": "Mistral",
       "created": "2025-01-30T16:43:29.33592+00:00",
       "displayName": "Mistral: Mistral Small 3",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-32b",
@@ -34778,7 +34810,7 @@
       "architecture": "Qwen",
       "created": "2025-01-29T23:53:50.865297+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 32B",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "deepseek/deepseek-r1-distill-qwen-14b",
@@ -34832,7 +34864,7 @@
       "architecture": "Qwen",
       "created": "2025-01-29T23:39:00.13687+00:00",
       "displayName": "DeepSeek: R1 Distill Qwen 14B",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "mistralai/codestral-2501",
@@ -34877,7 +34909,7 @@
       "architecture": "Mistral",
       "created": "2025-01-14T22:58:42.43034+00:00",
       "displayName": "Mistral: Codestral 2501",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "microsoft/phi-4",
@@ -35070,7 +35102,7 @@
       "architecture": "Phi",
       "created": "2025-01-10T06:17:52.16346+00:00",
       "displayName": "Microsoft: Phi 4",
-      "fetchedAt": "2026-03-23T08:25:57.466Z"
+      "fetchedAt": "2026-03-24T08:21:28.985Z"
     },
     {
       "slug": "inflatebot/mn-mag-mell-r1",
@@ -35117,7 +35149,7 @@
       "architecture": "Mistral",
       "created": "2024-12-18T15:23:59.252033+00:00",
       "displayName": "Inflatebot: Mag Mell R1 12B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "openai/o1",
@@ -35351,7 +35383,7 @@
       "architecture": "GPT",
       "created": "2024-12-17T18:26:39.576639+00:00",
       "displayName": "OpenAI: o1",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "x-ai/grok-2-vision-1212",
@@ -35395,7 +35427,7 @@
       "architecture": "Grok",
       "created": "2024-12-15T04:35:38.489105+00:00",
       "displayName": "xAI: Grok 2 Vision 1212",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "x-ai/grok-2-1212",
@@ -35438,7 +35470,7 @@
       "architecture": "Grok",
       "created": "2024-12-15T03:20:14.161318+00:00",
       "displayName": "xAI: Grok 2 1212",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "google/gemini-2.0-flash-exp",
@@ -35482,7 +35514,7 @@
       "architecture": "Gemini",
       "created": "2024-12-11T17:18:43.999311+00:00",
       "displayName": "Google: Gemini 2.0 Flash Experimental",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "amazon/nova-lite-v1",
@@ -35696,7 +35728,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:22:43.403315+00:00",
       "displayName": "Amazon: Nova Lite 1.0",
-      "fetchedAt": "2026-03-23T08:25:57.768Z"
+      "fetchedAt": "2026-03-24T08:21:29.538Z"
     },
     {
       "slug": "amazon/nova-micro-v1",
@@ -35908,7 +35940,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:20:37.90344+00:00",
       "displayName": "Amazon: Nova Micro 1.0",
-      "fetchedAt": "2026-03-23T08:25:57.768Z"
+      "fetchedAt": "2026-03-24T08:21:29.538Z"
     },
     {
       "slug": "amazon/nova-pro-v1",
@@ -36122,7 +36154,7 @@
       "architecture": "Nova",
       "created": "2024-12-05T22:05:03.587216+00:00",
       "displayName": "Amazon: Nova Pro 1.0",
-      "fetchedAt": "2026-03-23T08:25:57.768Z"
+      "fetchedAt": "2026-03-24T08:21:29.538Z"
     },
     {
       "slug": "qwen/qwq-32b-preview",
@@ -36176,7 +36208,7 @@
       "architecture": "Qwen",
       "created": "2024-11-28T00:42:21.381013+00:00",
       "displayName": "Qwen: QwQ 32B Preview",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "google/gemini-exp-1121",
@@ -36220,7 +36252,7 @@
       "architecture": "Gemini",
       "created": "2024-11-21T19:18:45.23737+00:00",
       "displayName": "Google: Gemini Experimental 1121",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-72b",
@@ -36267,7 +36299,7 @@
       "architecture": "Qwen",
       "created": "2024-11-21T17:36:46.956395+00:00",
       "displayName": "EVA Qwen2.5 72B",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "openai/gpt-4o-2024-11-20",
@@ -36487,7 +36519,7 @@
       "architecture": "GPT",
       "created": "2024-11-20T18:33:14.771895+00:00",
       "displayName": "OpenAI: GPT-4o (2024-11-20)",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "mistralai/mistral-large-2411",
@@ -36640,7 +36672,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -36720,7 +36754,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T01:11:25.108028+00:00",
       "displayName": "Mistral Large 2411",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/mistral-large-2407",
@@ -36873,7 +36907,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -36953,7 +36989,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T01:06:55.27469+00:00",
       "displayName": "Mistral Large 2407",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/pixtral-large-2411",
@@ -37108,7 +37144,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -37188,7 +37226,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T00:49:48.873161+00:00",
       "displayName": "Mistral: Pixtral Large 2411",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "x-ai/grok-vision-beta",
@@ -37232,7 +37270,7 @@
       "architecture": "Grok",
       "created": "2024-11-19T00:37:04.585936+00:00",
       "displayName": "xAI: Grok Vision Beta",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "google/gemini-exp-1114",
@@ -37276,7 +37314,7 @@
       "architecture": "Gemini",
       "created": "2024-11-15T23:52:20.203831+00:00",
       "displayName": "Google: Gemini Experimental 1114",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "infermatic/mn-inferor-12b",
@@ -37322,7 +37360,7 @@
       "architecture": "Mistral",
       "created": "2024-11-13T02:20:28.884947+00:00",
       "displayName": "Infermatic: Mistral Nemo Inferor 12B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "qwen/qwen-2.5-coder-32b-instruct",
@@ -37529,7 +37567,7 @@
       "architecture": "Qwen",
       "created": "2024-11-11T23:40:00.276653+00:00",
       "displayName": "Qwen2.5 Coder 32B Instruct",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "raifle/sorcererlm-8x22b",
@@ -37575,7 +37613,7 @@
       "architecture": "Mistral",
       "created": "2024-11-08T22:31:23.953049+00:00",
       "displayName": "SorcererLM 8x22B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-32b",
@@ -37622,7 +37660,7 @@
       "architecture": "Qwen",
       "created": "2024-11-08T22:27:27.726229+00:00",
       "displayName": "EVA Qwen2.5 32B",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "thedrummer/unslopnemo-12b",
@@ -37822,7 +37860,7 @@
       "architecture": "Mistral",
       "created": "2024-11-08T22:04:08.359811+00:00",
       "displayName": "TheDrummer: UnslopNemo 12B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku",
@@ -38082,7 +38120,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "anthropic/claude-3.5-haiku-20241022",
@@ -38137,7 +38175,7 @@
       "architecture": "Claude",
       "created": "2024-11-04T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Haiku (2024-10-22)",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet",
@@ -38379,7 +38417,7 @@
       "architecture": "Claude",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "anthracite-org/magnum-v4-72b",
@@ -38590,7 +38628,7 @@
       "architecture": "Qwen",
       "created": "2024-10-22T00:00:00+00:00",
       "displayName": "Magnum v4 72B",
-      "fetchedAt": "2026-03-23T08:25:58.009Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "x-ai/grok-beta",
@@ -38633,7 +38671,7 @@
       "architecture": "Grok",
       "created": "2024-10-20T00:00:00+00:00",
       "displayName": "xAI: Grok Beta",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "mistralai/ministral-8b",
@@ -38678,7 +38716,7 @@
       "architecture": "Mistral",
       "created": "2024-10-17T00:00:00+00:00",
       "displayName": "Mistral: Ministral 8B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/ministral-3b",
@@ -38723,7 +38761,7 @@
       "architecture": "Mistral",
       "created": "2024-10-17T00:00:00+00:00",
       "displayName": "Mistral: Ministral 3B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "qwen/qwen-2.5-7b-instruct",
@@ -38891,7 +38929,7 @@
         "is_free": false,
         "can_abort": true,
         "max_prompt_tokens": null,
-        "max_completion_tokens": null,
+        "max_completion_tokens": 32768,
         "max_tokens_per_image": null,
         "supported_parameters": [
           "max_tokens",
@@ -38954,7 +38992,7 @@
       "architecture": "Qwen",
       "created": "2024-10-16T00:00:00+00:00",
       "displayName": "Qwen: Qwen2.5 7B Instruct",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "x-ai/grok-2",
@@ -38997,7 +39035,7 @@
       "architecture": "Grok",
       "created": "2024-10-12T00:00:00+00:00",
       "displayName": "xAI: Grok 2",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "x-ai/grok-2-mini",
@@ -39040,7 +39078,7 @@
       "architecture": "Grok",
       "created": "2024-10-12T00:00:00+00:00",
       "displayName": "xAI: Grok 2 mini",
-      "fetchedAt": "2026-03-23T08:25:56.692Z"
+      "fetchedAt": "2026-03-24T08:21:28.149Z"
     },
     {
       "slug": "google/gemini-flash-1.5-8b",
@@ -39084,7 +39122,7 @@
       "architecture": "Gemini",
       "created": "2024-10-03T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash 8B",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "thedrummer/rocinante-12b",
@@ -39290,7 +39328,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "TheDrummer: Rocinante 12B",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "eva-unit-01/eva-qwen-2.5-14b",
@@ -39337,7 +39375,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "EVA Qwen2.5 14B",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "anthracite-org/magnum-v2-72b",
@@ -39384,7 +39422,7 @@
       "architecture": "Qwen",
       "created": "2024-09-30T00:00:00+00:00",
       "displayName": "Magnum v2 72B",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "qwen/qwen-2.5-72b-instruct",
@@ -39659,136 +39697,7 @@
       "architecture": "Qwen",
       "created": "2024-09-19T00:00:00+00:00",
       "displayName": "Qwen2.5 72B Instruct",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
-    },
-    {
-      "slug": "openai/o1-mini-2024-09-12",
-      "hf_slug": null,
-      "updated_at": "2025-11-10T16:00:38.246665+00:00",
-      "created_at": "2024-09-12T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: o1-mini (2024-09-12)",
-      "short_name": "o1-mini (2024-09-12)",
-      "author": "openai",
-      "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
-      "model_version_group_id": null,
-      "context_length": 128000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "promotion_message": null,
-      "routing_error_message": null,
-      "permaslug": "openai/o1-mini-2024-09-12",
-      "supports_reasoning": false,
-      "reasoning_config": null,
-      "features": {},
-      "default_parameters": {},
-      "default_order": [],
-      "quick_start_example_type": null,
-      "is_trainable_text": null,
-      "is_trainable_image": null,
-      "endpoint": null,
-      "architecture": "GPT",
-      "created": "2024-09-12T00:00:00+00:00",
-      "displayName": "OpenAI: o1-mini (2024-09-12)",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
-    },
-    {
-      "slug": "openai/o1-mini",
-      "hf_slug": null,
-      "updated_at": "2025-11-10T16:00:38.246665+00:00",
-      "created_at": "2024-09-12T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: o1-mini",
-      "short_name": "o1-mini",
-      "author": "openai",
-      "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
-      "model_version_group_id": null,
-      "context_length": 128000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "promotion_message": null,
-      "routing_error_message": null,
-      "permaslug": "openai/o1-mini",
-      "supports_reasoning": true,
-      "reasoning_config": null,
-      "features": {},
-      "default_parameters": {},
-      "default_order": [],
-      "quick_start_example_type": null,
-      "is_trainable_text": null,
-      "is_trainable_image": null,
-      "endpoint": null,
-      "architecture": "GPT",
-      "created": "2024-09-12T00:00:00+00:00",
-      "displayName": "OpenAI: o1-mini",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
-    },
-    {
-      "slug": "openai/o1-preview-2024-09-12",
-      "hf_slug": null,
-      "updated_at": "2025-11-10T16:00:38.246665+00:00",
-      "created_at": "2024-09-12T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: o1-preview (2024-09-12)",
-      "short_name": "o1-preview (2024-09-12)",
-      "author": "openai",
-      "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
-      "model_version_group_id": null,
-      "context_length": 128000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "promotion_message": null,
-      "routing_error_message": null,
-      "permaslug": "openai/o1-preview-2024-09-12",
-      "supports_reasoning": false,
-      "reasoning_config": null,
-      "features": {},
-      "default_parameters": {},
-      "default_order": [],
-      "quick_start_example_type": null,
-      "is_trainable_text": null,
-      "is_trainable_image": null,
-      "endpoint": null,
-      "architecture": "GPT",
-      "created": "2024-09-12T00:00:00+00:00",
-      "displayName": "OpenAI: o1-preview (2024-09-12)",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "openai/o1-preview",
@@ -39831,7 +39740,136 @@
       "architecture": "GPT",
       "created": "2024-09-12T00:00:00+00:00",
       "displayName": "OpenAI: o1-preview",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
+    },
+    {
+      "slug": "openai/o1-mini",
+      "hf_slug": null,
+      "updated_at": "2025-11-10T16:00:38.246665+00:00",
+      "created_at": "2024-09-12T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: o1-mini",
+      "short_name": "o1-mini",
+      "author": "openai",
+      "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
+      "model_version_group_id": null,
+      "context_length": 128000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "promotion_message": null,
+      "routing_error_message": null,
+      "permaslug": "openai/o1-mini",
+      "supports_reasoning": true,
+      "reasoning_config": null,
+      "features": {},
+      "default_parameters": {},
+      "default_order": [],
+      "quick_start_example_type": null,
+      "is_trainable_text": null,
+      "is_trainable_image": null,
+      "endpoint": null,
+      "architecture": "GPT",
+      "created": "2024-09-12T00:00:00+00:00",
+      "displayName": "OpenAI: o1-mini",
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
+    },
+    {
+      "slug": "openai/o1-preview-2024-09-12",
+      "hf_slug": null,
+      "updated_at": "2025-11-10T16:00:38.246665+00:00",
+      "created_at": "2024-09-12T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: o1-preview (2024-09-12)",
+      "short_name": "o1-preview (2024-09-12)",
+      "author": "openai",
+      "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
+      "model_version_group_id": null,
+      "context_length": 128000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "promotion_message": null,
+      "routing_error_message": null,
+      "permaslug": "openai/o1-preview-2024-09-12",
+      "supports_reasoning": false,
+      "reasoning_config": null,
+      "features": {},
+      "default_parameters": {},
+      "default_order": [],
+      "quick_start_example_type": null,
+      "is_trainable_text": null,
+      "is_trainable_image": null,
+      "endpoint": null,
+      "architecture": "GPT",
+      "created": "2024-09-12T00:00:00+00:00",
+      "displayName": "OpenAI: o1-preview (2024-09-12)",
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
+    },
+    {
+      "slug": "openai/o1-mini-2024-09-12",
+      "hf_slug": null,
+      "updated_at": "2025-11-10T16:00:38.246665+00:00",
+      "created_at": "2024-09-12T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: o1-mini (2024-09-12)",
+      "short_name": "o1-mini (2024-09-12)",
+      "author": "openai",
+      "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.\n\nThe o1 models are optimized for math, science, programming, and other STEM-related tasks. They consistently exhibit PhD-level accuracy on benchmarks in physics, chemistry, and biology. Learn more in the [launch announcement](https://openai.com/o1).\n\nNote: This model is currently experimental and not suitable for production use-cases, and may be heavily rate-limited.",
+      "model_version_group_id": null,
+      "context_length": 128000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "promotion_message": null,
+      "routing_error_message": null,
+      "permaslug": "openai/o1-mini-2024-09-12",
+      "supports_reasoning": false,
+      "reasoning_config": null,
+      "features": {},
+      "default_parameters": {},
+      "default_order": [],
+      "quick_start_example_type": null,
+      "is_trainable_text": null,
+      "is_trainable_image": null,
+      "endpoint": null,
+      "architecture": "GPT",
+      "created": "2024-09-12T00:00:00+00:00",
+      "displayName": "OpenAI: o1-mini (2024-09-12)",
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "mistralai/pixtral-12b",
@@ -40030,7 +40068,7 @@
       "architecture": "Mistral",
       "created": "2024-09-10T00:00:00+00:00",
       "displayName": "Mistral: Pixtral 12B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "google/gemini-flash-1.5-exp",
@@ -40074,7 +40112,7 @@
       "architecture": "Gemini",
       "created": "2024-08-28T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash Experimental",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "qwen/qwen-2.5-vl-7b-instruct",
@@ -40270,7 +40308,7 @@
       "architecture": "Qwen",
       "created": "2024-08-28T00:00:00+00:00",
       "displayName": "Qwen: Qwen2.5-VL 7B Instruct",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.913Z"
     },
     {
       "slug": "microsoft/phi-3.5-mini-128k-instruct",
@@ -40316,7 +40354,7 @@
       "architecture": "Phi",
       "created": "2024-08-21T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3.5 Mini 128K Instruct",
-      "fetchedAt": "2026-03-23T08:25:57.466Z"
+      "fetchedAt": "2026-03-24T08:21:28.985Z"
     },
     {
       "slug": "openai/chatgpt-4o-latest",
@@ -40360,7 +40398,7 @@
       "architecture": "GPT",
       "created": "2024-08-14T00:00:00+00:00",
       "displayName": "OpenAI: ChatGPT-4o",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "aetherwiing/mn-starcannon-12b",
@@ -40407,7 +40445,7 @@
       "architecture": "Mistral",
       "created": "2024-08-13T00:00:00+00:00",
       "displayName": "Aetherwiing: Starcannon 12B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "openai/gpt-4o-2024-08-06",
@@ -40628,7 +40666,7 @@
       "architecture": "GPT",
       "created": "2024-08-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-08-06)",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "nothingiisreal/mn-celeste-12b",
@@ -40675,7 +40713,7 @@
       "architecture": "Mistral",
       "created": "2024-08-02T00:00:00+00:00",
       "displayName": "Mistral Nemo 12B Celeste",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "google/gemini-pro-1.5-exp",
@@ -40719,7 +40757,7 @@
       "architecture": "Gemini",
       "created": "2024-08-01T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro Experimental",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "mistralai/mistral-nemo",
@@ -40994,7 +41032,7 @@
       "architecture": "Mistral",
       "created": "2024-07-19T00:00:00+00:00",
       "displayName": "Mistral: Mistral Nemo",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/codestral-mamba",
@@ -41039,7 +41077,7 @@
       "architecture": "Mistral",
       "created": "2024-07-19T00:00:00+00:00",
       "displayName": "Mistral: Codestral Mamba",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "openai/gpt-4o-mini-2024-07-18",
@@ -41259,7 +41297,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini (2024-07-18)",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-4o-mini",
@@ -41479,7 +41517,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o-mini",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "qwen/qwen-2-7b-instruct",
@@ -41526,7 +41564,7 @@
       "architecture": "Qwen",
       "created": "2024-07-16T00:00:00+00:00",
       "displayName": "Qwen 2 7B Instruct",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "google/gemma-2-27b-it",
@@ -41722,7 +41760,7 @@
       "architecture": "Gemini",
       "created": "2024-07-13T00:00:00+00:00",
       "displayName": "Google: Gemma 2 27B",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "alpindale/magnum-72b",
@@ -41769,7 +41807,7 @@
       "architecture": "Qwen",
       "created": "2024-07-11T00:00:00+00:00",
       "displayName": "Magnum 72B",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "google/gemma-2-9b-it",
@@ -41981,7 +42019,7 @@
       "architecture": "Gemini",
       "created": "2024-06-28T00:00:00+00:00",
       "displayName": "Google: Gemma 2 9B",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "anthropic/claude-3.5-sonnet-20240620",
@@ -42036,7 +42074,7 @@
       "architecture": "Claude",
       "created": "2024-06-20T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3.5 Sonnet (2024-06-20)",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "microsoft/phi-3-medium-4k-instruct",
@@ -42082,7 +42120,7 @@
       "architecture": "Phi",
       "created": "2024-06-15T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Medium 4K Instruct",
-      "fetchedAt": "2026-03-23T08:25:57.466Z"
+      "fetchedAt": "2026-03-24T08:21:28.985Z"
     },
     {
       "slug": "cognitivecomputations/dolphin-mixtral-8x22b",
@@ -42129,7 +42167,7 @@
       "architecture": "Mistral",
       "created": "2024-06-08T00:00:00+00:00",
       "displayName": "Dolphin 2.9.2 Mixtral 8x22B 🐬",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "qwen/qwen-2-72b-instruct",
@@ -42176,7 +42214,7 @@
       "architecture": "Qwen",
       "created": "2024-06-07T00:00:00+00:00",
       "displayName": "Qwen 2 72B Instruct",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct",
@@ -42224,7 +42262,7 @@
       "architecture": "Mistral",
       "created": "2024-05-27T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct-v0.3",
@@ -42272,7 +42310,7 @@
       "architecture": "Mistral",
       "created": "2024-05-27T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct v0.3",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "microsoft/phi-3-mini-128k-instruct",
@@ -42318,7 +42356,7 @@
       "architecture": "Phi",
       "created": "2024-05-26T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Mini 128K Instruct",
-      "fetchedAt": "2026-03-23T08:25:57.466Z"
+      "fetchedAt": "2026-03-24T08:21:28.985Z"
     },
     {
       "slug": "microsoft/phi-3-medium-128k-instruct",
@@ -42364,7 +42402,7 @@
       "architecture": "Phi",
       "created": "2024-05-24T00:00:00+00:00",
       "displayName": "Microsoft: Phi-3 Medium 128K Instruct",
-      "fetchedAt": "2026-03-23T08:25:57.466Z"
+      "fetchedAt": "2026-03-24T08:21:28.985Z"
     },
     {
       "slug": "google/gemini-flash-1.5",
@@ -42408,7 +42446,7 @@
       "architecture": "Gemini",
       "created": "2024-05-14T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Flash ",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "openai/gpt-4o-2024-05-13",
@@ -42626,7 +42664,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (2024-05-13)",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -42846,7 +42884,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -43064,7 +43102,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4o (extended)",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "qwen/qwen-4b-chat",
@@ -43111,7 +43149,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 4B Chat",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "qwen/qwen-7b-chat",
@@ -43158,7 +43196,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 7B Chat",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "qwen/qwen-14b-chat",
@@ -43205,7 +43243,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 14B Chat",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "qwen/qwen-32b-chat",
@@ -43252,7 +43290,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 32B Chat",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "qwen/qwen-72b-chat",
@@ -43299,7 +43337,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 72B Chat",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "qwen/qwen-110b-chat",
@@ -43346,7 +43384,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00+00:00",
       "displayName": "Qwen 1.5 110B Chat",
-      "fetchedAt": "2026-03-23T08:25:58.010Z"
+      "fetchedAt": "2026-03-24T08:21:29.914Z"
     },
     {
       "slug": "mistralai/mixtral-8x22b-instruct",
@@ -43505,7 +43543,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -43584,7 +43624,7 @@
       "architecture": "Mistral",
       "created": "2024-04-17T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x22B Instruct",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "microsoft/wizardlm-2-8x22b",
@@ -43798,7 +43838,7 @@
       "architecture": "Mistral",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 8x22B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "microsoft/wizardlm-2-7b",
@@ -43844,7 +43884,7 @@
       "architecture": "Mistral",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 7B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "microsoft/wizardlm-2-8x22b",
@@ -44058,7 +44098,7 @@
       "architecture": "Phi",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 8x22B",
-      "fetchedAt": "2026-03-23T08:25:57.466Z"
+      "fetchedAt": "2026-03-24T08:21:28.985Z"
     },
     {
       "slug": "microsoft/wizardlm-2-7b",
@@ -44104,7 +44144,7 @@
       "architecture": "Phi",
       "created": "2024-04-16T00:00:00+00:00",
       "displayName": "WizardLM-2 7B",
-      "fetchedAt": "2026-03-23T08:25:57.466Z"
+      "fetchedAt": "2026-03-24T08:21:28.985Z"
     },
     {
       "slug": "huggingfaceh4/zephyr-orpo-141b-a35b",
@@ -44150,7 +44190,7 @@
       "architecture": "Mistral",
       "created": "2024-04-12T00:00:00+00:00",
       "displayName": "Zephyr 141B-A35B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/mixtral-8x22b",
@@ -44199,7 +44239,7 @@
       "architecture": "Mistral",
       "created": "2024-04-10T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x22B (base)",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "openai/gpt-4-turbo",
@@ -44398,7 +44438,7 @@
       "architecture": "GPT",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "google/gemini-pro-1.5",
@@ -44442,7 +44482,7 @@
       "architecture": "Gemini",
       "created": "2024-04-09T00:00:00+00:00",
       "displayName": "Google: Gemini 1.5 Pro",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "anthropic/claude-3-haiku",
@@ -44662,7 +44702,7 @@
       "architecture": "Claude",
       "created": "2024-03-13T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Haiku",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "anthropic/claude-3-sonnet",
@@ -44706,7 +44746,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Sonnet",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "anthropic/claude-3-opus",
@@ -44750,7 +44790,7 @@
       "architecture": "Claude",
       "created": "2024-03-05T00:00:00+00:00",
       "displayName": "Anthropic: Claude 3 Opus",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "mistralai/mistral-large",
@@ -44903,7 +44943,9 @@
             "mistral-ocr-2512",
             "labs-devstral-small-2512",
             "mistral-vibe-cli-with-tools",
-            "voxtral-mini-2602"
+            "voxtral-mini-2602",
+            "mistral-vibe-cli-fast",
+            "labs-leanstral-2603"
           ],
           "sendClientIp": false,
           "pricingStrategy": "mistral"
@@ -44982,7 +45024,7 @@
       "architecture": "Mistral",
       "created": "2024-02-26T00:00:00+00:00",
       "displayName": "Mistral Large",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "google/gemma-7b-it",
@@ -45029,7 +45071,7 @@
       "architecture": "Gemini",
       "created": "2024-02-22T00:00:00+00:00",
       "displayName": "Google: Gemma 7B",
-      "fetchedAt": "2026-03-23T08:25:56.495Z"
+      "fetchedAt": "2026-03-24T08:21:27.623Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mistral-7b-dpo",
@@ -45076,7 +45118,204 @@
       "architecture": "Mistral",
       "created": "2024-02-21T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mistral 7B DPO",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
+    },
+    {
+      "slug": "openai/gpt-4-turbo-preview",
+      "hf_slug": null,
+      "updated_at": "2025-11-10T16:00:38.246665+00:00",
+      "created_at": "2024-01-25T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: GPT-4 Turbo Preview",
+      "short_name": "GPT-4 Turbo Preview",
+      "author": "openai",
+      "description": "The preview GPT-4 model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Dec 2023.\n\n**Note:** heavily rate limited by OpenAI while in preview.",
+      "model_version_group_id": null,
+      "context_length": 128000,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "promotion_message": null,
+      "routing_error_message": null,
+      "permaslug": "openai/gpt-4-turbo-preview",
+      "supports_reasoning": false,
+      "reasoning_config": null,
+      "features": {},
+      "default_parameters": {},
+      "default_order": [],
+      "quick_start_example_type": null,
+      "is_trainable_text": null,
+      "is_trainable_image": null,
+      "endpoint": {
+        "id": "003933da-395a-48eb-86a3-0c4ec486d67f",
+        "name": "OpenAI | openai/gpt-4-turbo-preview",
+        "context_length": 128000,
+        "model": {
+          "slug": "openai/gpt-4-turbo-preview",
+          "hf_slug": null,
+          "updated_at": "2025-11-10T16:00:38.246665+00:00",
+          "created_at": "2024-01-25T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "OpenAI: GPT-4 Turbo Preview",
+          "short_name": "GPT-4 Turbo Preview",
+          "author": "openai",
+          "description": "The preview GPT-4 model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Dec 2023.\n\n**Note:** heavily rate limited by OpenAI while in preview.",
+          "model_version_group_id": null,
+          "context_length": 128000,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "GPT",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "promotion_message": null,
+          "routing_error_message": null,
+          "permaslug": "openai/gpt-4-turbo-preview",
+          "supports_reasoning": false,
+          "reasoning_config": null,
+          "features": {},
+          "default_parameters": {},
+          "default_order": [],
+          "quick_start_example_type": null,
+          "is_trainable_text": null,
+          "is_trainable_image": null
+        },
+        "model_variant_slug": "openai/gpt-4-turbo-preview",
+        "model_variant_permaslug": "openai/gpt-4-turbo-preview",
+        "adapter_name": "OpenAIAdapter",
+        "provider_name": "OpenAI",
+        "provider_info": {
+          "name": "OpenAI",
+          "displayName": "OpenAI",
+          "slug": "openai",
+          "baseUrl": "https://api.openai.com/v1",
+          "dataPolicy": {
+            "training": false,
+            "trainingOpenRouter": false,
+            "retainsPrompts": true,
+            "canPublish": false,
+            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "regionOverrides": {},
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "OpenAIAdapter",
+          "statusPageUrl": "https://status.openai.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/OpenAI.svg",
+            "className": "invert-0 dark:invert"
+          },
+          "ignoredProviderModels": [],
+          "sendClientIp": false,
+          "pricingStrategy": "openai_chat_completions"
+        },
+        "provider_display_name": "OpenAI",
+        "provider_slug": "openai",
+        "provider_model_id": "gpt-4-turbo-preview",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 4096,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "seed",
+          "max_tokens",
+          "response_format",
+          "structured_outputs",
+          "temperature",
+          "top_p",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "logit_bias",
+          "logprobs",
+          "top_logprobs",
+          "tools",
+          "tool_choice"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "training": false,
+          "trainingOpenRouter": false,
+          "retainsPrompts": true,
+          "canPublish": false,
+          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+          "requiresUserIDs": true
+        },
+        "pricing": {
+          "prompt": "0.00001",
+          "completion": "0.00003",
+          "discount": 0,
+          "line_items": []
+        },
+        "variable_pricings": [],
+        "line_items": [],
+        "pricing_json": {
+          "openai:prompt_tokens": 0.00001,
+          "openai:completion_tokens": 0.00003
+        },
+        "pricing_version_id": "dfe2e434-d9ea-412c-8e58-73bcad322ff1",
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          }
+        },
+        "provider_region": null,
+        "deprecation_date": null
+      },
+      "architecture": "GPT",
+      "created": "2024-01-25T00:00:00+00:00",
+      "displayName": "OpenAI: GPT-4 Turbo Preview",
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0613",
@@ -45274,204 +45513,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0613)",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
-    },
-    {
-      "slug": "openai/gpt-4-turbo-preview",
-      "hf_slug": null,
-      "updated_at": "2025-11-10T16:00:38.246665+00:00",
-      "created_at": "2024-01-25T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: GPT-4 Turbo Preview",
-      "short_name": "GPT-4 Turbo Preview",
-      "author": "openai",
-      "description": "The preview GPT-4 model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Dec 2023.\n\n**Note:** heavily rate limited by OpenAI while in preview.",
-      "model_version_group_id": null,
-      "context_length": 128000,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "promotion_message": null,
-      "routing_error_message": null,
-      "permaslug": "openai/gpt-4-turbo-preview",
-      "supports_reasoning": false,
-      "reasoning_config": null,
-      "features": {},
-      "default_parameters": {},
-      "default_order": [],
-      "quick_start_example_type": null,
-      "is_trainable_text": null,
-      "is_trainable_image": null,
-      "endpoint": {
-        "id": "003933da-395a-48eb-86a3-0c4ec486d67f",
-        "name": "OpenAI | openai/gpt-4-turbo-preview",
-        "context_length": 128000,
-        "model": {
-          "slug": "openai/gpt-4-turbo-preview",
-          "hf_slug": null,
-          "updated_at": "2025-11-10T16:00:38.246665+00:00",
-          "created_at": "2024-01-25T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "OpenAI: GPT-4 Turbo Preview",
-          "short_name": "GPT-4 Turbo Preview",
-          "author": "openai",
-          "description": "The preview GPT-4 model with improved instruction following, JSON mode, reproducible outputs, parallel function calling, and more. Training data: up to Dec 2023.\n\n**Note:** heavily rate limited by OpenAI while in preview.",
-          "model_version_group_id": null,
-          "context_length": 128000,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "GPT",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "promotion_message": null,
-          "routing_error_message": null,
-          "permaslug": "openai/gpt-4-turbo-preview",
-          "supports_reasoning": false,
-          "reasoning_config": null,
-          "features": {},
-          "default_parameters": {},
-          "default_order": [],
-          "quick_start_example_type": null,
-          "is_trainable_text": null,
-          "is_trainable_image": null
-        },
-        "model_variant_slug": "openai/gpt-4-turbo-preview",
-        "model_variant_permaslug": "openai/gpt-4-turbo-preview",
-        "adapter_name": "OpenAIAdapter",
-        "provider_name": "OpenAI",
-        "provider_info": {
-          "name": "OpenAI",
-          "displayName": "OpenAI",
-          "slug": "openai",
-          "baseUrl": "https://api.openai.com/v1",
-          "dataPolicy": {
-            "training": false,
-            "trainingOpenRouter": false,
-            "retainsPrompts": true,
-            "canPublish": false,
-            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "regionOverrides": {},
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "OpenAIAdapter",
-          "statusPageUrl": "https://status.openai.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "className": "invert-0 dark:invert"
-          },
-          "ignoredProviderModels": [],
-          "sendClientIp": false,
-          "pricingStrategy": "openai_chat_completions"
-        },
-        "provider_display_name": "OpenAI",
-        "provider_slug": "openai",
-        "provider_model_id": "gpt-4-turbo-preview",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "seed",
-          "max_tokens",
-          "response_format",
-          "structured_outputs",
-          "temperature",
-          "top_p",
-          "stop",
-          "frequency_penalty",
-          "presence_penalty",
-          "logit_bias",
-          "logprobs",
-          "top_logprobs",
-          "tools",
-          "tool_choice"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "training": false,
-          "trainingOpenRouter": false,
-          "retainsPrompts": true,
-          "canPublish": false,
-          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-          "requiresUserIDs": true
-        },
-        "pricing": {
-          "prompt": "0.00001",
-          "completion": "0.00003",
-          "discount": 0,
-          "line_items": []
-        },
-        "variable_pricings": [],
-        "line_items": [],
-        "pricing_json": {
-          "openai:prompt_tokens": 0.00001,
-          "openai:completion_tokens": 0.00003
-        },
-        "pricing_version_id": "dfe2e434-d9ea-412c-8e58-73bcad322ff1",
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null,
-        "deprecation_date": null
-      },
-      "architecture": "GPT",
-      "created": "2024-01-25T00:00:00+00:00",
-      "displayName": "OpenAI: GPT-4 Turbo Preview",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mixtral-8x7b-sft",
@@ -45518,7 +45560,7 @@
       "architecture": "Mistral",
       "created": "2024-01-16T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mixtral 8x7B SFT",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-mixtral-8x7b-dpo",
@@ -45565,7 +45607,7 @@
       "architecture": "Mistral",
       "created": "2024-01-16T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Mixtral 8x7B DPO",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/mistral-small",
@@ -45610,7 +45652,7 @@
       "architecture": "Mistral",
       "created": "2024-01-10T00:00:00+00:00",
       "displayName": "Mistral Small",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/mistral-medium",
@@ -45655,7 +45697,7 @@
       "architecture": "Mistral",
       "created": "2024-01-10T00:00:00+00:00",
       "displayName": "Mistral Medium",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/mistral-tiny",
@@ -45700,7 +45742,7 @@
       "architecture": "Mistral",
       "created": "2024-01-10T00:00:00+00:00",
       "displayName": "Mistral Tiny",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "neversleep/noromaid-mixtral-8x7b-instruct",
@@ -45746,7 +45788,7 @@
       "architecture": "Mistral",
       "created": "2024-01-02T00:00:00+00:00",
       "displayName": "Noromaid Mixtral 8x7B Instruct",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct-v0.2",
@@ -45794,7 +45836,7 @@
       "architecture": "Mistral",
       "created": "2023-12-28T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct v0.2",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "cognitivecomputations/dolphin-mixtral-8x7b",
@@ -45841,7 +45883,7 @@
       "architecture": "Mistral",
       "created": "2023-12-21T00:00:00+00:00",
       "displayName": "Dolphin 2.6 Mixtral 8x7B 🐬",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "mistralai/mixtral-8x7b-instruct",
@@ -46118,7 +46160,7 @@
       "architecture": "Mistral",
       "created": "2023-12-10T00:00:00+00:00",
       "displayName": "Mistral: Mixtral 8x7B Instruct",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "togethercomputer/stripedhyena-hessian-7b",
@@ -46161,7 +46203,7 @@
       "architecture": "Mistral",
       "created": "2023-12-09T00:00:00+00:00",
       "displayName": "StripedHyena Hessian 7B (base)",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "togethercomputer/stripedhyena-nous-7b",
@@ -46207,7 +46249,7 @@
       "architecture": "Mistral",
       "created": "2023-12-09T00:00:00+00:00",
       "displayName": "StripedHyena Nous 7B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "nousresearch/nous-hermes-2-vision-7b",
@@ -46251,7 +46293,7 @@
       "architecture": "Mistral",
       "created": "2023-12-07T00:00:00+00:00",
       "displayName": "Nous: Hermes 2 Vision 7B (alpha)",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "gryphe/mythomist-7b",
@@ -46297,7 +46339,7 @@
       "architecture": "Mistral",
       "created": "2023-12-07T00:00:00+00:00",
       "displayName": "MythoMist 7B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "openrouter/cinematika-7b",
@@ -46343,7 +46385,7 @@
       "architecture": "Mistral",
       "created": "2023-12-06T00:00:00+00:00",
       "displayName": "Cinematika 7B (alpha)",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "nousresearch/nous-capybara-7b",
@@ -46389,7 +46431,7 @@
       "architecture": "Mistral",
       "created": "2023-12-05T00:00:00+00:00",
       "displayName": "Nous: Capybara 7B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "openchat/openchat-7b",
@@ -46434,7 +46476,7 @@
       "architecture": "Mistral",
       "created": "2023-11-28T00:00:00+00:00",
       "displayName": "OpenChat 3.5 7B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "intel/neural-chat-7b",
@@ -46480,7 +46522,7 @@
       "architecture": "Mistral",
       "created": "2023-11-25T00:00:00+00:00",
       "displayName": "Neural Chat 7B v3.1",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "anthropic/claude-instant-1.1",
@@ -46525,7 +46567,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.1",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "anthropic/claude-2",
@@ -46568,7 +46610,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "anthropic/claude-2.1",
@@ -46611,7 +46653,7 @@
       "architecture": "Claude",
       "created": "2023-11-22T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.1",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "teknium/openhermes-2.5-mistral-7b",
@@ -46658,7 +46700,7 @@
       "architecture": "Mistral",
       "created": "2023-11-20T00:00:00+00:00",
       "displayName": "OpenHermes 2.5 Mistral 7B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "openai/gpt-4-vision-preview",
@@ -46702,7 +46744,7 @@
       "architecture": "GPT",
       "created": "2023-11-13T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Vision",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "undi95/toppy-m-7b",
@@ -46748,7 +46790,7 @@
       "architecture": "Mistral",
       "created": "2023-11-10T00:00:00+00:00",
       "displayName": "Toppy M 7B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.745Z"
     },
     {
       "slug": "openai/gpt-4-1106-preview",
@@ -46946,7 +46988,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 Turbo (older v1106)",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-1106",
@@ -46989,7 +47031,7 @@
       "architecture": "GPT",
       "created": "2023-11-06T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k (older v1106)",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "teknium/openhermes-2-mistral-7b",
@@ -47036,7 +47078,7 @@
       "architecture": "Mistral",
       "created": "2023-11-01T00:00:00+00:00",
       "displayName": "OpenHermes 2 Mistral 7B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.745Z"
     },
     {
       "slug": "open-orca/mistral-7b-openorca",
@@ -47083,7 +47125,7 @@
       "architecture": "Mistral",
       "created": "2023-10-30T00:00:00+00:00",
       "displayName": "Mistral OpenOrca 7B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.745Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-instruct",
@@ -47286,7 +47328,7 @@
       "architecture": "GPT",
       "created": "2023-09-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo Instruct",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "mistralai/mistral-7b-instruct-v0.1",
@@ -47495,7 +47537,7 @@
       "architecture": "Mistral",
       "created": "2023-09-28T00:00:00+00:00",
       "displayName": "Mistral: Mistral 7B Instruct v0.1",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.744Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-16k",
@@ -47692,50 +47734,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
-    },
-    {
-      "slug": "openai/gpt-4-32k-0314",
-      "hf_slug": null,
-      "updated_at": "2025-11-10T16:00:38.246665+00:00",
-      "created_at": "2023-08-28T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: GPT-4 32k (older v0314)",
-      "short_name": "GPT-4 32k (older v0314)",
-      "author": "openai",
-      "description": "GPT-4-32k is an extended version of GPT-4, with the same capabilities but quadrupled context length, allowing for processing up to 40 pages of text in a single pass. This is particularly beneficial for handling longer content like interacting with PDFs without an external vector database. Training data: up to Sep 2021.",
-      "model_version_group_id": null,
-      "context_length": 32767,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "promotion_message": null,
-      "routing_error_message": null,
-      "permaslug": "openai/gpt-4-32k-0314",
-      "supports_reasoning": false,
-      "reasoning_config": null,
-      "features": {},
-      "default_parameters": {},
-      "default_order": [],
-      "quick_start_example_type": null,
-      "is_trainable_text": null,
-      "is_trainable_image": null,
-      "endpoint": null,
-      "architecture": "GPT",
-      "created": "2023-08-28T00:00:00+00:00",
-      "displayName": "OpenAI: GPT-4 32k (older v0314)",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-4-32k",
@@ -47778,7 +47777,50 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4 32k",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
+    },
+    {
+      "slug": "openai/gpt-4-32k-0314",
+      "hf_slug": null,
+      "updated_at": "2025-11-10T16:00:38.246665+00:00",
+      "created_at": "2023-08-28T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: GPT-4 32k (older v0314)",
+      "short_name": "GPT-4 32k (older v0314)",
+      "author": "openai",
+      "description": "GPT-4-32k is an extended version of GPT-4, with the same capabilities but quadrupled context length, allowing for processing up to 40 pages of text in a single pass. This is particularly beneficial for handling longer content like interacting with PDFs without an external vector database. Training data: up to Sep 2021.",
+      "model_version_group_id": null,
+      "context_length": 32767,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "promotion_message": null,
+      "routing_error_message": null,
+      "permaslug": "openai/gpt-4-32k-0314",
+      "supports_reasoning": false,
+      "reasoning_config": null,
+      "features": {},
+      "default_parameters": {},
+      "default_order": [],
+      "quick_start_example_type": null,
+      "is_trainable_text": null,
+      "is_trainable_image": null,
+      "endpoint": null,
+      "architecture": "GPT",
+      "created": "2023-08-28T00:00:00+00:00",
+      "displayName": "OpenAI: GPT-4 32k (older v0314)",
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "huggingfaceh4/zephyr-7b-beta",
@@ -47824,7 +47866,7 @@
       "architecture": "Mistral",
       "created": "2023-08-02T00:00:00+00:00",
       "displayName": "Hugging Face: Zephyr 7B",
-      "fetchedAt": "2026-03-23T08:25:57.209Z"
+      "fetchedAt": "2026-03-24T08:21:28.745Z"
     },
     {
       "slug": "anthropic/claude-instant-1.0",
@@ -47869,7 +47911,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1.0",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "anthropic/claude-1.2",
@@ -47914,7 +47956,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v1.2",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "anthropic/claude-1",
@@ -47959,7 +48001,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v1",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "anthropic/claude-instant-1",
@@ -48002,7 +48044,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude Instant v1",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "anthropic/claude-2.0",
@@ -48045,204 +48087,7 @@
       "architecture": "Claude",
       "created": "2023-07-28T00:00:00+00:00",
       "displayName": "Anthropic: Claude v2.0",
-      "fetchedAt": "2026-03-23T08:25:56.277Z"
-    },
-    {
-      "slug": "openai/gpt-4-0314",
-      "hf_slug": null,
-      "updated_at": "2025-11-10T16:00:38.246665+00:00",
-      "created_at": "2023-05-28T00:00:00+00:00",
-      "hf_updated_at": null,
-      "name": "OpenAI: GPT-4 (older v0314)",
-      "short_name": "GPT-4 (older v0314)",
-      "author": "openai",
-      "description": "GPT-4-0314 is the first version of GPT-4 released, with a context length of 8,192 tokens, and was supported until June 14. Training data: up to Sep 2021.",
-      "model_version_group_id": null,
-      "context_length": 8191,
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "has_text_output": true,
-      "group": "GPT",
-      "instruct_type": null,
-      "default_system": null,
-      "default_stops": [],
-      "hidden": false,
-      "router": null,
-      "warning_message": null,
-      "promotion_message": null,
-      "routing_error_message": null,
-      "permaslug": "openai/gpt-4-0314",
-      "supports_reasoning": false,
-      "reasoning_config": null,
-      "features": {},
-      "default_parameters": {},
-      "default_order": [],
-      "quick_start_example_type": null,
-      "is_trainable_text": null,
-      "is_trainable_image": null,
-      "endpoint": {
-        "id": "69206fec-9f6f-4338-9919-5ed90134c376",
-        "name": "OpenAI | openai/gpt-4-0314",
-        "context_length": 8191,
-        "model": {
-          "slug": "openai/gpt-4-0314",
-          "hf_slug": null,
-          "updated_at": "2025-11-10T16:00:38.246665+00:00",
-          "created_at": "2023-05-28T00:00:00+00:00",
-          "hf_updated_at": null,
-          "name": "OpenAI: GPT-4 (older v0314)",
-          "short_name": "GPT-4 (older v0314)",
-          "author": "openai",
-          "description": "GPT-4-0314 is the first version of GPT-4 released, with a context length of 8,192 tokens, and was supported until June 14. Training data: up to Sep 2021.",
-          "model_version_group_id": null,
-          "context_length": 8191,
-          "input_modalities": [
-            "text"
-          ],
-          "output_modalities": [
-            "text"
-          ],
-          "has_text_output": true,
-          "group": "GPT",
-          "instruct_type": null,
-          "default_system": null,
-          "default_stops": [],
-          "hidden": false,
-          "router": null,
-          "warning_message": null,
-          "promotion_message": null,
-          "routing_error_message": null,
-          "permaslug": "openai/gpt-4-0314",
-          "supports_reasoning": false,
-          "reasoning_config": null,
-          "features": {},
-          "default_parameters": {},
-          "default_order": [],
-          "quick_start_example_type": null,
-          "is_trainable_text": null,
-          "is_trainable_image": null
-        },
-        "model_variant_slug": "openai/gpt-4-0314",
-        "model_variant_permaslug": "openai/gpt-4-0314",
-        "adapter_name": "OpenAIAdapter",
-        "provider_name": "OpenAI",
-        "provider_info": {
-          "name": "OpenAI",
-          "displayName": "OpenAI",
-          "slug": "openai",
-          "baseUrl": "https://api.openai.com/v1",
-          "dataPolicy": {
-            "training": false,
-            "trainingOpenRouter": false,
-            "retainsPrompts": true,
-            "canPublish": false,
-            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-            "requiresUserIDs": true
-          },
-          "headquarters": "US",
-          "regionOverrides": {},
-          "hasChatCompletions": true,
-          "hasCompletions": true,
-          "isAbortable": true,
-          "moderationRequired": true,
-          "editors": [
-            "{}"
-          ],
-          "owners": [
-            "{}"
-          ],
-          "adapterName": "OpenAIAdapter",
-          "statusPageUrl": "https://status.openai.com/",
-          "byokEnabled": true,
-          "icon": {
-            "url": "/images/icons/OpenAI.svg",
-            "className": "invert-0 dark:invert"
-          },
-          "ignoredProviderModels": [],
-          "sendClientIp": false,
-          "pricingStrategy": "openai_chat_completions"
-        },
-        "provider_display_name": "OpenAI",
-        "provider_slug": "openai",
-        "provider_model_id": "gpt-4-0314",
-        "quantization": "unknown",
-        "variant": "standard",
-        "is_free": false,
-        "can_abort": true,
-        "max_prompt_tokens": null,
-        "max_completion_tokens": 4096,
-        "max_tokens_per_image": null,
-        "supported_parameters": [
-          "seed",
-          "max_tokens",
-          "response_format",
-          "structured_outputs",
-          "temperature",
-          "top_p",
-          "stop",
-          "frequency_penalty",
-          "presence_penalty",
-          "logit_bias",
-          "logprobs",
-          "top_logprobs",
-          "tools",
-          "tool_choice"
-        ],
-        "is_byok": false,
-        "moderation_required": true,
-        "data_policy": {
-          "training": false,
-          "trainingOpenRouter": false,
-          "retainsPrompts": true,
-          "canPublish": false,
-          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
-          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
-          "requiresUserIDs": true
-        },
-        "pricing": {
-          "prompt": "0.00003",
-          "completion": "0.00006",
-          "discount": 0,
-          "line_items": []
-        },
-        "variable_pricings": [],
-        "line_items": [],
-        "pricing_json": {
-          "openai:prompt_tokens": 0.00003,
-          "openai:completion_tokens": 0.00006
-        },
-        "pricing_version_id": "5ce87390-b94c-4100-b720-bb68c0ceb7c9",
-        "is_hidden": false,
-        "is_deranked": false,
-        "is_disabled": false,
-        "supports_tool_parameters": true,
-        "supports_reasoning": false,
-        "supports_multipart": true,
-        "limit_rpm": null,
-        "limit_rpd": null,
-        "limit_rpm_cf": null,
-        "has_completions": true,
-        "has_chat_completions": true,
-        "features": {
-          "supports_tool_choice": {
-            "literal_none": true,
-            "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
-          }
-        },
-        "provider_region": null,
-        "deprecation_date": null
-      },
-      "architecture": "GPT",
-      "created": "2023-05-28T00:00:00+00:00",
-      "displayName": "OpenAI: GPT-4 (older v0314)",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.290Z"
     },
     {
       "slug": "openai/gpt-4",
@@ -48439,7 +48284,204 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-4",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
+    },
+    {
+      "slug": "openai/gpt-4-0314",
+      "hf_slug": null,
+      "updated_at": "2025-11-10T16:00:38.246665+00:00",
+      "created_at": "2023-05-28T00:00:00+00:00",
+      "hf_updated_at": null,
+      "name": "OpenAI: GPT-4 (older v0314)",
+      "short_name": "GPT-4 (older v0314)",
+      "author": "openai",
+      "description": "GPT-4-0314 is the first version of GPT-4 released, with a context length of 8,192 tokens, and was supported until June 14. Training data: up to Sep 2021.",
+      "model_version_group_id": null,
+      "context_length": 8191,
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "has_text_output": true,
+      "group": "GPT",
+      "instruct_type": null,
+      "default_system": null,
+      "default_stops": [],
+      "hidden": false,
+      "router": null,
+      "warning_message": null,
+      "promotion_message": null,
+      "routing_error_message": null,
+      "permaslug": "openai/gpt-4-0314",
+      "supports_reasoning": false,
+      "reasoning_config": null,
+      "features": {},
+      "default_parameters": {},
+      "default_order": [],
+      "quick_start_example_type": null,
+      "is_trainable_text": null,
+      "is_trainable_image": null,
+      "endpoint": {
+        "id": "69206fec-9f6f-4338-9919-5ed90134c376",
+        "name": "OpenAI | openai/gpt-4-0314",
+        "context_length": 8191,
+        "model": {
+          "slug": "openai/gpt-4-0314",
+          "hf_slug": null,
+          "updated_at": "2025-11-10T16:00:38.246665+00:00",
+          "created_at": "2023-05-28T00:00:00+00:00",
+          "hf_updated_at": null,
+          "name": "OpenAI: GPT-4 (older v0314)",
+          "short_name": "GPT-4 (older v0314)",
+          "author": "openai",
+          "description": "GPT-4-0314 is the first version of GPT-4 released, with a context length of 8,192 tokens, and was supported until June 14. Training data: up to Sep 2021.",
+          "model_version_group_id": null,
+          "context_length": 8191,
+          "input_modalities": [
+            "text"
+          ],
+          "output_modalities": [
+            "text"
+          ],
+          "has_text_output": true,
+          "group": "GPT",
+          "instruct_type": null,
+          "default_system": null,
+          "default_stops": [],
+          "hidden": false,
+          "router": null,
+          "warning_message": null,
+          "promotion_message": null,
+          "routing_error_message": null,
+          "permaslug": "openai/gpt-4-0314",
+          "supports_reasoning": false,
+          "reasoning_config": null,
+          "features": {},
+          "default_parameters": {},
+          "default_order": [],
+          "quick_start_example_type": null,
+          "is_trainable_text": null,
+          "is_trainable_image": null
+        },
+        "model_variant_slug": "openai/gpt-4-0314",
+        "model_variant_permaslug": "openai/gpt-4-0314",
+        "adapter_name": "OpenAIAdapter",
+        "provider_name": "OpenAI",
+        "provider_info": {
+          "name": "OpenAI",
+          "displayName": "OpenAI",
+          "slug": "openai",
+          "baseUrl": "https://api.openai.com/v1",
+          "dataPolicy": {
+            "training": false,
+            "trainingOpenRouter": false,
+            "retainsPrompts": true,
+            "canPublish": false,
+            "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+            "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+            "requiresUserIDs": true
+          },
+          "headquarters": "US",
+          "regionOverrides": {},
+          "hasChatCompletions": true,
+          "hasCompletions": true,
+          "isAbortable": true,
+          "moderationRequired": true,
+          "editors": [
+            "{}"
+          ],
+          "owners": [
+            "{}"
+          ],
+          "adapterName": "OpenAIAdapter",
+          "statusPageUrl": "https://status.openai.com/",
+          "byokEnabled": true,
+          "icon": {
+            "url": "/images/icons/OpenAI.svg",
+            "className": "invert-0 dark:invert"
+          },
+          "ignoredProviderModels": [],
+          "sendClientIp": false,
+          "pricingStrategy": "openai_chat_completions"
+        },
+        "provider_display_name": "OpenAI",
+        "provider_slug": "openai",
+        "provider_model_id": "gpt-4-0314",
+        "quantization": "unknown",
+        "variant": "standard",
+        "is_free": false,
+        "can_abort": true,
+        "max_prompt_tokens": null,
+        "max_completion_tokens": 4096,
+        "max_tokens_per_image": null,
+        "supported_parameters": [
+          "seed",
+          "max_tokens",
+          "response_format",
+          "structured_outputs",
+          "temperature",
+          "top_p",
+          "stop",
+          "frequency_penalty",
+          "presence_penalty",
+          "logit_bias",
+          "logprobs",
+          "top_logprobs",
+          "tools",
+          "tool_choice"
+        ],
+        "is_byok": false,
+        "moderation_required": true,
+        "data_policy": {
+          "training": false,
+          "trainingOpenRouter": false,
+          "retainsPrompts": true,
+          "canPublish": false,
+          "termsOfServiceURL": "https://openai.com/policies/row-terms-of-use/",
+          "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
+          "requiresUserIDs": true
+        },
+        "pricing": {
+          "prompt": "0.00003",
+          "completion": "0.00006",
+          "discount": 0,
+          "line_items": []
+        },
+        "variable_pricings": [],
+        "line_items": [],
+        "pricing_json": {
+          "openai:prompt_tokens": 0.00003,
+          "openai:completion_tokens": 0.00006
+        },
+        "pricing_version_id": "5ce87390-b94c-4100-b720-bb68c0ceb7c9",
+        "is_hidden": false,
+        "is_deranked": false,
+        "is_disabled": false,
+        "supports_tool_parameters": true,
+        "supports_reasoning": false,
+        "supports_multipart": true,
+        "limit_rpm": null,
+        "limit_rpd": null,
+        "limit_rpm_cf": null,
+        "has_completions": true,
+        "has_chat_completions": true,
+        "features": {
+          "supports_tool_choice": {
+            "literal_none": true,
+            "literal_auto": true,
+            "literal_required": true,
+            "type_function": true
+          }
+        },
+        "provider_region": null,
+        "deprecation_date": null
+      },
+      "architecture": "GPT",
+      "created": "2023-05-28T00:00:00+00:00",
+      "displayName": "OpenAI: GPT-4 (older v0314)",
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo",
@@ -48636,7 +48678,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0125",
@@ -48679,7 +48721,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-0301",
@@ -48722,7 +48764,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00+00:00",
       "displayName": "OpenAI: GPT-3.5 Turbo (older v0301)",
-      "fetchedAt": "2026-03-23T08:25:56.041Z"
+      "fetchedAt": "2026-03-24T08:21:27.167Z"
     }
   ],
   "metadata": {
@@ -48732,7 +48774,7 @@
       "Claude": 25,
       "Gemini": 39
     },
-    "lastUpdated": "2026-03-23T08:25:58.012Z",
+    "lastUpdated": "2026-03-24T08:21:29.916Z",
     "errors": []
   }
 }
