@@ -12,7 +12,7 @@ const __dirname = path.dirname(__filename);
 const apiEndpoints = [
   { arch: 'GPT', url: 'https://openrouter.ai/api/frontend/models/find?arch=GPT' },
   { arch: 'Claude', url: 'https://openrouter.ai/api/frontend/models/find?arch=Claude' },
-  { arch: 'Gemini', url: 'https://openrouter.ai/api/frontend/models/find?q=gemma&order=newest' },
+  { arch: 'Gemini', url: 'https://openrouter.ai/api/frontend/models/find?q=google&order=newest' },
   { arch: 'Grok', url: 'https://openrouter.ai/api/frontend/models/find?arch=Grok' },
   { arch: 'Llama', url:'https://openrouter.ai/api/frontend/models/find?arch=Llama4'},
   { arch: 'Mistral', url:'https://openrouter.ai/api/frontend/models/find?arch=Mistral'},
