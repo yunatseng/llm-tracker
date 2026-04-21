@@ -18,7 +18,7 @@ const apiEndpoints = [
   { arch: 'Mistral', url:'https://openrouter.ai/api/frontend/models/find?arch=Mistral'},
   { arch: 'Phi', url:'https://openrouter.ai/api/frontend/models/find?q=microsoft'},
   { arch: 'Nova', url:'https://openrouter.ai/api/frontend/models/find?arch=Nova'},
-  { arch: 'Qwen', url:'https://openrouter.ai/api/frontend/models/find?arch=Qwen'},
+  { arch: 'Qwen', url:'https://openrouter.ai/api/frontend/models/find?q=qwen&order=newest'},
   // { arch: 'PaLM', url:'https://openrouter.ai/api/frontend/models/find?arch=Palm'}
 ];
 
