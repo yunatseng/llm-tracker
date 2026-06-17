@@ -10,15 +10,15 @@ const __dirname = path.dirname(__filename);
 
 // API 端點
 const apiEndpoints = [
-  { arch: 'GPT', url: 'https://openrouter.ai/api/frontend/models/find?arch=GPT' },
-  { arch: 'Claude', url: 'https://openrouter.ai/api/frontend/models/find?arch=Claude' },
-  { arch: 'Gemini', url: 'https://openrouter.ai/api/frontend/models/find?q=google&order=newest' },
-  { arch: 'Grok', url: 'https://openrouter.ai/api/frontend/models/find?arch=Grok' },
-  { arch: 'Llama', url:'https://openrouter.ai/api/frontend/models/find?arch=Llama4'},
-  { arch: 'Mistral', url:'https://openrouter.ai/api/frontend/models/find?arch=Mistral'},
-  { arch: 'Phi', url:'https://openrouter.ai/api/frontend/models/find?q=microsoft'},
-  { arch: 'Nova', url:'https://openrouter.ai/api/frontend/models/find?arch=Nova'},
-  { arch: 'Qwen', url:'https://openrouter.ai/api/frontend/models/find?q=qwen&order=newest'},
+  { arch: 'GPT', url: 'https://openrouter.ai/api/frontend/v1/models/find?providers=openai' },
+  { arch: 'Claude', url: 'https://openrouter.ai/api/frontend/v1/models/find?providers=Anthropic' },
+  { arch: 'Gemini', url: 'https://openrouter.ai/api/frontend/v1/models/find?providers=Google%20AI%20Studio' },
+  { arch: 'Grok', url: 'https://openrouter.ai/api/frontend/v1/models/find?providers=xAI' },
+  { arch: 'Llama', url:'https://openrouter.ai/api/frontend/v1/models/find?model_authors=meta-llama'},
+  { arch: 'Mistral', url:'https://openrouter.ai/api/frontend/v1/models/find?providers=Mistral'},
+  { arch: 'GLM', url:'https://openrouter.ai/api/frontend/v1/models/find?providers=z.ai'},
+  { arch: 'Mimo', url:'https://openrouter.ai/api/frontend/v1/models/find?providers=Xiaomi'},
+  { arch: 'Qwen', url:'https://openrouter.ai/api/frontend/v1/models/find?model_authors=qwen'},
   // { arch: 'PaLM', url:'https://openrouter.ai/api/frontend/models/find?arch=Palm'}
 ];
 
