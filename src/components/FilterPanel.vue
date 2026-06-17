@@ -18,9 +18,9 @@ const architectures = [
   { value: 'Grok', label: 'Grok 系列'},
   { value: 'Llama', label: 'Llama 系列' },
   { value: 'Mistral', label: 'Mistral 系列' },
-  { value: 'Nova', label: 'Nova 系列'},
-  { value: 'Qwen', label: 'Qwen 系列' },
-  { value: 'Phi', label: 'Phi 系列' }
+  { value: 'GLM', label: 'GLM 系列'},
+  { value: 'Mimo', label: 'Mimo 系列' },
+  { value: 'Qwen', label: 'Qwen 系列' }
   // { value: 'PaLM', label: 'PaLM 系列' }
 ]
 
