@@ -216,18 +216,18 @@ const initCharts = () => {
 
 const getColor = (index) => {
   const colors = [
-    '#D32F2F', // red
-    '#ff9ff3', // pink
-    '#96ceb4', // green
+    '#C10066', // red
+    '#FF88C2', // pink
+    '#FFD306', // green
     '#F57C00', // orange
-    '#7B1FA2', // purple
-    '#00796B', // teal
-    '#C2185B', // pink
-    '#512DA8', // deep purple
+    '#007799', // purple
+    '#00FFFF', // teal
+    '#7744FF', // pink
+    '#0000AA', // deep purple
     '#455A64', // blue gray
     '#AFB42B', // olive
     '#5D4037', // brown
-    '#0288D1'  // light blue
+    '#0066FF'  // light blue
   ]
   return colors[index % colors.length]
 }
