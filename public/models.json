@@ -469,7 +469,7 @@
       "architecture": "GPT",
       "created": "2026-09-04T20:13:58.230Z",
       "displayName": "OpenAI: GPT-6 Astra (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "openai/gpt-6-astra",
@@ -939,7 +939,7 @@
       "architecture": "GPT",
       "created": "2026-09-04T20:13:58.230Z",
       "displayName": "OpenAI: GPT-6 Astra",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "openai/gpt-6-astra-pro",
@@ -1410,7 +1410,7 @@
       "architecture": "GPT",
       "created": "2026-09-04T20:13:55.153Z",
       "displayName": "OpenAI: GPT-6 Astra Pro (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "openai/gpt-6-astra-pro",
@@ -1880,7 +1880,7 @@
       "architecture": "GPT",
       "created": "2026-09-04T20:13:55.153Z",
       "displayName": "OpenAI: GPT-6 Astra Pro",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "qwen/qwen3.8-max-0902",
@@ -2260,7 +2260,7 @@
       "architecture": "Qwen",
       "created": "2026-09-03T21:08:24.810Z",
       "displayName": "Qwen: Qwen3.8 Max (0902)",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "google/gemini-3.8-flash",
@@ -2692,7 +2692,7 @@
       "architecture": "Gemini",
       "created": "2026-09-02T15:14:16.246Z",
       "displayName": "Google: Gemini 3.8 Flash",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.351Z"
     },
     {
       "slug": "anthropic/claude-fable-5.1",
@@ -3091,7 +3091,7 @@
       "architecture": "Claude",
       "created": "2026-09-01T18:03:58.014Z",
       "displayName": "Anthropic: Claude Fable 5.1 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "anthropic/claude-fable-5.1",
@@ -3490,7 +3490,7 @@
       "architecture": "Claude",
       "created": "2026-09-01T18:03:58.014Z",
       "displayName": "Anthropic: Claude Fable 5.1",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "qwen/qwen3.8-flash",
@@ -3833,7 +3833,7 @@
       "architecture": "Qwen",
       "created": "2026-08-26T19:37:40.864Z",
       "displayName": "Qwen: Qwen3.8 Flash",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "z-ai/glm-5.3-flash",
@@ -4176,7 +4176,7 @@
       "architecture": "GLM",
       "created": "2026-08-26T13:59:01.772Z",
       "displayName": "Z.ai: GLM 5.3 Flash",
-      "fetchedAt": "2026-09-05T11:43:46.798Z"
+      "fetchedAt": "2026-09-06T12:01:35.854Z"
     },
     {
       "slug": "qwen/qwen3-reranker-0.6b",
@@ -4232,7 +4232,7 @@
       "architecture": "Qwen",
       "created": "2026-08-26T04:17:35.821Z",
       "displayName": "Qwen3 Reranker 0.6B",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-reranker-4b",
@@ -4288,7 +4288,7 @@
       "architecture": "Qwen",
       "created": "2026-08-26T04:17:30.621Z",
       "displayName": "Qwen3 Reranker 4B",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "z-ai/glm-5.3",
@@ -4621,7 +4621,7 @@
       "architecture": "GLM",
       "created": "2026-08-18T20:57:35.738Z",
       "displayName": "Z.ai: GLM 5.3",
-      "fetchedAt": "2026-09-05T11:43:46.798Z"
+      "fetchedAt": "2026-09-06T12:01:35.854Z"
     },
     {
       "slug": "qwen/qwen3.8-27b",
@@ -4710,8 +4710,8 @@
       "limit_rpd": 0,
       "supported_tts_voices": null,
       "endpoint": {
-        "id": "15086968-df2f-4d69-86bb-c74c31644bb6",
-        "name": "Reka | qwen/qwen3.8-27b-20260814",
+        "id": "c02dc976-15cf-47bb-9d26-bd5250f94b8d",
+        "name": "Darkbloom | qwen/qwen3.8-27b-20260814",
         "context_length": 262144,
         "model": {
           "slug": "qwen/qwen3.8-27b",
@@ -4802,46 +4802,46 @@
         },
         "model_variant_slug": "qwen/qwen3.8-27b",
         "model_variant_permaslug": "qwen/qwen3.8-27b-20260814",
-        "adapter_name": "OpenAIAdapter",
-        "provider_name": "Reka",
+        "adapter_name": "DarkbloomAdapter",
+        "provider_name": "Darkbloom",
         "provider_info": {
-          "name": "Reka",
-          "displayName": "Reka AI",
-          "slug": "reka",
-          "baseUrl": "https://api.reka.ai/v1",
+          "name": "Darkbloom",
+          "displayName": "Darkbloom",
+          "slug": "darkbloom",
+          "baseUrl": "https://api.darkbloom.dev/v1",
           "dataPolicy": {
             "training": false,
             "trainingOpenRouter": false,
-            "retainsPrompts": false,
+            "retainsPrompts": true,
             "canPublish": false,
-            "termsOfServiceURL": "https://reka.ai/legal/terms-of-use",
-            "privacyPolicyURL": "https://reka.ai/legal/privacy-policy",
+            "termsOfServiceURL": "https://www.darkbloom.dev/terms.html",
+            "privacyPolicyURL": "https://www.darkbloom.dev/privacy.html",
             "requiresUserIDs": false
           },
           "datacenters": [],
           "hasChatCompletions": true,
           "hasCompletions": false,
-          "isAbortable": true,
+          "isAbortable": false,
           "moderationRequired": false,
           "requiredAttestationTypes": [],
-          "adapterName": "OpenAIAdapter",
+          "adapterName": "DarkbloomAdapter",
           "statusPageUrl": null,
-          "byokEnabled": true,
+          "byokEnabled": false,
           "icon": {
-            "url": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://reka.ai&size=256"
+            "url": "/images/icons/Darkbloom.png"
           },
           "sendClientIp": false,
           "pricingStrategy": "openai_chat_completions"
         },
-        "provider_display_name": "Reka AI",
-        "provider_slug": "reka/fp8",
-        "provider_model_id": "qwen3.8-27b",
-        "quantization": "fp8",
+        "provider_display_name": "Darkbloom",
+        "provider_slug": "darkbloom/fp4",
+        "provider_model_id": "EigenLabs/Qwen3.8-27B-4bit-mtp",
+        "quantization": "fp4",
         "variant": "standard",
         "is_free": false,
-        "can_abort": true,
+        "can_abort": false,
         "max_prompt_tokens": null,
-        "max_completion_tokens": 131072,
+        "max_completion_tokens": 32768,
         "max_tokens_per_image": null,
         "supported_parameters": [
           "reasoning",
@@ -4849,11 +4849,12 @@
           "temperature",
           "top_p",
           "top_k",
-          "max_tokens",
-          "stop",
-          "seed",
           "frequency_penalty",
           "presence_penalty",
+          "repetition_penalty",
+          "stop",
+          "seed",
+          "max_tokens",
           "response_format",
           "structured_outputs",
           "tools",
@@ -4867,35 +4868,27 @@
         "data_policy": {
           "training": false,
           "trainingOpenRouter": false,
-          "retainsPrompts": false,
+          "retainsPrompts": true,
           "canPublish": false,
-          "termsOfServiceURL": "https://reka.ai/legal/terms-of-use",
-          "privacyPolicyURL": "https://reka.ai/legal/privacy-policy"
+          "termsOfServiceURL": "https://www.darkbloom.dev/terms.html",
+          "privacyPolicyURL": "https://www.darkbloom.dev/privacy.html"
         },
         "pricing": {
-          "prompt": "0.000000214",
-          "completion": "0.00000255",
-          "input_cache_read": "0.00000015",
+          "prompt": "0.00000015",
+          "completion": "0.000002",
           "discount": 0,
           "display_pricing": [
             {
               "kind": "token",
               "sku_label": "Input Price",
-              "price": "0.000000214",
+              "price": "0.00000015",
               "displayMultiplier": 1000000,
               "unitLabel": "/M tokens"
             },
             {
               "kind": "token",
               "sku_label": "Output Price",
-              "price": "0.00000255",
-              "displayMultiplier": 1000000,
-              "unitLabel": "/M tokens"
-            },
-            {
-              "kind": "token",
-              "sku_label": "Cache Read",
-              "price": "0.00000015",
+              "price": "0.000002",
               "displayMultiplier": 1000000,
               "unitLabel": "/M tokens"
             }
@@ -4905,31 +4898,23 @@
           {
             "kind": "token",
             "sku_label": "Input Price",
-            "price": "0.000000214",
+            "price": "0.00000015",
             "displayMultiplier": 1000000,
             "unitLabel": "/M tokens"
           },
           {
             "kind": "token",
             "sku_label": "Output Price",
-            "price": "0.00000255",
-            "displayMultiplier": 1000000,
-            "unitLabel": "/M tokens"
-          },
-          {
-            "kind": "token",
-            "sku_label": "Cache Read",
-            "price": "0.00000015",
+            "price": "0.000002",
             "displayMultiplier": 1000000,
             "unitLabel": "/M tokens"
           }
         ],
         "pricing_json": {
-          "openai:prompt_tokens": "0.000000214",
-          "openai:completion_tokens": "0.00000255",
-          "openai:cached_prompt_tokens": "0.00000015"
+          "openai:prompt_tokens": "0.00000015",
+          "openai:completion_tokens": "0.000002"
         },
-        "pricing_version_id": "c17175a4-b80d-4e73-9d61-7cb513162652",
+        "pricing_version_id": "b4b7c14a-8f1f-46b4-b155-84d4f5dd9101",
         "is_pricing_unresolved": false,
         "is_hidden": false,
         "is_private": false,
@@ -4948,8 +4933,8 @@
           "supports_tool_choice": {
             "literal_none": true,
             "literal_auto": true,
-            "literal_required": true,
-            "type_function": true
+            "literal_required": false,
+            "type_function": false
           }
         },
         "supported_video_parameters": null,
@@ -4957,15 +4942,15 @@
         "provider_region": null,
         "deprecation_date": null,
         "allowed_passthrough_parameters": [],
-        "capacity_tpm": 20000000,
-        "created_at": "2026-08-17T23:41:58.861Z",
+        "capacity_tpm": null,
+        "created_at": "2026-09-03T22:17:07.864Z",
         "status": 0
       },
       "display_required_attestation_types": [],
       "architecture": "Qwen",
       "created": "2026-08-14T15:55:10.434Z",
       "displayName": "Qwen: Qwen3.8 27B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "google/gemini-3.7-flash",
@@ -5397,7 +5382,7 @@
       "architecture": "Gemini",
       "created": "2026-08-13T17:03:01.688Z",
       "displayName": "Google: Gemini 3.7 Flash",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.351Z"
     },
     {
       "slug": "qwen/qwen3-reranker-8b",
@@ -5651,7 +5636,7 @@
       "architecture": "Qwen",
       "created": "2026-08-13T05:08:04.121Z",
       "displayName": "Qwen3 Reranker 8B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "qwen/qwen3-asr-1.7b",
@@ -5885,7 +5870,7 @@
       "architecture": "Qwen",
       "created": "2026-08-13T03:44:06.708Z",
       "displayName": "Qwen: Qwen3 ASR 1.7B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "qwen/qwen3-asr-0.6b",
@@ -6119,7 +6104,7 @@
       "architecture": "Qwen",
       "created": "2026-08-13T03:30:33.414Z",
       "displayName": "Qwen: Qwen3 ASR 0.6B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "qwen/qwen3.8-2.4t-a95b",
@@ -6462,7 +6447,7 @@
       "architecture": "Qwen",
       "created": "2026-08-12T16:21:42.451Z",
       "displayName": "Qwen: Qwen3.8 2.4T A95B (batch)",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "qwen/qwen3.8-2.4t-a95b",
@@ -6803,7 +6788,7 @@
       "architecture": "Qwen",
       "created": "2026-08-12T16:21:42.451Z",
       "displayName": "Qwen: Qwen3.8 2.4T A95B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "x-ai/grok-4.6",
@@ -7239,7 +7224,7 @@
       "architecture": "Grok",
       "created": "2026-08-12T15:35:57.755Z",
       "displayName": "SpaceXAI: Grok 4.6",
-      "fetchedAt": "2026-09-05T11:43:46.173Z"
+      "fetchedAt": "2026-09-06T12:01:34.780Z"
     },
     {
       "slug": "x-ai/grok-imagine-image-2.0",
@@ -7593,7 +7578,7 @@
       "architecture": "Grok",
       "created": "2026-08-11T22:07:24.315Z",
       "displayName": "xAI: Grok Imagine Image 2.0",
-      "fetchedAt": "2026-09-05T11:43:46.173Z"
+      "fetchedAt": "2026-09-06T12:01:34.780Z"
     },
     {
       "slug": "openai/gpt-transcribe",
@@ -7832,7 +7817,7 @@
       "architecture": "GPT",
       "created": "2026-08-05T23:51:37.271Z",
       "displayName": "OpenAI: GPT Transcribe",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "qwen/qwen-image-3-pro",
@@ -8164,7 +8149,7 @@
       "architecture": "Qwen",
       "created": "2026-08-05T01:49:08.957Z",
       "displayName": "Qwen: Qwen Image 3 Pro",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "qwen/qwen-image-3",
@@ -8494,7 +8479,7 @@
       "architecture": "Qwen",
       "created": "2026-08-05T01:49:08.243Z",
       "displayName": "Qwen: Qwen Image 3",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "qwen/qwen3.8-max",
@@ -8587,7 +8572,7 @@
       "architecture": "Qwen",
       "created": "2026-08-03T04:33:32.259Z",
       "displayName": "Qwen: Qwen3.8 Max (0803)",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3.7-flash",
@@ -9110,7 +9095,7 @@
       "architecture": "Qwen",
       "created": "2026-07-27T22:16:01.027Z",
       "displayName": "Qwen: Qwen3.7 Flash",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "anthropic/claude-opus-5",
@@ -9515,7 +9500,7 @@
       "architecture": "Claude",
       "created": "2026-07-24T17:02:24.129Z",
       "displayName": "Claude Opus 5 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "anthropic/claude-opus-5",
@@ -9920,7 +9905,7 @@
       "architecture": "Claude",
       "created": "2026-07-24T17:02:24.129Z",
       "displayName": "Claude Opus 5",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "qwen/qwen-audio-3.0-tts-flash",
@@ -10168,7 +10153,7 @@
       "architecture": "Qwen",
       "created": "2026-07-23T14:33:27.747Z",
       "displayName": "Qwen: Qwen-Audio-3.0-TTS Flash",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "qwen/qwen-audio-3.0-tts-plus",
@@ -10414,7 +10399,7 @@
       "architecture": "Qwen",
       "created": "2026-07-23T14:33:27.185Z",
       "displayName": "Qwen: Qwen-Audio-3.0-TTS Plus",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "x-ai/grok-stt-1.0",
@@ -10679,7 +10664,7 @@
       "architecture": "Grok",
       "created": "2026-07-23T14:30:14.710Z",
       "displayName": "SpaceXAI: Grok STT 1.0",
-      "fetchedAt": "2026-09-05T11:43:46.173Z"
+      "fetchedAt": "2026-09-06T12:01:34.780Z"
     },
     {
       "slug": "google/gemini-3.6-flash",
@@ -11127,7 +11112,7 @@
       "architecture": "Gemini",
       "created": "2026-07-21T15:12:13.976Z",
       "displayName": "Google: Gemini 3.6 Flash",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.351Z"
     },
     {
       "slug": "google/gemini-3.5-flash-lite",
@@ -11574,7 +11559,7 @@
       "architecture": "Gemini",
       "created": "2026-07-21T15:12:06.691Z",
       "displayName": "Google: Gemini 3.5 Flash Lite",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.351Z"
     },
     {
       "slug": "x-ai/grok-imagine-video-1.5",
@@ -11896,7 +11881,7 @@
       "architecture": "Grok",
       "created": "2026-07-20T11:48:20.739Z",
       "displayName": "SpaceXAI: Grok Imagine Video 1.5",
-      "fetchedAt": "2026-09-05T11:43:46.173Z"
+      "fetchedAt": "2026-09-06T12:01:34.780Z"
     },
     {
       "slug": "openai/gpt-5.6-luna-pro",
@@ -12384,7 +12369,7 @@
       "architecture": "GPT",
       "created": "2026-07-09T09:54:27.822Z",
       "displayName": "OpenAI: GPT-5.6 Luna Pro",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "openai/gpt-5.6-luna-pro",
@@ -12835,7 +12820,7 @@
       "architecture": "GPT",
       "created": "2026-07-09T09:54:27.822Z",
       "displayName": "OpenAI: GPT-5.6 Luna Pro (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "openai/gpt-5.6-luna",
@@ -13323,7 +13308,7 @@
       "architecture": "GPT",
       "created": "2026-07-09T09:54:24.706Z",
       "displayName": "OpenAI: GPT-5.6 Luna",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "openai/gpt-5.6-luna",
@@ -13774,7 +13759,7 @@
       "architecture": "GPT",
       "created": "2026-07-09T09:54:24.706Z",
       "displayName": "OpenAI: GPT-5.6 Luna (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "openai/gpt-5.6-terra-pro",
@@ -14262,7 +14247,7 @@
       "architecture": "GPT",
       "created": "2026-07-09T09:54:21.715Z",
       "displayName": "OpenAI: GPT-5.6 Terra Pro",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "openai/gpt-5.6-terra-pro",
@@ -14713,7 +14698,7 @@
       "architecture": "GPT",
       "created": "2026-07-09T09:54:21.715Z",
       "displayName": "OpenAI: GPT-5.6 Terra Pro (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "openai/gpt-5.6-terra",
@@ -15201,7 +15186,7 @@
       "architecture": "GPT",
       "created": "2026-07-09T09:54:17.907Z",
       "displayName": "OpenAI: GPT-5.6 Terra",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "openai/gpt-5.6-terra",
@@ -15652,7 +15637,7 @@
       "architecture": "GPT",
       "created": "2026-07-09T09:54:17.907Z",
       "displayName": "OpenAI: GPT-5.6 Terra (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "openai/gpt-5.6-sol-pro",
@@ -16142,7 +16127,7 @@
       "architecture": "GPT",
       "created": "2026-07-09T09:54:14.664Z",
       "displayName": "OpenAI: GPT-5.6 Sol Pro",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "openai/gpt-5.6-sol-pro",
@@ -16633,7 +16618,7 @@
       "architecture": "GPT",
       "created": "2026-07-09T09:54:14.664Z",
       "displayName": "OpenAI: GPT-5.6 Sol Pro (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "openai/gpt-5.6-sol",
@@ -17123,7 +17108,7 @@
       "architecture": "GPT",
       "created": "2026-07-09T09:54:10.415Z",
       "displayName": "OpenAI: GPT-5.6 Sol",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.715Z"
     },
     {
       "slug": "openai/gpt-5.6-sol",
@@ -17614,7 +17599,7 @@
       "architecture": "GPT",
       "created": "2026-07-09T09:54:10.415Z",
       "displayName": "OpenAI: GPT-5.6 Sol (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "x-ai/grok-4.5",
@@ -18049,7 +18034,7 @@
       "architecture": "Grok",
       "created": "2026-07-08T15:05:54.846Z",
       "displayName": "SpaceXAI: Grok 4.5",
-      "fetchedAt": "2026-09-05T11:43:46.173Z"
+      "fetchedAt": "2026-09-06T12:01:34.780Z"
     },
     {
       "slug": "anthropic/claude-sonnet-5",
@@ -18453,7 +18438,7 @@
       "architecture": "Claude",
       "created": "2026-06-30T18:11:23.921Z",
       "displayName": "Anthropic: Claude Sonnet 5 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "anthropic/claude-sonnet-5",
@@ -18857,7 +18842,7 @@
       "architecture": "Claude",
       "created": "2026-06-30T18:11:23.921Z",
       "displayName": "Anthropic: Claude Sonnet 5",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "google/gemini-3.1-flash-lite-image",
@@ -19208,7 +19193,7 @@
       "architecture": "Gemini",
       "created": "2026-06-30T16:33:45.963Z",
       "displayName": "Google: Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.351Z"
     },
     {
       "slug": "openai/gpt-image-2",
@@ -19556,7 +19541,7 @@
       "architecture": "GPT",
       "created": "2026-06-24T01:31:54.842Z",
       "displayName": "OpenAI: GPT Image 2",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-image-1-mini",
@@ -19898,7 +19883,7 @@
       "architecture": "GPT",
       "created": "2026-06-24T01:31:53.937Z",
       "displayName": "OpenAI: GPT Image 1 Mini",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-image-1",
@@ -20240,7 +20225,7 @@
       "architecture": "GPT",
       "created": "2026-06-24T01:31:53.271Z",
       "displayName": "OpenAI: GPT Image 1",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "google/gemini-3.1-flash-image",
@@ -20628,7 +20613,7 @@
       "architecture": "Gemini",
       "created": "2026-06-18T03:41:05.617Z",
       "displayName": "Google: Nano Banana 2 (Gemini 3.1 Flash Image)",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.351Z"
     },
     {
       "slug": "google/gemini-3-pro-image",
@@ -21091,7 +21076,7 @@
       "architecture": "Gemini",
       "created": "2026-06-18T03:40:54.718Z",
       "displayName": "Google: Nano Banana Pro (Gemini 3 Pro Image)",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.351Z"
     },
     {
       "slug": "z-ai/glm-5.2",
@@ -21422,7 +21407,7 @@
       "architecture": "Mistral",
       "created": "2026-06-16T17:45:30.803Z",
       "displayName": "Z.ai: GLM 5.2",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "z-ai/glm-5.2",
@@ -21750,7 +21735,7 @@
       "architecture": "GLM",
       "created": "2026-06-16T17:45:30.803Z",
       "displayName": "Z.ai: GLM 5.2",
-      "fetchedAt": "2026-09-05T11:43:46.798Z"
+      "fetchedAt": "2026-09-06T12:01:35.854Z"
     },
     {
       "slug": "anthropic/claude-fable-5",
@@ -22167,7 +22152,7 @@
       "architecture": "Claude",
       "created": "2026-06-09T12:18:35.266Z",
       "displayName": "Anthropic: Claude Fable 5 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "anthropic/claude-fable-5",
@@ -22584,7 +22569,7 @@
       "architecture": "Claude",
       "created": "2026-06-09T12:18:35.266Z",
       "displayName": "Anthropic: Claude Fable 5",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "qwen/qwen3.7-plus",
@@ -23032,7 +23017,7 @@
       "architecture": "Qwen",
       "created": "2026-06-03T13:03:03.046Z",
       "displayName": "Qwen: Qwen3.7 Plus",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "anthropic/claude-opus-4.8",
@@ -23439,7 +23424,7 @@
       "architecture": "Claude",
       "created": "2026-05-27T18:04:51.937Z",
       "displayName": "Anthropic: Claude Opus 4.8 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "anthropic/claude-opus-4.8",
@@ -23846,7 +23831,7 @@
       "architecture": "Claude",
       "created": "2026-05-27T18:04:51.937Z",
       "displayName": "Anthropic: Claude Opus 4.8",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "qwen/qwen3.7-max",
@@ -24191,7 +24176,7 @@
       "architecture": "Qwen",
       "created": "2026-05-21T15:21:01.891Z",
       "displayName": "Qwen: Qwen3.7 Max",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "x-ai/grok-build-0.1",
@@ -24609,7 +24594,7 @@
       "architecture": "Grok",
       "created": "2026-05-20T17:28:43.274Z",
       "displayName": "SpaceXAI: Grok Build 0.1",
-      "fetchedAt": "2026-09-05T11:43:46.173Z"
+      "fetchedAt": "2026-09-06T12:01:34.780Z"
     },
     {
       "slug": "google/gemini-embedding-2",
@@ -24937,7 +24922,7 @@
       "architecture": "Gemini",
       "created": "2026-05-20T15:15:35.668Z",
       "displayName": "Google: Gemini Embedding 2",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.351Z"
     },
     {
       "slug": "google/gemini-3.5-flash",
@@ -25384,7 +25369,7 @@
       "architecture": "Gemini",
       "created": "2026-05-19T12:30:00.426Z",
       "displayName": "Google: Gemini 3.5 Flash",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.351Z"
     },
     {
       "slug": "x-ai/grok-imagine-video",
@@ -25744,7 +25729,7 @@
       "architecture": "Grok",
       "created": "2026-05-18T15:19:46.673Z",
       "displayName": "SpaceXAI: Grok Imagine Video",
-      "fetchedAt": "2026-09-05T11:43:46.173Z"
+      "fetchedAt": "2026-09-06T12:01:34.781Z"
     },
     {
       "slug": "x-ai/grok-imagine-image-quality",
@@ -26089,7 +26074,7 @@
       "architecture": "Grok",
       "created": "2026-05-18T15:19:44.066Z",
       "displayName": "SpaceXAI: Grok Imagine Image Quality",
-      "fetchedAt": "2026-09-05T11:43:46.175Z"
+      "fetchedAt": "2026-09-06T12:01:34.781Z"
     },
     {
       "slug": "mistralai/voxtral-mini-transcribe",
@@ -26323,7 +26308,7 @@
       "architecture": "Mistral",
       "created": "2026-05-15T20:30:24.202Z",
       "displayName": "Mistral: Voxtral Mini Transcribe",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "x-ai/grok-voice-tts-1.0",
@@ -26609,7 +26594,7 @@
       "architecture": "Grok",
       "created": "2026-05-15T00:37:36.932Z",
       "displayName": "SpaceXAI: Grok Voice TTS 1.0",
-      "fetchedAt": "2026-09-05T11:43:46.175Z"
+      "fetchedAt": "2026-09-06T12:01:34.781Z"
     },
     {
       "slug": "qwen/qwen3-asr-flash-2026-02-10",
@@ -26874,7 +26859,7 @@
       "architecture": "Qwen",
       "created": "2026-05-14T04:26:16.379Z",
       "displayName": "Qwen: Qwen3 ASR Flash",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "google/gemini-3.1-flash-lite",
@@ -27317,7 +27302,7 @@
       "architecture": "Gemini",
       "created": "2026-05-07T15:47:08.228Z",
       "displayName": "Google: Gemini 3.1 Flash Lite",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.351Z"
     },
     {
       "slug": "openai/gpt-chat-latest",
@@ -27650,7 +27635,7 @@
       "architecture": "GPT",
       "created": "2026-05-05T16:56:52.607Z",
       "displayName": "OpenAI: GPT Chat Latest",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-4o-mini-transcribe",
@@ -27905,7 +27890,7 @@
       "architecture": "GPT",
       "created": "2026-05-01T17:55:51.559Z",
       "displayName": "OpenAI: GPT-4o Mini Transcribe",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "x-ai/grok-4.3",
@@ -28357,7 +28342,7 @@
       "architecture": "Grok",
       "created": "2026-04-30T23:30:21.141Z",
       "displayName": "SpaceXAI: Grok 4.3 (batch)",
-      "fetchedAt": "2026-09-05T11:43:46.175Z"
+      "fetchedAt": "2026-09-06T12:01:34.781Z"
     },
     {
       "slug": "x-ai/grok-4.3",
@@ -28810,7 +28795,7 @@
       "architecture": "Grok",
       "created": "2026-04-30T23:30:21.141Z",
       "displayName": "SpaceXAI: Grok 4.3",
-      "fetchedAt": "2026-09-05T11:43:46.175Z"
+      "fetchedAt": "2026-09-06T12:01:34.781Z"
     },
     {
       "slug": "mistralai/mistral-medium-3-5",
@@ -29128,7 +29113,7 @@
       "architecture": "Mistral",
       "created": "2026-04-30T17:33:59.822Z",
       "displayName": "Mistral: Mistral Medium 3.5 (batch)",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "mistralai/mistral-medium-3-5",
@@ -29446,7 +29431,7 @@
       "architecture": "Mistral",
       "created": "2026-04-30T17:33:59.822Z",
       "displayName": "Mistral: Mistral Medium 3.5",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "openai/whisper-1",
@@ -29723,7 +29708,7 @@
       "architecture": "GPT",
       "created": "2026-04-27T23:35:05.043Z",
       "displayName": "OpenAI: Whisper 1",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-4o-transcribe",
@@ -30015,7 +30000,7 @@
       "architecture": "GPT",
       "created": "2026-04-27T23:34:55.986Z",
       "displayName": "OpenAI: GPT-4o Transcribe",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "qwen/qwen3.5-plus-20260420",
@@ -30421,7 +30406,7 @@
       "architecture": "Qwen",
       "created": "2026-04-27T03:42:48.608Z",
       "displayName": "Qwen: Qwen3.5 Plus 2026-04-20",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.389Z"
     },
     {
       "slug": "qwen/qwen3.6-flash",
@@ -30826,7 +30811,7 @@
       "architecture": "Qwen",
       "created": "2026-04-27T03:42:42.075Z",
       "displayName": "Qwen: Qwen3.6 Flash",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3.6-35b-a3b",
@@ -31010,7 +30995,7 @@
         "is_free": false,
         "can_abort": false,
         "max_prompt_tokens": null,
-        "max_completion_tokens": 16384,
+        "max_completion_tokens": 32768,
         "max_tokens_per_image": null,
         "supported_parameters": [
           "reasoning",
@@ -31121,7 +31106,7 @@
       "architecture": "Qwen",
       "created": "2026-04-27T03:24:15.340Z",
       "displayName": "Qwen: Qwen3.6 35B A3B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3.6-max-preview",
@@ -31534,7 +31519,7 @@
       "architecture": "Qwen",
       "created": "2026-04-27T03:24:02.092Z",
       "displayName": "Qwen: Qwen3.6 Max Preview",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3.6-27b",
@@ -31840,13 +31825,13 @@
         "allowed_passthrough_parameters": [],
         "capacity_tpm": null,
         "created_at": "2026-04-27T02:11:01.546Z",
-        "status": -2
+        "status": 0
       },
       "display_required_attestation_types": [],
       "architecture": "Qwen",
       "created": "2026-04-27T01:57:44.058Z",
       "displayName": "Qwen: Qwen3.6 27B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "openai/gpt-5.5-pro",
@@ -32242,7 +32227,7 @@
       "architecture": "GPT",
       "created": "2026-04-24T17:31:36.719Z",
       "displayName": "OpenAI: GPT-5.5 Pro",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5.5-pro",
@@ -32639,7 +32624,7 @@
       "architecture": "GPT",
       "created": "2026-04-24T17:31:36.719Z",
       "displayName": "OpenAI: GPT-5.5 Pro (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5.5",
@@ -33085,7 +33070,7 @@
       "architecture": "GPT",
       "created": "2026-04-24T17:31:33.253Z",
       "displayName": "OpenAI: GPT-5.5",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5.5",
@@ -33532,7 +33517,7 @@
       "architecture": "GPT",
       "created": "2026-04-24T17:31:33.253Z",
       "displayName": "OpenAI: GPT-5.5 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "xiaomi/mimo-v2.5-pro",
@@ -33845,7 +33830,7 @@
       "architecture": "Mimo",
       "created": "2026-04-22T16:11:13.016Z",
       "displayName": "Xiaomi: MiMo-V2.5-Pro",
-      "fetchedAt": "2026-09-05T11:43:46.968Z"
+      "fetchedAt": "2026-09-06T12:01:36.081Z"
     },
     {
       "slug": "xiaomi/mimo-v2.5",
@@ -34166,7 +34151,7 @@
       "architecture": "Mimo",
       "created": "2026-04-22T16:11:09.307Z",
       "displayName": "Xiaomi: MiMo-V2.5",
-      "fetchedAt": "2026-09-05T11:43:46.968Z"
+      "fetchedAt": "2026-09-06T12:01:36.081Z"
     },
     {
       "slug": "openai/gpt-5.4-image-2",
@@ -34616,7 +34601,7 @@
       "architecture": "GPT",
       "created": "2026-04-21T18:52:08.583Z",
       "displayName": "OpenAI: GPT-5.4 Image 2",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "mistralai/voxtral-mini-tts-2603",
@@ -34953,7 +34938,7 @@
       "architecture": "Mistral",
       "created": "2026-04-19T04:02:17.260Z",
       "displayName": "Mistral: Voxtral Mini TTS",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "google/gemini-embedding-2-preview",
@@ -34966,7 +34951,7 @@
       "author": "google",
       "author_display_name": "Google",
       "author_icon_uri": null,
-      "description": "Gemini Embedding 2 Preview is Google's first multimodal embedding model. We currently support mapping text and images into a unified vector space for semantic search and retrieval-augmented generation (RAG). It supports input context up to 8,192 tokens and flexible output dimensions from 128 to 3,072 (recommended: 768, 1536, or 3,072). Designed for cross-modal similarity — you can embed a text query and retrieve the most relevant images, or vice versa — making it well-suited for multimodal search, recommendation, and document understanding pipelines.",
+      "description": "Gemini Embedding 2 Preview is Google's first multimodal embedding model. We currently support mapping text and images into a unified vector space for semantic search and retrieval-augmented generation (RAG). It supports input context up to 8,192 tokens and flexible output dimensions from 128 to 3,072 (recommended: 768, 1536, or 3,072). Designed for cross-modal similarity �� you can embed a text query and retrieve the most relevant images, or vice versa — making it well-suited for multimodal search, recommendation, and document understanding pipelines.",
       "model_version_group_id": null,
       "context_length": 8192,
       "input_modalities": [
@@ -35294,7 +35279,7 @@
       "architecture": "Gemini",
       "created": "2026-04-17T14:34:25.613Z",
       "displayName": "Google: Gemini Embedding 2 Preview",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "anthropic/claude-opus-4.7",
@@ -35701,7 +35686,7 @@
       "architecture": "Claude",
       "created": "2026-04-16T14:51:40.905Z",
       "displayName": "Anthropic: Claude Opus 4.7 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "anthropic/claude-opus-4.7",
@@ -36113,7 +36098,7 @@
       "architecture": "Claude",
       "created": "2026-04-16T14:51:40.905Z",
       "displayName": "Anthropic: Claude Opus 4.7",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "z-ai/glm-5.1",
@@ -36420,7 +36405,7 @@
       "architecture": "GLM",
       "created": "2026-04-07T16:07:05.031Z",
       "displayName": "Z.ai: GLM 5.1",
-      "fetchedAt": "2026-09-05T11:43:46.798Z"
+      "fetchedAt": "2026-09-06T12:01:35.854Z"
     },
     {
       "slug": "google/gemma-4-26b-a4b-it",
@@ -36721,7 +36706,7 @@
       "architecture": "Gemini",
       "created": "2026-04-03T14:53:09.504Z",
       "displayName": "Google: Gemma 4 26B A4B  (free)",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "google/gemma-4-31b-it",
@@ -37027,7 +37012,7 @@
       "architecture": "Gemini",
       "created": "2026-04-02T16:48:06.471Z",
       "displayName": "Google: Gemma 4 31B (free)",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "qwen/qwen3.6-plus",
@@ -37449,7 +37434,7 @@
       "architecture": "Qwen",
       "created": "2026-04-02T12:39:17.573Z",
       "displayName": "Qwen: Qwen3.6 Plus",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "z-ai/glm-5v-turbo",
@@ -37537,7 +37522,7 @@
           "author": "z-ai",
           "author_display_name": "Z.ai",
           "author_icon_uri": null,
-          "description": "GLM-5V-Turbo is Z.ai’s first native multimodal agent foundation model, built for vision-based coding and agent-driven tasks. It natively handles image, video, and text inputs, excels at long-horizon planning, complex coding, and task execution, and works seamlessly with agents to complete the full loop of “perceive → plan → execute���.",
+          "description": "GLM-5V-Turbo is Z.ai’s first native multimodal agent foundation model, built for vision-based coding and agent-driven tasks. It natively handles image, video, and text inputs, excels at long-horizon planning, complex coding, and task execution, and works seamlessly with agents to complete the full loop of “perceive → plan ��� execute“.",
           "model_version_group_id": null,
           "context_length": 202752,
           "input_modalities": [
@@ -37760,7 +37745,7 @@
       "architecture": "GLM",
       "created": "2026-04-01T16:37:38.290Z",
       "displayName": "Z.ai: GLM 5V Turbo",
-      "fetchedAt": "2026-09-05T11:43:46.798Z"
+      "fetchedAt": "2026-09-06T12:01:35.854Z"
     },
     {
       "slug": "x-ai/grok-4.20-multi-agent",
@@ -38208,7 +38193,7 @@
       "architecture": "Grok",
       "created": "2026-03-31T17:45:58.343Z",
       "displayName": "SpaceXAI: Grok 4.20 Multi-Agent",
-      "fetchedAt": "2026-09-05T11:43:46.175Z"
+      "fetchedAt": "2026-09-06T12:01:34.781Z"
     },
     {
       "slug": "x-ai/grok-4.20",
@@ -38628,7 +38613,7 @@
       "architecture": "Grok",
       "created": "2026-03-31T17:43:39.677Z",
       "displayName": "SpaceXAI: Grok 4.20",
-      "fetchedAt": "2026-09-05T11:43:46.175Z"
+      "fetchedAt": "2026-09-06T12:01:34.781Z"
     },
     {
       "slug": "google/lyria-3-pro-preview",
@@ -38894,7 +38879,7 @@
       "architecture": "Gemini",
       "created": "2026-03-30T21:48:06.546Z",
       "displayName": "Google: Lyria 3 Pro Preview",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "google/lyria-3-clip-preview",
@@ -39160,7 +39145,7 @@
       "architecture": "Gemini",
       "created": "2026-03-30T21:47:35.284Z",
       "displayName": "Google: Lyria 3 Clip Preview",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "qwen/qwen3.6-plus-preview",
@@ -39234,7 +39219,7 @@
       "architecture": "Qwen",
       "created": "2026-03-30T17:26:09.185Z",
       "displayName": "Qwen: Qwen3.6 Plus Preview",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "openai/sora-2-pro",
@@ -39566,7 +39551,7 @@
       "architecture": "GPT",
       "created": "2026-03-23T14:52:01.486Z",
       "displayName": "OpenAI: Sora 2 Pro",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5.4-nano",
@@ -39940,7 +39925,7 @@
       "architecture": "GPT",
       "created": "2026-03-17T11:49:47.000Z",
       "displayName": "OpenAI: GPT-5.4 Nano",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5.4-nano",
@@ -40315,7 +40300,7 @@
       "architecture": "GPT",
       "created": "2026-03-17T11:49:47.000Z",
       "displayName": "OpenAI: GPT-5.4 Nano (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5.4-mini",
@@ -40689,7 +40674,7 @@
       "architecture": "GPT",
       "created": "2026-03-17T11:49:38.000Z",
       "displayName": "OpenAI: GPT-5.4 Mini",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5.4-mini",
@@ -41064,7 +41049,7 @@
       "architecture": "GPT",
       "created": "2026-03-17T11:49:38.000Z",
       "displayName": "OpenAI: GPT-5.4 Mini (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "mistralai/mistral-small-2603",
@@ -41399,7 +41384,7 @@
       "architecture": "Mistral",
       "created": "2026-03-16T21:14:45.935Z",
       "displayName": "Mistral: Mistral Small 4",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "z-ai/glm-5-turbo",
@@ -41708,7 +41693,7 @@
       "architecture": "GLM",
       "created": "2026-03-15T14:06:13.880Z",
       "displayName": "Z.ai: GLM 5 Turbo",
-      "fetchedAt": "2026-09-05T11:43:46.798Z"
+      "fetchedAt": "2026-09-06T12:01:35.854Z"
     },
     {
       "slug": "qwen/qwen3.5-9b",
@@ -41998,7 +41983,7 @@
       "architecture": "Qwen",
       "created": "2026-03-10T14:19:56.963Z",
       "displayName": "Qwen: Qwen3.5-9B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3.5-9b",
@@ -42291,7 +42276,7 @@
       "architecture": "Qwen",
       "created": "2026-03-10T14:19:56.963Z",
       "displayName": "Qwen: Qwen3.5-9B (batch)",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "openai/gpt-5.4-pro",
@@ -42687,7 +42672,7 @@
       "architecture": "GPT",
       "created": "2026-03-05T18:12:46.000Z",
       "displayName": "OpenAI: GPT-5.4 Pro",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5.4-pro",
@@ -43084,7 +43069,7 @@
       "architecture": "GPT",
       "created": "2026-03-05T18:12:46.000Z",
       "displayName": "OpenAI: GPT-5.4 Pro (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5.4",
@@ -43530,7 +43515,7 @@
       "architecture": "GPT",
       "created": "2026-03-05T18:12:32.000Z",
       "displayName": "OpenAI: GPT-5.4",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5.4",
@@ -43977,7 +43962,7 @@
       "architecture": "GPT",
       "created": "2026-03-05T18:12:32.000Z",
       "displayName": "OpenAI: GPT-5.4 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "google/gemini-3.1-flash-lite-preview",
@@ -44414,7 +44399,7 @@
       "architecture": "Gemini",
       "created": "2026-03-03T04:37:53.564Z",
       "displayName": "Google: Gemini 3.1 Flash Lite Preview",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "google/gemini-3.1-flash-image-preview",
@@ -44812,7 +44797,7 @@
       "architecture": "Gemini",
       "created": "2026-02-26T15:25:58.367Z",
       "displayName": "Google: Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "qwen/qwen3.5-35b-a3b",
@@ -44998,7 +44983,7 @@
         "is_free": false,
         "can_abort": false,
         "max_prompt_tokens": null,
-        "max_completion_tokens": 16384,
+        "max_completion_tokens": 32768,
         "max_tokens_per_image": null,
         "supported_parameters": [
           "reasoning",
@@ -45107,7 +45092,7 @@
       "architecture": "Qwen",
       "created": "2026-02-25T21:10:22.000Z",
       "displayName": "Qwen: Qwen3.5-35B-A3B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3.5-27b",
@@ -45407,7 +45392,7 @@
       "architecture": "Qwen",
       "created": "2026-02-25T21:10:10.000Z",
       "displayName": "Qwen: Qwen3.5-27B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3.5-122b-a10b",
@@ -45693,13 +45678,13 @@
         "allowed_passthrough_parameters": [],
         "capacity_tpm": null,
         "created_at": "2026-05-22T04:01:55.471Z",
-        "status": -2
+        "status": 0
       },
       "display_required_attestation_types": [],
       "architecture": "Qwen",
       "created": "2026-02-25T21:09:49.000Z",
       "displayName": "Qwen: Qwen3.5-122B-A10B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3.5-flash-02-23",
@@ -45987,7 +45972,7 @@
       "architecture": "Qwen",
       "created": "2026-02-25T21:09:36.000Z",
       "displayName": "Qwen: Qwen3.5-Flash",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "google/gemini-3.1-pro-preview-customtools",
@@ -46511,7 +46496,7 @@
       "architecture": "Gemini",
       "created": "2026-02-25T18:58:43.000Z",
       "displayName": "Google: Gemini 3.1 Pro Preview Custom Tools",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "openai/gpt-5.3-codex",
@@ -46881,7 +46866,7 @@
       "architecture": "GPT",
       "created": "2026-02-24T18:52:44.481Z",
       "displayName": "OpenAI: GPT-5.3-Codex",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "google/gemini-3.1-pro-preview",
@@ -47434,7 +47419,7 @@
       "architecture": "Gemini",
       "created": "2026-02-19T14:00:27.000Z",
       "displayName": "Google: Gemini 3.1 Pro Preview",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4.6",
@@ -47822,7 +47807,7 @@
       "architecture": "Claude",
       "created": "2026-02-17T15:43:10.807Z",
       "displayName": "Anthropic: Claude Sonnet 4.6 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4.6",
@@ -48210,7 +48195,7 @@
       "architecture": "Claude",
       "created": "2026-02-17T15:43:10.807Z",
       "displayName": "Anthropic: Claude Sonnet 4.6",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "qwen/qwen3.5-plus-02-15",
@@ -48551,7 +48536,7 @@
       "architecture": "Qwen",
       "created": "2026-02-16T08:10:16.477Z",
       "displayName": "Qwen: Qwen3.5 Plus 2026-02-15",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3.5-397b-a17b",
@@ -48851,7 +48836,7 @@
       "architecture": "Qwen",
       "created": "2026-02-16T06:23:38.867Z",
       "displayName": "Qwen: Qwen3.5 397B A17B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "z-ai/glm-5",
@@ -49157,7 +49142,7 @@
       "architecture": "GLM",
       "created": "2026-02-11T16:59:42.000Z",
       "displayName": "Z.ai: GLM 5",
-      "fetchedAt": "2026-09-05T11:43:46.798Z"
+      "fetchedAt": "2026-09-06T12:01:35.854Z"
     },
     {
       "slug": "qwen/qwen3-max-thinking",
@@ -49519,7 +49504,7 @@
       "architecture": "Qwen",
       "created": "2026-02-09T21:18:21.683Z",
       "displayName": "Qwen: Qwen3 Max Thinking",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "anthropic/claude-opus-4.6",
@@ -49919,7 +49904,7 @@
       "architecture": "Claude",
       "created": "2026-02-04T15:30:50.029Z",
       "displayName": "Anthropic: Claude Opus 4.6 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "anthropic/claude-opus-4.6",
@@ -50325,7 +50310,7 @@
       "architecture": "Claude",
       "created": "2026-02-04T15:30:50.029Z",
       "displayName": "Anthropic: Claude Opus 4.6",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "qwen/qwen3-coder-next",
@@ -50621,7 +50606,7 @@
       "architecture": "Qwen",
       "created": "2026-02-04T00:15:01.820Z",
       "displayName": "Qwen: Qwen3 Coder Next",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "openai/gpt-audio",
@@ -50953,7 +50938,7 @@
       "architecture": "GPT",
       "created": "2026-01-19T22:42:49.327Z",
       "displayName": "OpenAI: GPT Audio",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-audio-mini",
@@ -51267,7 +51252,7 @@
       "architecture": "GPT",
       "created": "2026-01-19T21:50:19.564Z",
       "displayName": "OpenAI: GPT Audio Mini",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "z-ai/glm-4.7",
@@ -51574,13 +51559,13 @@
         "allowed_passthrough_parameters": [],
         "capacity_tpm": null,
         "created_at": "2025-12-22T04:34:18.871Z",
-        "status": 0
+        "status": -2
       },
       "display_required_attestation_types": [],
       "architecture": "GLM",
       "created": "2025-12-22T04:33:34.884Z",
       "displayName": "Z.ai: GLM 4.7",
-      "fetchedAt": "2026-09-05T11:43:46.798Z"
+      "fetchedAt": "2026-09-06T12:01:35.854Z"
     },
     {
       "slug": "google/gemini-3-flash-preview",
@@ -52045,7 +52030,7 @@
       "architecture": "Gemini",
       "created": "2025-12-17T15:57:58.000Z",
       "displayName": "Google: Gemini 3 Flash Preview",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "openai/gpt-5.2-pro",
@@ -52401,7 +52386,7 @@
       "architecture": "GPT",
       "created": "2025-12-10T18:03:00.055Z",
       "displayName": "OpenAI: GPT-5.2 Pro (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5.2-pro",
@@ -52756,7 +52741,7 @@
       "architecture": "GPT",
       "created": "2025-12-10T18:03:00.055Z",
       "displayName": "OpenAI: GPT-5.2 Pro",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5.2",
@@ -53125,7 +53110,7 @@
       "architecture": "GPT",
       "created": "2025-12-10T18:02:55.765Z",
       "displayName": "OpenAI: GPT-5.2",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5.2",
@@ -53495,7 +53480,7 @@
       "architecture": "GPT",
       "created": "2025-12-10T18:02:55.765Z",
       "displayName": "OpenAI: GPT-5.2 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "mistralai/devstral-2512",
@@ -53795,7 +53780,7 @@
       "architecture": "Mistral",
       "created": "2025-12-09T13:03:39.000Z",
       "displayName": "Mistral: Devstral 2 2512",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "z-ai/glm-4.6v",
@@ -54094,13 +54079,13 @@
         "allowed_passthrough_parameters": [],
         "capacity_tpm": null,
         "created_at": "2025-12-08T15:30:28.062Z",
-        "status": 0
+        "status": -2
       },
       "display_required_attestation_types": [],
       "architecture": "GLM",
       "created": "2025-12-08T15:24:22.464Z",
       "displayName": "Z.ai: GLM 4.6V",
-      "fetchedAt": "2026-09-05T11:43:46.798Z"
+      "fetchedAt": "2026-09-06T12:01:35.854Z"
     },
     {
       "slug": "mistralai/ministral-14b-2512",
@@ -54400,7 +54385,7 @@
       "architecture": "Mistral",
       "created": "2025-12-02T13:22:15.851Z",
       "displayName": "Mistral: Ministral 3 14B 2512",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "mistralai/ministral-8b-2512",
@@ -54700,7 +54685,7 @@
       "architecture": "Mistral",
       "created": "2025-12-02T13:20:54.103Z",
       "displayName": "Mistral: Ministral 3 8B 2512",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "mistralai/ministral-3b-2512",
@@ -55000,7 +54985,7 @@
       "architecture": "Mistral",
       "created": "2025-12-02T13:19:20.726Z",
       "displayName": "Mistral: Ministral 3 3B 2512",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "mistralai/mistral-large-2512",
@@ -55303,7 +55288,7 @@
       "architecture": "Mistral",
       "created": "2025-12-01T21:27:52.651Z",
       "displayName": "Mistral: Mistral Large 3 2512",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "anthropic/claude-opus-4.5",
@@ -55661,7 +55646,7 @@
       "architecture": "Claude",
       "created": "2025-11-24T18:56:20.000Z",
       "displayName": "Anthropic: Claude Opus 4.5 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "anthropic/claude-opus-4.5",
@@ -56019,7 +56004,7 @@
       "architecture": "Claude",
       "created": "2025-11-24T18:56:20.000Z",
       "displayName": "Anthropic: Claude Opus 4.5",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "google/gemini-3-pro-image-preview",
@@ -56496,7 +56481,7 @@
       "architecture": "Gemini",
       "created": "2025-11-20T15:49:57.064Z",
       "displayName": "Google: Nano Banana Pro (Gemini 3 Pro Image Preview)",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "openai/gpt-5.1",
@@ -56873,7 +56858,7 @@
       "architecture": "GPT",
       "created": "2025-11-13T18:58:25.000Z",
       "displayName": "OpenAI: GPT-5.1",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5.1",
@@ -57251,7 +57236,7 @@
       "architecture": "GPT",
       "created": "2025-11-13T18:58:25.000Z",
       "displayName": "OpenAI: GPT-5.1 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "qwen/qwen3-embedding-0.6b",
@@ -57322,7 +57307,7 @@
       "architecture": "Qwen",
       "created": "2025-11-05T12:42:00.454Z",
       "displayName": "Qwen: Qwen3 Embedding 0.6B",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "mistralai/mistral-embed-2312",
@@ -57587,7 +57572,7 @@
       "architecture": "Mistral",
       "created": "2025-10-31T21:03:42.776Z",
       "displayName": "Mistral: Mistral Embed 2312",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "google/gemini-embedding-001",
@@ -57859,7 +57844,7 @@
       "architecture": "Gemini",
       "created": "2025-10-31T20:43:30.264Z",
       "displayName": "Google: Gemini Embedding 001",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "openai/text-embedding-ada-002",
@@ -58133,7 +58118,7 @@
       "architecture": "GPT",
       "created": "2025-10-30T23:09:58.907Z",
       "displayName": "OpenAI: Text Embedding Ada 002 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/text-embedding-ada-002",
@@ -58407,7 +58392,7 @@
       "architecture": "GPT",
       "created": "2025-10-30T23:09:58.907Z",
       "displayName": "OpenAI: Text Embedding Ada 002",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "mistralai/codestral-embed-2505",
@@ -58672,7 +58657,7 @@
       "architecture": "Mistral",
       "created": "2025-10-30T22:47:40.423Z",
       "displayName": "Mistral: Codestral Embed 2505",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "openai/text-embedding-3-large",
@@ -58946,7 +58931,7 @@
       "architecture": "GPT",
       "created": "2025-10-30T22:21:06.503Z",
       "displayName": "OpenAI: Text Embedding 3 Large (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/text-embedding-3-large",
@@ -59220,7 +59205,7 @@
       "architecture": "GPT",
       "created": "2025-10-30T22:21:06.503Z",
       "displayName": "OpenAI: Text Embedding 3 Large",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/text-embedding-3-small",
@@ -59494,7 +59479,7 @@
       "architecture": "GPT",
       "created": "2025-10-30T20:50:55.000Z",
       "displayName": "OpenAI: Text Embedding 3 Small (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/text-embedding-3-small",
@@ -59768,7 +59753,7 @@
       "architecture": "GPT",
       "created": "2025-10-30T20:50:55.000Z",
       "displayName": "OpenAI: Text Embedding 3 Small",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "mistralai/voxtral-small-24b-2507",
@@ -60088,7 +60073,7 @@
       "architecture": "Mistral",
       "created": "2025-10-30T14:39:04.000Z",
       "displayName": "Mistral: Voxtral Small 24B 2507",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "qwen/qwen3-embedding-8b",
@@ -60354,7 +60339,7 @@
       "architecture": "Qwen",
       "created": "2025-10-28T19:43:42.126Z",
       "displayName": "Qwen: Qwen3 Embedding 8B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-embedding-4b",
@@ -60619,7 +60604,7 @@
       "architecture": "Qwen",
       "created": "2025-10-28T14:48:42.679Z",
       "displayName": "Qwen: Qwen3 Embedding 4B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-vl-32b-instruct",
@@ -60913,7 +60898,7 @@
       "architecture": "Qwen",
       "created": "2025-10-23T14:55:32.539Z",
       "displayName": "Qwen: Qwen3 VL 32B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "openai/gpt-5-image-mini",
@@ -61316,7 +61301,7 @@
       "architecture": "GPT",
       "created": "2025-10-16T14:23:03.143Z",
       "displayName": "OpenAI: GPT-5 Image Mini",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "anthropic/claude-haiku-4.5",
@@ -61690,7 +61675,7 @@
       "architecture": "Claude",
       "created": "2025-10-15T17:00:38.000Z",
       "displayName": "Anthropic: Claude Haiku 4.5 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "anthropic/claude-haiku-4.5",
@@ -62064,7 +62049,7 @@
       "architecture": "Claude",
       "created": "2025-10-15T17:00:38.000Z",
       "displayName": "Anthropic: Claude Haiku 4.5",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "qwen/qwen3-vl-8b-thinking",
@@ -62360,7 +62345,7 @@
       "architecture": "Qwen",
       "created": "2025-10-14T17:42:26.552Z",
       "displayName": "Qwen: Qwen3 VL 8B Thinking",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-vl-8b-instruct",
@@ -62651,7 +62636,7 @@
       "architecture": "Qwen",
       "created": "2025-10-14T17:35:08.402Z",
       "displayName": "Qwen: Qwen3 VL 8B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "openai/gpt-5-image",
@@ -63071,7 +63056,7 @@
       "architecture": "GPT",
       "created": "2025-10-14T13:19:46.029Z",
       "displayName": "OpenAI: GPT-5 Image",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "google/gemini-2.5-flash-image",
@@ -63503,7 +63488,7 @@
       "architecture": "Gemini",
       "created": "2025-10-07T20:53:51.000Z",
       "displayName": "Google: Nano Banana (Gemini 2.5 Flash Image)",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "qwen/qwen3-vl-30b-a3b-thinking",
@@ -63803,7 +63788,7 @@
       "architecture": "Qwen",
       "created": "2025-10-06T23:47:59.575Z",
       "displayName": "Qwen: Qwen3 VL 30B A3B Thinking",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-vl-30b-a3b-instruct",
@@ -64097,7 +64082,7 @@
       "architecture": "Qwen",
       "created": "2025-10-06T23:47:56.430Z",
       "displayName": "Qwen: Qwen3 VL 30B A3B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "openai/gpt-5-pro",
@@ -64449,7 +64434,7 @@
       "architecture": "GPT",
       "created": "2025-10-06T18:51:03.215Z",
       "displayName": "OpenAI: GPT-5 Pro (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5-pro",
@@ -64800,7 +64785,7 @@
       "architecture": "GPT",
       "created": "2025-10-06T18:51:03.215Z",
       "displayName": "OpenAI: GPT-5 Pro",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "z-ai/glm-4.6",
@@ -65105,7 +65090,7 @@
       "architecture": "GLM",
       "created": "2025-09-30T12:32:56.306Z",
       "displayName": "Z.ai: GLM 4.6",
-      "fetchedAt": "2026-09-05T11:43:46.798Z"
+      "fetchedAt": "2026-09-06T12:01:35.854Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4.5",
@@ -65595,7 +65580,7 @@
       "architecture": "Claude",
       "created": "2025-09-29T16:01:16.552Z",
       "displayName": "Anthropic: Claude Sonnet 4.5 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "anthropic/claude-sonnet-4.5",
@@ -66085,7 +66070,7 @@
       "architecture": "Claude",
       "created": "2025-09-29T16:01:16.552Z",
       "displayName": "Anthropic: Claude Sonnet 4.5",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "qwen/qwen3-vl-235b-a22b-thinking",
@@ -66379,13 +66364,13 @@
         "allowed_passthrough_parameters": [],
         "capacity_tpm": null,
         "created_at": "2026-02-12T14:20:51.130Z",
-        "status": -2
+        "status": 0
       },
       "display_required_attestation_types": [],
       "architecture": "Qwen",
       "created": "2025-09-23T23:04:50.000Z",
       "displayName": "Qwen: Qwen3 VL 235B A22B Thinking",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-vl-235b-a22b-instruct",
@@ -66688,7 +66673,7 @@
       "architecture": "Qwen",
       "created": "2025-09-23T23:04:47.000Z",
       "displayName": "Qwen: Qwen3 VL 235B A22B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-max",
@@ -67195,7 +67180,7 @@
       "architecture": "Qwen",
       "created": "2025-09-23T21:26:48.000Z",
       "displayName": "Qwen: Qwen3 Max",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-coder-plus",
@@ -67700,7 +67685,7 @@
       "architecture": "Qwen",
       "created": "2025-09-23T21:25:07.000Z",
       "displayName": "Qwen: Qwen3 Coder Plus",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-coder-flash",
@@ -68200,7 +68185,7 @@
       "architecture": "Qwen",
       "created": "2025-09-17T13:25:36.216Z",
       "displayName": "Qwen: Qwen3 Coder Flash",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-next-80b-a3b-thinking",
@@ -68495,7 +68480,7 @@
       "architecture": "Qwen",
       "created": "2025-09-11T17:38:04.192Z",
       "displayName": "Qwen: Qwen3 Next 80B A3B Thinking",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-next-80b-a3b-instruct",
@@ -68768,7 +68753,7 @@
       "architecture": "Qwen",
       "created": "2025-09-11T17:36:53.637Z",
       "displayName": "Qwen: Qwen3 Next 80B A3B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen-plus-2025-07-28",
@@ -69109,7 +69094,7 @@
       "architecture": "Qwen",
       "created": "2025-09-08T16:06:39.935Z",
       "displayName": "Qwen: Qwen Plus 0728",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-30b-a3b-thinking-2507",
@@ -69391,7 +69376,7 @@
       "architecture": "Qwen",
       "created": "2025-08-28T16:39:52.539Z",
       "displayName": "Qwen: Qwen3 30B A3B Thinking 2507",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "mistralai/mistral-medium-3.1",
@@ -69689,7 +69674,7 @@
       "architecture": "Mistral",
       "created": "2025-08-13T14:33:59.459Z",
       "displayName": "Mistral: Mistral Medium 3.1",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "z-ai/glm-4.5v",
@@ -69993,7 +69978,7 @@
       "architecture": "GLM",
       "created": "2025-08-11T14:24:48.340Z",
       "displayName": "Z.ai: GLM 4.5V",
-      "fetchedAt": "2026-09-05T11:43:46.798Z"
+      "fetchedAt": "2026-09-06T12:01:35.854Z"
     },
     {
       "slug": "openai/gpt-5",
@@ -70376,7 +70361,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:33.000Z",
       "displayName": "OpenAI: GPT-5 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5",
@@ -70758,7 +70743,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:33.000Z",
       "displayName": "OpenAI: GPT-5",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5-mini",
@@ -71128,7 +71113,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:27.000Z",
       "displayName": "OpenAI: GPT-5 Mini",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5-mini",
@@ -71499,7 +71484,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:27.000Z",
       "displayName": "OpenAI: GPT-5 Mini (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5-nano",
@@ -71869,7 +71854,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:22.000Z",
       "displayName": "OpenAI: GPT-5 Nano",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-5-nano",
@@ -72239,7 +72224,7 @@
       "architecture": "GPT",
       "created": "2025-08-07T17:23:22.000Z",
       "displayName": "OpenAI: GPT-5 Nano (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "anthropic/claude-opus-4.1",
@@ -72609,7 +72594,7 @@
       "architecture": "Claude",
       "created": "2025-08-05T16:33:11.634Z",
       "displayName": "Anthropic: Claude Opus 4.1 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.771Z"
+      "fetchedAt": "2026-09-06T12:01:34.055Z"
     },
     {
       "slug": "mistralai/codestral-2508",
@@ -72909,7 +72894,7 @@
       "architecture": "Mistral",
       "created": "2025-08-01T20:20:30.639Z",
       "displayName": "Mistral: Codestral 2508",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "qwen/qwen3-coder-30b-a3b-instruct",
@@ -73180,7 +73165,7 @@
       "architecture": "Qwen",
       "created": "2025-07-31T14:32:59.359Z",
       "displayName": "Qwen: Qwen3 Coder 30B A3B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-30b-a3b-instruct-2507",
@@ -73450,7 +73435,7 @@
       "architecture": "Qwen",
       "created": "2025-07-29T16:36:05.687Z",
       "displayName": "Qwen: Qwen3 30B A3B Instruct 2507",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "z-ai/glm-4.5",
@@ -73756,7 +73741,7 @@
       "architecture": "GLM",
       "created": "2025-07-25T19:22:27.278Z",
       "displayName": "Z.ai: GLM 4.5",
-      "fetchedAt": "2026-09-05T11:43:46.798Z"
+      "fetchedAt": "2026-09-06T12:01:35.854Z"
     },
     {
       "slug": "z-ai/glm-4.5-air",
@@ -74054,7 +74039,7 @@
       "architecture": "GLM",
       "created": "2025-07-25T19:20:58.066Z",
       "displayName": "Z.ai: GLM 4.5 Air",
-      "fetchedAt": "2026-09-05T11:43:46.798Z"
+      "fetchedAt": "2026-09-06T12:01:35.854Z"
     },
     {
       "slug": "qwen/qwen3-235b-a22b-thinking-2507",
@@ -74349,7 +74334,7 @@
       "architecture": "Qwen",
       "created": "2025-07-25T13:19:17.179Z",
       "displayName": "Qwen: Qwen3 235B A22B Thinking 2507",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-coder",
@@ -74627,7 +74612,7 @@
       "architecture": "Qwen",
       "created": "2025-07-23T00:29:06.000Z",
       "displayName": "Qwen: Qwen3 Coder 480B A35B",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "google/gemini-2.5-flash-lite",
@@ -75023,7 +75008,7 @@
       "architecture": "Gemini",
       "created": "2025-07-22T16:04:36.283Z",
       "displayName": "Google: Gemini 2.5 Flash Lite",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "qwen/qwen3-235b-a22b-2507",
@@ -75311,7 +75296,7 @@
       "architecture": "Qwen",
       "created": "2025-07-21T17:39:15.880Z",
       "displayName": "Qwen: Qwen3 235B A22B Instruct 2507",
-      "fetchedAt": "2026-09-05T11:43:47.281Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "google/gemini-2.5-flash",
@@ -75717,7 +75702,7 @@
       "architecture": "Gemini",
       "created": "2025-06-17T15:01:28.103Z",
       "displayName": "Google: Gemini 2.5 Flash",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "google/gemini-2.5-pro",
@@ -76245,13 +76230,13 @@
         "allowed_passthrough_parameters": [],
         "capacity_tpm": null,
         "created_at": "2025-06-17T16:16:47.883Z",
-        "status": 0
+        "status": -2
       },
       "display_required_attestation_types": [],
       "architecture": "Gemini",
       "created": "2025-06-17T14:12:24.000Z",
       "displayName": "Google: Gemini 2.5 Pro",
-      "fetchedAt": "2026-09-05T11:43:46.010Z"
+      "fetchedAt": "2026-09-06T12:01:34.352Z"
     },
     {
       "slug": "openai/o3-pro",
@@ -76563,7 +76548,7 @@
       "architecture": "GPT",
       "created": "2025-06-10T23:32:32.266Z",
       "displayName": "OpenAI: o3 Pro",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "meta-llama/llama-3.3-8b-instruct",
@@ -76619,7 +76604,7 @@
       "architecture": "Llama",
       "created": "2025-05-14T13:42:34.222Z",
       "displayName": "Meta: Llama 3.3 8B Instruct",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "mistralai/mistral-medium-3",
@@ -76896,7 +76881,7 @@
       "architecture": "Mistral",
       "created": "2025-05-07T14:15:41.980Z",
       "displayName": "Mistral: Mistral Medium 3",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "qwen/qwen3-0.6b-04-28",
@@ -76963,7 +76948,7 @@
       "architecture": "Qwen",
       "created": "2025-04-30T20:05:26.503Z",
       "displayName": "Qwen: Qwen3 0.6B",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-1.7b",
@@ -77030,7 +77015,7 @@
       "architecture": "Qwen",
       "created": "2025-04-30T16:43:08.565Z",
       "displayName": "Qwen: Qwen3 1.7B",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-4b",
@@ -77097,7 +77082,7 @@
       "architecture": "Qwen",
       "created": "2025-04-30T16:38:24.032Z",
       "displayName": "Qwen: Qwen3 4B",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "meta-llama/llama-guard-4-12b",
@@ -77350,7 +77335,7 @@
       "architecture": "Llama",
       "created": "2025-04-30T01:06:33.531Z",
       "displayName": "Meta: Llama Guard 4 12B",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "qwen/qwen3-30b-a3b",
@@ -77648,7 +77633,7 @@
       "architecture": "Qwen",
       "created": "2025-04-28T22:16:44.177Z",
       "displayName": "Qwen: Qwen3 30B A3B",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-8b",
@@ -77949,7 +77934,7 @@
       "architecture": "Qwen",
       "created": "2025-04-28T21:43:52.421Z",
       "displayName": "Qwen: Qwen3 8B",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-14b",
@@ -78230,7 +78215,7 @@
       "architecture": "Qwen",
       "created": "2025-04-28T21:41:18.320Z",
       "displayName": "Qwen: Qwen3 14B",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-32b",
@@ -78508,7 +78493,7 @@
       "architecture": "Qwen",
       "created": "2025-04-28T21:32:25.189Z",
       "displayName": "Qwen: Qwen3 32B",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen3-235b-a22b",
@@ -78785,7 +78770,7 @@
       "architecture": "Qwen",
       "created": "2025-04-28T21:29:17.256Z",
       "displayName": "Qwen: Qwen3 235B A22B",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "openai/o4-mini-high",
@@ -79133,7 +79118,7 @@
       "architecture": "GPT",
       "created": "2025-04-16T17:23:32.042Z",
       "displayName": "OpenAI: o4 Mini High",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/o3",
@@ -79452,7 +79437,7 @@
       "architecture": "GPT",
       "created": "2025-04-16T17:10:57.049Z",
       "displayName": "OpenAI: o3 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/o3",
@@ -79770,7 +79755,7 @@
       "architecture": "GPT",
       "created": "2025-04-16T17:10:57.049Z",
       "displayName": "OpenAI: o3",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/o4-mini",
@@ -80089,7 +80074,7 @@
       "architecture": "GPT",
       "created": "2025-04-16T16:29:02.980Z",
       "displayName": "OpenAI: o4 Mini (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/o4-mini",
@@ -80407,7 +80392,7 @@
       "architecture": "GPT",
       "created": "2025-04-16T16:29:02.980Z",
       "displayName": "OpenAI: o4 Mini",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "qwen/qwen2.5-coder-7b-instruct",
@@ -80463,7 +80448,7 @@
       "architecture": "Qwen",
       "created": "2025-04-15T16:34:47.067Z",
       "displayName": "Qwen: Qwen2.5 Coder 7B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "openai/gpt-4.1",
@@ -80758,7 +80743,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:05.000Z",
       "displayName": "OpenAI: GPT-4.1 (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-4.1",
@@ -81052,7 +81037,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:05.000Z",
       "displayName": "OpenAI: GPT-4.1",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-4.1-mini",
@@ -81347,7 +81332,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:01.000Z",
       "displayName": "OpenAI: GPT-4.1 Mini (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-4.1-mini",
@@ -81641,7 +81626,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:23:01.000Z",
       "displayName": "OpenAI: GPT-4.1 Mini",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-4.1-nano",
@@ -81936,7 +81921,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:22:49.000Z",
       "displayName": "OpenAI: GPT-4.1 Nano (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-4.1-nano",
@@ -82230,7 +82215,7 @@
       "architecture": "GPT",
       "created": "2025-04-14T17:22:49.000Z",
       "displayName": "OpenAI: GPT-4.1 Nano",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "meta-llama/llama-4-maverick",
@@ -82479,7 +82464,7 @@
       "architecture": "Llama",
       "created": "2025-04-05T19:37:02.129Z",
       "displayName": "Meta: Llama 4 Maverick",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "meta-llama/llama-4-scout",
@@ -82733,7 +82718,7 @@
       "architecture": "Llama",
       "created": "2025-04-05T19:31:59.735Z",
       "displayName": "Meta: Llama 4 Scout",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-3b-instruct",
@@ -82790,7 +82775,7 @@
       "architecture": "Qwen",
       "created": "2025-03-26T18:42:53.418Z",
       "displayName": "Qwen: Qwen2.5 VL 3B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-32b-instruct",
@@ -82847,7 +82832,7 @@
       "architecture": "Qwen",
       "created": "2025-03-24T18:10:38.542Z",
       "displayName": "Qwen: Qwen2.5 VL 32B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "openai/o1-pro",
@@ -83125,7 +83110,7 @@
       "architecture": "GPT",
       "created": "2025-03-19T22:26:51.610Z",
       "displayName": "OpenAI: o1-pro",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "qwen/qwq-32b",
@@ -83192,7 +83177,7 @@
       "architecture": "Qwen",
       "created": "2025-03-05T21:06:54.875Z",
       "displayName": "Qwen: QwQ 32B",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen2.5-32b-instruct",
@@ -83248,7 +83233,7 @@
       "architecture": "Qwen",
       "created": "2025-03-03T22:59:04.755Z",
       "displayName": "Qwen: Qwen2.5 32B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "mistralai/mistral-saba",
@@ -83523,7 +83508,7 @@
       "architecture": "Mistral",
       "created": "2025-02-17T14:40:39.116Z",
       "displayName": "Mistral: Saba",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "meta-llama/llama-guard-3-8b",
@@ -83579,7 +83564,7 @@
       "architecture": "Llama",
       "created": "2025-02-12T23:01:58.468Z",
       "displayName": "Llama Guard 3 8B",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "openai/o3-mini-high",
@@ -83919,7 +83904,7 @@
       "architecture": "GPT",
       "created": "2025-02-12T15:03:31.504Z",
       "displayName": "OpenAI: o3 Mini High",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "qwen/qwen-vl-plus",
@@ -83976,7 +83961,7 @@
       "architecture": "Qwen",
       "created": "2025-02-05T04:54:15.216Z",
       "displayName": "Qwen: Qwen VL Plus",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen-vl-max",
@@ -84047,7 +84032,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T18:25:04.223Z",
       "displayName": "Qwen: Qwen VL Max",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen-turbo",
@@ -84103,7 +84088,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:56:14.820Z",
       "displayName": "Qwen: Qwen-Turbo",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen2.5-vl-72b-instruct",
@@ -84374,7 +84359,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:45:11.997Z",
       "displayName": "Qwen: Qwen2.5 VL 72B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen-plus",
@@ -84792,7 +84777,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T11:37:20.886Z",
       "displayName": "Qwen: Qwen-Plus",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen-max",
@@ -84848,7 +84833,7 @@
       "architecture": "Qwen",
       "created": "2025-02-01T09:31:29.206Z",
       "displayName": "Qwen: Qwen-Max ",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "openai/o3-mini",
@@ -85159,7 +85144,7 @@
       "architecture": "GPT",
       "created": "2025-01-31T19:28:41.132Z",
       "displayName": "OpenAI: o3 Mini (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.548Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/o3-mini",
@@ -85469,7 +85454,7 @@
       "architecture": "GPT",
       "created": "2025-01-31T19:28:41.132Z",
       "displayName": "OpenAI: o3 Mini",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/o1",
@@ -85781,7 +85766,7 @@
       "architecture": "GPT",
       "created": "2024-12-17T18:26:39.576Z",
       "displayName": "OpenAI: o1",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "meta-llama/llama-3.3-70b-instruct",
@@ -86039,7 +86024,7 @@
       "architecture": "Llama",
       "created": "2024-12-06T17:28:57.828Z",
       "displayName": "Meta: Llama 3.3 70B Instruct",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "qwen/qwq-32b-preview",
@@ -86106,7 +86091,7 @@
       "architecture": "Qwen",
       "created": "2024-11-28T00:42:21.381Z",
       "displayName": "Qwen: QwQ 32B Preview",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "openai/gpt-4o-2024-11-20",
@@ -86388,7 +86373,7 @@
       "architecture": "GPT",
       "created": "2024-11-20T18:33:14.771Z",
       "displayName": "OpenAI: GPT-4o (2024-11-20)",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "mistralai/mistral-large-2407",
@@ -86663,7 +86648,7 @@
       "architecture": "Mistral",
       "created": "2024-11-19T01:06:55.274Z",
       "displayName": "Mistral Large 2407",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.598Z"
     },
     {
       "slug": "qwen/qwen-2.5-coder-32b-instruct",
@@ -86921,7 +86906,7 @@
       "architecture": "Qwen",
       "created": "2024-11-11T23:40:00.276Z",
       "displayName": "Qwen2.5 Coder 32B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen-2.5-7b-instruct",
@@ -87213,7 +87198,7 @@
       "architecture": "Qwen",
       "created": "2024-10-16T00:00:00.000Z",
       "displayName": "Qwen: Qwen2.5 7B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "meta-llama/llama-3.2-3b-instruct",
@@ -87470,7 +87455,7 @@
       "architecture": "Llama",
       "created": "2024-09-25T00:00:00.000Z",
       "displayName": "Meta: Llama 3.2 3B Instruct",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "meta-llama/llama-3.2-1b-instruct",
@@ -87726,7 +87711,7 @@
       "architecture": "Llama",
       "created": "2024-09-25T00:00:00.000Z",
       "displayName": "Meta: Llama 3.2 1B Instruct",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "meta-llama/llama-3.2-90b-vision-instruct",
@@ -87786,7 +87771,7 @@
       "architecture": "Llama",
       "created": "2024-09-25T00:00:00.000Z",
       "displayName": "Meta: Llama 3.2 90B Vision Instruct",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "meta-llama/llama-3.2-11b-vision-instruct",
@@ -87846,7 +87831,7 @@
       "architecture": "Llama",
       "created": "2024-09-25T00:00:00.000Z",
       "displayName": "Meta: Llama 3.2 11B Vision Instruct",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "qwen/qwen-2.5-72b-instruct",
@@ -88107,7 +88092,7 @@
       "architecture": "Qwen",
       "created": "2024-09-19T00:00:00.000Z",
       "displayName": "Qwen2.5 72B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen-2.5-vl-7b-instruct",
@@ -88164,7 +88149,7 @@
       "architecture": "Qwen",
       "created": "2024-08-28T00:00:00.000Z",
       "displayName": "Qwen: Qwen2.5-VL 7B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "openai/gpt-4o-2024-08-06",
@@ -88440,7 +88425,7 @@
       "architecture": "GPT",
       "created": "2024-08-06T00:00:00.000Z",
       "displayName": "OpenAI: GPT-4o (2024-08-06)",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "meta-llama/llama-3.1-405b",
@@ -88496,7 +88481,7 @@
       "architecture": "Llama",
       "created": "2024-08-02T00:00:00.000Z",
       "displayName": "Meta: Llama 3.1 405B (base)",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "meta-llama/llama-3.1-70b-instruct",
@@ -88758,7 +88743,7 @@
       "architecture": "Llama",
       "created": "2024-07-23T00:00:00.000Z",
       "displayName": "Meta: Llama 3.1 70B Instruct",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "meta-llama/llama-3.1-8b-instruct",
@@ -89008,13 +88993,13 @@
         "allowed_passthrough_parameters": [],
         "capacity_tpm": null,
         "created_at": "2026-03-21T22:45:56.390Z",
-        "status": 0
+        "status": -2
       },
       "display_required_attestation_types": [],
       "architecture": "Llama",
       "created": "2024-07-23T00:00:00.000Z",
       "displayName": "Meta: Llama 3.1 8B Instruct",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "meta-llama/llama-3.1-405b-instruct",
@@ -89073,7 +89058,7 @@
       "architecture": "Llama",
       "created": "2024-07-23T00:00:00.000Z",
       "displayName": "Meta: Llama 3.1 405B Instruct",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "openai/gpt-4o-mini",
@@ -89351,7 +89336,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00.000Z",
       "displayName": "OpenAI: GPT-4o-mini (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-4o-mini",
@@ -89627,7 +89612,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00.000Z",
       "displayName": "OpenAI: GPT-4o-mini",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-4o-mini-2024-07-18",
@@ -89903,7 +89888,7 @@
       "architecture": "GPT",
       "created": "2024-07-18T00:00:00.000Z",
       "displayName": "OpenAI: GPT-4o-mini (2024-07-18)",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "qwen/qwen-2-7b-instruct",
@@ -89963,7 +89948,7 @@
       "architecture": "Qwen",
       "created": "2024-07-16T00:00:00.000Z",
       "displayName": "Qwen 2 7B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen-2-72b-instruct",
@@ -90023,7 +90008,7 @@
       "architecture": "Qwen",
       "created": "2024-06-07T00:00:00.000Z",
       "displayName": "Qwen 2 72B Instruct",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "openai/gpt-4o-2024-05-13",
@@ -90283,7 +90268,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00.000Z",
       "displayName": "OpenAI: GPT-4o (2024-05-13)",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -90562,7 +90547,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00.000Z",
       "displayName": "OpenAI: GPT-4o (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-4o",
@@ -90838,7 +90823,7 @@
       "architecture": "GPT",
       "created": "2024-05-13T00:00:00.000Z",
       "displayName": "OpenAI: GPT-4o",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "meta-llama/llama-guard-2-8b",
@@ -90894,7 +90879,7 @@
       "architecture": "Llama",
       "created": "2024-05-13T00:00:00.000Z",
       "displayName": "Meta: LlamaGuard 2 8B",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "meta-llama/llama-3-8b",
@@ -90954,7 +90939,7 @@
       "architecture": "Llama",
       "created": "2024-05-13T00:00:00.000Z",
       "displayName": "Meta: Llama 3 8B (Base)",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "meta-llama/llama-3-70b",
@@ -91014,7 +90999,7 @@
       "architecture": "Llama",
       "created": "2024-05-13T00:00:00.000Z",
       "displayName": "Meta: Llama 3 70B (Base)",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "qwen/qwen-72b-chat",
@@ -91074,7 +91059,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00.000Z",
       "displayName": "Qwen 1.5 72B Chat",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen-7b-chat",
@@ -91134,7 +91119,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00.000Z",
       "displayName": "Qwen 1.5 7B Chat",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen-14b-chat",
@@ -91194,7 +91179,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00.000Z",
       "displayName": "Qwen 1.5 14B Chat",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen-32b-chat",
@@ -91254,7 +91239,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00.000Z",
       "displayName": "Qwen 1.5 32B Chat",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen-110b-chat",
@@ -91314,7 +91299,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00.000Z",
       "displayName": "Qwen 1.5 110B Chat",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "qwen/qwen-4b-chat",
@@ -91374,7 +91359,7 @@
       "architecture": "Qwen",
       "created": "2024-05-09T00:00:00.000Z",
       "displayName": "Qwen 1.5 4B Chat",
-      "fetchedAt": "2026-09-05T11:43:47.282Z"
+      "fetchedAt": "2026-09-06T12:01:36.390Z"
     },
     {
       "slug": "meta-llama/llama-3-8b-instruct",
@@ -91433,7 +91418,7 @@
       "architecture": "Llama",
       "created": "2024-04-18T00:00:00.000Z",
       "displayName": "Meta: Llama 3 8B Instruct",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "meta-llama/llama-3-70b-instruct",
@@ -91492,7 +91477,7 @@
       "architecture": "Llama",
       "created": "2024-04-18T00:00:00.000Z",
       "displayName": "Meta: Llama 3 70B Instruct",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "mistralai/mixtral-8x22b-instruct",
@@ -91772,7 +91757,7 @@
       "architecture": "Mistral",
       "created": "2024-04-17T00:00:00.000Z",
       "displayName": "Mistral: Mixtral 8x22B Instruct",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.599Z"
     },
     {
       "slug": "openai/gpt-4-turbo",
@@ -92030,7 +92015,7 @@
       "architecture": "GPT",
       "created": "2024-04-09T00:00:00.000Z",
       "displayName": "OpenAI: GPT-4 Turbo (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-4-turbo",
@@ -92286,7 +92271,7 @@
       "architecture": "GPT",
       "created": "2024-04-09T00:00:00.000Z",
       "displayName": "OpenAI: GPT-4 Turbo",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "mistralai/mistral-large",
@@ -92560,7 +92545,7 @@
       "architecture": "Mistral",
       "created": "2024-02-26T00:00:00.000Z",
       "displayName": "Mistral Large",
-      "fetchedAt": "2026-09-05T11:43:46.618Z"
+      "fetchedAt": "2026-09-06T12:01:35.599Z"
     },
     {
       "slug": "meta-llama/codellama-70b-instruct",
@@ -92619,7 +92604,7 @@
       "architecture": "Llama",
       "created": "2024-01-30T00:00:00.000Z",
       "displayName": "Meta: CodeLlama 70B Instruct",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "openai/gpt-4-turbo-preview",
@@ -92873,7 +92858,7 @@
       "architecture": "GPT",
       "created": "2024-01-25T00:00:00.000Z",
       "displayName": "OpenAI: GPT-4 Turbo Preview",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-instruct",
@@ -93133,7 +93118,7 @@
       "architecture": "GPT",
       "created": "2023-09-28T00:00:00.000Z",
       "displayName": "OpenAI: GPT-3.5 Turbo Instruct",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo-16k",
@@ -93387,7 +93372,7 @@
       "architecture": "GPT",
       "created": "2023-08-28T00:00:00.000Z",
       "displayName": "OpenAI: GPT-3.5 Turbo 16k",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.716Z"
     },
     {
       "slug": "meta-llama/codellama-34b-instruct",
@@ -93446,7 +93431,7 @@
       "architecture": "Llama",
       "created": "2023-08-20T00:00:00.000Z",
       "displayName": "Meta: CodeLlama 34B Instruct",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "meta-llama/llama-2-70b-chat",
@@ -93505,7 +93490,7 @@
       "architecture": "Llama",
       "created": "2023-06-20T00:00:00.000Z",
       "displayName": "Meta: Llama 2 70B Chat",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "meta-llama/llama-2-13b-chat",
@@ -93564,7 +93549,7 @@
       "architecture": "Llama",
       "created": "2023-06-20T00:00:00.000Z",
       "displayName": "Meta: Llama 2 13B Chat",
-      "fetchedAt": "2026-09-05T11:43:46.348Z"
+      "fetchedAt": "2026-09-06T12:01:35.216Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo",
@@ -93820,7 +93805,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00.000Z",
       "displayName": "OpenAI: GPT-3.5 Turbo (batch)",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.717Z"
     },
     {
       "slug": "openai/gpt-3.5-turbo",
@@ -94074,7 +94059,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00.000Z",
       "displayName": "OpenAI: GPT-3.5 Turbo",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.717Z"
     },
     {
       "slug": "openai/gpt-4",
@@ -94328,7 +94313,7 @@
       "architecture": "GPT",
       "created": "2023-05-28T00:00:00.000Z",
       "displayName": "OpenAI: GPT-4",
-      "fetchedAt": "2026-09-05T11:43:45.549Z"
+      "fetchedAt": "2026-09-06T12:01:33.717Z"
     }
   ],
   "metadata": {
@@ -94338,7 +94323,7 @@
       "Claude": 23,
       "Gemini": 26
     },
-    "lastUpdated": "2026-09-05T11:43:47.284Z",
+    "lastUpdated": "2026-09-06T12:01:36.392Z",
     "errors": []
   }
 }
